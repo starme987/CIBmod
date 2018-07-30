@@ -1,0 +1,96 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+hellenic_group;Hellenic;;;;;;;;;;;;;x
+druidic_group;Druidic;;;;;;;;;;;;;x
+heathen_group;Heathen;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;
+roman_hellenic;Roman Hellinic;;;;;;;;;;;;;x
+greek_hellenic;Greek Hellenic;;;;;;;;;;;;;x
+celtic_druidic;Celtic Druidic;;;;;;;;;;;;;x
+gaulish_druidic;Gaulish Druidic;;;;;;;;;;;;;x
+british_druidic;British Druidic;;;;;;;;;;;;;x
+heathen;Germanic Faith;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;
+roman_hellenic_DESC;Claiming a line of descent back to Hercules, Romans are not lacking in pride. Romans are not lacking in fierceness: their city was founded by Romulus and Remus, twins raised by a wolf. Roman armies may have been beaten, but they have always dragged themselves back into any fight, and battled on.;;;;;;;;;;;;;x
+greek_hellenic_DESC;Most of the Greek states were 'poleis', cities with surrounding villages. The world-renowned culture of the Greeks relies on the toil of farmers, the skills of merchants and soldiers, and the wits of philosophers.;;;;;;;;;;;;;x
+celtic_druidic_DESC;"These Celts are an influential, vigorous people: their migration has taken them to the shores of the Mediterranean where they have invaded Macedon, Illyria, Thrace and Asia Minor; they have sacked Rome. But they are not just a warrior culture. Gauls are master craftsmen too.";;;;;;;;;;;;;x
+gaulish_druidic_DESC;"These Celts are an influential, vigorous people: their migration has taken them to the shores of the Mediterranean where they have invaded Macedon, Illyria, Thrace and Asia Minor; they have sacked Rome. But they are not just a warrior culture. Gauls are master craftsmen too.";;;;;;;;;;;;;x
+british_druidic_DESC;"Described by Pytheas as ""Pretannoi"" or ""Pretani"" - the ""painted ones"" - these Celts are a fierce and independent people from the island of Hai Bretannai.";;;;;;;;;;;;;x
+heathen_DESC;"The Germanic tribes are fearless warriors, entirely at home in their dark and forbidding forests, worshipping dark, forbidding gods. Their name, in Latin, is a Gallic borrowing, ""ger"" and ""mani"" meaning near-men or neighbours. They are not given to acting in a neighbourly fashion: they will take from the weak, and value their independence above all.";;;;;;;;;;;;;x
+;;;;;;;;;;;;;;
+STAT_PIETY_PIETY_ROMAN;Pietas;;;;;;;;;;;;;x
+STAT_PIETY_PIETY_CELTIC;Spirit Favour;;;;;;;;;;;;;x
+STAT_PIETY_PIETY_GERMANIC;Favour;;;;;;;;;;;;;x
+STAT_PIETY_MENU_PIETY_ROMAN;Pietas;;;;;;;;;;;;;x
+STAT_PIETY_MENU_PIETY_CELTIC;Spirit Favour;;;;;;;;;;;;;x
+STAT_PIETY_MENU_PIETY_GERMANIC;Favour;;;;;;;;;;;;;x
+STAT_PIETY_DESC_PIETY_ROMAN;Pietas describes the sense of duty towards your nation, your family, your religion, and yourself.;;;;;;;;;;;;;x
+STAT_PIETY_DESC_PIETY_CELTIC;The Druids did not believe in a true deity reigning above all, but instead in the spirits and gods of the natural world. The favour of these spirits was very important;;;;;;;;;;;;;x
+STAT_PIETY_DESC_PIETY_GERMANIC;The ancient Germanic peoples believed in the spirits, much like the druids, but also in a very basic idea of the Norse gods we know today, and earning the favour of these deities was very important, especially to hope to avoid the terrible winter.;;;;;;;;;;;;;x
+PRIEST_ROMAN;Augur;;;;;;;;;;;;;x
+PRIEST_CELTIC;Grove Warden;;;;;;;;;;;;;x
+PRIEST_GERMANIC;Lorekeeper;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;
+GOD_APOLLO;Apollo;;;;;;;;;;;;;x
+GOD_BACCHUS;Bacchus;;;;;;;;;;;;;x
+GOD_CERES;Ceres;;;;;;;;;;;;;x
+GOD_JUPITER;Jupiter;;;;;;;;;;;;;x
+GOD_MARS;Mars;;;;;;;;;;;;;x
+GOD_MERCURY;Mercury;;;;;;;;;;;;;x
+GOD_NEPTUNE;Neptune;;;;;;;;;;;;;x
+GOD_PLUTO;Pluto;;;;;;;;;;;;;x
+GOD_VULCAN;Vulcan;;;;;;;;;;;;;x
+GODDESS_DIANA;Diana;;;;;;;;;;;;;x
+GODDESS_JUNO;Juno;;;;;;;;;;;;;x
+GODDESS_MINERVA;Minerva;;;;;;;;;;;;;x
+GODDESS_VENUS;Venus;;;;;;;;;;;;;x
+GOD_ARES;Ares;;;;;;;;;;;;;x
+GOD_DIONYSUS;Dionysus;;;;;;;;;;;;;x
+GOD_HADES;Hades;;;;;;;;;;;;;x
+GOD_HEPHAESTUS;Hephaestus;;;;;;;;;;;;;x
+GOD_HERMES;Hermes;;;;;;;;;;;;;x
+GOD_POSEIDON;Poseidon;;;;;;;;;;;;;x
+GOD_ZEUS;Zeus;;;;;;;;;;;;;x
+GODDESS_APHRODITE;Aphrodite;;;;;;;;;;;;;x
+GODDESS_ARTEMIS;Artemis;;;;;;;;;;;;;x
+GODDESS_ATHENA;Athena;;;;;;;;;;;;;x
+GODDESS_DEMETER;Demeter;;;;;;;;;;;;;x
+GODDESS_HERA;Hera;;;;;;;;;;;;;x
+GOD_ALAUNOS;Alaunos;;;;;;;;;;;;;x
+GOD_AMBISAGROS;Ambisagros;;;;;;;;;;;;;x
+GOD_ARVERNOS;Arvernos;;;;;;;;;;;;;x
+GOD_BELENOS;Belenos;;;;;;;;;;;;;x
+GOD_CACOS;Cacos;;;;;;;;;;;;;x
+GOD_CATURIX;Caturix;;;;;;;;;;;;;x
+GOD_CERNUNNOS;Cernunnos;;;;;;;;;;;;;x
+GOD_ESOS;Esos;;;;;;;;;;;;;x
+GOD_HILLON;Hillon;;;;;;;;;;;;;x
+GOD_LUGOS;Lugos;;;;;;;;;;;;;x
+GOD_TEUTATES;Teutates;;;;;;;;;;;;;x
+GOD_UCUETIS;Ucuetis;;;;;;;;;;;;;x
+GOD_VISUCIOS;Visucios;;;;;;;;;;;;;x
+GODDESS_ANDRASTE;Andraste;;;;;;;;;;;;;x
+GODDESS_BELISAMA;Belisama;;;;;;;;;;;;;x
+GODDESS_BRICTA;Bricta;;;;;;;;;;;;;x
+GODDESSES_XULSIGIAE;Xulsigiae;;;;;;;;;;;;;x
+GOD_ARCIACON;Ariacon;;;;;;;;;;;;;x
+GOD_BUSSUMAROS;Bussumaros;;;;;;;;;;;;;x
+GOD_ENTARABOS;Entarabos;;;;;;;;;;;;;x
+GOD_ESSOS;Essos;;;;;;;;;;;;;x
+GOD_GOBANNOS;Gobannos;;;;;;;;;;;;;x
+GOD_VELLAUNOS;Vellaunos;;;;;;;;;;;;;x
+GOD_VINOTONOS;Vinetonos;;;;;;;;;;;;;x
+GODDESS_BRENNA;Brenna;;;;;;;;;;;;;x
+GODDESS_BRIGANTIA;Brigantia;;;;;;;;;;;;;x
+GODDESS_NEMETONA;Nemetona;;;;;;;;;;;;;x
+GODDESS_SENUA;Senua;;;;;;;;;;;;;x
+GODDESS_TAMESIS;Tamesis;;;;;;;;;;;;;x
+GODDESS_VISCUSIA;Viscusia;;;;;;;;;;;;;x
+EARTH;The Steady Earth;;;;;;;;;;;;;x
+FIRE;The Breathing Fire;;;;;;;;;;;;;x
+ICE;The Ice;;;;;;;;;;;;;x
+METAL;The Forged Metal;;;;;;;;;;;;;x
+MIST;The Pale Mist;;;;;;;;;;;;;x
+MOON;The Moon;;;;;;;;;;;;;x
+SUN;The Sun;;;;;;;;;;;;;x
+THUNDER;The Loud Thunder;;;;;;;;;;;;;x
+WATER;The Springing Water;;;;;;;;;;;;;x

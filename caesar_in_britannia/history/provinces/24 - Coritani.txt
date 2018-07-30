@@ -1,0 +1,17 @@
+# c_coritani
+
+# County Title
+title = c_coritani
+
+# Settlements
+max_settlements = 3
+
+b_ratae = castle
+#b_nemeton = city
+#b_limulodon = temple
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

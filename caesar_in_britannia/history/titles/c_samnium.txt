@@ -1,0 +1,9 @@
+# e_roman_empire
+500.1.1={
+	law = agnatic_succession
+}
+800.1.1={
+	liege=k_italia
+}
+774.1.1={holder=10} #Africanus[8]
+811.12.18={holder=11} #Avilius[8]

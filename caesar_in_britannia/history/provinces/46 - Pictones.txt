@@ -1,0 +1,15 @@
+# c_pictones
+
+# County Title
+title = c_pictones
+
+# Settlements
+max_settlements = 1
+
+b_placeholder_32 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

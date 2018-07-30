@@ -1,0 +1,18 @@
+# c_etruria
+
+# County Title
+title = c_etruria
+
+# Settlements
+max_settlements = 4
+
+b_tarquinii = city
+b_caere = city
+b_placeholder_3 = temple
+b_placeholder_4 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

@@ -1,0 +1,33 @@
+#ROMAN EMPIRE
+technology = {
+	titles = {
+		d_aemilitat
+		d_ager_gallicus
+		d_apulia
+		d_bruttium
+		d_campania
+		d_corsica
+		d_etruria
+		d_histria
+		d_latium
+		d_liguria
+		d_lucania
+		d_picenum
+		d_samnium
+		d_sardinia
+		d_sicilia
+		d_syrakuse
+		d_umbria
+		d_venetia
+	}
+	796 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

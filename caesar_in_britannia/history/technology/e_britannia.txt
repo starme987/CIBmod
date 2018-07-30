@@ -1,0 +1,38 @@
+#BRITANNIA
+technology = {
+	titles = {
+		d_belgae
+		d_brigantes
+		d_cantii
+		d_carvetii
+		d_catuvellauni
+		d_coritani
+		d_cornovi
+		d_damnonii
+		d_deceangli
+		d_demetae
+		d_dobunni
+		d_dumnonii
+		d_durotriges
+		d_icenii
+		d_novantae
+		d_ordovices
+		d_parisi
+		d_regni
+		d_selgovae
+		d_silures
+		d_trinovantes
+		d_venicones
+		d_votadini
+	}
+	796 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

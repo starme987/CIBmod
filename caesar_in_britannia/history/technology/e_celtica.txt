@@ -1,0 +1,20 @@
+#CELTICA
+technology = {
+	titles = {
+		d_camunni
+		d_helvetii
+		d_insubres
+		d_raeti
+		d_tulingi
+	}
+	796 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

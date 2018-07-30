@@ -1,0 +1,15 @@
+# c_aemiliat
+
+# County Title
+title = c_aemiliat
+
+# Settlements
+max_settlements = 1
+
+b_felsina = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

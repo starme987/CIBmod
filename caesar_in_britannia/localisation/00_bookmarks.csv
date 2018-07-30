@@ -1,0 +1,18 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+PICK_YOUR_STARTING_ERA;Era of Conquest;;;;;;;;;;;;;x
+PICK_STARTING_ERA_TEXT;Veni Vidi Vici?;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+BM_BRITANNIA;Caesar in Britannia;;;;;;;;;;;;;
+BM_BRITANNIA_ERA;The Boar and the Eagle;;;;;;;;;;;;;
+BM_BRITANNIA_ERA_INFO;For centuries the people of Rome had sought to expand their realm. Now Claudius, Emperor of Rome, sets his eyes upon Britannia and the Celts who have made this land their home. Aulus Plautius has arrived on the shores of Britain, claiming his warriors act in defense of deposed Celtic king Verica. But his intentions are clear to all. Will Britannia fall into Roman hands, or will the tribes put their quarrels aside and unite under one banner to repel this invasion?;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+ERA_CHAR_NAME_1;Tiberius Claudius Caesar;;;;;;;;;;;;;
+ERA_CHAR_INFO_1;The decision of the emperor Claudius to conquer the island was the result partly of his personal ambition, partly of British aggression. Verica had been driven from his kingdom and appealed for help, and it may have been calculated that a hostile Catuvellaunian supremacy would endanger stability across the Channel.;;;;;;;;;;;;;
+ERA_CHAR_NAME_2;General Aulus Plautius;;;;;;;;;;;;;
+ERA_CHAR_INFO_2;Under Aulus Plautius an army of four legions was assembled, together with a number of auxiliary regiments consisting of cavalry and infantry raised among warlike tribes subject to the empire. After delay caused by the troops’ unwillingness to cross the ocean, which they then regarded as the boundary of the human world, a landing was made at Richborough, Kent, in AD 43.;;;;;;;;;;;;;
+ERA_CHAR_NAME_500;King Caratacus;;;;;;;;;;;;;
+ERA_CHAR_INFO_500;The British under Togodumnus and Caratacus, sons and successors of Cunobelinus, were taken by surprise .Caratacus was from the Catuvellauni tribe, but his kingdom included other peoples, most notably the Trinovantes. He ruled an area that embraced the Atrebates and the Dobunni. At the time of the Roman invasion of Britain during the reign of Claudius, he led the native resistance against Aulus Plautius.;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+ROMAN_EMPIRE;The Roman Empire;;;;;;;;;;;;;
+CAMPANIA;Province of Campania;;;;;;;;;;;;;
+CATUVELLAUNI;Tribes of the Catuvellauni;;;;;;;;;;;;;

@@ -1,0 +1,17 @@
+# c_dobunni
+
+# County Title
+title = c_dobunni
+
+# Settlements
+max_settlements = 3
+
+b_placeholder_12 = castle
+#b_placeholder_13 = city
+#b_placeholder_14 = temple
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

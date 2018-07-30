@@ -1,0 +1,43 @@
+#GAUL
+technology = {
+	titles = {
+		d_aedui
+		d_allobroges
+		d_arverni
+		d_ausci
+		d_biturges
+		d_cadurci
+		d_carnutes
+		d_caturiges
+		d_cenomani
+		d_lemovices
+		d_lexovii
+		d_mandubii
+		d_masilia
+		d_namnetes
+		d_osismii
+		d_parisii
+		d_pictones
+		d_redones
+		d_santones
+		d_senones
+		d_sotiates
+		d_tarbelli
+		d_turones
+		d_unelli
+		d_veneti
+		d_vivisci
+		d_vocontii
+		d_volcae
+	}
+	796 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

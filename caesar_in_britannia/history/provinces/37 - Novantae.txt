@@ -1,0 +1,15 @@
+# c_novantae
+
+# County Title
+title = c_novantae
+
+# Settlements
+max_settlements = 1
+
+b_placeholder_23 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

@@ -1,0 +1,15 @@
+# c_syrakuse
+
+# County Title
+title = c_syrakuse
+
+# Settlements
+max_settlements = 1
+
+b_syrakuse = castle
+
+# Misc
+culture = greek
+religion = greek_hellenic
+
+#History

@@ -1,0 +1,1496 @@
+#Caratacus of the Cattuvelauni
+2501 = {
+    name=Caratacus
+    dynasty=500
+  	father = 2505
+  	mother = 2507
+    religion=british_druidic
+    culture=british
+  
+    763.01.01 = { birth=yes }
+    813.01.01 = { death=yes }
+    785.01.01 = { add_spouse = 2502 }
+}
+#A Wife for Caratacus
+2502 = {
+	name=Ailo
+	female=yes
+	religion=british_druidic
+	culture=british
+	765.01.01 = { birth = yes }
+	813.01.01 = { death = yes }
+}
+#Adminius
+2503 = {
+	name=Adminius
+	dynasty=500
+  	father = 2505
+   	mother = 2507
+	religion=british_druidic
+	culture=british
+
+	760.01.01 = { birth = yes }
+	813.01.01 = { death = yes }
+}
+#Togodumnus 
+2504 = {
+	name=Togodumnus
+	dynasty=500
+  	father = 2505
+  	mother = 2507
+	religion=british_druidic
+	culture=british
+
+	758.01.01 = { birth = yes }
+	796.01.01 = { death = yes }
+}
+#Cunobeline
+2505 = {
+	name=Cunobeline
+	dynasty=500
+
+	religion=british_druidic
+	culture=british
+
+	728.01.01 = { birth = yes }
+	750.01.01 = { add_spouse = 2507 }
+	793.01.01 = { death = yes }
+}
+#Caratacus' Daughter
+2506 = {
+	name=Livia
+	dynasty=500
+	female=yes
+	religion=british_druidic
+	culture=british
+	father=2501
+	mother=2502
+
+	788.01.01 = { birth = yes }
+}
+#A Wife for Cunobeline so that the brothers are actually brothers
+2507 = {
+	name=Marcia
+	female=yes
+	religion=british_druidic
+	culture=british
+
+	730.01.01 = { birth = yes }
+	790.01.01 = { death = yes }
+}
+#More Children
+2508 = {
+	name=Ariamix
+	dynasty=500
+	religion=british_druidic
+	culture=british
+	father=2501
+	mother=2502
+
+	786.01.01 = { birth = yes }
+	808.01.01 = { death = yes }
+}
+2509 = {
+	name=Magitus
+	dynasty=500
+	religion=british_druidic
+	culture=british
+	father=2501
+	mother=2502
+
+	785.01.01 = { birth = yes }
+	824.01.01 = { death = yes }
+}
+#Cantii
+2550 = {
+	name=Divico
+	dynasty=501
+	father = 2552
+	mother = 2553 
+	religion=british_druidic
+	culture=british
+	776.01.01 = { birth = yes }
+	795.01.01 = { add_spouse = 2551 }
+	832.01.01 = { death = yes }
+}
+#His Wife
+2551 = {
+	name=Berina
+	female=yes
+	religion=british_druidic
+	culture=british
+	778.01.01 = { birth = yes }
+	835.01.01 = { death = yes }
+}
+#His Parents
+2552 = {
+	name=Spanarius
+	dynasty=501
+	religion=british_druidic
+	culture=british
+	750.01.01 = { birth = yes }
+	773.01.01 = { add_spouse = 2553 }
+	780.01.01 = { death = yes }
+}
+2553 = {
+	name=Ansileova
+	female=yes
+	religion=british_druidic
+	culture=british
+	755.01.01 = { birth = yes }
+	781.01.01 = { death = yes }
+}
+#Siblings
+2554 = {
+	name=Arosinda
+	female=yes
+	dynasty=501
+	father = 2552
+	mother = 2553 
+	religion=british_druidic
+	culture=british
+	779.01.01 = { birth = yes }
+	795.01.01 = { add_spouse = 2555 }
+	797.01.01 = { death = yes }
+}
+2555 = {
+	name=Guandilo
+	religion=british_druidic
+	culture=british
+	female=yes
+	780.01.01 = { birth = yes }
+}
+2556 = {
+	name=Evosindo
+	dynasty=501
+	father = 2552
+	mother = 2553 
+	religion=british_druidic
+	culture=british
+	780.01.01 = { birth = yes }
+}
+2556 = {
+	name=Remismund
+	dynasty=501
+	father = 2550
+	mother = 2551 
+	religion=british_druidic
+	culture=british
+	796.01.01 = { birth = yes }
+}
+2556 = {
+	name=Liuvilo
+	dynasty=501
+	father = 2550
+	mother = 2551 
+	female=yes
+	religion=british_druidic
+	culture=british
+	795.01.01 = { birth = yes }
+}
+2557 = {
+	name=Maldras
+	dynasty=501
+	father = 2554
+	mother = 2555 
+	religion=british_druidic
+	culture=british
+	trait = "twin"
+	796.01.01 = { birth = yes }
+}
+2558 = {
+	name=Sabegoto
+	dynasty=501
+	father = 2554
+	mother = 2555
+	female=yes 
+	religion=british_druidic
+	culture=british
+	trait = "twin"
+	796.01.01 = { birth = yes }
+}
+#Deposed King Verica of the Regni
+2600 = {
+	name=Verica
+	culture=british
+	religion=british_druidic
+	dynasty=502
+	769.01.01 = { birth = yes }
+	769.01.01 = { add_claim=c_regni }
+	769.01.01 = { add_claim=d_regni }
+}
+#Prasutagus of the Iceni
+2650 = {
+	name=Prasutagus
+	culture=british
+	religion=british_druidic
+	751.01.01 = { birth = yes }
+	781.01.01 = { add_spouse = 2651 }
+	814.01.01 = { death = yes }
+	historical = yes
+	dynasty = 503
+	father=2654
+	mother=2655
+}
+#Boudica
+2651 = {
+	name=Boudica
+	female=yes
+	culture=british
+	religion=british_druidic
+	historical = yes
+	765.01.01 = { birth = yes }
+	814.12.01 = { death = yes }
+
+	martial = 10
+	diplomacy = 4
+	intrigue = 2
+	stewardship = 6
+	learning = 4
+	trait = "brilliant_strategist"
+	trait = "just"
+	trait = "wrath"
+	trait = "zealous"
+	trait = "chaste"
+}
+#Daughters of Boudica
+2652 = {
+	name=Domna
+	female=yes
+	culture=british
+	religion=british_druidic
+	dynasty = 503
+	father = 2650
+	mother = 2651
+	785.01.01 = { birth = yes }
+}
+2653 = {
+	name=Justa
+	female=yes
+	culture=british
+	religion=british_druidic
+	dynasty = 503
+	father = 2650
+	mother = 2651
+	787.01.01 = { birth = yes }
+}
+#Pras' Parents
+2654 = {
+	name=Veremus
+	religion=british_druidic
+	culture=british
+	dynasty=503
+	720.01.01 = { birth = yes }
+	756.01.01 = { death = yes }
+}
+2655 = {
+	name=Acilo
+	religion=british_druidic
+	culture=british
+	female=yes
+	720.01.01 = { birth = yes }
+	758.01.01 = { death = yes }
+}
+#Sisters of Pras
+2656 = {
+	name=Lallina
+	culture=british
+	religion=british_druidic
+	female=yes
+	753.01.01 = { birth = yes }
+	dynasty = 503
+	father=2654
+	mother=2655
+}
+2657 = {
+	name=Tederona
+	culture=british
+	religion=british_druidic
+	female=yes
+	757.01.01 = { birth = yes }
+	dynasty = 503
+	father=2654
+	mother=2655
+}
+#Their Partners
+2658 = {
+	name=Gumarius
+	culture=british
+	religion=british_druidic
+	751.01.01 = { birth = yes }
+	769.01.01 = { add_spouse = 2656 }
+}
+2659 = {
+	name=Teutobod
+	culture=british
+	religion=british_druidic
+	752.01.01 = { birth = yes }
+	774.01.01 = { add_spouse = 2657 }
+}
+#Dubnovellaunus of the Trinovantes
+2700 = {
+	name=Dubnovellaunus
+	culture=british
+	religion=british_druidic
+	dynasty = 504
+	father=2703
+	mother=2704
+	768.01.01 = { birth = yes }
+	789.01.01 = { add_spouse = 2701 }
+}
+#A Wife for Dub
+2701 = {
+	name=Emili
+	female=yes
+	culture=british
+	religion=british_druidic
+	772.01.01 = { birth = yes}
+}
+#A Child for Dub
+2702 = {
+	name=Osorico
+	culutre=british
+	religion=british_druidic
+	dynasty=504
+	father = 2700
+	mother = 2701
+	790.01.01 = { birth = yes }
+}
+#Parents of Dub
+2703 = {
+	name=Badvoc
+	dynasty=504
+	culture=british
+	religion=british_druidic
+	751.01.01 = { birth = yes }
+	767.01.01 = { add_spouse = 2704 }
+	782.01.01 = { death = yes }
+}
+2704 = {
+	name=Genlo
+	culture=british
+	female=yes
+	religion=british_druidic
+	750.01.01 = { birth = yes }
+	780.01.01 = { death = yes }
+}
+#More Children for Dub
+2705 = {
+	name=Dadilo
+	culutre=british
+	religion=british_druidic
+	dynasty=504
+	female=yes
+	father = 2700
+	mother = 2701
+	788.01.01 = { birth = yes }
+}
+2706 = {
+	name=Sisulfis
+	culutre=british
+	religion=british_druidic
+	dynasty=504
+	father = 2700
+	mother = 2701
+	793.01.01 = { birth = yes }
+}
+#Siblings for Dub
+2707 = {
+	name=Goldrerona
+	culture=british
+	religion=british_druidic
+	dynasty = 504
+	father=2703
+	female=yes
+	mother=2704
+	770.01.01 = { birth = yes }
+}
+2708 = {
+	name=Badvoc
+	culture=british
+	religion=british_druidic
+	dynasty = 504
+	father=2703
+	mother=2704
+	773.01.01 = { birth = yes }
+	789.01.01 = { add_spouse = 2710 }
+}
+#Partner for Siblings
+2709 = {
+	name=Odericus
+	culture=british
+	religion=british_druidic
+	768.01.01 = { birth = yes }
+	778.01.01 = { add_spouse = 2707 }
+}
+2710 = {
+	name=Ildiverga
+	culture=british
+	religion=british_druidic
+	772.01.01 = { birth = yes }
+}
+#Volisios of the Coritani
+2750 = {
+	name=Volisios
+	culture=british
+	religion=british_druidic
+	dynasty=505
+	father=2754
+	mother=2755
+	769.01.01 = { birth = yes }
+	789.01.01 = { add_spouse = 2751 }
+}
+#Wife for Volisios
+2751 = {
+	name=Frolio
+	culture=british
+	religion=british_druidic
+	female=yes
+	765.01.01 = { birth = yes }
+}
+#Children for Volisios
+2752 = {
+	name=Volisios
+	culture=british
+	religion=british_druidic
+	father=2750
+	mother=2751
+	dynasty=505
+	783.01.01 = { birth = yes }
+}
+2753 = {
+	name=Secutus 
+	culture=british
+	religion=british_druidic
+	father=2750
+	mother=2751
+	dynasty=505
+	787.01.01 = { birth = yes }
+}
+#Volisios' Parents
+2754 = {
+	name=Odamic
+	dynasty=505
+	religion=british_druidic
+	culture=british
+	740.01.01 = { birth = yes }
+	761.01.01 = { add_spouse = 2755 }
+	777.01.01 = { death = yes }
+}
+2755 = {
+	name=Entrudi
+	religion=british_druidic
+	culture=british
+	female=yes
+	743.01.01 = { birth = yes }
+	780.01.01 = { death = yes }
+}
+#Leodulfus of the Dumnonii
+2800 = {
+	name=Leodulfus
+	culture=british
+	religion=british_druidic
+	dynasty=506
+	father=2802
+	mother=2803
+	784.01.01 = { birth = yes }
+}
+#Ermaric of the Durotriges
+2801 = {
+	name=Ermaric
+	culture=british
+	religion=british_druidic
+	dynasty=506
+	father = 2802
+	mother=2803
+	785.01.01 = { birth = yes }
+}
+#Their Father
+2802 = {
+	name=Leodulfus
+	culture=british
+	religion=british_druidic
+	dynasty=506
+	754.01.01 = { birth = yes }
+	775.01.01 = { add_spouse = 2803 }
+	786.01.01 = { death = yes }
+}
+#Their Mother
+2803 = {
+	name=Leodulfus
+	culture=british
+	religion=british_druidic
+	female=yes
+	755.01.01 = { birth = yes }
+	785.01.01 = { death = yes }
+}
+#Saxomero of the Belgae
+2850 = {
+	name=Saxomero
+	culture=gallic
+	religion=british_druidic
+	dynasty=507
+	father=2854
+	mother=2855
+	767.01.01 = { birth = yes }
+	785.01.01 = { add_spouse = 2851 }
+}
+#Wife for Saxomero
+2851 = {
+	name=Cisilo
+	culture=british
+	religion=british_druidic
+	female=yes
+	750.01.01 = { birth = yes }
+}
+#Kids for Saxomero
+2852 = {
+	name=Refulfo
+	culture=gallic
+	religion=british_druidic
+	dynasty=507
+	father = 2850
+	mother = 2851
+	787.01.01 = { birth = yes }
+}
+2853 = {
+	name=Facali
+	culture=gallic
+	religion=british_druidic
+	dynasty=507
+	female=yes
+	father=2850
+	mother=2851
+	792.01.01 = { birth = yes }
+}
+#Saxomero's Parents
+2854={
+	name=Refulfo
+	culture=gallic
+	religion=british_druidic
+	dynasty=507
+	750.01.01 = { birth = yes }
+	769.01.01 = { add_spouse = 2854 }
+	780.01.01 = { death = yes }
+}
+2855={
+	name=Rofdi
+	culture=gallic
+	religion=british_druidic
+	female=yes
+	753.01.01 = { birth = yes }
+}
+#Boduoc of the Dobunni
+2900={
+	name=Boduoc
+	culture=british
+	religion=british_druidic
+	dynasty=508
+	father=2902
+	mother=2903
+
+	780.01.01 = { birth = yes }
+	796.01.01 = { add_spouse = 2901 }
+}
+#Boduoc's Wife
+2901={
+	name=Margilli
+	culture=british
+	religion=british_druidic
+	female=yes
+
+	780.01.01 = { birth = yes }
+}
+#Boduoc's Parents
+2902 = {
+	name=Areogaesus
+	culture=british
+	religion=british_druidic
+	dynasty=508
+
+	746.01.01 = { birth = yes }
+	770.01.01 = { add_spouse = 2903 }
+}
+2903 = {
+	name=Senuita
+	culture=british
+	religion=british_druidic
+	female=yes
+
+	754.01.01 = { birth = yes }
+}
+#Boduoc's Siblings
+2904={
+	name=Pennio
+	culture=british
+	religion=british_druidic
+	dynasty=508
+	father=2902
+	mother=2903
+
+	782.01.01 = { birth = yes }
+}
+2905={
+	name=Trasmira
+	culture=british
+	religion=british_druidic
+	dynasty=508
+	father=2902
+	mother=2903
+	female=yes
+
+	785.01.01 = { birth = yes }
+}
+2906={
+	name=Magitus
+	culture=british
+	religion=british_druidic
+	dynasty=508
+	father=2902
+	mother=2903
+
+	786.01.01 = { birth = yes }
+}
+#Valao of the Silures
+2950 = {
+	name=Valao
+	culture=british
+	religion=british_druidic
+	dynasty=509
+
+	733.01.01 = { birth = yes }
+	751.01.01 = { add_spouse = 2951 }
+}
+#Valao's Wife
+2951 = {
+	name=Lallina
+	culture=british
+	religion=british_druidic
+	female=yes
+
+	735.01.01 = { birth = yes }
+}
+#Valao's Kids and their Wives
+2952 = {
+	name=Dageredus
+	culture=british
+	religion=british_druidic
+	dynasty=509
+	father=2950
+	mother=2951
+
+	753.01.01 = { birth = yes }
+	771.01.01 = { add_spouse = 2953 }
+}
+2953 = {
+	name=Guandilo
+	culture=british
+	religion=british_druidic
+	female=yes
+
+	755.01.01 = { birth = yes }
+}
+2954 = {
+	name=Audeca
+	culture=british
+	religion=british_druidic
+	dynasty=509
+	father=2950
+	mother=2951
+
+	755.01.01 = { birth = yes }
+	770.01.01 = { add_spouse = 2955 }
+}
+2955 = {
+	name=Espalli
+	culture=british
+	religion=british_druidic
+	female=yes
+
+	754.01.01 = { birth = yes }
+}
+#Valao's Grandchildren
+2956 = {
+	name=Kindiverga
+	culture=british
+	religion=british_druidic
+	dynasty=509
+	father=2952
+	mother=2953
+	female=yes
+
+	778.01.01 = { birth = yes }
+}
+2957 = {
+	name=Tenildi
+	culture=british
+	religion=british_druidic
+	dynasty=509
+	father=2952
+	mother=2953
+	female=yes
+
+	781.01.01 = { birth = yes }
+}
+2958 = {
+	name=Ariamix
+	culture=british
+	religion=british_druidic
+	dynasty=509
+	father=2954
+	mother=2955
+
+	776.01.01 = { birth = yes }
+}
+#Mirosinda of the Demetae
+3000 = {
+	name=Mirosinda
+	culture=british
+	religion=british_druidic
+	dynasty=510
+	father=3002
+	mother=3003
+	female=yes
+
+	775.01.01 = { birth = yes }
+	781.01.01 = { add_spouse = 3001 }
+}
+#Her deceased husband
+3001 = {
+	name=Nitigis
+	culture=british
+	religion=british_druidic
+
+	771.01.01 = { birth = yes }
+	795.01.01 = { death = yes }
+}
+#Her parents
+3002 = {
+	name=Reirigus
+	culture=british
+	religion=british_druidic
+	dynasty=510
+
+	749.01.01 = { birth = yes }
+	766.01.01 = { add_spouse = 3003 }
+}
+3003 = {
+	name=Facali
+	culture=british
+	religion=british_druidic
+	female=yes
+
+	750.01.01 = { birth = yes }
+}
+#Lugius of Ordovices
+3050 = {
+	name=Lugius
+	culture=british
+	religion=british_druidic
+	dynasty=511
+	father=3055
+	mother=3056
+
+	762.01.01 = { birth = yes }
+	780.01.01 = { add_spouse = 3051 }
+}
+#Lugius' Wife
+3051 = {
+	name=Penefreda
+	culture=british
+	religion=british_druidic
+	female=yes
+
+	763.01.01 = { birth = yes }
+}
+#Lugius' Children
+3052 = {
+	name=Veremus
+	culture=british
+	religion=british_druidic
+	dynasty=511
+	father=3050
+	mother=3051
+
+	784.01.01 = { birth = yes }
+}
+3053 = {
+	name=Zendasix
+	culture=british
+	religion=british_druidic
+	dynasty=511
+	father=3050
+	mother=3051
+
+	787.01.01 = { birth = yes }
+}
+3054 = {
+	name=Penetrudia
+	culture=british
+	religion=british_druidic
+	dynasty=511
+	female=yes
+	father=3050
+	mother=3051
+
+	791.01.01 = { birth = yes }
+}
+#Lugius' Parents
+3055 = {
+	name=Rechila
+	culture=british
+	religion=british_druidic	
+	dynasty=511
+
+	739.01.01 = { birth = yes }
+	759.01.01 = { add_spouse = 3056 }
+	767.01.01 = { death = yes }
+}
+3056 = {
+	name=Facali
+	culture=british
+	religion=british_druidic
+	female=yes
+
+	739.01.01 = { birth = yes }
+}
+#Onemiro of the Cornovi
+3100 = {
+	name=Onemiro
+	culture=british
+	religion=british_druidic
+	dynasty=512
+	father=3103
+	mother=3104
+	784.01.01 = { birth = yes }
+}
+#Onemiro's Siblings
+3101 = {
+	name=Cisilo
+	culture=british
+	religion=british_druidic
+	female=yes
+	father=3103
+	mother=3104
+	dynasty=512
+	786.01.01 = { birth = yes }
+}
+3102 = {
+	name=Boniza
+	culture=british
+	religion=british_druidic
+	dynasty=512
+	father=3103
+	mother=3104
+	788.01.01 = { birth = yes }
+}
+#Onemiro's Parents
+3103 = {
+	name=Sunila
+	culture=british
+	religion=british_druidic
+	dynasty=512
+	763.01.01 = { birth = yes }
+	779.01.01 = { add_spouse = 3104 }
+	790.01.01 = { death = yes }
+}
+3104 = {
+	name=Frumildi
+	culture=british
+	religion=british_druidic
+	female=yes
+	762.01.01 = { birth = yes }
+}
+#Hilderic of the Deceangli
+3150 = {
+	name=Hilderic
+	culture=british
+	religion=british_druidic
+	dynasty=513
+	father=3152
+	mother=3153
+	755.01.01 = { birth = yes }
+	771.01.01 = { add_spouse = 3151 }
+}
+#Hilderic's Wife
+3151 = {
+	name=Fagila
+	culture=british
+	religion=british_druidic
+	female=yes
+	756.01.01 = { birth = yes }
+}
+#Hilderic's Parents
+3152 = {
+	name=Docemiro
+	culture=british
+	religion=british_druidic
+	dynasty=513
+	735.01.01 = { birth = yes }
+	741.01.01 = { add_spouse = 3153 }
+	777.01.01 = { death = yes }
+}
+3153 = {
+	name=Stodildi
+	culture=british
+	religion=british_druidic
+	female=yes
+	735.01.01 = { birth = yes }
+	779.01.01 = { death = yes }
+}
+#Hilderic's Children and their Partners
+3154 = {
+	name=Docemiro
+	culture=british
+	religion=british_druidic
+	dynasty=513
+	father=3150
+	mother=3151
+	775.01.01 = { birth = yes }
+	792.01.01 = { add_spouse = 3155 }
+}
+3155 = {
+	name=Sisilli
+	culture=british
+	religion=british_druidic
+	female=yes
+	776.01.01 = { birth = yes }
+}
+3156 = {
+	name=Froilo
+	culture=british
+	religion=british_druidic
+	female=yes
+	dynasty=513
+	father=3150
+	mother=3151
+	781.01.01 = { birth = yes }
+}
+#Hilderic's Grandkid
+3157 = {
+	name=Reirigus
+	culture=british
+	religion=british_druidic
+	dynasty=513
+	father=3154
+	mother=3155
+	794.01.01 = { birth = yes }
+}
+#Brigantes
+3200 = {
+	name=Cartimandua
+	culture=british
+	religion=british_druidic
+	dynasty=514
+	female=yes
+	father=3202
+	mother=3203
+	753.01.01 = { birth = yes }
+}
+#Her Husband
+3201 = {
+	name=Venutius
+	culture=british
+	religion=british_druidic
+	father=3204
+	mother=3205
+	750.01.01 = { birth = yes }
+	770.01.01 = { add_matrilineal_spouse =  3200}
+}
+#Their Parents
+3202 = {
+	name=Boiorix
+	culture=british
+	religion=british_druidic
+	dynasty=514
+	727.01.01 = { birth = yes }
+	744.01.01 = { add_spouse =  3203}
+	796.01.01 = { death = yes }
+}
+3203 = {
+	name=Facali
+	culture=british
+	religion=british_druidic
+	female=yes
+	728.01.01 = { birth = yes }
+}
+3204 = {
+	name=Gumarius
+	culture=british
+	religion=british_druidic
+	728.01.01 = { birth = yes }
+	743.01.01 = { add_spouse =  3205}
+}
+3205 = {
+	name=Vergina
+	culture=british
+	religion=british_druidic
+	female=yes
+	726.01.01 = { birth = yes }
+}
+#Her Siblings and Their Partners and Children
+3206 = {
+	name=Veleda
+	culture=british
+	religion=british_druidic
+	dynasty=514
+	female=yes
+	father=3202
+	mother=3203
+	746.01.01 = { birth = yes }
+}
+3207 = {
+	name=Malaredus
+	culture=british
+	religion=british_druidic
+	743.01.01 = { birth = yes }
+	756.01.01 = { add_spouse =  3206}
+}
+3208 = {
+	name=Arosinda
+	culture=british
+	religion=british_druidic
+	father=3207
+	mother=3206
+	760.01.01 = { birth = yes }
+	778.01.01 = { add_spouse =  3209}
+}
+3209 = {
+	name=Espalli
+	culture=british
+	religion=british_druidic
+	female=yes
+	760.01.01 = { birth = yes }
+}
+3210 = {
+	name=Adoric
+	culture=british
+	religion=british_druidic
+	father=3208
+	mother=3209
+	780.01.01 = { birth = yes }
+}
+3211 = {
+	name=Hermeric
+	culture=british
+	religion=british_druidic
+	father=3208
+	mother=3209
+	782.01.01 = { birth = yes }
+}
+3212 = {
+	name=Dadilo
+	culture=british
+	religion=british_druidic
+	father=3208
+	mother=3209
+	female=yes
+	787.01.01 = { birth = yes }
+}
+#Her Children
+3213 = {
+	name=Visterlo
+	culture=british
+	religion=british_druidic
+	father=3201
+	mother=3200
+	dynasty=514
+	female=yes
+	772.01.01 = { birth = yes }
+}
+3214 = {
+	name=Provaredo
+	culture=british
+	religion=british_druidic
+	father=3201
+	mother=3200
+	dynasty=514
+	775.01.01 = { birth = yes }
+	794.01.01 = { add_spouse = 3219 }	
+
+}
+3215 = {
+	name=Odemundus
+	culture=british
+	religion=british_druidic
+	father=3201
+	mother=3200
+	dynasty=514
+	778.01.01 = { birth = yes }
+	795.01.01 = { add_spouse = 3220 }
+}
+#Their Partners and Children
+3216 = {
+	name=Trasoldi
+	culture=british
+	religion=british_druidic
+	770.01.01 = { birth = yes }
+	788.01.01 = { add_spouse = 3213 }
+}
+3217 = {
+	name=Neufila
+	culture=british
+	religion=british_druidic
+	father=3216
+	mother=3213
+	790.01.01 = { birth = yes }
+}
+3218 = {
+	name=Eboric
+	culture=british
+	religion=british_druidic
+	father=3216
+	mother=3213
+	793.01.01 = { birth = yes }
+}
+3219 = {
+	name=Sontrilli
+	culture=british
+	religion=british_druidic
+	female=yes
+	776.01.01 = { birth = yes }
+}
+3220 = {
+	name=Aelia
+	culture=british
+	religion=british_druidic
+	female=yes
+	779.01.01 = { birth = yes }
+}
+#Parisi
+3250 = {
+	name=Boniza
+	culture=british
+	religion=british_druidic
+	dynasty=515
+	father=3252
+	mother=3253
+	753.01.01 = { birth = yes }
+	770.01.01 = { add_spouse = 3251 }
+}
+#His Wife
+3251 = {
+	name=Zanina
+	culture=british
+	religion=british_druidic
+	female=yes
+	754.01.01 = { birth = yes }
+}
+#His Parents
+3252 = {
+	name=Segomiros
+	culture=british
+	religion=british_druidic
+	dynasty=515
+	728.01.01 = { birth = yes }
+	752.01.01 = { add_spouse = 3253 }
+	795.01.01 = { death = yes }
+}
+3253 = {
+	name=Trasavora
+	culture=british
+	religion=british_druidic
+	female=yes
+	736.01.01 = { birth = yes }
+}
+#His Kids and their Partners
+3254 = {
+	name=Texilli
+	culture=british
+	religion=british_druidic
+	female=yes
+	dynasty=515
+	father=3250
+	mother=3251
+	772.01.01 = { birth = yes }
+}
+3255 = {
+	name=Damiro
+	culture=british
+	religion=british_druidic
+	dynasty=515
+	father=3250
+	mother=3251
+	776.01.01 = { birth = yes }
+	792.01.01 = { add_spouse = 3256 }
+}
+3256 = {
+	name=Goldrerona
+	culture=british
+	religion=british_druidic
+	father=3257
+	mother=3258
+	female=yes
+	776.01.01 = { birth = yes }
+}
+#Goldrerona's Parents
+3257 = {
+	name=Sentarius
+	culture=british
+	religion=british_druidic
+	751.01.01 = { birth = yes }
+	774.01.01 = { add_spouse = 3258 }
+}
+3258 = {
+	name=Trasmira
+	culture=british
+	religion=british_druidic
+	female=yes
+	751.01.01 = { birth = yes }
+}
+#Damiro's Kid
+3259 = {
+	name=Rudilo
+	culture=british
+	religion=british_druidic
+	dynasty=515
+	father=3255
+	mother=3256
+	793.01.01 = { birth = yes }
+}
+3260 = {
+	name=Sisilli
+	culture=british
+	religion=british_druidic
+	dynasty=515
+	father=3255
+	mother=3256
+	female=yes
+	795.01.01 = { birth = yes }
+}
+3261 = {
+	name=Trasmira
+	culture=british
+	religion=british_druidic
+	dynasty=515
+	father=3255
+	mother=3256
+	female=yes
+	796.01.01 = { birth = yes }
+}
+3262 = {
+	name=Brinno
+	culture=british
+	religion=british_druidic
+	771.01.01 = { birth = yes }
+	788.01.01 = { add_spouse = 3254 }
+}
+#Carvetii
+3300 = {
+	name=Malaredus
+	culture=british
+	religion=british_druidic
+	dynasty=516
+	726.01.01 = { birth = yes }
+	744.01.01 = { add_spouse = 3301 }
+	757.01.01 = { death = yes }
+}
+3301 = {
+	name=Aliverta
+	culture=british
+	religion=british_druidic
+	female=yes
+	728.01.01 = { birth = yes }
+	761.01.01 = { death = yes }
+}
+3302 = {
+	name=Aliverta
+	culture=british
+	religion=british_druidic
+	dynasty=516
+	female=yes
+	father=3300
+	mother=3301
+	751.01.01 = { birth = yes }
+	794.01.01 = { death = yes }
+}
+3303 = {
+	name=Odamic
+	culture=british
+	religion=british_druidic
+	dynasty=516
+	father=3300
+	mother=3301
+	749.01.01 = { birth = yes }
+	770.01.01 = { add_spouse = 3204 }
+}
+3304 = {
+	name=Rezevera
+	culture=british
+	religion=british_druidic
+	female=yes
+	754.01.01 = { birth = yes }
+}
+3305 = {
+	name=Randinus
+	culture=british
+	religion=british_druidic
+	dynasty=516
+	father=3303
+	mother=3304
+	772.01.01 = { birth = yes }
+	792.01.01 = { add_spouse = 3207 }
+}
+3306 = {
+	name=Drusilla
+	culture=british
+	religion=british_druidic
+	dynasty=516
+	father=3303
+	mother=3304
+	female=yes
+	774.01.01 = { birth = yes }
+}
+3307 = {
+	name=Veleda
+	culture=british
+	religion=british_druidic
+	female=yes
+	776.01.01 = { birth = yes }
+}
+3308 = {
+	name=Ailo
+	culture=british
+	religion=british_druidic
+	dynasty=516
+	father=3305
+	mother=3307
+	793.01.01 = { birth = yes }
+}
+3309 = {
+	name=Sagatus
+	culture=british
+	religion=british_druidic
+	dynasty=516
+	father=3305
+	mother=3307
+	794.01.01 = { birth = yes }
+}
+#Novantae
+3350 = {
+	name=Ragimiro
+	culture=british
+	religion=british_druidic
+	dynasty=517
+	743.01.01 = { birth = yes }
+	752.01.01 = { add_spouse = 3351 }
+	775.01.01 = { death = yes }
+}
+3351 = {
+	name=Gelvira
+	female=yes
+	culture=british
+	religion=british_druidic
+	746.01.01 = { birth = yes }
+	774.01.01 = { death = yes }
+}
+3352 = {
+	name=Zanima
+	culture=british
+	religion=british_druidic
+	dynasty=517
+	female=yes
+	father=3350
+	mother=3351
+	765.01.01 = { birth = yes }
+}
+3353 = {
+	name=Lallina
+	culture=british
+	religion=british_druidic
+	dynasty=517
+	female=yes
+	father=3350
+	mother=3351
+	768.01.01 = { birth = yes }
+}
+3354 = {
+	name=Maldras
+	culture=british
+	religion=british_druidic
+	dynasty=517
+	father=3350
+	mother=3351
+	770.01.01 = { birth = yes }
+	790.01.01 = { add_spouse = 3306 }
+}
+3355 = {
+	name=Remisol
+	culture=british
+	religion=british_druidic
+	763.01.01 = { birth = yes }
+	781.01.01 = { add_matrilineal_spouse = 3352 }
+}
+3356 = {
+	name=Teutobod
+	culture=british
+	religion=british_druidic
+	dynasty=517
+	father=3355
+	mother=3352
+	783.01.01 = { birth = yes }
+}
+3357 = {
+	name=Bagina
+	culture=british
+	religion=british_druidic
+	dynasty=517
+	father=3355
+	mother=3352
+	female=yes
+	788.01.01 = { birth = yes }
+}
+3358 = {
+	name=Zanina
+	culture=british
+	religion=british_druidic
+	dynasty=517
+	father=3355
+	mother=3352
+	female=yes
+	790.01.01 = { birth = yes }
+}
+3359 = {
+	name=Rakericus
+	culture=british
+	religion=british_druidic
+	766.01.01 = { birth = yes }
+	784.01.01 = { add_matrilineal_spouse = 3353 }
+}
+3360 = {
+	name=Spoderigo
+	culture=british
+	religion=british_druidic
+	dynasty=517
+	father=3359
+	mother=3353
+	787.01.01 = { birth = yes }
+}
+3361 = {
+	name=Odamic
+	culture=british
+	religion=british_druidic
+	dynasty=517
+	father=3354
+	mother=3306
+	792.01.01 = { birth = yes }
+}
+3362 = {
+	name=Remisol
+	culture=british
+	religion=british_druidic
+	dynasty=517
+	father=3354
+	mother=3306
+	794.01.01 = { birth = yes }
+}
+3363 = {
+	name=Senuita
+	culture=british
+	religion=british_druidic
+	dynasty=517
+	father=3354
+	mother=3306
+	female=yes
+	795.01.01 = { birth = yes }
+}

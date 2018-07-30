@@ -1,0 +1,10 @@
+# e_belgica
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+800.1.1={
+	liege=d_nemetes
+}
+773.1.1={holder=6513} #Roelindus[701]
+810.02.16={holder=6514} #Gresumarus[701]

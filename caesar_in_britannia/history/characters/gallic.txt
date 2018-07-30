@@ -1,0 +1,67 @@
+# Sequani #
+
+#Carantillo of the Sequani
+5500={
+	name=Carantillo
+	dynasty=518
+	culture=gallic 
+	religion=gaulish_druidic
+	741.7.21={ birth=yes }
+	762.1.1={ add_spouse=5505 }
+	813.7.11={ death=yes }
+}
+# His son
+5501={
+	name=Carominius
+	dynasty=518
+	culture=gallic 
+	religion=gaulish_druidic
+	father=5500	#Carantillo
+	mother=5505	#Exobna
+	770.12.9={ birth=yes }
+	836.12.15={ death=yes }
+}
+#His daughter
+5502={
+	name=Fredesinda
+	female=yes
+	dynasty=518
+	culture=gallic 
+	religion=gaulish_druidic
+	father=5500	#Carantillo
+	mother=5505	#Exobna
+	773.2.5={ birth=yes }
+	821.7.24={ death=yes }
+}
+#His daughter
+5503={
+	name=Albucia
+	female=yes
+	dynasty=518
+	culture=gallic 
+	religion=gaulish_druidic
+	father=5500	#Carantillo
+	mother=5505	#Exobna
+	775.3.7={ birth=yes }
+	841.7.23={ death=yes }
+}
+#His granddaughter
+5504={
+	name=Recebrida
+	female=yes
+	dynasty=518
+	culture=gallic 
+	religion=gaulish_druidic
+	father=5501	#Carominius
+	792.5.27={ birth=yes }
+	863.6.29={ death=yes }
+}
+#His wife
+5505={
+	name=Exobna
+	female=yes
+	culture=gallic 
+	religion=gaulish_druidic
+	741.1.1={ birth=yes }
+	813.1.1={ death=yes }
+}

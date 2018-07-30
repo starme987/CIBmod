@@ -1,0 +1,19 @@
+# c_umbria
+
+# County Title
+title = c_umbria
+
+# Settlements
+max_settlements = 5
+
+b_arretium = city
+b_placeholder_5 = city
+#b_placeholder_6 = temple
+#b_placeholder_7 = castle
+#b_placeholder_8 = city
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

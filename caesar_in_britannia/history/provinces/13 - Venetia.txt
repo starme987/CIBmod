@@ -1,0 +1,15 @@
+# c_venetia
+
+# County Title
+title = c_venetia
+
+# Settlements
+max_settlements = 1
+
+b_patavium = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

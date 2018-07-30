@@ -1,0 +1,29 @@
+#BELGICA
+technology = {
+	titles = {
+		d_atrebates
+		d_bellovaci
+		d_eburones
+		d_lingones
+		d_mediomatrici
+		d_morini
+		d_nemetes
+		d_nervii
+		d_remi
+		d_sequani
+		d_suebi
+		d_suessiones
+		d_treverii
+		d_vangiones
+	}
+	796 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

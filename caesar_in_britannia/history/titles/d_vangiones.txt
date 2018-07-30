@@ -1,0 +1,11 @@
+# e_belgica
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+800.1.1={
+	liege=k_silva_nigra
+}
+767.1.1={holder=6518} #Felmirus[702]
+815.06.15={holder=6519} #Boniza[702]
+821.04.08={holder=6521} #Valao[702]

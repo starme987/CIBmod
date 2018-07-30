@@ -1,0 +1,15 @@
+# c_trinovantes
+
+# County Title
+title = c_trinovantes
+
+# Settlements
+max_settlements = 1
+
+b_camulodunon = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

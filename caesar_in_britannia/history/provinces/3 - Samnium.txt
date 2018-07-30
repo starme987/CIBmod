@@ -1,0 +1,17 @@
+# c_samnium
+
+# County Title
+title = c_samnium
+
+# Settlements
+max_settlements = 3
+
+b_ankona = city
+#b_placeholder = city
+#b_placeholder_2 = temple
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

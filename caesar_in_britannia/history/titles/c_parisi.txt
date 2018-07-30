@@ -1,0 +1,14 @@
+# e_britannia
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+800.1.1={
+	liege=k_brigantes
+}
+748.1.1={
+	holder=3252
+}
+795.1.1={
+	holder=3250
+}

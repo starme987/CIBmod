@@ -1,0 +1,15 @@
+# c_liguria
+
+# County Title
+title = c_liguria
+
+# Settlements
+max_settlements = 1
+
+b_genua = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

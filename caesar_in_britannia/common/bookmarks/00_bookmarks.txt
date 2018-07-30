@@ -1,0 +1,58 @@
+bm_britannia = {
+	name = "BM_BRITANNIA_ERA"
+	desc = "BM_BRITANNIA_ERA_INFO"
+	date = 796.1.1
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_1
+	custom_start = yes				## Will be picked when clicked on custom start.
+	
+	selectable_character = {
+		id = 1 # Tiberius Claudius Caesar
+		age = 51
+		name = ERA_CHAR_NAME_1
+		title = e_roman_empire
+		title_name = ROMAN_EMPIRE
+		
+		character = {
+			dna = bcedirmbfcy
+			properties = aj00bc00000
+			religion="roman_hellenic"
+			culture="roman"
+			government = feudal_government
+			dynasty=1
+		}
+	}
+	selectable_character = {
+		id = 2 # Aulus Plautius
+		age = 56
+		name = ERA_CHAR_NAME_2
+		title = c_campania
+		title_name = CAMPANIA
+		
+		character = {
+			dna = bfimkolbecc
+			properties = aj00bc00000
+			religion="roman_hellenic"
+			culture="roman"
+			government = feudal_government
+			dynasty=2
+		}
+	}
+	selectable_character = {
+		id = 500 # Caratacus
+		age = 33
+		name = ERA_CHAR_NAME_500
+		title = c_catuvellauni
+		title_name = CATUVELLAUNI
+		
+		character = {
+			dna = bbimkolbeac
+			properties = aj00bc00000
+			religion="british_druidic"
+			culture="british"
+			government = tribal_government
+			dynasty=500
+		}
+	}
+}

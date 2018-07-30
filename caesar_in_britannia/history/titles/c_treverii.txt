@@ -1,0 +1,12 @@
+# e_belgica
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+700.1.1={
+	liege=k_arduenna_silva
+}
+749.1.1={holder=4505} #Damiro[601]
+769.09.06={holder=4506} #Magitus[601]
+818.07.25={holder=4510} #Magitus[601]
+838.06.08={holder=4514} #Villisendus[601]

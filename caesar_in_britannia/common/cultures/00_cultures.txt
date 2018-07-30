@@ -1,0 +1,225 @@
+germanic = {
+	graphical_cultures = { germangfx }
+
+	germanic = {
+		graphical_cultures = { germangfx }
+		
+		color = { 200 112 100 }
+
+		male_names = {
+			Adeqisio Adoric Agimadus Agriulfus Alamix Algasterus Anila Ansuaric Areogaesus Argiovitus Ariamix Arminius Ariovistus Arosinda
+			Audeca Badamundus Baldemarius Balderedo Ballomar Baltarius Banadaspus Baudemiro Becilla Berteirix Boiorix Bonesindus Boniza
+			Boduognatus Brinno Caesorix Cagildo Cartemiro Chararici Claodicus Commundus Crodemiro Dagaredus Daildus Damiro Divico Docemiro
+			Donazarius Donegildus Dulcemirus Eboric Egenus Eimiro Eirigu Eisindus Eldefotus Eldesindus Engimiro Esaldus Ermaric Evosindo
+			Fagildus Felmirus Framuldus Fredoaldus Froatingus Fromildus Frumeiro Gardingus Gaudesindo Gomedei Gomulfus Gresumarus Gumarius
+			Gundivaldo Guntato Gunterotis Heremigar Hermeric Hildemix Hilderic Hunisco Huniscus Leodegasti Leoderigus Leodulfus Lodemiro
+			Lugius Magitus Malaredus Malarix Maldras Marcosendus Mervigius Nandaricus Nantildo Neufila Nitigis Notarius Odamic Odemundus
+			Odericus Onemiro Onoricus Osdulfus Osorico Ostromirus Pabregildus Pantardu Pantinus Pappinus Pederagildu Pennio Pipinus Provaredo
+			Quedesendo Quedulfus Quidemiro Quidericus Ragimiro Ragolfus Rakericus Randinus Randuarius Ranisclus Rechiar Rechila Refulfo
+			Reirigus Remismund Remisol Rendericus Rodomirus Roelindus Romanisco Romarigus Sagatus Saxomero Segomirus Sentarius Sescutus
+			Sisulfus Spanarius Spoderigo Suavarius Sunila Teutobod Todegogia Trasmira Trasoldi Tumtuldo Uittimeric Valao Venedariix Veremus
+			Viamundus Vidraldus Villisendus Zamarius Zanticus Zendasix
+		}
+		female_names = {
+			Acilo Ailo Alatrudia Aliverga Aliverta Aniedrudia Ansetrudia Astriverga Bagina Berina Cenabrida Cisilo Dadilo Dagadruida
+			Desteilli Donadildi Drusilla Ebragundia Ebrildi Eldegundia Emili Entrudi Ermedrudia Ermildi Espalli Facali Fagila Fradegundia
+			Framilli Fremosilli Frogildi Froilo Frolio Fronosili Frumildi Frunilo Gelvira Genlo Godoigia Goldrerona Granila Guandilo
+			Gundiverga Guntedrudia Ildiverga Kindiverga Lallina Liuvilo Mansuara Margilli Mirosinda Penefreda Penetrudia Ragesenda Rofdi
+			Raniverta Recerona Recesenda Recesuinda Rezevera Riquilo Rudilo Sabegoto Senuita Sindiverga Sisilli Sisiverta Sitividis Sontrilli
+			Sparuildi Stodildi Suevisco Tanquilli Tederona Tenildi Teodevirga Teodiverta Teodoriga Teudileova Texilli Tractuilli Trasavara
+			Trasmira Trastivigia Veleda Vergina Viscaverga Visterlo Vistravara Vistrildi Zanina
+		}
+		from_dynasty_prefix = "of the "
+
+		modifier = default_culture_modifier
+	}
+}
+
+celtic = {
+	graphical_cultures = { germangfx }
+
+	celtic = {
+		graphical_cultures = { germangfx }
+		
+		color = { 144 130 82 }
+
+		male_names = {
+			Adeqisio Adoric Agimadus Agriulfus Alamix Algasterus Anila Ansuaric Areogaesus Argiovitus Ariamix Ariovistus Arosinda
+			Audeca Badamundus Baldemarius Balderedo Ballomar Baltarius Banadaspus Baudemiro Becilla Berteirix Boiorix Bonesindus Boniza
+			Boduognatus Brinno Caesorix Cagildo Cartemiro Chararici Claodicus Commundus Crodemiro Dagaredus Daildus Damiro Divico Docemiro
+			Donazarius Donegildus Dulcemirus Eboric Egenus Eimiro Eirigu Eisindus Eldefotus Eldesindus Engimiro Esaldus Ermaric Evosindo
+			Fagildus Felmirus Framuldus Fredoaldus Froatingus Fromildus Frumeiro Gardingus Gaudesindo Gomedei Gomulfus Gresumarus Gumarius
+			Gundivaldo Guntato Gunterotis Heremigar Hermeric Hildemix Hilderic Hunisco Huniscus Leodegasti Leoderigus Leodulfus Lodemiro
+			Lugius Magitus Malaredus Malarix Maldras Marcosendus Mervigius Nandaricus Nantildo Neufila Nitigis Notarius Odamic Odemundus
+			Odericus Onemiro Onoricus Osdulfus Osorico Ostromirus Pabregildus Pantardu Pantinus Pappinus Pederagildu Pennio Pipinus Provaredo
+			Quedesendo Quedulfus Quidemiro Quidericus Ragimiro Ragolfus Rakericus Randinus Randuarius Ranisclus Rechiar Rechila Refulfo
+			Reirigus Remismund Remisol Rendericus Rodomirus Roelindus Romanisco Romarigus Sagatus Saxomero Segomirus Sentarius Sescutus
+			Sisulfus Spanarius Spoderigo Suavarius Sunila Teutobod Todegogia Trasmira Trasoldi Tumtuldo Uittimeric Valao Venedariix Veremus
+			Viamundus Vidraldus Villisendus Zamarius Zanticus Zendasix
+		}
+		female_names = {
+			Acilo Ailo Alatrudia Aliverga Aliverta Aniedrudia Ansetrudia Astriverga Bagina Berina Cenabrida Cisilo Dadilo Dagadruida
+			Desteilli Donadildi Drusilla Ebragundia Ebrildi Eldegundia Emili Entrudi Ermedrudia Ermildi Espalli Facali Fagila Fradegundia
+			Framilli Fremosilli Frogildi Froilo Frolio Fronosili Frumildi Frunilo Gelvira Genlo Godoigia Goldrerona Granila Guandilo
+			Gundiverga Guntedrudia Ildiverga Kindiverga Lallina Liuvilo Mansuara Margilli Mirosinda Penefreda Penetrudia Ragesenda Rofdi
+			Raniverta Recerona Recesenda Recesuinda Rezevera Riquilo Rudilo Sabegoto Senuita Sindiverga Sisilli Sisiverta Sitividis Sontrilli
+			Sparuildi Stodildi Suevisco Tanquilli Tederona Tenildi Teodevirga Teodiverta Teodoriga Teudileova Texilli Tractuilli Trasavara
+			Trasmira Trastivigia Veleda Vergina Viscaverga Visterlo Vistravara Vistrildi Zanina
+		}
+		from_dynasty_prefix = "of the "
+
+		modifier = default_culture_modifier
+	}
+
+	gallic = {
+		graphical_cultures = { norsegfx }
+		
+		color = { 147 145 83 }
+
+		male_names = {
+			Adiatorix Adretilis Advorix Agedilios Allobroxus Ambillic Ambilo Andecarius Andosten Anducor Anducoric Antedric Anteremius Ateponirus
+			Atgite Atgitix Billicissioni Bodocenus Bodoucix Boduogenus Bravecci Busturo Cambus Camulorigi Caraddounius Carantillo Carasius Caratillus
+			Carominius Cassitalus Catuen Catuenus Caturo Catusius Cenix Cintumarus Cintusminius Condercus Congenno Conteddius Coteus Dano Dattovir
+			Decillus Dercillos Diddignatus Donnotaurus Drutalus Dubnotix Eburix Epasix Epotisic Epotsorouidus Frasotix Gabrius Genillus Ienitix Ientic
+			Illiomarus Litagix Litigic Maritalus Meddugnatus Mertoualus Mesillix Netacari Nisigni Osifix Ritogenus Rotirix Sacrovix Samocinus Samognatius
+			Seccix Silanus Suadix Talotius Taruiacus Teutatix Toutio Touto Toutobocios Tritos Ulccagni Vebru Vennonius Venucius Vertros Vicix Vindusix
+			Viriacius Viriatius Viriodacus Vironianus Vlatucnos
+		}
+		female_names = {
+			Abronilli Acisillia Adegundia Albucia Aliverga Ansobrida Aurilli Aventina Banona Boudinna Caburena Camulilia Caretosa Carrotala Caruonia
+			Censonia Coblucia Congenncia Cotina Cottira Cotu Cotuconi Cotulia Danotala Deuillia Donisia Dubna Elovissa Epiu Eppa Ermileuva Excinga Exobna
+			Fimmilene Fredesinda Fremosilli Frogeva Froiloba Froisenda Genildi Guinilli Gundivera Isosae Kagilda Leoverona Leovesenda Manduissa Martidia
+			Matta Nertilla Orbiana Recebrida Ressatu Riceina Ritulla Samacia Sedecennis Sigesgundia Sila Sisivigia Sumela Sunildi Taluppa Tenildi Todogoncia
+			Todoriga Teudisila Veca Vectinia Venicia Verbronara Vestregoti Vindama Vistregia Vattia
+		}
+		from_dynasty_prefix = "of the "
+
+		modifier = default_culture_modifier
+	}
+
+	british = {
+		graphical_cultures = { germangfx }
+		
+		color = { 147 134 132 }
+
+		male_names = {
+			Adeqisio Adiatorix Adoric Agimadus Agriulfus Alamix Algasterus Anila Ansuaric Areogaesus Argiovitus Ariamix Ariovistus Arosinda
+			Audeca Badamundus Baldemarius Balderedo Ballomar Baltarius Banadaspus Baudemiro Becilla Berteirix Boiorix Bonesindus Boniza
+			Boduognatus Brinno Cagildo Cartemiro Chararici Claodicus Commundus Crodemiro Dagaredus Dagomaros Daildus Damiro Divico Docemiro
+			Donazarius Donegildus Dulcemirus Eboric Egenus Eimiro Eirigu Eisindus Eldefotus Eldesindus Engimiro Esaldus Ermaric Evosindo
+			Fagildus Felmirus Framuldus Fredoaldus Froatingus Fromildus Frumeiro Gardingus Gaudesindo Gomedei Gomulfus Gresumarus Gumarius
+			Gundivaldo Guntato Gunterotis Heremigar Hermeric Hildemix Hilderic Hunisco Huniscus Leodegasti Leoderigus Leodulfus Lodemiro
+			Lugius Magitus Malaredus Malarix Maldras Marcosendus Mervigius Nandaricus Nantildo Neufila Nitigis Notarius Odamic Odemundus
+			Odericus Onemiro Onoricus Osdulfus Osorico Ostromirus Pabregildus Pantardu Pantinus Pappinus Pederagildu Pennio Pipinus Provaredo
+			Quedesendo Quedulfus Quidemiro Quidericus Ragimiro Ragolfus Rakericus Randinus Randuarius Ranisclus Rechiar Rechila Refulfo
+			Reirigus Remismund Remisol Rendericus Rodomirus Roelindus Romanisco Romarigus Sagatus Saxomero Segomirus Sentarius Sescutus
+			Sisulfus Spanarius Spoderigo Suavarius Sunila Teutobod Todegogia Trasmira Trasoldi Tumtuldo Uittimeric Valao Venedariix Veremus
+			Viamundus Vidraldus Villisendus Zamarius Zanticus Zendasix
+		}
+		female_names = {
+			Acilo Ailo Alatrudia Aliverga Aliverta Aniedrudia Ansetrudia Astriverga Bagina Berina Cenabrida Cisilo Dadilo Dagadruida
+			Desteilli Donadildi Drusilla Ebragundia Ebrildi Eldegundia Emili Entrudi Ermedrudia Ermildi Espalli Facali Fagila Fradegundia
+			Framilli Fremosilli Frogildi Froilo Frolio Fronosili Frumildi Frunilo Gelvira Genlo Godoigia Goldrerona Granila Guandilo
+			Gundiverga Guntedrudia Ildiverga Kindiverga Lallina Liuvilo Mansuara Margilli Mirosinda Penefreda Penetrudia Ragesenda Rofdi
+			Raniverta Recerona Recesenda Recesuinda Rezevera Riquilo Rudilo Sabegoto Senuita Sindiverga Sisilli Sisiverta Sitividis Sontrilli
+			Sparuildi Stodildi Suevisco Tanquilli Tederona Tenildi Teodevirga Teodiverta Teodoriga Teudileova Texilli Tractuilli Trasavara
+			Trasmira Trastivigia Vattia Veleda Vergina Viscaverga Visterlo Vistravara Vistrildi Zanina
+		}
+		from_dynasty_prefix = "of the "
+
+		modifier = default_culture_modifier
+	}
+}
+
+italian = {
+	graphical_cultures = { germangfx }
+
+	roman = {
+		graphical_cultures = { byzantinegfx persiangfx germangfx }
+		
+		color = { 232 110 96 }
+
+		male_names = {
+			Aelianus Aelius Aemilius Aetius Africanus Agrippa Albinus Anicius Appius Atilus Augustus Aurelian Aurelius Avilius Avitus Balbus Blandus
+			Brutus Caecilius Caeso Caius Camillus Cassian Cassius Cato Cicero Claudius Cnaeus Cossus Decimus Domitius Fabianus Festus Flavius Gaius Galerius
+			Gallio Gallus Gnaeus Herius Hilarius Iovianus Julianus Julius Junius Kaeso Laelius Longinus Lucius Manius Marcellus Marcianus Marcius Marcus
+			Maxentius Maximilianus Maximus Mettius Nonus Numerius Octavianus Opiter Oppius Ovidius Paulinus Pompeius Pomponius Pontius Porcius Postumius Potitus
+			Primus Priscus Proclus Proculus Publius Quintillus Quintis Quintus Rufinus Rufus Saturninus Secundus Seneca Sergius Servius Severus Sextilus
+			Sextus Silvanus Spurius Tacitus Tatius Tertius Thracius Tiberius Titanus Titus Tullius Tullus Valentinus Valerius Varius Varus Vibius Vinicus
+			Vitus
+		}
+		female_names = {
+			Aelia Agrippina Antonia_Antonia Antonina Aquilia Aurelia Caecilia Caesaris Candida Cassia Claudia Clementia Constantia Constantina Cornelia Crispina
+			Dominica Domitiana Domna Domnina Drusilla Fausta Faustina Flacilla Flavia Fortunata Frontina Gaia Galeria Gordiana Hadriana Helvia Hilara Honoria
+			Hortensia Julia Juliana Junia Justa Justina Justiniana Licinia Livia Livilla Lucilla Magnia Magnilla Marcella Marcia Marciana Marina Matrona Maxima
+			Maximiana Messalina Minervina Minucia Modia Mustela Octavia Palatina Paulania Paulina Petronilla Petronia Placidia Plautia Plautilla Pompeia Poppaea
+			Praeiecta Publia Pulcheria Rusticiana Sabina Sallustia Salonina Salvianella Scantilla Serena Sergia Severa Severina Silvia Spadusa Sulpicia Tarsilla
+			Titiana Ulpia Valeri Verina Vinidia Vigilantia
+		}
+		from_dynasty_prefix = " "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 50
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 50
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+	greek = {
+		graphical_cultures = { byzantinegfx }
+		
+		color = { 128 138 163 }
+
+		male_names = {
+			Aegos Agathocles Amyntas Antialcidas Antigonos Antimachus Apollodotus Apollophanes Archebios Ariarathes Artemidoros Strato Akakios Alexandros_Alexander Alexios_Alexis Anthemios Anthimos Antialkidas Antiochos Apollonios Basileios_Basil Demetrios_Demetrius Diodotus Diogenes Diomedes Dionysios_Dionysus Dorotheos Eucratides Eirenaios Epander Eudoxios Eustratios Eugenios Euphemios Eusebios Eustathios_Eustace Euthydemus Hektorios Helias Heliokles Heraklios_Heracles Hermaeus Himerios Hippolytos_Hippolytos Hippostratos Hypatios Kallinikos Kallistos Komitas Kosmas_Cosmas Lysias Maximos Menander Megistos Meletios Neophytos Nicias Niketas Nikodemos_Nicodemus Orestes Pankratios Pantoleon Peukolaos Philippos_Philip Philotheos Plato Polykarpos Polyxenios Philoxenus Porphyrios Pyrros Rajuvula Serapion Telephos Theophilos Thraso Zenobios Zenon Zoilos Perdiccas_Perdiccas Craterus_Craterus Antipater_Antipater Lysimachus_Lysimachus Peucestas_Peucestas Peithon_Peithon Leonnatus_Leonnatus Neoptolemus_Neoptolemus Nikomedes Polyperchon_Polyperchon Eumenes_Eumenes Cassander_Cassander Meleager_Meleager Arrhidaeus_Arrhidaeus Laomedon_Laomedon Philotas_Philotas
+			Achaios_Achaios Adeimantos_Adeimantos Agapetos_Agapetos Agathon_Agathon Ainesidemos_Ainesidemos Aischines_Aischines Aischylos_Aischylos Aisopos_Aisopos Akakios_Akakios Akron_Akron Alexandros_Alexandros 
+			Alexis_Alexis Alkaios_Alkaios Alkiphron_Alkiphron Ambrosios_Ambrosios Ampelios_Ampelios Amyntas_Amyntas 
+			Anaxagoras_Anaxagoras Anaxilas_Anaxilas Anaximenes_Anaximenes Androkles_Androkles Andronikos_Andronikos Androtion_Androtion Antiphon_Antiphon Aphrodisios_Aphrodisios Apollodoros_Apollodoros Apollonios_Apollonios
+			Araros_Araros Archelaos_Archelaos Archimedes_Archimedes Archippos_Archippos Argyros_Argyros Aristarchos_Aristarchos Aristeides_Aristeides Aristogeiton_Aristogeiton Aristokles_Aristokles
+			Ariston_Ariston Aristophanes_Aristophanes Aristoteles_Aristoteles Arkadios_Arkadios Arkesilas_Arkesilas Arkesios_Arkesios Arsenios_Arsenios Artemidoros_Artemidoros Asklepiades_Asklepiades
+			Atrtemisios_Atrtemisios Basileios_Basileios Bion_Bion Chariton_Chariton Chrysanthos_Chrysanthos Damasias_Damasias Dareios_Dareios
+			Demetrios_Demetrios Demokritos_Demokritos Demosthenes_Demosthenes Dexippos_Dexippos Diodorus_Diodorus Diodotos_Diodotos Diogenes_Diogenes Diokles_Diokles Dionysodoros_Dionysodoros
+			Drakon_Drakon Eirenaios_Eirenaios Ekphantos_Ekphantos Epaminondas_Epaminondas Epaphroditos_Epaphroditos Epikouros_Epikouros Epiktetos_Epiktetos Epilykos_Epilykos Erasistratos_Erasistratos Eratosthenes_Eratosthenes Euaristos_Euaristos Euboulos_Euboulos Eudoxos_Eudoxos
+			Eukleides_Eukleides Euktemon_Euktemon Eumenes_Eumenes Euphemios_Euphemios Euphranor_Euphranor Euripides_Euripides Eusebios_Eusebios Eustathios_Eustathios
+			Eutychios_Eutychios Eutychos_Eutychos Galenos_Galenos Gelon_Gelon Glaukon_Glaukon Harmodios_Harmodios Heliodoros_Heliodoros Herakleitos_Herakleitos
+			Hermias_Hermias Hermogenes_Hermogenes Hermokrates_Hermokrates Hermolaos_Hermolaos Herodes_Herodes Herodotus_Herodotus Heron_Heron Hesiod_Hesiod
+			Hiketas_Hiketas Hieron_Hieron Hieronymos_Hieronymos Hippalos_Hippalos Hipparchos_Hipparchos Hippokrates_Hippokrates Hippolytos_Hippolytos Hipponax_Hipponax Homeros_Homeros Hyakinthos_Hyakinthos Hypsikles_Hypsikles
+			Hypatos_Hypatos Iason_Iason Ion_Ion Iphikrates_Iphikrates Isagoras_Isagoras Isidoros_Isidoros Isokrates_Isokrates Kallias_Kallias Kallikrates_Kallikrates Kallisthenes_Kallisthenes Kallistos_Kallistos Karneades_Karneades
+			Kassandros_Kassandros Kephalos_Kephalos Kleisthenes_Kleisthenes Kleitos_Kleitos Kleon_Kleon Konon_Konon Kylon_Kylon Kyros_Kyros Laomedon_Laomedon
+			Leon_Leon Leukon_Leukon Linos_Linos Loukianos_Loukianos Lykourgos_Lykourgos Lysandros_Lysandros Lysimachos_Lysimachos Mantitheos_Mantitheos Megakles_Megakles Menexenos_Menexenos Menon_Menon Metrodoros_Metrodoros Miltiades_Miltiades
+			Myron_Myron Neophytos_Neophytos Nikandros_Nikandros Nikanor_Nikanor Nikephoros_Nikephoros Nikias_Nikias Nikolaos_Nikolaos Nikomachos_Nikomachos Nikomedes_Nikomedes Nikokreon_Nikokreon
+			Olympiodoros_Olympiodoros Ophellas_Ophellas Pankratios_Pankratios Pantaleon_Pantaleon Parmenion_Parmenion Pausanias_Pausanias Periandros_Periandros Perikles_Perikles Pheidias_Pheidias Philandros_Philandros Philokrates_Philokrates Phokion_Phokion
+			Platon_Platon Ploutarchos_Ploutarchos Praxiteles_Praxiteles Prodikos_Prodikos Sokrates_Sokrates Solon_Solon Sosigenes_Sosigenes Stilpon_Stilpon
+			Straton_Straton Themistokles_Themistokles Theodoros_Theodoros Theodosios_Theodosios Theodotos_Theodotos Theophanes_Theophanes Theron_Theron Thrasyboulos_Thrasyboulos
+			Tychon_Tychon Xenon_Xenon Xenophon_Xenophon Zephyros_Zephyros Zeuxidamas_Zeuxidamas
+		}
+		female_names = {
+			Adriana Agathe_Agatha Agathokleia Agne_Agnes Alexandra Alexeia Anthe Anthousa Antipatra Antonina Apollonia Athanasia Barbara Basileia Basilissa
+			Chrysogone Damiane Demetra Dionysia Dorothea_Dorothy Aigidia Eirene_Irene Elaiodora Eudokia_Eudocia Eudoxia Eugenia Eulalia Eunike Euphemia Euphrasia Euphrosyne_Euphrosyne Eupraxia Eusebia Eustathia Evanthia Garyphallia Helene_Helen Hypatia Kale Nikarete Nonna Parthena Philippa_Philippa Phyllis Rhodanthe Sibylla_Sibylla
+			Simonis Sophia_Sophia Thekla Xene Zenobia 
+			Adrasteia_Adrasteia Agathe_Agathe Aglaia_Aglaia Alexandra_Alexandra Alkippe_Alkippe Amastris_Amastris Anthousa_Anthousa Antigone_Antigone Aphrodisia_Aphrodisia 
+			Apollonia_Apollonia Aristomache_Aristomache Arsinoe_Arsinoe Artemisia_Artemisia Aspasia_Aspasia Athanasia_Athanasia Athenais_Athenais Berenike_Pherenike Charis_Charis 
+			Charmion_Charmion Chloe_Chloe Chrysanthe_Chrysanthe Demetria_Demetria Demostrate_Demostrate Eirene_Eirene Elpis_Elpis Euanthe_Euanthe 
+			Eudokia_Eudokia Eudoxia_Eudoxia Eugeneia_Eugeneia Eulalia_Eulalia Eumelia_Eumelia Eunike_Eunike Euphemia_Euphemia Euphrasia_Euphrasia 
+			Eupraxia_Eupraxia Eurydike_Eurydike Euthalia_Euthalia Euthymia_Euthymia Eutropia_Eutropia Eutychia_Eutychia Gaiane_Gaiane Galene_Galene Hagne_Hagne 
+			Helene_Helene Hypatia_Hypatia Isidora_Isidora Kallisto_Kallisto Kallistrate_Kallistrate Kassandra_Kassandra Korinna_Korinna Laodike_Laodike Ligeia_Ligeia 
+			Lysandra_Lysandra Lysistrate_Lysistrate Melissa_Melissa Metrodora_Metrodora Myrrine_Myrrine Nikaia_Nikaia Nike_Nike Olympias_Olympias Pelagia_Pelagia 
+			Phila_Phila Phoibe_Phoibe Photine_Photine Ptolemais_Ptolemais Rhode_Rhode Roxane_Roxane Sappho_Sappho Sophia_Sophia 
+			Sostrate_Sostrate Stratonike_Stratonike Syntyche_Syntyche Thais_Thais Theodora_Theodora Theodosia_Theodosia Theokleia_Theokleia Theophania_Theophania Thessalonike_Thessalonike
+			Timo_Timo Timothea_Timothea Tryphaina_Tryphaina Tryphosa_Tryphosa Xanthe_Xanthe Xanthippe_Xanthippe Xenia_Xenia Xeno_Xeno 
+			Zenais_Zenais Zenobia_Zenobia Zoe_Zoe Zosime_Zosime
+		}
+
+		from_dynasty_prefix = "of "
+		
+		disinherit_from_blinding = yes
+
+		modifier = default_culture_modifier
+	}
+}

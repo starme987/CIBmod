@@ -1,0 +1,16 @@
+# c_campania
+
+# County Title
+title = c_campania
+
+# Settlements
+max_settlements = 2
+
+b_capua = city
+b_casilinum = city
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

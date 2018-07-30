@@ -1,0 +1,18 @@
+# c_latium
+
+# County Title
+title = c_latium
+
+# Settlements
+max_settlements = 4
+
+b_castrum_albanum = castle
+b_roma = city
+b_temple_of_portunus = temple
+b_temple_of_jupiter_capitolinus = temple
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

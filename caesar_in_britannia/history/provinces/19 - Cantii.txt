@@ -1,0 +1,16 @@
+# c_cantii
+
+# County Title
+title = c_cantii
+
+# Settlements
+max_settlements = 2
+
+b_durovernon = castle
+b_the_citadel = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

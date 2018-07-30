@@ -1,0 +1,193 @@
+#Tiberius Claudius Caesar
+1 = {
+	name=Tiberius
+	dynasty=1
+	
+	religion=roman_hellenic
+	culture=roman
+	
+	father=3 #Nero Claudius Drusus
+	mother=4 #Julia Antonia
+	
+	744.08.01 = { birth=yes }
+	762.01.01 = { add_spouse=5 } #Plautia Urgulanilla
+	777.01.01 = { remove_spouse=5 }
+	781.01.01 = { add_spouse=6 } #Aelia Paetina
+	783.11.01 = { remove_spouse=6 }
+	792.01.01 = { add_spouse=7 } #Valeria Messalina
+	801.01.01 = { remove_spouse=7 }
+	802.01.01 = { add_spouse=8 } #Julia Agrippina
+	807.10.13 = { death=yes }
+}
+#Aulus Plautius
+2 = {
+	name=Aulus
+	dynasty=2
+	
+	religion=roman_hellenic
+	culture=roman
+	
+	739.09.24 = { birth=yes }
+	810.01.01 = { death=yes }
+}
+#Nero Claudius Drusus
+3 = {
+	name=Nero
+	dynasty=1
+	
+	religion=roman_hellenic
+	culture=roman
+	
+	716.01.14 = { birth=yes }
+	738.01.01 = { add_spouse=4 } #Julia Antonia
+	745.06.23 = { death=yes }
+}
+#Julia Antonia
+4 = {
+	name=Julia
+	dynasty=3
+	female=yes
+	
+	religion=roman_hellenic
+	culture=roman
+	
+	718.01.31 = { birth=yes }
+	790.05.01 = { death=yes }
+}
+#Plautia Urgulanilla
+5 = {
+	name=Urgulanilla
+	dynasty=4
+	female=yes
+	
+	religion=roman_hellenic
+	culture=roman
+	
+	734.01.01 = { birth=yes }
+	812.03.01 = { death=yes }
+}
+#Aelia Paetina
+6 = {
+	name=Paetina
+	dynasty=5
+	female=yes
+	
+	religion=roman_hellenic
+	culture=roman
+	
+	749.01.01 = { birth=yes }
+	804.01.01 = { death=yes }
+}
+#Valeria Messalina
+7 = {
+	name=Messalina
+	dynasty=6
+	female=yes
+	
+	religion=roman_hellenic
+	culture=roman
+	
+	773.01.25 = { birth=yes }
+	801.01.01 = {
+		death = {
+			death_reason = death_execution
+			killer = 1
+		}
+	}
+}
+#Julia Agrippina
+8 = {
+	name=Agrippina
+	dynasty=7
+	female=yes
+	
+	religion=roman_hellenic
+	culture=roman
+	
+	father=9 #Germanicus Julius Caesar
+	
+	768.11.06 = { birth=yes }
+	812.03.22 = { death=yes }
+}
+#Germanicus Julius Caesar
+9 = {
+	name=Claudius
+	dynasty=7
+	
+	religion=roman_hellenic
+	culture=roman
+	
+	father=3 #Nero Claudius Drusus
+	mother=4 #Julia Antonia
+	
+	739.05.24 = { birth=yes }
+	772.10.10 = { death=yes }
+}
+
+# Samnium #
+
+#Africanus of Samnium
+10={
+	name=Africanus
+	dynasty=8
+	culture=roman 
+	religion=roman_hellenic
+	749.7.22={ birth=yes }
+	770.1.1={ add_spouse=15 }
+	811.12.18={ death=yes }
+}
+#His son
+11={
+	name=Avilius
+	dynasty=8
+	culture=roman 
+	religion=roman_hellenic
+	father=10	#Africanus
+	mother=15	#Fortunata
+	771.3.11={ birth=yes }
+	821.11.10={ death=yes }
+}
+#His daughter
+12={
+	name=Marina
+	female=yes
+	dynasty=8
+	culture=roman 
+	religion=roman_hellenic
+	father=10	#Africanus
+	mother=15	#Fortunata
+	776.7.19={ birth=yes }
+	823.11.17={ death=yes }
+}
+#His daughter
+13={
+	name=Ulpia
+	female=yes
+	dynasty=8
+	culture=roman 
+	religion=roman_hellenic
+	father=10	#Africanus
+	mother=15	#Fortunata
+	780.5.16={ birth=yes }
+	830.5.13={ death=yes }
+}
+# His son
+14={
+	name=Priscus
+	dynasty=8
+	culture=roman 
+	religion=roman_hellenic
+	father=10	#Africanus
+	mother=15	#Fortunata
+	784.9.23={ birth=yes }
+	835.3.29={ death=yes }
+}
+#His wife
+15={
+	name=Fortunata
+	female=yes
+	culture=roman
+	religion=roman_hellenic
+	749.1.1={ birth=yes }
+	811.1.1={ death=yes }
+}

@@ -1,0 +1,278 @@
+# Suebi #
+
+#Becilla of the Suebi
+6500={
+	name=Becilla
+	dynasty=700
+	culture=germanic 
+	religion=heathen
+	741.12.14={ birth=yes }
+	762.1.1={ add_spouse=6511 }
+	814.10.31={ death=yes }
+}
+#His son
+6501={
+	name=Sescutus
+	dynasty=700
+	culture=germanic 
+	religion=heathen
+	father=6500	#Becilla
+	mother=6511	#Bagina
+	763.10.6={ birth=yes }
+	784.1.1={ add_spouse=6512 }
+	824.1.1={ death=yes }
+}
+#His son
+6502={
+	name=Onemiro
+	dynasty=700
+	culture=germanic 
+	religion=heathen
+	father=6500	#Becilla
+	mother=6511	#Bagina
+	766.7.10={ birth=yes }
+	837.2.21={ death=yes }
+}
+#His daughter
+6503={
+	name=Mirosinda
+	female=yes
+	dynasty=700
+	culture=germanic 
+	religion=heathen
+	father=6500	#Becilla
+	mother=6511	#Bagina
+	768.12.7={ birth=yes }
+	834.3.15={ death=yes }
+}
+#His son
+6504={
+	name=Neufila
+	dynasty=700
+	culture=germanic 
+	religion=heathen
+	father=6500	#Becilla
+	mother=6511	#Bagina
+	770.1.11={ birth=yes }
+	816.2.3={ death=yes }
+}
+#His son
+6505={
+	name=Huniscus
+	dynasty=700
+	culture=germanic 
+	religion=heathen
+	father=6500	#Becilla
+	mother=6511	#Bagina
+	773.3.8={ birth=yes }
+	820.5.17={ death=yes }
+}
+#His son
+6506={
+	name=Villisendus
+	dynasty=700
+	culture=germanic 
+	religion=heathen
+	father=6500	#Becilla
+	mother=6511	#Bagina
+	776.7.25={ birth=yes }
+	854.10.22={ death=yes }
+}
+#His daughter
+6507={
+	name=Stodildi
+	female=yes
+	dynasty=700
+	culture=germanic 
+	religion=heathen
+	father=6500	#Becilla
+	mother=6511	#Bagina
+	779.3.9={ birth=yes }
+	830.2.24={ death=yes }
+}
+#His grandson
+6508={
+	name=Nandaricus
+	dynasty=700
+	culture=germanic 
+	religion=heathen
+	father=6501	#Sescutus
+	mother=6512	#Raniverta
+	788.11.4={ birth=yes }
+	840.11.1={ death=yes }
+}
+#His granddaughter
+6509={
+	name=Senuita
+	female=yes
+	dynasty=700
+	culture=germanic 
+	religion=heathen
+	father=6501	#Sescutus
+	mother=6512	#Raniverta
+	792.4.23={ birth=yes }
+	849.5.1={ death=yes }
+}
+#His grandson
+6510={
+	name=Gundivaldo
+	dynasty=700
+	culture=germanic 
+	religion=heathen
+	father=6501	#Sescutus
+	mother=6512	#Raniverta
+	794.10.21={ birth=yes }
+	864.2.16={ death=yes }
+}
+#His wife
+6511={
+	name=Bagina
+	female=yes
+	culture=germanic
+	religion=heathen
+	741.1.1={ birth=yes }
+	814.1.1={ death=yes }
+}
+#His son's wife
+6512={
+	name=Raniverta
+	female=yes
+	culture=germanic
+	religion=heathen
+	763.1.1={ birth=yes }
+	824.1.1={ death=yes }
+}
+
+# Nemetes #
+
+#Roelindus of the Nemetes
+6513={
+	name=Roelindus
+	dynasty=701
+	culture=germanic 
+	religion=heathen
+	748.11.12={ birth=yes }
+	769.1.1={ add_spouse=6517 }
+	810.2.16={ death=yes }
+}
+#His son
+6514={
+	name=Gresumarus
+	dynasty=701
+	culture=germanic 
+	religion=heathen
+	father=6513	#Roelindus
+	mother=6517	#Fradegundia
+	776.10.18={ birth=yes }
+	830.6.29={ death=yes }
+}
+#His daughter
+6515={
+	name=Ermildi
+	female=yes
+	dynasty=701
+	culture=germanic 
+	religion=heathen
+	father=6513	#Roelindus
+	mother=6517	#Fradegundia
+	779.4.21={ birth=yes }
+	837.9.15={ death=yes }
+}
+#His daughter
+6516={
+	name=Teudileova
+	female=yes
+	dynasty=701
+	culture=germanic 
+	religion=heathen
+	father=6513	#Roelindus
+	mother=6517	#Fradegundia
+	781.8.11={ birth=yes }
+	839.12.31={ death=yes }
+}
+#His wife
+6517={
+	name=Fradegundia
+	female=yes
+	culture=germanic
+	religion=heathen
+	748.1.1={ birth=yes }
+	810.1.1={ death=yes }
+}
+
+# Vangiones #
+
+#Felmirus of the Vangiones
+6518={
+	name=Felmirus
+	dynasty=702
+	culture=germanic 
+	religion=heathen
+	742.1.4={ birth=yes }
+	763.1.1={ add_spouse=6523 }
+	815.6.15={ death=yes }
+}
+#His son
+6519={
+	name=Boniza
+	dynasty=702
+	culture=germanic 
+	religion=heathen
+	father=6518	#Felmirus
+	mother=6523	#Tractuilli
+	765.9.2={ birth=yes }
+	786.1.1={ add_spouse=6524 }
+	821.4.8={ death=yes }
+}
+# His daughter
+6520={
+	name=Teudileova
+	female=yes
+	dynasty=702
+	culture=germanic 
+	religion=heathen
+	father=6518	#Felmirus
+	mother=6523	#Tractuilli
+	770.4.13={ birth=yes }
+	822.9.27={ death=yes }
+}
+#His grandson
+6521={
+	name=Valao
+	dynasty=702
+	culture=germanic 
+	religion=heathen
+	father=6519	#Boniza
+	mother=6524	#Vergina
+	790.11.4={ birth=yes }
+	846.5.20={ death=yes }
+}
+#His grandson
+6522={
+	name=Suavarius
+	dynasty=702
+	culture=germanic 
+	religion=heathen
+	father=6519	#Boniza
+	mother=6524	#Vergina
+	793.8.24={ birth=yes }
+	867.5.7={ death=yes }
+}
+#His wife
+6523={
+	name=Tractuilli
+	female=yes
+	culture=germanic
+	religion=heathen
+	742.1.1={ birth=yes }
+	815.1.1={ death=yes }
+}
+#His son's wife
+6524={
+	name=Vergina
+	female=yes
+	culture=germanic
+	religion=heathen
+	765.1.1={ birth=yes }
+	821.1.1={ death=yes }
+}

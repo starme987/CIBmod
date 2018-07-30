@@ -1,0 +1,7 @@
+# e_roman_empire
+500.1.1={
+	law = agnatic_succession
+}
+800.1.1={
+	liege=k_italia
+}

@@ -1,0 +1,16 @@
+# c_sardinia
+
+# County Title
+title = c_sardinia
+
+# Settlements
+max_settlements = 2
+
+b_olbia = castle
+b_karalis = city
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

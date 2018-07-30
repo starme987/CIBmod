@@ -1,0 +1,15 @@
+# c_ausci
+
+# County Title
+title = c_ausci
+
+# Settlements
+max_settlements = 1
+
+b_placeholder_39 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

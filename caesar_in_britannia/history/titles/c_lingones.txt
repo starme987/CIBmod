@@ -1,0 +1,10 @@
+# e_belgica
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+800.1.1={
+	liege=d_lingones
+}
+776.1.1={holder=4517} #Romanisco[602]
+796.11.19={holder=4518} #Eboric[602]

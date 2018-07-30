@@ -1,0 +1,16 @@
+# c_durotriges
+
+# County Title
+title = c_durotriges
+
+# Settlements
+max_settlements = 2
+
+b_duronon = castle
+#b_neta = city
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

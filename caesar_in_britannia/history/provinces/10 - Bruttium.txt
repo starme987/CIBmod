@@ -1,0 +1,16 @@
+# c_bruttium
+
+# County Title
+title = c_bruttium
+
+# Settlements
+max_settlements = 2
+
+b_thurii = castle
+b_croton = city
+
+# Misc
+culture = greek
+religion = greek_hellenic
+
+#History

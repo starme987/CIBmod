@@ -1,0 +1,15 @@
+# c_corsica
+
+# County Title
+title = c_corsica
+
+# Settlements
+max_settlements = 1
+
+b_alalia = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

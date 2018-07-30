@@ -1,0 +1,10 @@
+# e_belgica
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+800.1.1={
+	liege=d_sequani
+}
+766.1.1={holder=5500} #Carantillo[518]
+813.07.11={holder=5501} #Carominius[518]

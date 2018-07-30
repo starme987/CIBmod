@@ -1,0 +1,23 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+January;Ianuarius;;;;;;;;;;;;;x
+February;Februarius;;;;;;;;;;;;;
+March;Martius;;;;;;;;;;;;;
+April;Aprilis;;;;;;;;;;;;;
+May;Maius;;;;;;;;;;;;;
+June;Iunius;;;;;;;;;;;;;
+July;Quintilis;;;;;;;;;;;;;
+August;Sextilis;;;;;;;;;;;;;
+September;September;;;;;;;;;;;;;
+October;October;;;;;;;;;;;;;
+November;November;;;;;;;;;;;;;
+December;December;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Monday;Dies Lunae;;;;;;;;;;;;;
+Tuesday;Dies Martis;;;;;;;;;;;;;
+Wednesday;Dies Mercurii;;;;;;;;;;;;;
+Thursday;Dies Jovis;;;;;;;;;;;;;
+Friday;Dies Veneris;;;;;;;;;;;;;
+Saturday;Dies Saturni;;;;;;;;;;;;;
+Sunday;Dies Solis;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+PICK_ERA_YEAR;$YEAR$ A.U.C.;;;;;;;;;;;;;

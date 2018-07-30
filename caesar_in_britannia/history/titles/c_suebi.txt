@@ -1,0 +1,11 @@
+# e_belgica
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+800.1.1={
+	liege=d_suebi
+}
+766.1.1={holder=6500} #Becilla[700]
+814.10.31={holder=6501} #Sescutus[700]
+824.01.01={holder=6508} #Nandaricus[700]

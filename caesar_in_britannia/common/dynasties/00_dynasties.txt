@@ -1,0 +1,189 @@
+
+
+#ROMAN
+
+
+1=
+{
+	name="Claudius" #Tiberius Claudius Caesar
+	culture="roman"
+	religion="roman_hellenic"
+}
+2=
+{
+	name="Plautius" #Aulus Plautius
+	culture="roman"
+	religion="roman_hellenic"
+}
+3=
+{
+	name="Antonius" #Julia Antonia
+	culture="roman"
+	religion="roman_hellenic"
+}
+4=
+{
+	name="Plautius" #Plautia Urgulanilla
+	culture="roman"
+	religion="roman_hellenic"
+}
+5=
+{
+	name="Aelius" #Aelia Paetina
+	culture="roman"
+	religion="roman_hellenic"
+}
+6=
+{
+	name="Valerius" #Valeria Messalina
+	culture="roman"
+	religion="roman_hellenic"
+}
+7=
+{
+	name="Julius" #Gaius Julius Caesar
+	culture="roman"
+	religion="roman_hellenic"
+}
+8=
+{
+	name="Iullius Mamercus"
+	culture="roman"
+	religion="roman_hellenic"
+}
+
+#British
+500=
+{
+	name="Cameni" #Caratacus
+	culture="british"
+	religion="british_druidic"
+}
+501=
+{
+	name="Manures"
+	culture="british"
+	religion="british_druidic"
+}
+502=
+{
+	name="Erdiges"
+	culture="british"
+	religion="british_druidic"
+}
+503=
+{
+	name="Nagori"
+	culture="british"
+	religion="british_druidic"
+}
+504=
+{
+	name="Caucangli"
+	culture="british"
+	religion="british_druidic"
+}
+505=
+{
+	name="Carnangli"
+	culture="british"
+	religion="british_druidic"
+}
+506=
+{
+	name="Demeni"
+	culture="british"
+	religion="british_druidic"
+}
+507=
+{
+	name="Voletae"
+	culture="gallic"
+	religion="gaulish_druidic"
+}
+508=
+{
+	name="Demicetae"
+	culture="british"
+	religion="british_druidic"
+}
+509={
+	name="Romegeni"
+	culture="british"
+	religion="british_druidic"
+}
+510={
+	name="Lugates"
+	culture="british"
+	religion="british_druidic"
+}
+511={
+	name="Darovarangli"
+	culture="british"
+	religion="british_druidic"
+}
+512={
+	name="Vacae"
+	culture="british"
+	religion="british_druidic"
+}
+513={
+	name="Icae"
+	culture="british"
+	religion="british_druidic"
+}
+514={
+	name="Eblauni"
+	culture="british"
+	religion="british_druidic"
+}
+515={
+	name="Parisi"
+	culture="british"
+	religion="british_druidic"
+}
+516={
+	name="Autures"
+	culture="british"
+	religion="british_druidic"
+}
+517={
+	name="Dubii"
+	culture="british"
+	religion="british_druidic"
+}
+518={
+	name="Volates"
+	culture="gallic"
+	religion="gaulish_druidic"
+}
+600={
+	name="Atreures"
+	culture="celtic"
+	religion="celtic_druidic"
+}
+601={
+	name="Epidaci"
+	culture="celtic"
+	religion="celtic_druidic"
+}
+602={
+	name="Votebati"
+	culture="celtic"
+	religion="celtic_druidic"
+}
+700={
+	name="Vennori"
+	culture="germanic"
+	religion="heathen"
+}
+701={
+	name="Smerae"
+	culture="germanic"
+	religion="heathen"
+}
+702={
+	name="Taexotrigae"
+	culture="germanic"
+	religion="heathen"
+}

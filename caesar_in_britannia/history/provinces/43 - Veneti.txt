@@ -1,0 +1,15 @@
+# c_veneti
+
+# County Title
+title = c_veneti
+
+# Settlements
+max_settlements = 1
+
+b_placeholder_29 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History
