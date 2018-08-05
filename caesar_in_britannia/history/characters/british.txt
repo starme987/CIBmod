@@ -1494,3 +1494,151 @@
 	female=yes
 	795.01.01 = { birth = yes }
 }
+3400={
+	name=Zanticus
+	father=3402
+	mother=3403
+	
+	dynasty=606
+	culture=british
+	religion=british_druidic
+	772.01.01 = { birth=yes }
+	837.01.01 = { death=yes }
+	796.01.01 = { add_spouse =3401 }
+}
+3401 = {
+	name=Visterlo
+	female=yes
+	religion=british_druidic
+	culture=british
+	776.01.01 = { birth=yes }
+	841.01.01 = { death=yes }
+}
+3402 = {
+	name=Eirigu
+	dynasty=606
+	religion=british_druidic
+	culture=british
+	748.01.01 = { birth = yes }
+	813.01.01 = { death = yes }
+	796.01.01 = { add_spouse =3403}
+}
+3403 = {
+	name=Sindiverga
+	female=yes
+	religion=british_druidic
+	culture=british
+	752.01.01 = { birth = yes }
+	817.01.01 = { death = yes}
+}
+3450={
+	name=Quidericus
+	father=3452
+	mother=3453
+	
+	dynasty=607
+	culture=british
+	religion=british_druidic
+	772.01.01 = { birth=yes }
+	837.01.01 = { death=yes }
+	796.01.01 = { add_spouse =3451 }
+}
+3451 = {
+	name=Gundiverga
+	female=yes
+	religion=british_druidic
+	culture=british
+	776.01.01 = { birth=yes }
+	841.01.01 = { death=yes }
+}
+3452 = {
+	name=Ranisclus
+	dynasty=607
+	religion=british_druidic
+	culture=british
+	748.01.01 = { birth = yes }
+	813.01.01 = { death = yes }
+	796.01.01 = { add_spouse =3453}
+}
+3453 = {
+	name=Sparuildi
+	female=yes
+	religion=british_druidic
+	culture=british
+	752.01.01 = { birth = yes }
+	817.01.01 = { death = yes}
+}
+3500={
+	name=Chararici
+	father=3502
+	mother=3503
+	
+	dynasty=608
+	culture=british
+	religion=british_druidic
+	772.01.01 = { birth=yes }
+	837.01.01 = { death=yes }
+	796.01.01 = { add_spouse =3501 }
+}
+3501 = {
+	name=Recerona
+	female=yes
+	religion=british_druidic
+	culture=british
+	776.01.01 = { birth=yes }
+	841.01.01 = { death=yes }
+}
+3502 = {
+	name=Divico
+	dynasty=608
+	religion=british_druidic
+	culture=british
+	748.01.01 = { birth = yes }
+	813.01.01 = { death = yes }
+	796.01.01 = { add_spouse =3503}
+}
+3503 = {
+	name=Tederona
+	female=yes
+	religion=british_druidic
+	culture=british
+	752.01.01 = { birth = yes }
+	817.01.01 = { death = yes}
+}
+3550={
+	name=Boduognatus
+	father=3552
+	mother=3553
+	
+	dynasty=609
+	culture=british
+	religion=british_druidic
+	772.01.01 = { birth=yes }
+	837.01.01 = { death=yes }
+	796.01.01 = { add_spouse =3551 }
+}
+3551 = {
+	name=Guandilo
+	female=yes
+	religion=british_druidic
+	culture=british
+	776.01.01 = { birth=yes }
+	841.01.01 = { death=yes }
+}
+3552 = {
+	name=Onemiro
+	dynasty=609
+	religion=british_druidic
+	culture=british
+	748.01.01 = { birth = yes }
+	813.01.01 = { death = yes }
+	796.01.01 = { add_spouse =3553}
+}
+3553 = {
+	name=Ebrildi
+	female=yes
+	religion=british_druidic
+	culture=british
+	752.01.01 = { birth = yes }
+	817.01.01 = { death = yes}
+}

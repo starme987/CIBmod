@@ -172,17 +172,41 @@
 	culture="celtic"
 	religion="celtic_druidic"
 }
-700={
+603=
+{
+	name="Vacates"
+	culture="british"
+	religion="british_druidic"
+}
+604=
+{
+	name="Venures"
+	culture="british"
+	religion="british_druidic"
+}
+605=
+{
+	name="Creonori"
+	culture="british"
+	religion="british_druidic"
+}
+606=
+{
+	name="Creonaci"
+	culture="british"
+	religion="british_druidic"
+}
+607={
 	name="Vennori"
 	culture="germanic"
 	religion="heathen"
 }
-701={
+608={
 	name="Smerae"
 	culture="germanic"
 	religion="heathen"
 }
-702={
+609={
 	name="Taexotrigae"
 	culture="germanic"
 	religion="heathen"
