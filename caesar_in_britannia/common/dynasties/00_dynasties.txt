@@ -211,3 +211,18 @@
 	culture="germanic"
 	religion="heathen"
 }
+700={
+	name="Vennori"
+	culture="germanic"
+	religion="heathen"
+}
+701={
+	name="Smerae"
+	culture="germanic"
+	religion="heathen"
+}
+702={
+	name="Taexotrigae"
+	culture="germanic"
+	religion="heathen"
+}
