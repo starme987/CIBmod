@@ -143,7 +143,6 @@
 #Siblings
 2554 = {
 	name=Arosinda
-	female=yes
 	dynasty=501
 	father = 2552
 	mother = 2553 
@@ -169,7 +168,7 @@
 	culture=british
 	780.01.01 = { birth = yes }
 }
-2556 = {
+2559 = {
 	name=Remismund
 	dynasty=501
 	father = 2550
@@ -178,7 +177,7 @@
 	culture=british
 	796.01.01 = { birth = yes }
 }
-2559 = { #changed from 2556 due to duplication
+2560 = {
 	name=Liuvilo
 	dynasty=501
 	father = 2550
@@ -191,8 +190,8 @@
 2557 = {
 	name=Maldras
 	dynasty=501
-	father = 2554
-	mother = 2555 
+	father = 2555
+	mother = 2554 
 	religion=british_druidic
 	culture=british
 	trait = "twin"
@@ -201,8 +200,8 @@
 2558 = {
 	name=Sabegoto
 	dynasty=501
-	father = 2554
-	mother = 2555
+	father = 2555
+	mother = 2554
 	female=yes 
 	religion=british_druidic
 	culture=british
@@ -249,7 +248,7 @@
 	learning = 4
 	trait = "brilliant_strategist"
 	trait = "just"
-	trait = "wroth"
+	trait = "wrath"
 	trait = "zealous"
 	trait = "chaste"
 }
@@ -349,7 +348,7 @@
 #A Child for Dub
 2702 = {
 	name=Osorico
-	culture=british
+	culutre=british
 	religion=british_druidic
 	dynasty=504
 	father = 2700
@@ -377,7 +376,7 @@
 #More Children for Dub
 2705 = {
 	name=Dadilo
-	culture=british
+	culutre=british
 	religion=british_druidic
 	dynasty=504
 	female=yes
@@ -387,7 +386,7 @@
 }
 2706 = {
 	name=Sisulfis
-	culture=british
+	culutre=british
 	religion=british_druidic
 	dynasty=504
 	father = 2700
