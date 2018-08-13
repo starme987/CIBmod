@@ -248,7 +248,7 @@
 	learning = 4
 	trait = "brilliant_strategist"
 	trait = "just"
-	trait = "wrath"
+	trait = "wroth"
 	trait = "zealous"
 	trait = "chaste"
 }
@@ -348,7 +348,7 @@
 #A Child for Dub
 2702 = {
 	name=Osorico
-	culutre=british
+	culture=british
 	religion=british_druidic
 	dynasty=504
 	father = 2700
@@ -376,7 +376,7 @@
 #More Children for Dub
 2705 = {
 	name=Dadilo
-	culutre=british
+	culture=british
 	religion=british_druidic
 	dynasty=504
 	female=yes
@@ -386,7 +386,7 @@
 }
 2706 = {
 	name=Sisulfis
-	culutre=british
+	culture=british
 	religion=british_druidic
 	dynasty=504
 	father = 2700
