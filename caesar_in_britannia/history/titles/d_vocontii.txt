@@ -3,6 +3,9 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
+700.1.1={
 	liege=k_transalpina
 }
+762.1.1={holder=4598} #Boduognatus[617]
+805.11.11={holder=4599} #Hildemix[617]
+831.03.14={holder=4605} #Mervigius[617]

@@ -3,6 +3,9 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
+700.1.1={
 	liege=k_cisalpina
 }
+739.1.1={holder=4635} #Todegogia[621]
+774.10.25={holder=4640} #Gumarius[621]
+799.07.15={holder=4641} #Docemiro[621]

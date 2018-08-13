@@ -3,6 +3,8 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
-	liege=k_helvetia
+700.1.1={
+	liege=d_helvetii
 }
+787.1.1={holder=4647} #Lodemiro[622]
+813.08.17={holder=4648} #Esaldus[622]

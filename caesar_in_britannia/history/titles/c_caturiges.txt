@@ -3,6 +3,8 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
-	liege=k_transalpina
+700.1.1={
+	liege=d_caturiges
 }
+773.1.1={holder=4612} #Trasmira[618]
+805.12.17={holder=4614} #Pantardu[618]

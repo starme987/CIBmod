@@ -3,6 +3,9 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
-	liege=k_lugdunensis
+700.1.1={
+	liege=d_allobroges
 }
+752.1.1={holder=4535} #Ariovistus[611]
+787.04.18={holder=4536} #Pederagildu[611]
+815.08.28={holder=4543} #Notarius[611]

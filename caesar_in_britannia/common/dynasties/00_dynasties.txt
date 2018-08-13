@@ -211,6 +211,76 @@
 	culture="germanic"
 	religion="heathen"
 }
+610={
+	name="Manonii"
+	culture="celtic"
+	religion="celtic_druidic"
+}
+611={
+	name="Brigi"
+	culture="celtic"
+	religion="celtic_druidic"
+}
+612={
+	name="Ganartes"
+	culture="celtic"
+	religion="celtic_druidic"
+}
+613={
+	name="Vennenates"
+	culture="celtic"
+	religion="celtic_druidic"
+}
+614={
+	name="Caucovonii"
+	culture="celtic"
+	religion="celtic_druidic"
+}
+615={
+	name="Creonomagaci"
+	culture="celtic"
+	religion="celtic_druidic"
+}
+616={
+	name="Smerti"
+	culture="celtic"
+	religion="celtic_druidic"
+}
+617={
+	name="Robates"
+	culture="celtic"
+	religion="celtic_druidic"
+}
+618={
+	name="Selaci"
+	culture="celtic"
+	religion="celtic_druidic"
+}
+619={
+	name="Vellangli"
+	culture="celtic"
+	religion="celtic_druidic"
+}
+620={
+	name="Cornnocaci"
+	culture="celtic"
+	religion="celtic_druidic"
+}
+621={
+	name="Vennovaci"
+	culture="celtic"
+	religion="celtic_druidic"
+}
+622={
+	name="Siletae"
+	culture="celtic"
+	religion="celtic_druidic"
+}
+623={
+	name="Demetae"
+	culture="celtic"
+	religion="celtic_druidic"
+}
 700={
 	name="Vennori"
 	culture="germanic"

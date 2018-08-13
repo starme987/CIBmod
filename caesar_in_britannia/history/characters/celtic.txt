@@ -272,3 +272,1671 @@
 	751.10.27={ birth=yes }
 	796.1.16={ death=yes }
 }
+
+#Aedui
+#His father
+4524={
+	name=Baltarius
+	dynasty=610
+	dna="aeflbdfpfob"
+	culture=celtic 
+	religion=celtic_druidic
+	739.5.2={ birth=yes }
+	759.1.1={ add_spouse=4534 }
+	789.11.9={ death=yes }
+}
+#Pabregildus of the Aedui/Manonii
+4525={
+	name=Pabregildus
+	dynasty=610
+	dna="ehlkpdfpmob"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4524	#Baltarius
+	mother=4534	#Zanina
+	765.11.3={ birth=yes }
+	824.8.4={ death=yes }
+}
+#His sister
+4526={
+	name=Guntedrudia
+	female=yes
+	dynasty=610
+	dna="ajhlaefpfoo"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4524	#Baltarius
+	mother=4534	#Zanina
+	767.11.27={ birth=yes }
+	819.4.25={ death=yes }
+}
+#His sister
+4527={
+	name=Fremosilli
+	female=yes
+	dynasty=610
+	dna="aoogbhfnfob"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4524	#Baltarius
+	mother=4534	#Zanina
+	769.2.5={ birth=yes }
+	843.9.9={ death=yes }
+}
+#His sister
+4528={
+	name=Espalli
+	female=yes
+	dynasty=610
+	dna="aeglbcnpfeb"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4524	#Baltarius
+	mother=4534	#Zanina
+	772.12.25={ birth=yes }
+	846.12.6={ death=yes }
+}
+#His brother
+4529={
+	name=Segomirus
+	dynasty=610
+	dna="aenlpdjbfok"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4524	#Baltarius
+	mother=4534	#Zanina
+	774.4.23={ birth=yes }
+	834.1.30={ death=yes }
+}
+#His brother
+4530={
+	name=Ansuaric
+	dynasty=610
+	dna="anjibdfpipn"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4524	#Baltarius
+	mother=4534	#Zanina
+	777.10.1={ birth=yes }
+	846.4.10={ death=yes }
+}
+#His sister
+4531={
+	name=Sisiverta
+	female=yes
+	dynasty=610
+	dna="medlbckmpgb"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4524	#Baltarius
+	mother=4534	#Zanina
+	781.5.7={ birth=yes }
+	828.7.3={ death=yes }
+}
+#His son
+4532={
+	name=Balderedo
+	dynasty=610
+	dna="effogdfnloc"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4525	#Pabregildus
+	791.5.16={ birth=yes }
+	856.6.27={ death=yes }
+}
+#His son
+4533={
+	name=Reirigus
+	dynasty=610
+	dna="adlkcdebnbb"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4525	#Pabregildus
+	793.10.18={ birth=yes }
+	865.1.3={ death=yes }
+}
+#His mother
+4534={
+	name=Zanina
+	female=yes
+	culture=celtic 
+	religion=celtic_druidic
+	739.5.2={ birth=yes }
+	789.11.9={ death=yes }
+}
+
+#Allobroges
+#His father
+4535={
+	name=Ariovistus
+	dynasty=611
+	dna="oobkmjcinda"
+	culture=celtic 
+	religion=celtic_druidic
+	727.6.1={ birth=yes }
+	747.1.1={ add_spouse=4547 }
+	787.4.18={ death=yes }
+}
+#Pederagildu of the Brigi
+4536={
+	name=Pederagildu
+	dynasty=611
+	dna="opbmcjckada"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4535	#Ariovistus
+	mother=4547	#Astriverga
+	753.1.19={ birth=yes }
+	773.1.1={ add_spouse=4548 }
+	815.8.28={ death=yes }
+}
+#His brother
+4537={
+	name=Donazarius
+	dynasty=611
+	dna="odokmeihmda"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4535	#Ariovistus
+	mother=4547	#Astriverga
+	757.12.8={ birth=yes }
+	837.6.29={ death=yes }
+}
+#His brother
+4538={
+	name=Eldesindus
+	dynasty=611
+	dna="olbpmnlinma"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4535	#Ariovistus
+	mother=4547	#Astriverga
+	760.12.5={ birth=yes }
+	816.11.29={ death=yes }
+}
+#His sister
+4539={
+	name=Rofdi
+	female=yes
+	dynasty=611
+	dna="oabkmgcibdh"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4535	#Ariovistus
+	mother=4547	#Astriverga
+	762.4.22={ birth=yes }
+	823.4.1={ death=yes }
+}
+#His brother
+4540={
+	name=Spanarius
+	dynasty=611
+	dna="bfbfgnkindc"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4535	#Ariovistus
+	mother=4547	#Astriverga
+	765.6.8={ birth=yes }
+	830.11.17={ death=yes }
+}
+#His brother
+4541={
+	name=Dulcemirus
+	dynasty=611
+	dna="oflkpjcfnda"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4535	#Ariovistus
+	mother=4547	#Astriverga
+	767.8.24={ birth=yes }
+	831.7.28={ death=yes }
+}
+#His brother
+4542={
+	name=Esaldus
+	dynasty=611
+	dna="emhkbpcifda"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4535	#Ariovistus
+	mother=4547	#Astriverga
+	771.11.2={ birth=yes }
+	855.10.15={ death=yes }
+}
+#His son
+4543={
+	name=Notarius
+	dynasty=611
+	dna="jpfmlfhkdho"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4536	#Pederagildu
+	mother=4548	#Ebrildi
+	776.8.20={ birth=yes }
+	823.5.28={ death=yes }
+}
+#His daughter
+4544={
+	name=Penefreda
+	female=yes
+	dynasty=611
+	dna="ojdmhjcgfdm"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4536	#Pederagildu
+	mother=4548	#Ebrildi
+	781.6.12={ birth=yes }
+	828.4.28={ death=yes }
+}
+#His son
+4545={
+	name=Teutobod
+	dynasty=611
+	dna="opbgnnjkaea"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4536	#Pederagildu
+	mother=4548	#Ebrildi
+	786.4.24={ birth=yes }
+	859.11.20={ death=yes }
+}
+#His son
+4546={
+	name=Brinno
+	dynasty=611
+	dna="obomcjckldl"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4536	#Pederagildu
+	mother=4548	#Ebrildi
+	791.11.22={ birth=yes }
+	867.12.9={ death=yes }
+}
+#His mother
+4547={
+	name=Astriverga
+	female=yes
+	culture=celtic 
+	religion=celtic_druidic
+	727.6.1={ birth=yes }
+	787.4.18={ death=yes }
+}
+#His wife
+4548={
+	name=Ebrildi
+	female=yes
+	culture=celtic 
+	religion=celtic_druidic
+	753.1.19={ birth=yes }
+	815.8.28={ death=yes }
+}
+
+#Volcae
+#Roelindus of the Ganartes
+4549={
+	name=Roelindus
+	dynasty=612
+	dna="affnccgahpe"
+	culture=celtic 
+	religion=celtic_druidic
+	760.4.13={ birth=yes }
+	780.1.1={ add_spouse=4553 }
+	823.11.21={ death=yes }
+}
+#His daughter
+4550={
+	name=Fagila
+	female=yes
+	dynasty=612
+	dna="dfcncdgfjbd"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4549	#Roelindus
+	mother=4553	#Recesuinda
+	782.3.4={ birth=yes }
+	837.12.21={ death=yes }
+}
+#His son
+4551={
+	name=Rendericus
+	dynasty=612
+	dna="jkflcpncbje"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4549	#Roelindus
+	mother=4553	#Recesuinda
+	786.5.3={ birth=yes }
+	833.11.4={ death=yes }
+}
+#His son
+4552={
+	name=Zendasix
+	dynasty=612
+	dna="acfnihgablk"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4549	#Roelindus
+	mother=4553	#Recesuinda
+	790.2.24={ birth=yes }
+	857.5.10={ death=yes }
+}
+#His wife
+4553={
+	name=Recesuinda
+	female=yes
+	culture=celtic 
+	religion=celtic_druidic
+	760.4.13={ birth=yes }
+	823.11.21={ death=yes }
+}
+
+#Cadurci
+#Ballomar of the Vennenates
+4554={
+	name=Ballomar
+	dynasty=613
+	dna="kigllfnkoig"
+	culture=celtic 
+	religion=celtic_druidic
+	762.8.15={ birth=yes }
+	782.1.1={ add_spouse=4559 }
+	807.10.12={ death=yes }
+}
+#His son
+4555={
+	name=Provaredo
+	dynasty=613
+	dna="odgflfmkdin"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4554	#Ballomar
+	mother=4559	#Sisilli
+	786.1.25={ birth=yes }
+	851.6.30={ death=yes }
+}
+#His son
+4556={
+	name=Quedulfus
+	dynasty=613
+	dna="pigllfngedc"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4554	#Ballomar
+	mother=4559	#Sisilli
+	789.11.24={ birth=yes }
+	823.4.16={ death=yes }
+}
+#His daughter
+4557={
+	name=Ermildi
+	female=yes
+	dynasty=613
+	dna="oidmkfpkohe"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4554	#Ballomar
+	mother=4559	#Sisilli
+	793.6.15={ birth=yes }
+	837.7.13={ death=yes }
+}
+#His son
+4558={
+	name=Heremigar
+	dynasty=613
+	dna="biglcpbkhpg"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4554	#Ballomar
+	mother=4559	#Sisilli
+	796.1.1={ birth=yes }
+	862.11.30={ death=yes }
+}
+#His wife
+4559={
+	name=Sisilli
+	female=yes
+	culture=celtic 
+	religion=celtic_druidic
+	762.8.15={ birth=yes }
+	807.10.12={ death=yes }
+}
+
+#Arveni
+#His father
+4560={
+	name=Hilderic
+	dynasty=614
+	dna="dpifdddecph"
+	culture=celtic 
+	religion=celtic_druidic
+	717.3.22={ birth=yes }
+	737.1.1={ add_spouse=4574 }
+	775.10.12={ death=yes }
+}
+#Baudemiro of the Caucovonii
+4561={
+	name=Baudemiro
+	dynasty=614
+	dna="daledddecpj"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4560	#Hilderic
+	mother=4574	#Recesenda
+	738.12.4={ birth=yes }
+	758.1.1={ add_spouse=4575 }
+	796.3.18={ death=yes }
+}
+#His brother
+4562={
+	name=Venedariix
+	dynasty=614
+	dna="opdfdddgcmh"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4560	#Hilderic
+	mother=4574	#Recesenda
+	743.8.22={ birth=yes }
+	806.7.20={ death=yes }
+}
+#His sister
+4563={
+	name=Sisiverta
+	female=yes
+	dynasty=614
+	dna="dbndhmhbnjb"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4560	#Hilderic
+	mother=4574	#Recesenda
+	745.3.24={ birth=yes }
+	790.9.13={ death=yes }
+}
+#His sister
+4564={
+	name=Teodoriga
+	female=yes
+	dynasty=614
+	dna="cpnfcdfejhn"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4560	#Hilderic
+	mother=4574	#Recesenda
+	750.12.11={ birth=yes }
+	806.7.1={ death=yes }
+}
+#His brother
+4565={
+	name=Fromildus
+	dynasty=614
+	dna="mfifdlfmeao"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4560	#Hilderic
+	mother=4574	#Recesenda
+	753.8.16={ birth=yes }
+	818.7.13={ death=yes }
+}
+#His sister
+4566={
+	name=Guntedrudia
+	female=yes
+	dynasty=614
+	dna="dpifdddenbh"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4560	#Hilderic
+	mother=4574	#Recesenda
+	755.11.17={ birth=yes }
+	812.5.11={ death=yes }
+}
+#His brother
+4567={
+	name=Hildemix
+	dynasty=614
+	dna="dpifaddeepk"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4560	#Hilderic
+	mother=4574	#Recesenda
+	760.9.17={ birth=yes }
+	832.5.30={ death=yes }
+}
+#His son
+4568={
+	name=Engimiro
+	dynasty=614
+	dna="papedddeklp"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4561	#Baudemiro
+	mother=4575	#Visterio
+	763.11.26={ birth=yes }
+	783.1.1={ add_spouse=4576 }
+	837.5.16={ death=yes }
+}
+#His daughter
+4569={
+	name=Trastivigia
+	female=yes
+	dynasty=614
+	dna="dolbfddecag"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4561	#Baudemiro
+	mother=4575	#Visterio
+	768.6.8={ birth=yes }
+	836.10.27={ death=yes }
+}
+#His daughter
+4570={
+	name=Ragesenda
+	female=yes
+	dynasty=614
+	dna="fbhihceecop"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4561	#Baudemiro
+	mother=4575	#Visterio
+	770.7.25={ birth=yes }
+	839.9.14={ death=yes }
+}
+#His granddaughter
+4571={
+	name=Granila
+	female=yes
+	dynasty=614
+	dna="pmkadddekob"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4568	#Engimiro
+	mother=4676	#Tenildi
+	788.6.18={ birth=yes }
+	862.9.17={ death=yes }
+}
+#His granddaughter
+4572={
+	name=Ragesenda
+	female=yes
+	dynasty=614
+	dna="faofddihkhd"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4568	#Engimiro
+	mother=4676	#Tenildi
+	792.4.8={ birth=yes }
+	839.1.24={ death=yes }
+}
+#His grandson
+4573={
+	name=Randinus
+	dynasty=614
+	dna="bakidmdoklg"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4568	#Engimiro
+	mother=4676	#Tenildi
+	795.7.3={ birth=yes }
+	868.2.11={ death=yes }
+}
+#His mother
+4574={
+	name=Recesenda
+	female=yes
+	culture=celtic 
+	religion=celtic_druidic
+	717.3.22={ birth=yes }
+	775.10.12={ death=yes }
+}
+#His wife
+4575={
+	name=Visterio
+	female=yes
+	culture=celtic 
+	religion=celtic_druidic
+	738.12.4={ birth=yes }
+	796.3.18={ death=yes }
+}
+#His son's wife
+4576={
+	name=Tenildi
+	female=yes
+	culture=celtic 
+	religion=celtic_druidic
+	763.11.26={ birth=yes }
+	837.5.16={ death=yes }
+}
+
+#Biturges
+#Remisol of the Creonomagaci
+4577={
+	name=Remisol
+	dynasty=615
+	dna="gmemccehkjf"
+	culture=celtic 
+	religion=celtic_druidic
+	707.8.1={ birth=yes }
+	727.1.1={ add_spouse=4589 }
+	796.10.11={ death=yes }
+}
+#His son
+4578={
+	name=Onemiro
+	dynasty=615
+	dna="gdamcchdajg"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4577	#Remisol
+	mother=4589	#Cisilo
+	732.10.20={ birth=yes }
+	752.1.1={ add_spouse=4590 }
+	784.2.21={ death=yes }
+}
+#His son
+4579={
+	name=Baldemarius
+	dynasty=615
+	dna="hmemcclpkif"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4577	#Remisol
+	mother=4589	#Cisilo
+	734.8.10={ birth=yes }
+	800.4.16={ death=yes }
+}
+#His son
+4580={
+	name=Malarix
+	dynasty=615
+	dna="gmcmccmjmfk"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4577	#Remisol
+	mother=4589	#Cisilo
+	737.5.2={ birth=yes }
+	788.2.15={ death=yes }
+}
+#His son
+4581={
+	name=Gaudesindo
+	dynasty=615
+	dna="gmemccednjn"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4577	#Remisol
+	mother=4589	#Cisilo
+	739.7.20={ birth=yes }
+	820.10.26={ death=yes }
+}
+#His daughter
+4582={
+	name=Frolio
+	female=yes
+	dynasty=615
+	dna="agoleoehlbf"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4577	#Remisol
+	mother=4589	#Cisilo
+	742.9.1={ birth=yes }
+	807.3.11={ death=yes }
+}
+#His granddaughter
+4583={
+	name=Genlo
+	female=yes
+	dynasty=615
+	dna="hdmmichjajo"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4578	#Onemiro
+	mother=4590	#Ailo
+	754.6.1={ birth=yes }
+	816.12.24={ death=yes }
+}
+#His granddaughter
+4584={
+	name=Sisilli
+	female=yes
+	dynasty=615
+	dna="gdiccohldeg"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4578	#Onemiro
+	mother=4590	#Ailo
+	760.5.27={ birth=yes }
+	827.11.25={ death=yes }
+}
+#His granddaughter
+4585={
+	name=Espalli
+	female=yes
+	dynasty=615
+	dna="adaanobdpjg"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4578	#Onemiro
+	mother=4590	#Ailo
+	762.12.22={ birth=yes }
+	830.1.12={ death=yes }
+}
+#His grandson
+4586={
+	name=Vidraldus
+	dynasty=615
+	dna="fdajibggcgg"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4578	#Onemiro
+	mother=4590	#Ailo
+	765.11.17={ birth=yes }
+	840.6.4={ death=yes }
+}
+#His great-grandson
+4587={
+	name=Onoricus
+	dynasty=615
+	dna="enajiefaagg"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4586	#Vidraldus
+	790.10.24={ birth=yes }
+	858.9.19={ death=yes }
+}
+#His great-grandson
+4588={
+	name=Osdulfus
+	dynasty=615
+	dna="jdajibagcbg"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4586	#Vidraldus
+	793.10.4={ birth=yes }
+	852.1.20={ death=yes }
+}
+#His wife
+4589={
+	name=Cisilo
+	female=yes
+	culture=celtic 
+	religion=celtic_druidic
+	707.8.1={ birth=yes }
+	796.10.11={ death=yes }
+}
+#His son's wife
+4590={
+	name=Ailo
+	female=yes
+	culture=celtic 
+	religion=celtic_druidic
+	732.10.20={ birth=yes }
+	784.2.21={ death=yes }
+}
+
+#Lemovices
+#Pantardu of the Smerti
+4591={
+	name=Pantardu
+	dynasty=616
+	dna="ppafeakeipn"
+	culture=celtic 
+	religion=celtic_druidic
+	740.2.15={ birth=yes }
+	760.1.1={ add_spouse=4597 }
+	801.12.10={ death=yes }
+}
+#His son
+4592={
+	name=Sagatus
+	dynasty=616
+	dna="cfafnjheipn"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4591	#Pantardu
+	mother=4597	#Desteilli
+	770.9.21={ birth=yes }
+	837.8.24={ death=yes }
+}
+#His son
+4593={
+	name=Sentarius
+	dynasty=616
+	dna="pemkhchngpn"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4591	#Pantardu
+	mother=4597	#Desteilli
+	772.4.2={ birth=yes }
+	839.3.9={ death=yes }
+}
+#His daughter
+4594={
+	name=Texilli
+	female=yes
+	dynasty=616
+	dna="pnhieamaipe"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4591	#Pantardu
+	mother=4597	#Desteilli
+	774.1.18={ birth=yes }
+	842.12.19={ death=yes }
+}
+#His grandson
+4595={
+	name=Algasterus
+	dynasty=616
+	dna="dfnfnjheamj"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4592	#Sagatus
+	792.4.2={ birth=yes }
+	863.4.29={ death=yes }
+}
+#His grandson
+4596={
+	name=Gundivaldo
+	dynasty=616
+	dna="cfafnjheilb"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4592	#Sagatus
+	795.3.7={ birth=yes }
+	843.1.19={ death=yes }
+}
+#His wife
+4597={
+	name=Desteilli
+	female=yes
+	culture=celtic 
+	religion=celtic_druidic
+	740.2.15={ birth=yes }
+	801.12.10={ death=yes }
+}
+
+#Vocontii
+#Boduognatus of the Robates
+4598={
+	name=Boduognatus
+	dynasty=617
+	dna="poibhnpbpch"
+	culture=celtic 
+	religion=celtic_druidic
+	737.9.5={ birth=yes }
+	757.1.1={ add_spouse=4610 }
+	805.11.11={ death=yes }
+}
+#His son
+4599={
+	name=Hildemix
+	dynasty=617
+	dna="pbbapncbffh"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4598	#Boduognatus
+	mother=4610	#Ebrildi
+	760.7.27={ birth=yes }
+	780.1.1={ add_spouse=4611 }
+	831.3.14={ death=yes }
+}
+#His daughter
+4600={
+	name=Granila
+	female=yes
+	dynasty=617
+	dna="faapgilppcj"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4598	#Boduognatus
+	mother=4610	#Ebrildi
+	762.2.18={ birth=yes }
+	819.2.21={ death=yes }
+}
+#His son
+4601={
+	name=Viamundus
+	dynasty=617
+	dna="pdiihfoapch"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4598	#Boduognatus
+	mother=4610	#Ebrildi
+	766.11.3={ birth=yes }
+	813.1.22={ death=yes }
+}
+#His son
+4602={
+	name=Fagildus
+	dynasty=617
+	dna="poikhnpekch"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4598	#Boduognatus
+	mother=4610	#Ebrildi
+	769.6.20={ birth=yes }
+	813.7.25={ death=yes }
+}
+#His daughter
+4603={
+	name=Visterlo
+	female=yes
+	dynasty=617
+	dna="bohlhnkbgph"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4598	#Boduognatus
+	mother=4610	#Ebrildi
+	773.8.17={ birth=yes }
+	841.11.15={ death=yes }
+}
+#His grandson
+4604={
+	name=Suevisco
+	female=yes
+	dynasty=617
+	dna="plbadnchfff"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4599	#Hildemix
+	mother=4611	#Tenildi
+	781.9.10={ birth=yes }
+	856.12.20={ death=yes }
+}
+#His grandson
+4605={
+	name=Mervigius
+	dynasty=617
+	dna="pklbpnjbmhk"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4599	#Hildemix
+	mother=4611	#Tenildi
+	783.3.18={ birth=yes }
+	850.9.26={ death=yes }
+}
+#His grandson
+4606={
+	name=Dagaredus
+	dynasty=617
+	dna="icfldamgclh"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4599	#Hildemix
+	mother=4611	#Tenildi
+	785.1.12={ birth=yes }
+	851.3.16={ death=yes }
+}
+#His grandson
+4607={
+	name=Randuarius
+	dynasty=617
+	dna="ebjlpocbfkd"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4599	#Hildemix
+	mother=4611	#Tenildi
+	789.9.15={ birth=yes }
+	838.1.8={ death=yes }
+}
+#His granddaughter
+4608={
+	name=Liuvilo
+	female=yes
+	dynasty=617
+	dna="hgbgpncbfmh"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4599	#Hildemix
+	mother=4611	#Tenildi
+	790.8.9={ birth=yes }
+	846.11.18={ death=yes }
+}
+#His grandson
+4609={
+	name=Ragimiro
+	dynasty=617
+	dna="plbkpnibnfh"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4599	#Hildemix
+	mother=4611	#Tenildi
+	793.7.16={ birth=yes }
+	857.2.10={ death=yes }
+}
+#His wife
+4610={
+	name=Ebrildi
+	female=yes
+	culture=celtic 
+	religion=celtic_druidic
+	737.9.5={ birth=yes }
+	805.11.11={ death=yes }
+}
+#His son's wife
+4611={
+	name=Tenildi
+	female=yes
+	culture=celtic 
+	religion=celtic_druidic
+	760.7.27={ birth=yes }
+	831.3.14={ death=yes }
+}
+
+#Caturiges
+#Trasmira of the Selaci
+4612={
+	name=Trasmira
+	dynasty=618
+	dna="lookhcjlpeb"
+	culture=celtic 
+	religion=celtic_druidic
+	748.7.23={ birth=yes }
+	768.1.1={ add_spouse=4616 }
+	805.12.17={ death=yes }
+}
+#His daughter
+4613={
+	name=Entrudi
+	female=yes
+	dynasty=618
+	dna="joomkcjoheb"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4612	#Trasmira
+	mother=4616	#Kindiverga
+	772.4.17={ birth=yes }
+	810.1.2={ death=yes }
+}
+#His son
+4614={
+	name=Pantardu
+	dynasty=618
+	dna="lalgeceoggb"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4612	#Trasmira
+	mother=4616	#Kindiverga
+	774.1.6={ birth=yes }
+	837.9.28={ death=yes }
+}
+#His son
+4615={
+	name=Spoderigo
+	dynasty=618
+	dna="gookpjjpoeb"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4612	#Trasmira
+	mother=4616	#Kindiverga
+	777.2.9={ birth=yes }
+	862.1.20={ death=yes }
+}
+#His wife
+4616={
+	name=Kindiverga
+	female=yes
+	culture=celtic 
+	religion=celtic_druidic
+	748.7.23={ birth=yes }
+	795.12.17={ death=yes }
+}
+
+#Insubres
+#Lugius of the Vellangli
+4617={
+	name=Lugius
+	dynasty=619
+	dna="oepimldlfch"
+	culture=celtic 
+	religion=celtic_druidic
+	718.10.14={ birth=yes }
+	738.1.1={ add_spouse=4627 }
+	765.2.26={ death=yes }
+}
+#His daughter
+4618={
+	name=Fremosilli
+	female=yes
+	dynasty=619
+	dna="lepimijlfch"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4617	#Lugius
+	mother=4627	#Aniedrudia
+	745.7.16={ birth=yes }
+	811.3.7={ death=yes }
+}
+#His daughter
+4619={
+	name=Ildiverga
+	female=yes
+	dynasty=619
+	dna="oipihldljch"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4617	#Lugius
+	mother=4627	#Aniedrudia
+	748.9.14={ birth=yes }
+	801.6.23={ death=yes }
+}
+#His son
+4620={
+	name=Tumtuldo
+	dynasty=619
+	dna="bemodedjfcg"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4617	#Lugius
+	mother=4627	#Aniedrudia
+	750.10.14={ birth=yes }
+	770.1.1={ add_spouse=4628 }
+	803.4.19={ death=yes }
+}
+#His son
+4621={
+	name=Huniscus
+	dynasty=619
+	dna="kknimcdlfcj"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4617	#Lugius
+	mother=4627	#Aniedrudia
+	752.2.25={ birth=yes }
+	810.10.3={ death=yes }
+}
+#His grandson
+4622={
+	name=Dulcemirus
+	dynasty=619
+	dna="lkmolenjbcg"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4620	#Tumtuldo
+	mother=4628	#Donadildi
+	778.10.14={ birth=yes }
+	823.10.27={ death=yes }
+}
+#His granddaughter
+4623={
+	name=Fagila
+	female=yes
+	dynasty=619
+	dna="mnmfdffjbga"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4620	#Tumtuldo
+	mother=4628	#Donadildi
+	782.6.16={ birth=yes }
+	854.6.27={ death=yes }
+}
+#His grandson
+4624={
+	name=Veremus
+	dynasty=619
+	dna="neoddodjffe"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4620	#Tumtuldo
+	mother=4628	#Donadildi
+	786.7.25={ birth=yes }
+	853.4.19={ death=yes }
+}
+#His grandson
+4625={
+	name=Reirigus
+	dynasty=619
+	dna="lgmohedjpcg"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4620	#Tumtuldo
+	mother=4628	#Donadildi
+	789.9.19={ birth=yes }
+	843.12.17={ death=yes }
+}
+#His grandson
+4626={
+	name=Onemiro
+	dynasty=619
+	dna="lemldepnijg"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4620	#Tumtuldo
+	mother=4628	#Donadildi
+	793.10.3={ birth=yes }
+	845.4.6={ death=yes }
+}
+#His wife
+4627={
+	name=Aniedrudia
+	female=yes
+	culture=celtic 
+	religion=celtic_druidic
+	718.10.14={ birth=yes }
+	765.2.26={ death=yes }
+}
+#His son's wife
+4628={
+	name=Donadildi
+	female=yes
+	culture=celtic 
+	religion=celtic_druidic
+	750.10.14={ birth=yes }
+	803.4.19={ death=yes }
+}
+
+#Camunni
+#Fromildus of the Cornnocaci
+4629={
+	name=Fromildus
+	dynasty=620
+	dna="jafmlcanbli"
+	culture=celtic 
+	religion=celtic_druidic
+	735.12.10={ birth=yes }
+	755.1.1={ add_spouse=4634 }
+	781.8.15={ death=yes }
+}
+#His daughter
+4630={
+	name=Ailo
+	female=yes
+	dynasty=620
+	dna="jlfamkbncli"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4629	#Fromildus
+	mother=4634	#Sabegoto
+	761.10.11={ birth=yes }
+	827.3.5={ death=yes }
+}
+#His son
+4631={
+	name=Ariovistus
+	dynasty=620
+	dna="dnfilmabloh"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4629	#Fromildus
+	mother=4634	#Sabegoto
+	765.9.8={ birth=yes }
+	841.8.6={ death=yes }
+}
+#His son
+4632={
+	name=Tumtuldo
+	dynasty=620
+	dna="jfglllacphe"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4629	#Fromildus
+	mother=4634	#Sabegoto
+	771.5.25={ birth=yes }
+	822.7.2={ death=yes }
+}
+#His grandson
+4633={
+	name=Pederagildu
+	dynasty=620
+	dna="dnegedjblej"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4631	#Ariovistus
+	794.4.18={ birth=yes }
+	858.12.10={ death=yes }
+}
+#His wife
+4634={
+	name=Sabegoto
+	female=yes
+	culture=celtic 
+	religion=celtic_druidic
+	735.12.10={ birth=yes }
+	781.8.15={ death=yes }
+}
+
+#Raeti
+#His father
+4635={
+	name=Todegogia
+	dynasty=621
+	dna="belhcnebojl"
+	culture=celtic 
+	religion=celtic_druidic
+	714.12.21={ birth=yes }
+	734.1.1={ add_spouse=4646 }
+	774.10.25={ death=yes }
+}
+#His sister
+4636={
+	name=Mirosinda
+	female=yes
+	dynasty=621
+	dna="gefjkaebojd"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4635	#Todegogia
+	mother=4646	#Texilli
+	739.3.24={ birth=yes }
+	789.10.3={ death=yes }
+}
+#His sister
+4637={
+	name=Aliverta
+	female=yes
+	dynasty=621
+	dna="bonhckndfjl"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4635	#Todegogia
+	mother=4646	#Texilli
+	741.12.3={ birth=yes }
+	797.3.29={ death=yes }
+}
+#His sister
+4638={
+	name=Desteilli
+	female=yes
+	dynasty=621
+	dna="belioeenmdn"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4635	#Todegogia
+	mother=4646	#Texilli
+	744.1.17={ birth=yes }
+	778.8.14={ death=yes }
+}
+#His sister
+4639={
+	name=Facali
+	female=yes
+	dynasty=621
+	dna="pimecgebobl"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4635	#Todegogia
+	mother=4646	#Texilli
+	748.3.23={ birth=yes }
+	807.5.13={ death=yes }
+}
+#Gumarius of the Vennovaci
+4640={
+	name=Gumarius
+	dynasty=621
+	dna="bjmaefdbjjl"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4635	#Todegogia
+	mother=4646	#Texilli
+	754.3.23={ birth=yes }
+	774.1.1={ add_spouse=4663 }
+	799.7.15={ death=yes }
+}
+#His son
+4641={
+	name=Docemiro
+	dynasty=621
+	dna="cpgfffhnjjc"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4640	#Gumarius
+	mother=4663	#Sontrilli
+	778.11.25={ birth=yes }
+	828.7.2={ death=yes }
+}
+#His daughter
+4642={
+	name=Recesuinda
+	female=yes
+	dynasty=621
+	dna="bjmmcfdhjjl"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4640	#Gumarius
+	mother=4663	#Sontrilli
+	781.5.4={ birth=yes }
+	839.8.23={ death=yes }
+}
+#His son
+4643={
+	name=Fagildus
+	dynasty=621
+	dna="oncajdmoijl"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4640	#Gumarius
+	mother=4663	#Sontrilli
+	783.7.12={ birth=yes }
+	836.2.22={ death=yes }
+}
+#His daughter
+4644={
+	name=Suevisco
+	female=yes
+	dynasty=621
+	dna="bjfaeipbeal"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4640	#Gumarius
+	mother=4663	#Sontrilli
+	787.11.26={ birth=yes }
+	876.7.22={ death=yes }
+}
+#His son
+4645={
+	name=Audeca
+	dynasty=621
+	dna="bjdaenjlcjl"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4640	#Gumarius
+	mother=4663	#Sontrilli
+	789.6.4={ birth=yes }
+	848.10.16={ death=yes }
+}
+#His mother
+4646={
+	name=Texilli
+	female=yes
+	culture=celtic 
+	religion=celtic_druidic
+	714.12.21={ birth=yes }
+	774.10.25={ death=yes }
+}
+#His wife
+4663={
+	name=Sontrilli
+	female=yes
+	culture=celtic 
+	religion=celtic_druidic
+	754.3.23={ birth=yes }
+	799.7.15={ death=yes }
+}
+
+#Helvetti
+#Lodemiro of the Siletae
+4647={
+	name=Lodemiro
+	dynasty=622
+	dna="bffpnpgpman"
+	culture=celtic 
+	religion=celtic_druidic
+	762.3.26={ birth=yes }
+	782.1.1={ add_spouse=4651 }
+	813.8.17={ death=yes }
+}
+#His son
+4648={
+	name=Esaldus
+	dynasty=622
+	dna="bfjcjpgpomn"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4647	#Lodemiro
+	mother=4651	#Anila
+	786.2.20={ birth=yes }
+	852.5.18={ death=yes }
+}
+#His daughter
+4649={
+	name=Fremosilli
+	female=yes
+	dynasty=622
+	dna="bfcamegmnap"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4647	#Lodemiro
+	mother=4651	#Anila
+	790.6.10={ birth=yes }
+	835.8.15={ death=yes }
+}
+#His son
+4650={
+	name=Egenus
+	dynasty=622
+	dna="bfamnfapmcn"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4647	#Lodemiro
+	mother=4651	#Anila
+	796.8.6={ birth=yes }
+	877.8.3={ death=yes }
+}
+#His wife
+4651={
+	name=Anila
+	female=yes
+	culture=celtic 
+	religion=celtic_druidic
+	762.3.26={ birth=yes }
+	813.8.17={ death=yes }
+}
+
+#Tulingi
+#His father
+4652={
+	name=Froatingus
+	dynasty=623
+	dna="hbnjmoeianh"
+	culture=celtic 
+	religion=celtic_druidic
+	724.11.2={ birth=yes }
+	744.1.1={ add_spouse=4661 }
+	775.1.18={ death=yes }
+}
+#Onemiro of the Demetae
+4653={
+	name=Onemiro
+	dynasty=623
+	dna="hbojooeimnh"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4652	#Froatingus
+	mother=4661	#Ragesenda
+	748.5.16={ birth=yes }
+	768.1.1={ add_spouse=4662 }
+	801.6.19={ death=yes }
+}
+#His brother
+4654={
+	name=Romarigus
+	dynasty=623
+	dna="hbdjbfjielc"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4652	#Froatingus
+	mother=4661	#Ragesenda
+	750.2.13={ birth=yes }
+	808.7.12={ death=yes }
+}
+#His sister
+4655={
+	name=Sisiverta
+	female=yes
+	dynasty=623
+	dna="hbanpomhgng"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4652	#Froatingus
+	mother=4661	#Ragesenda
+	755.8.10={ birth=yes }
+	811.5.5={ death=yes }
+}
+#His brother
+4656={
+	name=Ranisclus
+	dynasty=623
+	dna="hnnjcjeibbo"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4652	#Froatingus
+	mother=4661	#Ragesenda
+	757.8.26={ birth=yes }
+	829.1.3={ death=yes }
+}
+#His brother
+4657={
+	name=Ragimiro
+	dynasty=623
+	dna="hfnjhbmiafh"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4652	#Froatingus
+	mother=4661	#Ragesenda
+	760.1.17={ birth=yes }
+	821.6.4={ death=yes }
+}
+#His daughter
+4658={
+	name=Recerona
+	female=yes
+	dynasty=623
+	dna="gegjooeimnh"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4653	#Onemiro
+	mother=4662	#Acilo
+	774.6.4={ birth=yes }
+	833.8.2={ death=yes }
+}
+#His son
+4659={
+	name=Adeqisio
+	dynasty=623
+	dna="hbdeoooimgh"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4653	#Onemiro
+	mother=4662	#Acilo
+	778.7.24={ birth=yes }
+	850.1.10={ death=yes }
+}
+#His son
+4660={
+	name=Pantinus
+	dynasty=623
+	dna="dpojafeidcp"
+	culture=celtic 
+	religion=celtic_druidic
+	father=4653	#Onemiro
+	mother=4662	#Acilo
+	781.4.1={ birth=yes }
+	835.2.15={ death=yes }
+}
+#His mother
+4661={
+	name=Ragesenda
+	female=yes
+	culture=celtic 
+	religion=celtic_druidic
+	724.11.2={ birth=yes }
+	775.1.18={ death=yes }
+}
+#His wife
+4662={
+	name=Acilo
+	female=yes
+	culture=celtic 
+	religion=celtic_druidic
+	748.5.16={ birth=yes }
+	801.6.19={ death=yes }
+}
+#4663 used above

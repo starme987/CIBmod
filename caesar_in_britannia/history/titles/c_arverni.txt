@@ -3,6 +3,10 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
-	liege=k_gergovia
+700.1.1={
+	liege=d_arveni
 }
+742.1.1={holder=4560} #Hilderic[614]
+775.10.12={holder=4561} #Baudemiro[614]
+796.03.18={holder=4568} #Engimiro[614]
+837.05.16={holder=4573} #Randinus[614]

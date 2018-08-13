@@ -3,6 +3,8 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
-	liege=k_narbonesis
+700.1.1={
+	liege=d_cadurci
 }
+787.1.1={holder=4554} #Ballomar[613]
+807.10.12={holder=4555} #Provaredo[613]

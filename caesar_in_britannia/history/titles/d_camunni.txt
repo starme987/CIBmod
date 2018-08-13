@@ -3,6 +3,9 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
+700.1.1={
 	liege=k_cisalpina
 }
+760.1.1={holder=4629} #Fromildus[620]
+781.08.15={holder=4631} #Ariovistus[620]
+841.08.06={holder=4633} #Pederagildu[620]

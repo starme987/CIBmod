@@ -3,6 +3,9 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
-	liege=k_gergovia
+700.1.1={
+	liege=d_lemovices
 }
+765.1.1={holder=4591} #Pantardu[616]
+801.12.10={holder=4592} #Sagatus[616]
+837.08.24={holder=4595} #Algasterus[616]

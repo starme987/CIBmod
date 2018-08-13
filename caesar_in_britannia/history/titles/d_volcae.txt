@@ -3,6 +3,8 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
+700.1.1={
 	liege=k_narbonesis
 }
+785.1.1={holder=4549} #Roelindus[612]
+823.11.21={holder=4551} #Rendericus[612]

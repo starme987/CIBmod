@@ -3,6 +3,9 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
+700.1.1={
 	liege=k_lugdunensis
 }
+764.1.1={holder=4524} #Baltarius[610]
+789.11.09={holder=4525} #Pabregildus[610]
+824.08.04={holder=4532} #Balderedo[610]

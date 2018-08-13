@@ -3,6 +3,9 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
+700.1.1={
 	liege=k_helvetia
 }
+749.1.1={holder=4652} #Froatingus[623]
+775.01.18={holder=4653} #Onemiro[623]
+801.06.19={holder=4659} #Adeqisio[623]

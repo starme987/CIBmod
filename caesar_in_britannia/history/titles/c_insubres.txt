@@ -3,6 +3,9 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
-	liege=k_cisalpina
+700.1.1={
+	liege=d_insubres
 }
+743.1.1={holder=4617} #Lugius[619]
+765.02.26={holder=4620} #Tumtuldo[619]
+803.04.19={holder=4622} #Dulcemirus[619]
