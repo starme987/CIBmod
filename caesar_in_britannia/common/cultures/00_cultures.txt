@@ -140,21 +140,33 @@ italian = {
 		color = { 232 110 96 }
 
 		male_names = {
-			Aelianus Aelius Aemilius Aetius Africanus Agrippa Albinus Anicius Appius Atilus Augustus Aurelian Aurelius Avilius Avitus Balbus Blandus
-			Brutus Caecilius Caeso Caius Camillus Cassian Cassius Cato Cicero Claudius Cnaeus Cossus Decimus Domitius Fabianus Festus Flavius Gaius Galerius
-			Gallio Gallus Gnaeus Herius Hilarius Iovianus Julianus Julius Junius Kaeso Laelius Longinus Lucius Manius Marcellus Marcianus Marcius Marcus
-			Maxentius Maximilianus Maximus Mettius Nonus Numerius Octavianus Opiter Oppius Ovidius Paulinus Pompeius Pomponius Pontius Porcius Postumius Potitus
-			Primus Priscus Proclus Proculus Publius Quintillus Quintis Quintus Rufinus Rufus Saturninus Secundus Seneca Sergius Servius Severus Sextilus
-			Sextus Silvanus Spurius Tacitus Tatius Tertius Thracius Tiberius Titanus Titus Tullius Tullus Valentinus Valerius Varius Varus Vibius Vinicus
-			Vitus
+			Aemilianus Agapetus Alexander_Alexander Amadeus Anacletus Anastasius Anthemius Antoninus_Anthony Appianus Arcadius_Arkadios Aurelianus_Aurelian Avitus Alethius Alexius_Alexis Antonius_Anthony Balbinus Basiliscus Benignus_benignus Bonifacius Basilius
+			Caesarius_Caesarius Caesarinus Callistus Carinus Cassiodorus Claudianus Claudius_Claudius Clemens_Clemens Coelestinus Constans Constantius_Constantius Constantinus_Constantine Damianus_Damian Daniel_Daniel Diadumenianus Diocletianus Dionysius_Dionysus Decius Decimus Desiderius_Desiderius Domitianus Donus
+			Eligius Evangelus Eugenius_Eugene Eusebius Euphemius Eutychianus Evaristus Fabianus Felix_Felix Flavianus Florianus_Florian Florentius Faustus Gabriel_Gabriel Galerius Gallienus Gelasius Genialis Gennadius Georgius_George Germanus_German Glycerius Gordianus Gratianus Gregorius_Gregory
+			Hadrianus_Adrian Herennius Herodianus Hilarius Honorius Hostilianus Hormisdas Heracles_Heracles Jacobus_Jacob Julius_Julius Julianus_Julian Justus Justinus Justinianus Jovianus Josephus_Joseph Innocentius_Innocentius Iohannes_John Laurentius_Laurence Leo_Leo
+			Leontius Liberius Licinius Linus Lucas_Lucas Lucius_Lucius Lucianus Majorian_Majorian Marcellus_Marcel Marcus_Mark Marcianus Martialis Martinus_Martin Matthias_Matthew Maxentius Maximianus Maximilianus_Maximilian Maximinus Maximus_Maximus Mercurius_Mercurius Nicolaus_Nicholas Nicomachus Numerianus Paulus_Paul Paulinus Petrus_Peter Phillipus_Philip
+			Pontianus Priscillianus Publius Peregrinus_Pilgrim Pertinax Patroinus Octavianus Olybrius Orestes Quintus_Quintius Quirinus Renatus Romaeus Romanus_Roman Romulus Regilius Regulus Sabinianus Salvator_Salvador Saturninus Severinus_Savarin Sextus Sidonius Silvester_Silvester Silvius Silverius Simplicius Simplicianus
+			Stephanus_Stephen Symmachus Severus_Severus Silvanus Theodosius_Theodosios Theodorus_Theodore Theophilus_Theophilos Tiberius Titus Traianus_Traianus Tribonianus Urbanus_Urban Ursus Vetranio Valens Valentinianus Valentinus_Valentin Valerianus Victor_Victor Victorinus_Victorinus Vigilius Vitalianus Volusianus
+			Zeno_Zenon Zephyrinus Zosimus
 		}
 		female_names = {
-			Aelia Agrippina Antonia_Antonia Antonina Aquilia Aurelia Caecilia Caesaris Candida Cassia Claudia Clementia Constantia Constantina Cornelia Crispina
-			Dominica Domitiana Domna Domnina Drusilla Fausta Faustina Flacilla Flavia Fortunata Frontina Gaia Galeria Gordiana Hadriana Helvia Hilara Honoria
-			Hortensia Julia Juliana Junia Justa Justina Justiniana Licinia Livia Livilla Lucilla Magnia Magnilla Marcella Marcia Marciana Marina Matrona Maxima
-			Maximiana Messalina Minervina Minucia Modia Mustela Octavia Palatina Paulania Paulina Petronilla Petronia Placidia Plautia Plautilla Pompeia Poppaea
-			Praeiecta Publia Pulcheria Rusticiana Sabina Sallustia Salonina Salvianella Scantilla Serena Sergia Severa Severina Silvia Spadusa Sulpicia Tarsilla
-			Titiana Ulpia Valeri Verina Vinidia Vigilantia
+			Aelia Amanda Anatolia Angela Aurelia
+			Barbara_Barbara Beatrix_Beatrice Benedicta_Benedicta Benigna
+			Caecilia Candida Charito Christiana_Christina Clara_Clara Claritia Claudia Claudiana Clementia Clementina Constantia_Constance Constantina Cornelia
+			Delphina Desiderata Desideria Dionysia Dominica Diana
+			Eudocia Eusebia Eutropia
+			Fausta Faustina Felicia_Felicia Feliciana Felina Felicitas Fides_Fides Flavia Flacilla Florina Florentia Florentina Francisca Fortunata
+			Galla Galeria Gordiana
+			Herennia Honorata Honoria Honorina Helena_Helen
+			Julia_Julia Juliana_Julianne Justa Justina_Justina
+			Laura Lavinia Leocadia Leontia Liberia Lucia_Lucia
+			Maura Marcia Marcella Marcellina Maria_Maria Matrona Maximia Maximiana Maxmilla Melania Minervina Monica_Monica Modesta
+			Narcissa Natalia Oliva Orestilla Otacilia
+			Patricia Paula_Paula Paulina_Pauline Placidia Prisca Prudentia Petiliana
+			Regina Renata Romana Rosalia
+			Salvatrix Seraphina Serena Sabinia Sidonia Salonia Severina Silvia_Sylvia Sybilla Tatiana_Tatiana Thermantia Tranquillina
+			Ulpia Ursa Ursula_Ursula Valeria Verina Verena Veronica_Veronica Vibia Virginia Victoria Victorina Viviana
+			Zenobia_Zenobia
 		}
 		from_dynasty_prefix = " "
 

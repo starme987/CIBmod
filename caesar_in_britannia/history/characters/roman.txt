@@ -191,3 +191,257 @@
 	749.1.1={ birth=yes }
 	811.1.1={ death=yes }
 }
+
+# Aemiliat #
+
+16={
+	name=Martialis
+	dynasty=9
+	culture=roman 
+	religion=roman_hellenic
+	701.6.15={ birth=yes }
+	721.1.1={ add_spouse=27 }
+	767.7.7={ death=yes }
+}
+17={
+	name=Maura
+	female=yes
+	dynasty=9
+	culture=roman 
+	religion=roman_hellenic
+	father=16	#Martialis
+	mother=27	#Justa
+	723.3.20={ birth=yes }
+	789.12.28={ death=yes }
+}
+18={
+	name=Valens
+	dynasty=9
+	culture=roman 
+	religion=roman_hellenic
+	father=16	#Martialis
+	mother=27	#Justa
+	726.2.9={ birth=yes }
+	746.1.1={ add_spouse=28 }
+	795.8.7={ death=yes }
+}
+19={
+	name=Constantinus
+	dynasty=9
+	culture=roman 
+	religion=roman_hellenic
+	father=16	#Martialis
+	mother=27	#Justa
+	729.11.8={ birth=yes }
+	774.5.4={ death=yes }
+}
+20={
+	name=Valens
+	dynasty=9
+	culture=roman 
+	religion=roman_hellenic
+	father=18	#Valens
+	mother=28	#Ursula
+	748.4.9={ birth=yes }
+	768.1.1={ add_spouse=29 }
+	818.4.6={ death=yes }
+}
+21={
+	name=Ursula
+	female=yes
+	dynasty=9
+	culture=roman 
+	religion=roman_hellenic
+	father=18	#Valens
+	mother=28	#Ursula
+	751.10.21={ birth=yes }
+	824.6.2={ death=yes }
+}
+22={
+	name=Ursula
+	female=yes
+	dynasty=9
+	culture=roman 
+	religion=roman_hellenic
+	father=20	#Valens
+	mother=29	#Helena
+	771.10.4={ birth=yes }
+	824.4.4={ death=yes }
+}
+23={
+	name=Aemilianus
+	dynasty=9
+	culture=roman 
+	religion=roman_hellenic
+	father=20	#Valens
+	mother=29	#Helena
+	775.8.23={ birth=yes }
+	825.8.19={ death=yes }
+}
+24={
+	name=Eutychianus
+	dynasty=9
+	culture=roman 
+	religion=roman_hellenic
+	father=20	#Valens
+	mother=29	#Helena
+	777.11.24={ birth=yes }
+	842.8.10={ death=yes }
+}
+25={
+	name=Leocadia
+	female=yes
+	dynasty=9
+	culture=roman 
+	religion=roman_hellenic
+	father=20	#Valens
+	mother=29	#Helena
+	780.9.24={ birth=yes }
+	827.2.24={ death=yes }
+}
+26={
+	name=Bonifacius
+	dynasty=9
+	culture=roman 
+	religion=roman_hellenic
+	father=20	#Valens
+	mother=29	#Helena
+	783.10.22={ birth=yes }
+	835.11.13={ death=yes }
+}
+27={
+	name=Justa
+	female=yes
+	culture=roman 
+	religion=roman_hellenic
+	701.6.15={ birth=yes }
+	767.7.7={ death=yes }
+}
+28={
+	name=Ursula
+	female=yes
+	culture=roman 
+	religion=roman_hellenic
+	726.6.15={ birth=yes }
+	795.7.7={ death=yes }
+}
+29={
+	name=Helena
+	female=yes
+	culture=roman 
+	religion=roman_hellenic
+	748.6.15={ birth=yes }
+	818.7.7={ death=yes }
+}
+
+# Venetia #
+
+30={
+	name=Justinianus
+	dynasty=10
+	culture=roman 
+	religion=roman_hellenic
+	769.7.19={ birth=yes }
+	823.8.25={ death=yes }
+}
+31={
+	name=Justa
+	female=yes
+	dynasty=10
+	culture=roman 
+	religion=roman_hellenic
+	father=30	#Justinianus
+	794.1.14={ birth=yes }
+	850.2.11={ death=yes }
+}
+
+# Histria #
+
+32={
+	name=Julius
+	dynasty=11
+	culture=roman 
+	religion=roman_hellenic
+	721.4.9={ birth=yes }
+	741.1.1={ add_spouse=39 }
+	792.6.12={ death=yes }
+}
+33={
+	name=Romaeus
+	dynasty=11
+	culture=roman 
+	religion=roman_hellenic
+	father=32	#Julius
+	mother=39	#Amanda
+	748.7.4={ birth=yes }
+	768.1.1={ add_spouse=40 }
+	820.11.19={ death=yes }
+}
+34={
+	name=Constans
+	dynasty=11
+	culture=roman 
+	religion=roman_hellenic
+	father=32	#Julius
+	mother=39	#Amanda
+	754.4.7={ birth=yes }
+	798.9.7={ death=yes }
+}
+35={
+	name=Beatrix
+	female=yes
+	dynasty=11
+	culture=roman 
+	religion=roman_hellenic
+	father=32	#Julius
+	mother=39	#Amanda
+	757.7.24={ birth=yes }
+	825.5.28={ death=yes }
+}
+36={
+	name=Sybilla
+	female=yes
+	dynasty=11
+	culture=roman 
+	religion=roman_hellenic
+	father=32	#Julius
+	mother=39	#Amanda
+	760.11.20={ birth=yes }
+	829.9.30={ death=yes }
+}
+37={
+	name=Jovianus
+	dynasty=11
+	culture=roman 
+	religion=roman_hellenic
+	father=33	#Romaeus
+	mother=40	#Prisca
+	774.9.17={ birth=yes }
+	822.12.13={ death=yes }
+}
+38={
+	name=Coelestinus
+	dynasty=11
+	culture=roman 
+	religion=roman_hellenic
+	father=33	#Romaeus
+	mother=40	#Prisca
+	779.6.27={ birth=yes }
+	845.7.21={ death=yes }
+}
+39={
+	name=Amanda
+	female=yes
+	culture=roman 
+	religion=roman_hellenic
+	721.6.15={ birth=yes }
+	792.7.7={ death=yes }
+}
+40={
+	name=Prisca
+	female=yes
+	culture=roman 
+	religion=roman_hellenic
+	748.6.15={ birth=yes }
+	809.7.7={ death=yes }
+}

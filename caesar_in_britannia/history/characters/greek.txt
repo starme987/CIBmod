@@ -1,0 +1,448 @@
+# Masilia #
+
+1500={
+	name=Agathon
+	dynasty=50
+	culture=greek 
+	religion=greek_hellenic
+	714.5.26={ birth=yes }
+	734.1.1={ add_spouse=1510 }
+	761.1.23={ death=yes }
+}
+1501={
+	name=Leonnatus
+	dynasty=50
+	culture=greek 
+	religion=greek_hellenic
+	father=1500	#Agathon
+	mother=1510	#Lysistrate
+	736.1.19={ birth=yes }
+	756.1.1={ add_spouse=1511 }
+	808.9.28={ death=yes }
+}
+1502={
+	name=Anthousa
+	female=yes
+	dynasty=50
+	culture=greek 
+	religion=greek_hellenic
+	father=1500	#Agathon
+	mother=1510	#Lysistrate
+	739.2.6={ birth=yes }
+	774.1.15={ death=yes }
+}
+1503={
+	name=Diogenes
+	dynasty=50
+	culture=greek 
+	religion=greek_hellenic
+	father=1500	#Agathon
+	mother=1510	#Lysistrate
+	744.8.5={ birth=yes }
+	794.4.23={ death=yes }
+}
+1504={
+	name=Heliodoros
+	dynasty=50
+	culture=greek 
+	religion=greek_hellenic
+	father=1501	#Leonnatus
+	mother=1511	#Charis
+	760.8.21={ birth=yes }
+	843.6.8={ death=yes }
+}
+1505={
+	name=Hagne
+	female=yes
+	dynasty=50
+	culture=greek 
+	religion=greek_hellenic
+	father=1501	#Leonnatus
+	mother=1511	#Charis
+	765.7.9={ birth=yes }
+	814.4.7={ death=yes }
+}
+1506={
+	name=Adriana
+	female=yes
+	dynasty=50
+	culture=greek 
+	religion=greek_hellenic
+	father=1501	#Leonnatus
+	mother=1511	#Charis
+	769.12.1={ birth=yes }
+	824.9.7={ death=yes }
+}
+1507={
+	name=Zoe
+	female=yes
+	dynasty=50
+	culture=greek 
+	religion=greek_hellenic
+	father=1501	#Leonnatus
+	mother=1511	#Charis
+	770.4.9={ birth=yes }
+	830.4.20={ death=yes }
+}
+1508={
+	name=Phyllis
+	female=yes
+	dynasty=50
+	culture=greek 
+	religion=greek_hellenic
+	father=1504	#Heliodoros
+	782.3.7={ birth=yes }
+	832.1.2={ death=yes }
+}
+1509={
+	name=Serapion
+	dynasty=50
+	culture=greek 
+	religion=greek_hellenic
+	father=1504	#Heliodoros
+	786.7.24={ birth=yes }
+	854.7.25={ death=yes }
+}
+1510={
+	name=Lysistrate
+	female=yes
+	culture=greek 
+	religion=greek_hellenic
+	714.5.26={ birth=yes }
+	761.1.23={ death=yes }
+}
+1511={
+	name=Charis
+	female=yes
+	culture=greek 
+	religion=greek_hellenic
+	736.5.26={ birth=yes }
+	808.1.23={ death=yes }
+}
+
+# Apulia #
+
+1512={
+	name=Karneades
+	dynasty=51
+	culture=greek 
+	religion=greek_hellenic
+	773.6.17={ birth=yes }
+	834.9.12={ death=yes }
+}
+
+# Lucania #
+
+1513={
+	name=Isagoras
+	dynasty=52
+	culture=greek 
+	religion=greek_hellenic
+	727.7.22={ birth=yes }
+	747.1.1={ add_spouse=1520 }
+	787.7.1={ death=yes }
+}
+1514={
+	name=Hypatia
+	female=yes
+	dynasty=52
+	culture=greek 
+	religion=greek_hellenic
+	father=1513	#Isagoras
+	mother=1520	#Zenobia
+	754.6.1={ birth=yes }
+	824.10.27={ death=yes }
+}
+1515={
+	name=Hagne
+	female=yes
+	dynasty=52
+	culture=greek 
+	religion=greek_hellenic
+	father=1513	#Isagoras
+	mother=1520	#Zenobia
+	757.6.21={ birth=yes }
+	807.11.13={ death=yes }
+}
+1516={
+	name=Antialcidas
+	dynasty=52
+	culture=greek 
+	religion=greek_hellenic
+	father=1513	#Isagoras
+	mother=1520	#Zenobia
+	759.10.25={ birth=yes }
+	779.1.1={ add_spouse=1521 }
+	811.10.29={ death=yes }
+}
+1517={
+	name=Antigone
+	female=yes
+	dynasty=52
+	culture=greek 
+	religion=greek_hellenic
+	father=1516	#Antialcidas
+	mother=1521	#Zosime
+	785.10.14={ birth=yes }
+	865.1.31={ death=yes }
+}
+1518={
+	name=Menon
+	dynasty=52
+	culture=greek 
+	religion=greek_hellenic
+	father=1516	#Antialcidas
+	mother=1521	#Zosime
+	790.4.24={ birth=yes }
+	853.3.10={ death=yes }
+}
+1519={
+	name=Nikanor
+	dynasty=52
+	culture=greek 
+	religion=greek_hellenic
+	father=1516	#Antialcidas
+	mother=1521	#Zosime
+	794.8.2={ birth=yes }
+	881.12.18={ death=yes }
+}
+1520={
+	name=Zenobia
+	female=yes
+	culture=greek 
+	religion=greek_hellenic
+	727.5.26={ birth=yes }
+	787.1.23={ death=yes }
+}
+1521={
+	name=Zosime
+	female=yes
+	culture=greek 
+	religion=greek_hellenic
+	759.5.26={ birth=yes }
+	811.1.23={ death=yes }
+}
+
+# Bruttium #
+
+1522={
+	name=Anthemios
+	dynasty=53
+	culture=greek 
+	religion=greek_hellenic
+	719.8.17={ birth=yes }
+	739.1.1={ add_spouse=1536 }
+	775.10.27={ death=yes }
+}
+1523={
+	name=Ariston
+	dynasty=53
+	culture=greek 
+	religion=greek_hellenic
+	father=1522	#Anthemios
+	mother=1536	#Stratonike
+	741.4.11={ birth=yes }
+	761.1.1={ add_spouse=1537 }
+	795.8.24={ death=yes }
+}
+1524={
+	name=Basilissa
+	female=yes
+	dynasty=53
+	culture=greek 
+	religion=greek_hellenic
+	father=1522	#Anthemios
+	mother=1536	#Stratonike
+	742.5.26={ birth=yes }
+	805.10.23={ death=yes }
+}
+1525={
+	name=Basileios
+	dynasty=53
+	culture=greek 
+	religion=greek_hellenic
+	father=1522	#Anthemios
+	mother=1536	#Stratonike
+	747.11.16={ birth=yes }
+	800.3.2={ death=yes }
+}
+1526={
+	name=Thekla
+	female=yes
+	dynasty=53
+	culture=greek 
+	religion=greek_hellenic
+	father=1522	#Anthemios
+	mother=1536	#Stratonike
+	750.4.18={ birth=yes }
+	809.10.18={ death=yes }
+}
+1527={
+	name=Eutychia
+	female=yes
+	dynasty=53
+	culture=greek 
+	religion=greek_hellenic
+	father=1522	#Anthemios
+	mother=1536	#Stratonike
+	752.4.12={ birth=yes }
+	793.8.27={ death=yes }
+}
+1528={
+	name=Leukon
+	dynasty=53
+	culture=greek 
+	religion=greek_hellenic
+	father=1523	#Ariston
+	mother=1537	#Metrodora
+	762.9.14={ birth=yes }
+	782.1.1={ add_spouse=1538 }
+	813.11.1={ death=yes }
+}
+1529={
+	name=Olympias
+	female=yes
+	dynasty=53
+	culture=greek 
+	religion=greek_hellenic
+	father=1523	#Ariston
+	mother=1537	#Metrodora
+	766.12.25={ birth=yes }
+	839.9.3={ death=yes }
+}
+1530={
+	name=Nikaia
+	female=yes
+	dynasty=53
+	culture=greek 
+	religion=greek_hellenic
+	father=1523	#Ariston
+	mother=1537	#Metrodora
+	771.8.21={ birth=yes }
+	852.3.5={ death=yes }
+}
+1531={
+	name=Akakios
+	dynasty=53
+	culture=greek 
+	religion=greek_hellenic
+	father=1528	#Leukon
+	mother=1538	#Anthousa
+	782.12.6={ birth=yes }
+	828.8.27={ death=yes }
+}
+1532={
+	name=Nike
+	female=yes
+	dynasty=53
+	culture=greek 
+	religion=greek_hellenic
+	father=1528	#Leukon
+	mother=1538	#Anthousa
+	783.2.21={ birth=yes }
+	857.7.21={ death=yes }
+}
+1533={
+	name=Hippostratos
+	dynasty=53
+	culture=greek 
+	religion=greek_hellenic
+	father=1528	#Leukon
+	mother=1538	#Anthousa
+	785.8.16={ birth=yes }
+	855.2.23={ death=yes }
+}
+1534={
+	name=Straton
+	dynasty=53
+	culture=greek 
+	religion=greek_hellenic
+	father=1528	#Leukon
+	mother=1538	#Anthousa
+	788.2.14={ birth=yes }
+	860.2.19={ death=yes }
+}
+1535={
+	name=Meletios
+	dynasty=53
+	culture=greek 
+	religion=greek_hellenic
+	father=1528	#Leukon
+	mother=1538	#Anthousa
+	792.10.6={ birth=yes }
+	853.3.5={ death=yes }
+}
+1536={
+	name=Stratonike
+	female=yes
+	culture=greek 
+	religion=greek_hellenic
+	719.5.26={ birth=yes }
+	775.1.23={ death=yes }
+}
+1537={
+	name=Metrodora
+	female=yes
+	culture=greek 
+	religion=greek_hellenic
+	741.5.26={ birth=yes }
+	795.1.23={ death=yes }
+}
+1538={
+	name=Anthousa
+	female=yes
+	culture=greek 
+	religion=greek_hellenic
+	762.5.26={ birth=yes }
+	813.1.23={ death=yes }
+}
+
+# Syrakuse #
+
+1539={
+	name=Hipparchos
+	dynasty=54
+	culture=greek 
+	religion=greek_hellenic
+	764.6.25={ birth=yes }
+	784.1.1={ add_spouse=1543 }
+	832.11.17={ death=yes }
+}
+1540={
+	name=Kephalos
+	dynasty=54
+	culture=greek 
+	religion=greek_hellenic
+	father=1539	#Hipparchos
+	mother=1543	#Basileia
+	786.4.11={ birth=yes }
+	833.4.7={ death=yes }
+}
+1541={
+	name=Eirenaios
+	dynasty=54
+	culture=greek 
+	religion=greek_hellenic
+	father=1539	#Hipparchos
+	mother=1543	#Basileia
+	792.11.11={ birth=yes }
+	845.10.26={ death=yes }
+}
+1542={
+	name=Nikias
+	dynasty=54
+	culture=greek 
+	religion=greek_hellenic
+	father=1539	#Hipparchos
+	mother=1543	#Basileia
+	794.7.9={ birth=yes }
+	862.4.5={ death=yes }
+}
+1543={
+	name=Basileia
+	female=yes
+	culture=greek 
+	religion=greek_hellenic
+	764.5.26={ birth=yes }
+	832.1.23={ death=yes }
+}

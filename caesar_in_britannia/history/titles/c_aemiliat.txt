@@ -3,6 +3,10 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
-	liege=k_casalpina
+600.1.1={
+	liege=d_aemiliat
 }
+726.1.1={holder=16} #Martialis[9]
+767.07.07={holder=18} #Valens[9]
+795.08.07={holder=20} #Valens[9]
+818.04.06={holder=23} #Aemilianus[9]

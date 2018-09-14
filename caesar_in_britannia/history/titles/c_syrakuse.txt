@@ -3,6 +3,8 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
-	liege=k_magna_graecia
+600.1.1={
+	liege=d_syrakuse
 }
+789.1.1={holder=1539} #Hipparchos[54]
+832.11.17={holder=1540} #Kephalos[54]

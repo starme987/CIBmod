@@ -3,6 +3,10 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
+600.1.1={
 	liege=k_magna_graecia
 }
+744.1.1={holder=1522} #Anthemios[53]
+775.10.27={holder=1523} #Ariston[53]
+795.08.24={holder=1528} #Leukon[53]
+813.11.01={holder=1531} #Akakios[53]

@@ -1,4 +1,0 @@
-# k_italy
-500.1.1={
-	law = agnatic_succession
-}

@@ -51,6 +51,57 @@
 	culture="roman"
 	religion="roman_hellenic"
 }
+9=
+{
+	name="Desticius Bodenius"
+	culture="roman"
+	religion="roman_hellenic"
+}
+10=
+{
+	name="Rabirius Cerinthus"
+	culture="roman"
+	religion="roman_hellenic"
+}
+11=
+{
+	name="Antius Virilis"
+	culture="roman"
+	religion="roman_hellenic"
+}
+
+# Greek #
+
+50=
+{
+	name="Nikas"
+	culture="greek"
+	religion="greek_hellenic"
+}
+51=
+{
+	name="Petrous"
+	culture="greek"
+	religion="greek_hellenic"
+}
+52=
+{
+	name="Pateras"
+	culture="greek"
+	religion="greek_hellenic"
+}
+53=
+{
+	name="Chontos"
+	culture="greek"
+	religion="greek_hellenic"
+}
+54=
+{
+	name="Samaras"
+	culture="greek"
+	religion="greek_hellenic"
+}
 
 #British
 500=

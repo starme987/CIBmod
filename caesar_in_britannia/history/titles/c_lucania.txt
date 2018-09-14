@@ -3,6 +3,9 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
-	liege=k_magna_graecia
+600.1.1={
+	liege=d_lucania
 }
+752.1.1={holder=1513} #Isagoras[52]
+787.07.01={holder=1516} #Antialcidas[52]
+811.10.29={holder=1518} #Menon[52]

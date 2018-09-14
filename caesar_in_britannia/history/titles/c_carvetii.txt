@@ -3,12 +3,12 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
+600.1.1={
 	liege=k_brigantes
 }
 746.1.1={
 	holder=3300
 }
-757.1.1{
+757.1.1={
 	holder=3303
 }

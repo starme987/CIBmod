@@ -3,6 +3,10 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
-	liege=k_transalpina
+600.1.1={
+	liege=d_masilia
 }
+739.1.1={holder=1500} #Agathon[50]
+761.01.23={holder=1501} #Leonnatus[50]
+808.09.28={holder=1504} #Heliodoros[50]
+843.06.08={holder=1509} #Serapion[50]
