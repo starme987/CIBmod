@@ -849,7 +849,7 @@
 	culture=celtic 
 	religion=celtic_druidic
 	father=4568	#Engimiro
-	mother=4676	#Tenildi
+	mother=4576	#Tenildi
 	788.6.18={ birth=yes }
 	862.9.17={ death=yes }
 }
@@ -862,7 +862,7 @@
 	culture=celtic 
 	religion=celtic_druidic
 	father=4568	#Engimiro
-	mother=4676	#Tenildi
+	mother=4576	#Tenildi
 	792.4.8={ birth=yes }
 	839.1.24={ death=yes }
 }
@@ -874,7 +874,7 @@
 	culture=celtic 
 	religion=celtic_druidic
 	father=4568	#Engimiro
-	mother=4676	#Tenildi
+	mother=4576	#Tenildi
 	795.7.3={ birth=yes }
 	868.2.11={ death=yes }
 }
