@@ -4,12 +4,15 @@
 title = c_etruria
 
 # Settlements
-max_settlements = 4
+max_settlements = 7
 
 b_tarquinii = city
 b_caere = city
-b_placeholder = temple
-b_placeholder_2 = castle
+#b_etruria = temple
+#b_etruria_2 = castle
+#b_etruria_3 = city
+#b_etruria_4 = temple
+#b_etruria_5 = castle
 
 # Misc
 culture = roman

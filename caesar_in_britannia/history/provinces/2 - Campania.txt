@@ -4,7 +4,7 @@
 title = c_campania
 
 # Settlements
-max_settlements = 2
+max_settlements = 4
 
 b_capua = city
 b_casilinum = city

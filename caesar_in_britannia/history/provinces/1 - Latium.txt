@@ -4,7 +4,7 @@
 title = c_latium
 
 # Settlements
-max_settlements = 4
+max_settlements = 7
 
 b_castrum_albanum = castle
 b_roma = city

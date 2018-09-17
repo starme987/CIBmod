@@ -6,7 +6,7 @@ title = c_insubres
 # Settlements
 max_settlements = 1
 
-b_placeholder_55 = castle
+b_placeholder_47 = castle
 
 # Misc
 culture = celtic

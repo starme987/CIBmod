@@ -6,7 +6,7 @@ title = c_carvetii
 # Settlements
 max_settlements = 1
 
-b_placeholder_20 = castle
+b_placeholder_12 = castle
 
 # Misc
 culture = british

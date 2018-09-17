@@ -6,9 +6,9 @@ title = c_dobunni
 # Settlements
 max_settlements = 3
 
-b_placeholder_10 = castle
-#b_placeholder_11 = city
-#b_placeholder_12 = temple
+b_placeholder_2 = castle
+#b_placeholder_3 = city
+#b_placeholder_4 = temple
 
 # Misc
 culture = british

@@ -6,7 +6,7 @@ title = c_suessiones
 # Settlements
 max_settlements = 1
 
-b_placeholder_65 = castle
+b_placeholder_57 = castle
 
 # Misc
 culture = celtic

@@ -6,7 +6,7 @@ title = c_suebi
 # Settlements
 max_settlements = 1
 
-b_placeholder_69 = castle
+b_placeholder_61 = castle
 
 # Misc
 culture = germanic

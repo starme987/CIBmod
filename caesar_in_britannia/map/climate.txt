@@ -43,8 +43,10 @@
 #		63 64 65 
 #		# GAUL / Transalpina
 #		68 69 70 
+#		# HISPANIA / Tarraconensis
+#		90 91 92 93 
 #		# NO KINGDOM
-#		90 91 
+#		94 95 
 #		# ROMAN EMPIRE / Casalpina
 #		11 12 13 14 
 #		# ROMAN EMPIRE / Italia

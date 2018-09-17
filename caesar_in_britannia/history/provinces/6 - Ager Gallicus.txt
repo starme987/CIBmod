@@ -4,11 +4,15 @@
 title = c_ager_gallicus
 
 # Settlements
-max_settlements = 3
+max_settlements = 6
 
 b_ancona = city
 b_perusia = city
-#b_placeholder_7 = temple
+#b_ager_gallicus = temple
+#b_ager_gallicus_2 = castle
+#b_ager_gallicus_3 = city
+#b_ager_gallicus_4 = temple
+#b_ager_gallicus_5 = castle
 
 # Misc
 culture = roman
