@@ -8,8 +8,8 @@
     culture=british
   
     763.1.1 = { birth=yes }
+	785.1.1 = { add_spouse = 2502 }
     813.1.1 = { death=yes }
-    785.1.1 = { add_spouse = 2502 }
 }
 #A Wife for Caratacus
 2502 = {
@@ -67,6 +67,7 @@
 	mother=2502
 
 	788.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #A Wife for Cunobeline so that the brothers are actually brothers
 2507 = {
@@ -158,6 +159,7 @@
 	culture=british
 	female=yes
 	780.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 2556 = {
 	name=Evosindo
@@ -167,6 +169,7 @@
 	religion=british_druidic
 	culture=british
 	780.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 2559 = {
 	name=Remismund
@@ -176,6 +179,7 @@
 	religion=british_druidic
 	culture=british
 	796.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 2560 = {
 	name=Liuvilo
@@ -186,6 +190,7 @@
 	religion=british_druidic
 	culture=british
 	795.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 2557 = {
 	name=Maldras
@@ -196,6 +201,7 @@
 	culture=british
 	trait = "twin"
 	796.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 2558 = {
 	name=Sabegoto
@@ -207,6 +213,7 @@
 	culture=british
 	trait = "twin"
 	796.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Deposed King Verica of the Regni
 2600 = {
@@ -214,22 +221,24 @@
 	culture=british
 	religion=british_druidic
 	dynasty=502
-	769.1.1 = { birth = yes }
-	769.1.1 = { add_claim=c_regni }
-	769.1.1 = { add_claim=d_regni }
+	769.1.1 = { 
+		birth = yes 
+		add_claim=c_regni
+		add_claim=d_regni
+	}
+	840.1.1 = { death = yes }
 }
 #Prasutagus of the Iceni
 2650 = {
 	name=Prasutagus
 	culture=british
 	religion=british_druidic
-	751.1.1 = { birth = yes }
-	781.1.1 = { add_spouse = 2651 }
-	814.1.1 = { death = yes }
-	historical = yes
 	dynasty = 503
 	father=2654
 	mother=2655
+	751.1.1 = { birth = yes }
+	781.1.1 = { add_spouse = 2651 }
+	814.1.1 = { death = yes }
 }
 #Boudica
 2651 = {
@@ -237,10 +246,6 @@
 	female=yes
 	culture=british
 	religion=british_druidic
-	historical = yes
-	765.1.1 = { birth = yes }
-	814.12.01 = { death = yes }
-
 	martial = 10
 	diplomacy = 4
 	intrigue = 2
@@ -251,6 +256,8 @@
 	trait = "wroth"
 	trait = "zealous"
 	trait = "chaste"
+	765.1.1 = { birth = yes }
+	814.12.01 = { death = yes }
 }
 #Daughters of Boudica
 2652 = {
@@ -262,6 +269,7 @@
 	father = 2650
 	mother = 2651
 	785.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 2653 = {
 	name=Justa
@@ -272,6 +280,7 @@
 	father = 2650
 	mother = 2651
 	787.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Pras' Parents
 2654 = {
@@ -511,6 +520,7 @@
 	father=2802
 	mother=2803
 	784.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Ermaric of the Durotriges
 2801 = {
@@ -521,6 +531,7 @@
 	father = 2802
 	mother=2803
 	785.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Their Father
 2802 = {
@@ -551,6 +562,7 @@
 	mother=2855
 	767.1.1 = { birth = yes }
 	785.1.1 = { add_spouse = 2851 }
+	840.1.1 = { death = yes }
 }
 #Wife for Saxomero
 2851 = {
@@ -559,6 +571,7 @@
 	religion=british_druidic
 	female=yes
 	750.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Kids for Saxomero
 2852 = {
@@ -569,6 +582,7 @@
 	father = 2850
 	mother = 2851
 	787.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 2853 = {
 	name=Facali
@@ -579,6 +593,7 @@
 	father=2850
 	mother=2851
 	792.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Saxomero's Parents
 2854={
@@ -596,6 +611,7 @@
 	religion=british_druidic
 	female=yes
 	753.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Boduoc of the Dobunni
 2900={
@@ -608,6 +624,7 @@
 
 	780.1.1 = { birth = yes }
 	796.1.1 = { add_spouse = 2901 }
+	840.1.1 = { death = yes }
 }
 #Boduoc's Wife
 2901={
@@ -617,6 +634,7 @@
 	female=yes
 
 	780.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Boduoc's Parents
 2902 = {
@@ -627,6 +645,7 @@
 
 	746.1.1 = { birth = yes }
 	770.1.1 = { add_spouse = 2903 }
+	840.1.1 = { death = yes }
 }
 2903 = {
 	name=Senuita
@@ -635,6 +654,7 @@
 	female=yes
 
 	754.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Boduoc's Siblings
 2904={
@@ -646,6 +666,7 @@
 	mother=2903
 
 	782.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 2905={
 	name=Trasmira
@@ -657,6 +678,7 @@
 	female=yes
 
 	785.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 2906={
 	name=Magitus
@@ -667,6 +689,7 @@
 	mother=2903
 
 	786.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Valao of the Silures
 2950 = {
@@ -677,6 +700,7 @@
 
 	733.1.1 = { birth = yes }
 	751.1.1 = { add_spouse = 2951 }
+	840.1.1 = { death = yes }
 }
 #Valao's Wife
 2951 = {
@@ -686,6 +710,7 @@
 	female=yes
 
 	735.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Valao's Kids and their Wives
 2952 = {
@@ -698,6 +723,7 @@
 
 	753.1.1 = { birth = yes }
 	771.1.1 = { add_spouse = 2953 }
+	840.1.1 = { death = yes }
 }
 2953 = {
 	name=Guandilo
@@ -706,6 +732,7 @@
 	female=yes
 
 	755.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 2954 = {
 	name=Audeca
@@ -717,6 +744,7 @@
 
 	755.1.1 = { birth = yes }
 	770.1.1 = { add_spouse = 2955 }
+	840.1.1 = { death = yes }
 }
 2955 = {
 	name=Espalli
@@ -725,6 +753,7 @@
 	female=yes
 
 	754.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Valao's Grandchildren
 2956 = {
@@ -737,6 +766,7 @@
 	female=yes
 
 	778.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 2957 = {
 	name=Tenildi
@@ -748,6 +778,7 @@
 	female=yes
 
 	781.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 2958 = {
 	name=Ariamix
@@ -758,6 +789,7 @@
 	mother=2955
 
 	776.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Mirosinda of the Demetae
 3000 = {
@@ -771,6 +803,7 @@
 
 	775.1.1 = { birth = yes }
 	781.1.1 = { add_spouse = 3001 }
+	840.1.1 = { death = yes }
 }
 #Her deceased husband
 3001 = {
@@ -790,6 +823,7 @@
 
 	749.1.1 = { birth = yes }
 	766.1.1 = { add_spouse = 3003 }
+	840.1.1 = { death = yes }
 }
 3003 = {
 	name=Facali
@@ -798,6 +832,7 @@
 	female=yes
 
 	750.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Lugius of Ordovices
 3050 = {
@@ -810,6 +845,7 @@
 
 	762.1.1 = { birth = yes }
 	780.1.1 = { add_spouse = 3051 }
+	840.1.1 = { death = yes }
 }
 #Lugius' Wife
 3051 = {
@@ -819,6 +855,7 @@
 	female=yes
 
 	763.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Lugius' Children
 3052 = {
@@ -830,6 +867,7 @@
 	mother=3051
 
 	784.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 3053 = {
 	name=Zendasix
@@ -840,6 +878,7 @@
 	mother=3051
 
 	787.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 3054 = {
 	name=Penetrudia
@@ -851,6 +890,7 @@
 	mother=3051
 
 	791.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Lugius' Parents
 3055 = {
@@ -870,6 +910,7 @@
 	female=yes
 
 	739.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Onemiro of the Cornovi
 3100 = {
@@ -880,6 +921,7 @@
 	father=3103
 	mother=3104
 	784.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Onemiro's Siblings
 3101 = {
@@ -891,6 +933,7 @@
 	mother=3104
 	dynasty=512
 	786.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 3102 = {
 	name=Boniza
@@ -900,6 +943,7 @@
 	father=3103
 	mother=3104
 	788.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Onemiro's Parents
 3103 = {
@@ -917,6 +961,7 @@
 	religion=british_druidic
 	female=yes
 	762.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Hilderic of the Deceangli
 3150 = {
@@ -928,6 +973,7 @@
 	mother=3153
 	755.1.1 = { birth = yes }
 	771.1.1 = { add_spouse = 3151 }
+	840.1.1 = { death = yes }
 }
 #Hilderic's Wife
 3151 = {
@@ -936,6 +982,7 @@
 	religion=british_druidic
 	female=yes
 	756.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Hilderic's Parents
 3152 = {
@@ -965,6 +1012,7 @@
 	mother=3151
 	775.1.1 = { birth = yes }
 	792.1.1 = { add_spouse = 3155 }
+	840.1.1 = { death = yes }
 }
 3155 = {
 	name=Sisilli
@@ -972,6 +1020,7 @@
 	religion=british_druidic
 	female=yes
 	776.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 3156 = {
 	name=Froilo
@@ -982,6 +1031,7 @@
 	father=3150
 	mother=3151
 	781.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Hilderic's Grandkid
 3157 = {
@@ -992,6 +1042,7 @@
 	father=3154
 	mother=3155
 	794.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Brigantes
 3200 = {
@@ -1003,6 +1054,7 @@
 	father=3202
 	mother=3203
 	753.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Her Husband
 3201 = {
@@ -1013,6 +1065,7 @@
 	mother=3205
 	750.1.1 = { birth = yes }
 	770.1.1 = { add_matrilineal_spouse =  3200}
+	840.1.1 = { death = yes }
 }
 #Their Parents
 3202 = {
@@ -1030,6 +1083,7 @@
 	religion=british_druidic
 	female=yes
 	728.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 3204 = {
 	name=Gumarius
@@ -1037,6 +1091,7 @@
 	religion=british_druidic
 	728.1.1 = { birth = yes }
 	743.1.1 = { add_spouse =  3205}
+	840.1.1 = { death = yes }
 }
 3205 = {
 	name=Vergina
@@ -1044,6 +1099,7 @@
 	religion=british_druidic
 	female=yes
 	726.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Her Siblings and Their Partners and Children
 3206 = {
@@ -1055,6 +1111,7 @@
 	father=3202
 	mother=3203
 	746.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 3207 = {
 	name=Malaredus
@@ -1062,6 +1119,7 @@
 	religion=british_druidic
 	743.1.1 = { birth = yes }
 	756.1.1 = { add_spouse =  3206}
+	840.1.1 = { death = yes }
 }
 3208 = {
 	name=Arosinda
@@ -1071,6 +1129,7 @@
 	mother=3206
 	760.1.1 = { birth = yes }
 	778.1.1 = { add_spouse =  3209}
+	840.1.1 = { death = yes }
 }
 3209 = {
 	name=Espalli
@@ -1078,6 +1137,7 @@
 	religion=british_druidic
 	female=yes
 	760.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 3210 = {
 	name=Adoric
@@ -1086,6 +1146,7 @@
 	father=3208
 	mother=3209
 	780.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 3211 = {
 	name=Hermeric
@@ -1094,6 +1155,7 @@
 	father=3208
 	mother=3209
 	782.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 3212 = {
 	name=Dadilo
@@ -1103,6 +1165,7 @@
 	mother=3209
 	female=yes
 	787.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Her Children
 3213 = {
@@ -1114,6 +1177,7 @@
 	dynasty=514
 	female=yes
 	772.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 3214 = {
 	name=Provaredo
@@ -1124,7 +1188,7 @@
 	dynasty=514
 	775.1.1 = { birth = yes }
 	794.1.1 = { add_spouse = 3219 }	
-
+	840.1.1 = { death = yes }
 }
 3215 = {
 	name=Odemundus
@@ -1135,6 +1199,7 @@
 	dynasty=514
 	778.1.1 = { birth = yes }
 	795.1.1 = { add_spouse = 3220 }
+	840.1.1 = { death = yes }
 }
 #Their Partners and Children
 3216 = {
@@ -1143,6 +1208,7 @@
 	religion=british_druidic
 	770.1.1 = { birth = yes }
 	788.1.1 = { add_spouse = 3213 }
+	840.1.1 = { death = yes }
 }
 3217 = {
 	name=Neufila
@@ -1151,6 +1217,7 @@
 	father=3216
 	mother=3213
 	790.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 3218 = {
 	name=Eboric
@@ -1159,6 +1226,7 @@
 	father=3216
 	mother=3213
 	793.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 3219 = {
 	name=Sontrilli
@@ -1166,6 +1234,7 @@
 	religion=british_druidic
 	female=yes
 	776.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 3220 = {
 	name=Aelia
@@ -1173,6 +1242,7 @@
 	religion=british_druidic
 	female=yes
 	779.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Parisi
 3250 = {
@@ -1184,6 +1254,7 @@
 	mother=3253
 	753.1.1 = { birth = yes }
 	770.1.1 = { add_spouse = 3251 }
+	840.1.1 = { death = yes }
 }
 #His Wife
 3251 = {
@@ -1349,6 +1420,7 @@
 	religion=british_druidic
 	female=yes
 	754.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 3305 = {
 	name=Randinus
@@ -1359,6 +1431,7 @@
 	mother=3304
 	772.1.1 = { birth = yes }
 	792.1.1 = { add_spouse = 3307 }
+	840.1.1 = { death = yes }
 }
 3306 = {
 	name=Drusilla
@@ -1369,6 +1442,7 @@
 	mother=3304
 	female=yes
 	774.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 3307 = {
 	name=Veleda
@@ -1376,6 +1450,7 @@
 	religion=british_druidic
 	female=yes
 	776.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 3308 = {
 	name=Ailo
@@ -1385,6 +1460,7 @@
 	father=3305
 	mother=3307
 	793.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 3309 = {
 	name=Sagatus
@@ -1394,6 +1470,7 @@
 	father=3305
 	mother=3307
 	794.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 #Novantae
 3350 = {
@@ -1422,6 +1499,7 @@
 	father=3350
 	mother=3351
 	765.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 3353 = {
 	name=Lallina
@@ -1432,6 +1510,7 @@
 	father=3350
 	mother=3351
 	768.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 3354 = {
 	name=Maldras
@@ -1442,6 +1521,7 @@
 	mother=3351
 	770.1.1 = { birth = yes }
 	790.1.1 = { add_spouse = 3306 }
+	840.1.1 = { death = yes }
 }
 3355 = {
 	name=Remisol
@@ -1449,6 +1529,7 @@
 	religion=british_druidic
 	763.1.1 = { birth = yes }
 	781.1.1 = { add_matrilineal_spouse = 3352 }
+	840.1.1 = { death = yes }
 }
 3356 = {
 	name=Teutobod
@@ -1458,6 +1539,7 @@
 	father=3355
 	mother=3352
 	783.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 3357 = {
 	name=Bagina
@@ -1468,6 +1550,7 @@
 	mother=3352
 	female=yes
 	788.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 3358 = {
 	name=Zanina
@@ -1478,6 +1561,7 @@
 	mother=3352
 	female=yes
 	790.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 3359 = {
 	name=Rakericus
@@ -1485,6 +1569,7 @@
 	religion=british_druidic
 	766.1.1 = { birth = yes }
 	784.1.1 = { add_matrilineal_spouse = 3353 }
+	840.1.1 = { death = yes }
 }
 3360 = {
 	name=Spoderigo
@@ -1494,6 +1579,7 @@
 	father=3359
 	mother=3353
 	787.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 3361 = {
 	name=Odamic
@@ -1503,6 +1589,7 @@
 	father=3354
 	mother=3306
 	792.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 3362 = {
 	name=Remisol
@@ -1512,6 +1599,7 @@
 	father=3354
 	mother=3306
 	794.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 3363 = {
 	name=Senuita
@@ -1522,6 +1610,7 @@
 	mother=3306
 	female=yes
 	795.1.1 = { birth = yes }
+	840.1.1 = { death = yes }
 }
 3400={
 	name=Zanticus

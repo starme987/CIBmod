@@ -4,11 +4,15 @@
 title = c_coritani
 
 # Settlements
-max_settlements = 3
+max_settlements = 6
 
 b_ratae = castle
 #b_nemeton = city
 #b_limulodon = temple
+#b_coritani = castle
+#b_coritani_2 = city
+#b_coritani_3 = temple
+#b_coritani_4 = castle
 
 # Misc
 culture = british

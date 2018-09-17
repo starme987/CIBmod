@@ -23,6 +23,9 @@ STAT_PIETY_PIETY_GERMANIC;Favour;;;;;;;;;;;;;x
 STAT_PIETY_MENU_PIETY_ROMAN;Pietas;;;;;;;;;;;;;x
 STAT_PIETY_MENU_PIETY_CELTIC;Spirit Favour;;;;;;;;;;;;;x
 STAT_PIETY_MENU_PIETY_GERMANIC;Favour;;;;;;;;;;;;;x
+MONTHLY_PIETY_PIETY_CELTIC;Monthly Spirit Favour;;;;;;;;;;;x
+MONTHLY_PIETY_PIETY_ROMAN;Monthly Pietas;;;;;;;;;;;x
+MONTHLY_PIETY_PIETY_GERMANIC;Monthly Favour;;;;;;;;;;;x
 STAT_PIETY_DESC_PIETY_ROMAN;Pietas describes the sense of duty towards your nation, your family, your religion, and yourself.;;;;;;;;;;;;;x
 STAT_PIETY_DESC_PIETY_CELTIC;The Druids did not believe in a true deity reigning above all, but instead in the spirits and gods of the natural world. The favour of these spirits was very important;;;;;;;;;;;;;x
 STAT_PIETY_DESC_PIETY_GERMANIC;The ancient Germanic peoples believed in the spirits, much like the druids, but also in a very basic idea of the Norse gods we know today, and earning the favour of these deities was very important, especially to hope to avoid the terrible winter.;;;;;;;;;;;;;x

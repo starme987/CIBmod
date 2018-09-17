@@ -7,6 +7,8 @@ hellenic_group = {
 		graphical_culture = germangfx
 
 		color = { 102 2 60 } 
+		
+		icon = 37
 
 		piety_name = PIETY_ROMAN
 		priest_title = PRIEST_ROMAN
@@ -36,6 +38,8 @@ hellenic_group = {
 		graphical_culture = germangfx
 
 		color = { 0.8 0.3 0.8 } 
+		
+		icon = 37
 
 		piety_name = PIETY_ROMAN
 		priest_title = PRIEST_ROMAN
@@ -73,6 +77,8 @@ druidic_group = {
 		graphical_culture = germangfx
 
 		color = { 0.67 0.29 0.32 }
+		
+		icon = 5
 
 		piety_name = PIETY_CELTIC
 		priest_title = PRIEST_CELTIC
@@ -100,6 +106,8 @@ druidic_group = {
 		graphical_culture = germangfx
 
 		color = { 0.67 0.29 0.32 }
+		
+		icon = 5
 
 		piety_name = PIETY_CELTIC
 		priest_title = PRIEST_CELTIC
@@ -127,6 +135,8 @@ druidic_group = {
 		graphical_culture = germangfx
 
 		color = { 0.67 0.29 0.32 }
+		
+		icon = 5
 
 		piety_name = PIETY_CELTIC
 		priest_title = PRIEST_CELTIC
@@ -159,6 +169,8 @@ heathen_group = {
 		graphical_culture = germangfx
 
 		color = { 0.6 0.6 0.6 }
+		
+		icon = 19
 
 		piety_name = PIETY_GERMANIC
 		priest_title = PRIEST_GERMANIC

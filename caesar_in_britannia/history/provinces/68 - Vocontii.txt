@@ -6,7 +6,7 @@ title = c_vocontii
 # Settlements
 max_settlements = 1
 
-b_placeholder_44 = castle
+b_placeholder_39 = castle
 
 # Misc
 culture = celtic

@@ -6,7 +6,7 @@ title = c_venicones
 # Settlements
 max_settlements = 1
 
-b_placeholder_16 = castle
+b_placeholder_11 = castle
 
 # Misc
 culture = british

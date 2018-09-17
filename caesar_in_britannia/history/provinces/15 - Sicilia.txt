@@ -4,10 +4,15 @@
 title = c_sicilia
 
 # Settlements
-max_settlements = 2
+max_settlements = 4
 
 b_lilybaeum = castle
-b_messana = city
+#b_messana = city
+#b_sicilia = temple
+#b_sicilia_2 = castle
+#b_sicilia_3 = city
+#b_sicilia_4 = temple
+#b_sicilia_5 = castle
 
 # Misc
 culture = roman

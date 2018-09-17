@@ -4,7 +4,7 @@
 	law = succ_gavelkind
 }
 600.1.1={
-	liege=d_aemiliat
+	liege=d_aemilitat
 }
 726.1.1={holder=16} #Martialis[9]
 767.07.07={holder=18} #Valens[9]

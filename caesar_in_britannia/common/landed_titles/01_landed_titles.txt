@@ -32,7 +32,7 @@ e_belgica = {
 				color={ 204 98 87 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_52 = {
+				b_placeholder_47 = {
 				}
 			}
 		}
@@ -52,7 +52,7 @@ e_belgica = {
 				color={ 132 39 30 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_53 = {
+				b_placeholder_48 = {
 				}
 			}
 		}
@@ -72,7 +72,7 @@ e_belgica = {
 				color={ 126 81 76 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_54 = {
+				b_placeholder_49 = {
 				}
 			}
 		}
@@ -100,7 +100,7 @@ e_belgica = {
 				color={ 150 115 54 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_57 = {
+				b_placeholder_52 = {
 				}
 			}
 		}
@@ -120,7 +120,7 @@ e_belgica = {
 				color={ 212 160 86 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_59 = {
+				b_placeholder_54 = {
 				}
 			}
 		}
@@ -140,7 +140,7 @@ e_belgica = {
 				color={ 79 74 65 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_58 = {
+				b_placeholder_53 = {
 				}
 			}
 		}
@@ -160,7 +160,7 @@ e_belgica = {
 				color={ 146 97 27 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_60 = {
+				b_placeholder_55 = {
 				}
 			}
 		}
@@ -188,7 +188,7 @@ e_belgica = {
 				color={ 211 228 184 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_55 = {
+				b_placeholder_50 = {
 				}
 			}
 		}
@@ -208,7 +208,7 @@ e_belgica = {
 				color={ 101 121 69 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_56 = {
+				b_placeholder_51 = {
 				}
 			}
 		}
@@ -236,7 +236,7 @@ e_belgica = {
 				color={ 233 208 140 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_64 = {
+				b_placeholder_59 = {
 				}
 			}
 		}
@@ -256,7 +256,7 @@ e_belgica = {
 				color={ 109 103 86 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_65 = {
+				b_placeholder_60 = {
 				}
 			}
 		}
@@ -284,7 +284,7 @@ e_belgica = {
 				color={ 196 159 145 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_61 = {
+				b_placeholder_56 = {
 				}
 			}
 		}
@@ -304,7 +304,7 @@ e_belgica = {
 				color={ 198 83 40 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_62 = {
+				b_placeholder_57 = {
 				}
 			}
 		}
@@ -324,7 +324,7 @@ e_belgica = {
 				color={ 128 57 30 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_63 = {
+				b_placeholder_58 = {
 				}
 			}
 		}
@@ -364,6 +364,16 @@ e_britannia = {
 				}
 				b_the_citadel = {
 				}
+				b_cantii = {
+				}
+				b_cantii_2 = {
+				}
+				b_cantii_3 = {
+				}
+				b_cantii_4 = {
+				}
+				b_cantii_5 = {
+				}
 			}
 		}
 		d_catuvellauni = {
@@ -384,6 +394,18 @@ e_britannia = {
 				
 				b_verlamion = {
 				}
+				b_catuvellauni = {
+				}
+				b_catuvellauni_2 = {
+				}
+				b_catuvellauni_3 = {
+				}
+				b_catuvellauni_4 = {
+				}
+				b_catuvellauni_5 = {
+				}
+				b_catuvellauni_6 = {
+				}
 			}
 		}
 		d_regni = {
@@ -403,6 +425,18 @@ e_britannia = {
 				color2={ 255 255 255 }
 				
 				b_regnenon = {
+				}
+				b_regni = {
+				}
+				b_regni_2 = {
+				}
+				b_regni_3 = {
+				}
+				b_regni_4 = {
+				}
+				b_regni_5 = {
+				}
+				b_regni_6 = {
 				}
 			}
 		}
@@ -430,7 +464,7 @@ e_britannia = {
 				color={ 234 183 111 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_10 = {
+				b_placeholder_5 = {
 				}
 			}
 		}
@@ -450,7 +484,7 @@ e_britannia = {
 				color={ 133 98 49 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_12 = {
+				b_placeholder_7 = {
 				}
 			}
 		}
@@ -470,7 +504,7 @@ e_britannia = {
 				color={ 170 118 45 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_11 = {
+				b_placeholder_6 = {
 				}
 			}
 		}
@@ -498,7 +532,7 @@ e_britannia = {
 				color={ 128 67 70 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_6 = {
+				b_placeholder = {
 				}
 			}
 		}
@@ -518,7 +552,7 @@ e_britannia = {
 				color={ 108 84 86 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_8 = {
+				b_placeholder_3 = {
 				}
 			}
 		}
@@ -538,7 +572,7 @@ e_britannia = {
 				color={ 137 67 92 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_9 = {
+				b_placeholder_4 = {
 				}
 			}
 		}
@@ -558,7 +592,7 @@ e_britannia = {
 				color={ 168 130 132 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_7 = {
+				b_placeholder_2 = {
 				}
 			}
 		}
@@ -588,6 +622,18 @@ e_britannia = {
 				
 				b_iska = {
 				}
+				b_dumnonii = {
+				}
+				b_dumnonii_2 = {
+				}
+				b_dumnonii_3 = {
+				}
+				b_dumnonii_4 = {
+				}
+				b_dumnonii_5 = {
+				}
+				b_dumnonii_6 = {
+				}
 			}
 		}
 		d_belgae = {
@@ -606,7 +652,19 @@ e_britannia = {
 				color={ 80 92 80 }
 				color2={ 255 255 255 }
 				
-				b_placeholder = {
+				b_belgae = {
+				}
+				b_belgae_2 = {
+				}
+				b_belgae_3 = {
+				}
+				b_belgae_4 = {
+				}
+				b_belgae_5 = {
+				}
+				b_belgae_6 = {
+				}
+				b_belgae_7 = {
 				}
 			}
 		}
@@ -626,11 +684,19 @@ e_britannia = {
 				color={ 108 116 108 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_2 = {
+				b_dobunni = {
 				}
-				b_placeholder_3 = {
+				b_dobunni_2 = {
 				}
-				b_placeholder_4 = {
+				b_dobunni_3 = {
+				}
+				b_dobunni_4 = {
+				}
+				b_dobunni_5 = {
+				}
+				b_dobunni_6 = {
+				}
+				b_dobunni_7 = {
 				}
 			}
 		}
@@ -654,6 +720,16 @@ e_britannia = {
 				}
 				b_neta = {
 				}
+				b_durotriges = {
+				}
+				b_durotriges_2 = {
+				}
+				b_durotriges_3 = {
+				}
+				b_durotriges_4 = {
+				}
+				b_durotriges_5 = {
+				}
 			}
 		}
 		d_silures = {
@@ -672,7 +748,19 @@ e_britannia = {
 				color={ 102 179 96 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_5 = {
+				b_silures = {
+				}
+				b_silures_2 = {
+				}
+				b_silures_3 = {
+				}
+				b_silures_4 = {
+				}
+				b_silures_5 = {
+				}
+				b_silures_6 = {
+				}
+				b_silures_7 = {
 				}
 			}
 		}
@@ -704,6 +792,16 @@ e_britannia = {
 				}
 				b_icinon = {
 				}
+				b_icenii = {
+				}
+				b_icenii_2 = {
+				}
+				b_icenii_3 = {
+				}
+				b_icenii_4 = {
+				}
+				b_icenii_5 = {
+				}
 			}
 		}
 		d_coritani = {
@@ -728,6 +826,14 @@ e_britannia = {
 				}
 				b_limulodon = {
 				}
+				b_coritani = {
+				}
+				b_coritani_2 = {
+				}
+				b_coritani_3 = {
+				}
+				b_coritani_4 = {
+				}
 			}
 		}
 		d_trinovantes = {
@@ -747,6 +853,18 @@ e_britannia = {
 				color2={ 255 255 255 }
 				
 				b_camulodunon = {
+				}
+				b_trinovantes = {
+				}
+				b_trinovantes_2 = {
+				}
+				b_trinovantes_3 = {
+				}
+				b_trinovantes_4 = {
+				}
+				b_trinovantes_5 = {
+				}
+				b_trinovantes_6 = {
 				}
 			}
 		}
@@ -774,7 +892,7 @@ e_britannia = {
 				color={ 135 86 167 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_13 = {
+				b_placeholder_8 = {
 				}
 			}
 		}
@@ -794,7 +912,7 @@ e_britannia = {
 				color={ 171 135 194 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_17 = {
+				b_placeholder_12 = {
 				}
 			}
 		}
@@ -814,7 +932,7 @@ e_britannia = {
 				color={ 102 87 112 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_14 = {
+				b_placeholder_9 = {
 				}
 			}
 		}
@@ -834,7 +952,7 @@ e_britannia = {
 				color={ 70 53 81 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_16 = {
+				b_placeholder_11 = {
 				}
 			}
 		}
@@ -854,7 +972,7 @@ e_britannia = {
 				color={ 102 52 150 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_15 = {
+				b_placeholder_10 = {
 				}
 			}
 		}
@@ -890,7 +1008,7 @@ e_celtica = {
 				color={ 102 80 20 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_47 = {
+				b_placeholder_42 = {
 				}
 			}
 		}
@@ -910,7 +1028,7 @@ e_celtica = {
 				color={ 131 185 83 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_48 = {
+				b_placeholder_43 = {
 				}
 			}
 		}
@@ -930,7 +1048,7 @@ e_celtica = {
 				color={ 139 150 128 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_49 = {
+				b_placeholder_44 = {
 				}
 			}
 		}
@@ -958,7 +1076,7 @@ e_celtica = {
 				color={ 75 105 48 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_50 = {
+				b_placeholder_45 = {
 				}
 			}
 		}
@@ -978,7 +1096,7 @@ e_celtica = {
 				color={ 130 104 29 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_51 = {
+				b_placeholder_46 = {
 				}
 			}
 		}
@@ -1014,7 +1132,7 @@ e_gaul = {
 				color={ 159 197 58 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_18 = {
+				b_placeholder_13 = {
 				}
 			}
 		}
@@ -1034,7 +1152,7 @@ e_gaul = {
 				color={ 192 215 130 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_21 = {
+				b_placeholder_16 = {
 				}
 			}
 		}
@@ -1054,7 +1172,7 @@ e_gaul = {
 				color={ 87 109 49 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_20 = {
+				b_placeholder_15 = {
 				}
 			}
 		}
@@ -1074,7 +1192,7 @@ e_gaul = {
 				color={ 139 165 70 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_19 = {
+				b_placeholder_14 = {
 				}
 			}
 		}
@@ -1102,7 +1220,7 @@ e_gaul = {
 				color={ 37 103 101 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_29 = {
+				b_placeholder_24 = {
 				}
 			}
 		}
@@ -1122,7 +1240,7 @@ e_gaul = {
 				color={ 110 140 147 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_32 = {
+				b_placeholder_27 = {
 				}
 			}
 		}
@@ -1142,7 +1260,7 @@ e_gaul = {
 				color={ 58 82 86 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_30 = {
+				b_placeholder_25 = {
 				}
 			}
 		}
@@ -1162,7 +1280,7 @@ e_gaul = {
 				color={ 52 108 105 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_31 = {
+				b_placeholder_26 = {
 				}
 			}
 		}
@@ -1190,7 +1308,7 @@ e_gaul = {
 				color={ 104 103 85 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_41 = {
+				b_placeholder_36 = {
 				}
 			}
 		}
@@ -1210,7 +1328,7 @@ e_gaul = {
 				color={ 197 193 126 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_42 = {
+				b_placeholder_37 = {
 				}
 			}
 		}
@@ -1230,7 +1348,7 @@ e_gaul = {
 				color={ 135 131 63 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_43 = {
+				b_placeholder_38 = {
 				}
 			}
 		}
@@ -1258,7 +1376,7 @@ e_gaul = {
 				color={ 216 165 28 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_36 = {
+				b_placeholder_31 = {
 				}
 			}
 		}
@@ -1278,7 +1396,7 @@ e_gaul = {
 				color={ 130 111 59 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_37 = {
+				b_placeholder_32 = {
 				}
 			}
 		}
@@ -1306,7 +1424,7 @@ e_gaul = {
 				color={ 89 87 55 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_25 = {
+				b_placeholder_20 = {
 				}
 			}
 		}
@@ -1326,7 +1444,7 @@ e_gaul = {
 				color={ 132 129 77 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_28 = {
+				b_placeholder_23 = {
 				}
 			}
 		}
@@ -1346,7 +1464,7 @@ e_gaul = {
 				color={ 210 203 93 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_27 = {
+				b_placeholder_22 = {
 				}
 			}
 		}
@@ -1366,7 +1484,7 @@ e_gaul = {
 				color={ 156 151 72 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_26 = {
+				b_placeholder_21 = {
 				}
 			}
 		}
@@ -1394,7 +1512,7 @@ e_gaul = {
 				color={ 131 28 74 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_38 = {
+				b_placeholder_33 = {
 				}
 			}
 		}
@@ -1414,14 +1532,14 @@ e_gaul = {
 				color={ 99 59 77 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_39 = {
+				b_placeholder_34 = {
 				}
 			}
 			c_ruteni = { # 59
 				color={ 187 89 132 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_40 = {
+				b_placeholder_35 = {
 				}
 			}
 		}
@@ -1449,7 +1567,7 @@ e_gaul = {
 				color={ 105 181 141 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_22 = {
+				b_placeholder_17 = {
 				}
 			}
 		}
@@ -1469,7 +1587,7 @@ e_gaul = {
 				color={ 44 118 79 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_23 = {
+				b_placeholder_18 = {
 				}
 			}
 		}
@@ -1489,7 +1607,7 @@ e_gaul = {
 				color={ 21 154 84 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_24 = {
+				b_placeholder_19 = {
 				}
 			}
 		}
@@ -1517,7 +1635,7 @@ e_gaul = {
 				color={ 55 147 133 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_33 = {
+				b_placeholder_28 = {
 				}
 			}
 		}
@@ -1537,7 +1655,7 @@ e_gaul = {
 				color={ 9 185 159 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_35 = {
+				b_placeholder_30 = {
 				}
 			}
 		}
@@ -1557,7 +1675,7 @@ e_gaul = {
 				color={ 53 80 76 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_34 = {
+				b_placeholder_29 = {
 				}
 			}
 		}
@@ -1585,7 +1703,7 @@ e_gaul = {
 				color={ 98 91 113 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_44 = {
+				b_placeholder_39 = {
 				}
 			}
 		}
@@ -1605,7 +1723,7 @@ e_gaul = {
 				color={ 121 94 168 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_45 = {
+				b_placeholder_40 = {
 				}
 			}
 		}
@@ -1625,7 +1743,7 @@ e_gaul = {
 				color={ 25 80 148 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_46 = {
+				b_placeholder_41 = {
 				}
 			}
 		}
@@ -1645,34 +1763,6 @@ e_hispania = {
 		capital = 90 # c_emporion
 		culture = greek
 		
-		c_emporion = { # 90
-			color={ 173 113 63 }
-			color2={ 255 255 255 }
-			
-			b_placeholder_66 = {
-			}
-		}
-		c_ceretani = { # 93
-			color={ 223 220 126 }
-			color2={ 255 255 255 }
-			
-			b_placeholder_69 = {
-			}
-		}
-		c_iacetani = { # 92
-			color={ 153 151 106 }
-			color2={ 255 255 255 }
-			
-			b_placeholder_68 = {
-			}
-		}
-		c_indigetes = { # 91
-			color={ 198 193 56 }
-			color2={ 255 255 255 }
-			
-			b_placeholder_67 = {
-			}
-		}
 		d_emporion = {
 			color={ 183 103 68 }
 			color2={ 255 255 255 }
@@ -1689,7 +1779,7 @@ e_hispania = {
 				color={ 173 113 63 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_66 = {
+				b_placeholder_61 = {
 				}
 			}
 		}
@@ -1709,7 +1799,7 @@ e_hispania = {
 				color={ 223 220 126 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_69 = {
+				b_placeholder_64 = {
 				}
 			}
 		}
@@ -1729,7 +1819,7 @@ e_hispania = {
 				color={ 153 151 106 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_68 = {
+				b_placeholder_63 = {
 				}
 			}
 		}
@@ -1749,7 +1839,7 @@ e_hispania = {
 				color={ 198 193 56 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_67 = {
+				b_placeholder_62 = {
 				}
 			}
 		}
@@ -2051,7 +2141,17 @@ e_roman_empire = {
 				
 				b_felsina = {
 				}
-				b_aemiliat = {
+				b_aemilitat = {
+				}
+				b_aemilitat_2 = {
+				}
+				b_aemilitat_3 = {
+				}
+				b_aemilitat_4 = {
+				}
+				b_aemilitat_5 = {
+				}
+				b_aemilitat_6 = {
 				}
 			}
 		}
@@ -2075,6 +2175,16 @@ e_roman_empire = {
 				}
 				b_histria = {
 				}
+				b_histria_2 = {
+				}
+				b_histria_3 = {
+				}
+				b_histria_4 = {
+				}
+				b_histria_5 = {
+				}
+				b_histria_6 = {
+				}
 			}
 		}
 		d_venetia = {
@@ -2096,6 +2206,16 @@ e_roman_empire = {
 				b_patavium = {
 				}
 				b_venetia = {
+				}
+				b_venetia_2 = {
+				}
+				b_venetia_3 = {
+				}
+				b_venetia_4 = {
+				}
+				b_venetia_5 = {
+				}
+				b_venetia_6 = {
 				}
 			}
 		}
@@ -2223,6 +2343,16 @@ e_roman_empire = {
 				}
 				b_messana = {
 				}
+				b_sicilia = {
+				}
+				b_sicilia_2 = {
+				}
+				b_sicilia_3 = {
+				}
+				b_sicilia_4 = {
+				}
+				b_sicilia_5 = {
+				}
 			}
 		}
 		d_syrakuse = {
@@ -2242,6 +2372,18 @@ e_roman_empire = {
 				color2={ 255 255 255 }
 				
 				b_syrakuse = {
+				}
+				b_syrakuse_2 = {
+				}
+				b_syrakuse_3 = {
+				}
+				b_syrakuse_4 = {
+				}
+				b_syrakuse_5 = {
+				}
+				b_syrakuse_6 = {
+				}
+				b_syrakuse_7 = {
 				}
 			}
 		}
@@ -2273,6 +2415,16 @@ e_roman_empire = {
 				}
 				b_karalis = {
 				}
+				b_sardinia = {
+				}
+				b_sardinia_2 = {
+				}
+				b_sardinia_3 = {
+				}
+				b_sardinia_4 = {
+				}
+				b_sardinia_5 = {
+				}
 			}
 		}
 		d_corsica = {
@@ -2292,6 +2444,18 @@ e_roman_empire = {
 				color2={ 255 255 255 }
 				
 				b_alalia = {
+				}
+				b_corsica = {
+				}
+				b_corsica_2 = {
+				}
+				b_corsica_3 = {
+				}
+				b_corsica_4 = {
+				}
+				b_corsica_5 = {
+				}
+				b_corsica_6 = {
 				}
 			}
 		}

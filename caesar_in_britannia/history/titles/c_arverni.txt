@@ -4,7 +4,7 @@
 	law = succ_gavelkind
 }
 700.1.1={
-	liege=d_arveni
+	liege=d_arverni
 }
 742.1.1={holder=4560} #Hilderic[614]
 775.10.12={holder=4561} #Baudemiro[614]

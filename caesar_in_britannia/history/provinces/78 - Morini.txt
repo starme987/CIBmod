@@ -6,7 +6,7 @@ title = c_morini
 # Settlements
 max_settlements = 1
 
-b_placeholder_54 = castle
+b_placeholder_49 = castle
 
 # Misc
 culture = celtic

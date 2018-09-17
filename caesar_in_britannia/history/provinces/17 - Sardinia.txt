@@ -4,10 +4,15 @@
 title = c_sardinia
 
 # Settlements
-max_settlements = 2
+max_settlements = 4
 
 b_olbia = castle
-b_karalis = city
+#b_karalis = city
+#b_sardinia = temple
+#b_sardinia_2 = castle
+#b_sardinia_3 = city
+#b_sardinia_4 = temple
+#b_sardinia_5 = castle
 
 # Misc
 culture = roman

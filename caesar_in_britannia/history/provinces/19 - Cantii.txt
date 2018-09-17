@@ -4,10 +4,15 @@
 title = c_cantii
 
 # Settlements
-max_settlements = 2
+max_settlements = 4
 
 b_durovernon = castle
 b_the_citadel = castle
+#b_cantii = temple
+#b_cantii_2 = castle
+#b_cantii_3 = city
+#b_cantii_4 = temple
+#b_cantii_5 = castle
 
 # Misc
 culture = british

@@ -6,7 +6,7 @@ title = c_osismii
 # Settlements
 max_settlements = 1
 
-b_placeholder_18 = castle
+b_placeholder_13 = castle
 
 # Misc
 culture = gallic

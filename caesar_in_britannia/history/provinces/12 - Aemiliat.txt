@@ -7,7 +7,12 @@ title = c_aemiliat
 max_settlements = 2
 
 b_felsina = castle
-#b_aemiliat = city
+#b_aemilitat = city
+#b_aemilitat_2 = temple
+#b_aemilitat_3 = castle
+#b_aemilitat_4 = city
+#b_aemilitat_5 = temple
+#b_aemilitat_6 = castle
 
 # Misc
 culture = roman

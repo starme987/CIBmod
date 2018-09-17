@@ -154,7 +154,7 @@ celtic = {
 			Vallo Vanos Vecorix Vepo Vertoris
 		}
 		female_names = {
-			Agraseibra Agrentina Agrosuelta Andricca Androna Androsuelta Ardona Belentina Belisama Bouderta Brigantona Brigentina Cataseibra Caterta 
+			Agraseibra Agrentina Agrosuelta Andricca Androna Androsuelta Ardona Belentina Bouderta Brigantona Brigentina Cataseibra Caterta 
 			Catosuelta Covantia Covicca Covisama Covona Cunila Cunona Epila Epubodva Galisama Galubodva Matrantia Matrantona Matrila Matrubodva Morgasta 
 			Morgerta Morgisama Morgosuelt Nanterta Nantuinna Nemetantona Osmerta Osmila Osmubodva Rigantia Rigentina Rigubodva Senantona Senisama Senosuelta 
 			Sirantia Sirasta Sulantona Sulila Sulona Sulosuelta Valila Valubodva Valuinna Veventina Vevicca Volcerta

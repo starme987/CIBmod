@@ -40,7 +40,7 @@ bm_britannia = {
 		}
 	}
 	selectable_character = {
-		id = 500 # Caratacus
+		id = 2501 # Caratacus
 		age = 33
 		name = ERA_CHAR_NAME_500
 		title = c_catuvellauni

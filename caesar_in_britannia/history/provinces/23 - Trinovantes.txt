@@ -4,9 +4,15 @@
 title = c_trinovantes
 
 # Settlements
-max_settlements = 1
+max_settlements = 2
 
 b_camulodunon = castle
+#b_trinovantes = city
+#b_trinovantes_2 = temple
+#b_trinovantes_3 = castle
+#b_trinovantes_4 = city
+#b_trinovantes_5 = temple
+#b_trinovantes_6 = castle
 
 # Misc
 culture = british

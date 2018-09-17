@@ -454,6 +454,7 @@
 	culture=roman 
 	religion=roman_hellenic
 	734.7.21={ birth=yes }
+	754.1.1={ add_spouse=49 }
 	801.8.28={ death=yes }
 }
 42={
@@ -462,7 +463,9 @@
 	culture=roman 
 	religion=roman_hellenic
 	father=41	#Romaeus
+	mother=49	#Maximiana
 	758.6.2={ birth=yes }
+	778.1.1={ add_spouse=50 }
 	819.1.21={ death=yes }
 }
 43={
@@ -471,6 +474,7 @@
 	culture=roman 
 	religion=roman_hellenic
 	father=41	#Romaeus
+	mother=49	#Maximiana
 	759.9.27={ birth=yes }
 	829.7.7={ death=yes }
 }
@@ -480,6 +484,7 @@
 	culture=roman 
 	religion=roman_hellenic
 	father=41	#Romaeus
+	mother=49	#Maximiana
 	764.9.12={ birth=yes }
 	802.1.17={ death=yes }
 }
@@ -489,6 +494,7 @@
 	culture=roman 
 	religion=roman_hellenic
 	father=42	#Salvator
+	mother=50	#Ulpia
 	782.12.21={ birth=yes }
 	856.11.29={ death=yes }
 }
@@ -498,6 +504,7 @@
 	culture=roman 
 	religion=roman_hellenic
 	father=42	#Salvator
+	mother=50	#Ulpia
 	785.12.20={ birth=yes }
 	856.6.18={ death=yes }
 }
@@ -508,6 +515,7 @@
 	culture=roman 
 	religion=roman_hellenic
 	father=42	#Salvator
+	mother=50	#Ulpia
 	789.9.10={ birth=yes }
 	846.3.21={ death=yes }
 }
@@ -518,6 +526,23 @@
 	culture=roman 
 	religion=roman_hellenic
 	father=42	#Salvator
+	mother=50	#Ulpia
 	791.5.20={ birth=yes }
 	875.6.17={ death=yes }
+}
+49={
+	name=Maximiana
+	female=yes
+	culture=roman 
+	religion=roman_hellenic
+	734.7.21={ birth=yes }
+	801.8.28={ death=yes }
+}
+50={
+	name=Ulpia
+	female=yes
+	culture=roman 
+	religion=roman_hellenic
+	758.7.21={ birth=yes }
+	819.8.28={ death=yes }
 }
