@@ -74,7 +74,7 @@ celtic = {
 	gallic = {
 		graphical_cultures = { norsegfx }
 		
-		color = { 147 145 83 }
+		color = { 0.4 0.45 1.0 }
 
 		male_names = {
 			Adiatorix Adretilis Advorix Agedilios Allobroxus Ambillic Ambilo Andecarius Andosten Anducor Anducoric Antedric Anteremius Ateponirus
@@ -126,6 +126,56 @@ celtic = {
 			Trasmira Trastivigia Vattia Veleda Vergina Viscaverga Visterlo Vistravara Vistrildi Zanina
 		}
 		from_dynasty_prefix = "of the "
+
+		modifier = default_culture_modifier
+	}
+	
+	iberian = {
+		graphical_cultures = { occitangfx celticgfx }
+		
+		color = { 0.05 0.25 0.05 }
+
+		male_names = {
+			Acichocos Acichosgus Adiacomborius Adiamarus Adiatunnus Amiccus Amicos Aminus Autaricos Bellocos Bellogon Bellotiacus Bellovellaunus Boduoledes 
+			Boduothreus Boduotix Boduovettius Boduovolcus Cambaucatus Cambaugon Cambauviccus Camulocos Camulotiacus Cassiciacus Cassicos Casticus Castillus 
+			Castimatus Castitiacus Catamantaco Catamantaledes Catamantarix Catullus Cavarilitavis Cavarillus Celtinus Celtitus Cingelus Conconneledes 
+			Convictodumnus Convictognatus Convictotorix Cotuacus Crigenus Crisgus Crisnactus Deioccus Deiogenus Deiosgus Diviciacus Divivesus Donnodumnus 
+			Donnoledes Epatorix Eporevanus Gaulavellaunus Kaukanios Litatius Litavilus Luctesgus Lutavolcus Moritaciacus Moritatiacus Olyndicomborius Orgecus Orgedumnus
+			Orgemarus Orgevix Ortialedes Prasurius Rianociacus Rianovix Sedugenus Sedutiacus Segociacus Segoco Segomarus Senacubracius Senniaco Sinotagus 
+			Sologenus Tascioco Taximagulitavis Taximagumatus Teutogon Teutotix Togolitavis Togovolcus Valetignatus Valetilus Valetimatus Valetivettius 
+			Vertibracius Vertidumnus Vertirius Vertivolcus Viriathus Viridoco Viridodumnus Viridomarus Viridorius Viridothreus
+			
+			Aballos Abbo Abellios Abonios Abucatos Abudinos Abudos Acapos Acco Aclutios Acutios Acurio Acos Adbitos Adbugio Adcobrouatis Adcoro Adgennios Adgennorix Adiatorix Agaunos Agricu Aiulos Alcios Allecnos Alletorris
+			Ambidauos Ambigatos Amilo Amyntas Annauos Artemidoros Assuios Aucirix Auorix_Aurang Ausios_Aulus Baiorix Barnaeos Bedorix Belenos Belatorix Beros Biraco Bisico Bitos Borbanos Brennus Brico Brigios Brittomaros Brittos Brogitarius Broiiox Bussumaros
+			Caballos Calgacos Caletios Cambo Cambotrix Camulixos Caniccios Canos Cassicios Cattios Cauanos Caxtos Celecorix Cerdicis Cladaeos Cenusticos Coilanos Corilos Cottilos Craxsantos Daccios Dagomaros Dannorix Dauilos Dauicios
+			Deiotarus Deuorix Docirix Drecinos Dregenios Dubnorix Dunaios Eburios Epacos Epidios Ercos Esmerios Flatucias Gabranos Gaisio_Gaius Gesorios Gnatos Iaccos Iaros Iatupocios Icconios Ientu Iliatos Illixo Imbetos Ioincos Irnos
+			Labaros Lanicos Lanios Laticcos Licorix Lugios Macari Magetiu Magurix Malliacos Maros Martos Matuacos Meddu Medos Mereos Moritex Namatios Namiorix Nattos Nimo Ollilos Omiuios Onniorix Ordouix Orgilos Ouiorix Oxogaros Oxsonos Oxtaios
+			Pattoso Pennios Rabilos Ratis Rebricos Reburros Rianorix Ritomaros Rudos Sacrapo Samo Samicos Samorix Sattiolos Sauumaros Segolatios Senodios Senorix Seplios Seppios Smerios Sobios Sonnios Taranutios Tanco Taruagos Taxapo Tituros Tutinos
+			Vallo Vanos Vecorix Vepo Vertoris
+		}
+		female_names = {
+			Agraseibra Agrentina Agrosuelta Andricca Androna Androsuelta Ardona Belentina Belisama Bouderta Brigantona Brigentina Cataseibra Caterta 
+			Catosuelta Covantia Covicca Covisama Covona Cunila Cunona Epila Epubodva Galisama Galubodva Matrantia Matrantona Matrila Matrubodva Morgasta 
+			Morgerta Morgisama Morgosuelt Nanterta Nantuinna Nemetantona Osmerta Osmila Osmubodva Rigantia Rigentina Rigubodva Senantona Senisama Senosuelta 
+			Sirantia Sirasta Sulantona Sulila Sulona Sulosuelta Valila Valubodva Valuinna Veventina Vevicca Volcerta
+			
+			Abegina Abrexta Acainissa Acmonisa Adginna Adgonna Adianti Adiantunne Adreticia Aeduinia Agrinia Aiia Albisia Anasonia Antia Banna Bauila Belisama Bissula Blandia Botuca Boua Boudia Braciaca Bricia Brogia Bussala Cassimara Catia Clotia Cludia Cocca Coriaca
+			Dammula Dannissa Decmilla Deuonia Diuogenia Donilla Donnia Druca Dubnia Eburia Eburila Etosa Giama Iatta Iblissa Ica Iblia Lana Lemonia Magissa Martiola Matucia Melissa Melina Meropia Melissia Moccia Nemesia Neuia Olitia Olluna Orbissa Ouidia Peccia Poppusa Poria
+			Ratulla Ressona Riocenia Roxtia Samilla Senodona Serria Serra Sextilla Sira Smeria Solicia Solicana Suadra Tigotia Totia Trexa Venica Vepia Venixama Venedotia
+		}
+		
+		from_dynasty_prefix = "de " # from
+		grammar_transform = spanish
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 25
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 0
+		mother_name_chance = 0
 
 		modifier = default_culture_modifier
 	}

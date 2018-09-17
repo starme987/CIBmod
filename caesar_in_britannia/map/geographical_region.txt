@@ -1,0 +1,49 @@
+# Geographical regions
+# Regions can be declared with one or more of the following fields:
+#  duchies = { }, takes duchy title names declared in landed_titles.txt
+#  counties = { }, takes county title names declared in landed_titles.txt
+#  provinces = { }, takes province id numbers declared in /history/provinces
+#  regions = { }, a region can also include other regions, however the subregions needs to be declared before the parent region. 
+#  E.g. If the region world_europe contains the region world_europe_west then world_europe_west needs to be declared as a region before (i.e. higher up in this file) world_europe.
+
+###########################################################################
+# World Regions
+#  These groups are mutually exclusive on the same tier
+###########################################################################
+
+world_roman_empire = {
+	duchies = {
+		d_latium d_campania d_samnium d_etruria d_umbria d_ager_gallicus d_picenum d_apulia d_lucania
+		d_bruttium d_liguria d_aemilitat d_venetia d_histria d_sicilia d_syrakuse d_sardinia d_corsica
+	}
+}
+
+world_britannia = {
+	duchies = {
+		d_belgae d_brigantes d_cantii d_carvetii d_catuvellauni d_coritani d_cornovi d_damnonii
+		d_deceangli d_demetae d_dobunni d_dumnonii d_durotriges d_icenii d_novantae d_ordovices
+		d_parisi d_regni d_selgovae d_silures d_trinovantes d_venicones d_votadini
+	}
+}
+
+world_belgica = {
+	duchies = {
+		d_atrebates d_bellovaci d_eburones d_lingones d_mediomatrici d_morini d_nemetes d_nervii
+		d_remi d_sequani d_suebi d_suessiones d_treverii d_vangiones
+	}
+}
+
+world_celtica = {
+	duchies = {
+		d_camunni d_helvetii d_insubres d_raeti d_tulingi
+	}
+}
+
+world_gaul = {
+	duchies = {
+		d_aedui d_allobroges d_arverni d_ausci d_biturges d_cadurci d_carnutes d_caturiges 
+		d_cenomani d_lemovices d_lexovii d_mandubii d_masilia d_namnetes d_osismii d_parisii
+		d_pictones d_redones d_santones d_senones d_sotiates d_tarbelli d_turones d_unelli
+		d_veneti d_vivisci d_vocontii d_volcae
+	}
+}

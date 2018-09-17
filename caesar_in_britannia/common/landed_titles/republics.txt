@@ -1,0 +1,4 @@
+#Campania
+
+b_plautius = { culture = roman }
+b_mamercus = { culture = roman }

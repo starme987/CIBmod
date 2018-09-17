@@ -587,7 +587,7 @@
 	religion=british_druidic
 	dynasty=507
 	750.1.1 = { birth = yes }
-	769.1.1 = { add_spouse = 2854 }
+	769.1.1 = { add_spouse = 2855 }
 	780.1.1 = { death = yes }
 }
 2855={

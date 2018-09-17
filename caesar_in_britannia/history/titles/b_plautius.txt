@@ -1,0 +1,5 @@
+794.1.24={
+	holding_dynasty = 2
+	liege="d_campania"
+    holder=2
+}

@@ -1,0 +1,7 @@
+759.1.1={
+	holding_dynasty = 12
+	liege="d_campania"
+	holder=41
+} #Romaeus[12]
+801.08.28={holder=42} #Salvator[12]
+819.01.21={holder=45} #Valentinianus[12]

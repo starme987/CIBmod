@@ -445,3 +445,79 @@
 	748.6.15={ birth=yes }
 	809.7.7={ death=yes }
 }
+
+# Campania Houses #
+
+41={
+	name=Romaeus
+	dynasty=12
+	culture=roman 
+	religion=roman_hellenic
+	734.7.21={ birth=yes }
+	801.8.28={ death=yes }
+}
+42={
+	name=Salvator
+	dynasty=12
+	culture=roman 
+	religion=roman_hellenic
+	father=41	#Romaeus
+	758.6.2={ birth=yes }
+	819.1.21={ death=yes }
+}
+43={
+	name=Vigilius
+	dynasty=12
+	culture=roman 
+	religion=roman_hellenic
+	father=41	#Romaeus
+	759.9.27={ birth=yes }
+	829.7.7={ death=yes }
+}
+44={
+	name=Romulus
+	dynasty=12
+	culture=roman 
+	religion=roman_hellenic
+	father=41	#Romaeus
+	764.9.12={ birth=yes }
+	802.1.17={ death=yes }
+}
+45={
+	name=Valentinianus
+	dynasty=12
+	culture=roman 
+	religion=roman_hellenic
+	father=42	#Salvator
+	782.12.21={ birth=yes }
+	856.11.29={ death=yes }
+}
+46={
+	name=Nicolaus
+	dynasty=12
+	culture=roman 
+	religion=roman_hellenic
+	father=42	#Salvator
+	785.12.20={ birth=yes }
+	856.6.18={ death=yes }
+}
+47={
+	name=Florina
+	female=yes
+	dynasty=12
+	culture=roman 
+	religion=roman_hellenic
+	father=42	#Salvator
+	789.9.10={ birth=yes }
+	846.3.21={ death=yes }
+}
+48={
+	name=Viviana
+	female=yes
+	dynasty=12
+	culture=roman 
+	religion=roman_hellenic
+	father=42	#Salvator
+	791.5.20={ birth=yes }
+	875.6.17={ death=yes }
+}
