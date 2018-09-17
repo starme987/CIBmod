@@ -6,7 +6,7 @@ title = c_namnetes
 # Settlements
 max_settlements = 1
 
-b_placeholder_31 = castle
+b_placeholder_29 = castle
 
 # Misc
 culture = gallic

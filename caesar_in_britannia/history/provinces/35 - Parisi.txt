@@ -6,7 +6,7 @@ title = c_parisi
 # Settlements
 max_settlements = 1
 
-b_placeholder_21 = castle
+b_placeholder_19 = castle
 
 # Misc
 culture = british

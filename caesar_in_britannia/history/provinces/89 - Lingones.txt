@@ -6,7 +6,7 @@ title = c_lingones
 # Settlements
 max_settlements = 1
 
-b_placeholder_75 = castle
+b_placeholder_73 = castle
 
 # Misc
 culture = celtic

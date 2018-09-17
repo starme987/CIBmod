@@ -8,8 +8,8 @@ max_settlements = 4
 
 b_tarquinii = city
 b_caere = city
-b_placeholder_3 = temple
-b_placeholder_4 = castle
+b_placeholder = temple
+b_placeholder_2 = castle
 
 # Misc
 culture = roman

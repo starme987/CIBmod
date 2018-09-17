@@ -6,7 +6,7 @@ title = c_tulingi
 # Settlements
 max_settlements = 1
 
-b_placeholder_61 = castle
+b_placeholder_59 = castle
 
 # Misc
 culture = celtic

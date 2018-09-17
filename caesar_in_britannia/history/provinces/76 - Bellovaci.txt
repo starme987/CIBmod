@@ -6,7 +6,7 @@ title = c_bellovaci
 # Settlements
 max_settlements = 1
 
-b_placeholder_62 = castle
+b_placeholder_60 = castle
 
 # Misc
 culture = celtic

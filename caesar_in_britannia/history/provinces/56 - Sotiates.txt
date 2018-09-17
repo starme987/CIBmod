@@ -6,7 +6,7 @@ title = c_sotiates
 # Settlements
 max_settlements = 1
 
-b_placeholder_42 = castle
+b_placeholder_40 = castle
 
 # Misc
 culture = gallic

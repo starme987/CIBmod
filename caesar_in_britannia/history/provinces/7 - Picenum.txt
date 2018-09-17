@@ -7,7 +7,7 @@ title = c_picenum
 max_settlements = 2
 
 b_hatria = city
-#b_placeholder_10 = city
+#b_placeholder_8 = city
 
 # Misc
 culture = roman

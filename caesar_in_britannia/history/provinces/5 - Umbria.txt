@@ -7,10 +7,10 @@ title = c_umbria
 max_settlements = 5
 
 b_arretium = city
-b_placeholder_5 = city
-#b_placeholder_6 = temple
-#b_placeholder_7 = castle
-#b_placeholder_8 = city
+b_placeholder_3 = city
+#b_placeholder_4 = temple
+#b_placeholder_5 = castle
+#b_placeholder_6 = city
 
 # Misc
 culture = roman

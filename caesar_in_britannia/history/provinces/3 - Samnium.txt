@@ -7,8 +7,12 @@ title = c_samnium
 max_settlements = 3
 
 b_ankona = city
-#b_placeholder = city
-#b_placeholder_2 = temple
+#b_samnium = city
+#b_samnium_2 = temple
+#b_samnium_3 = castle
+#b_samnium_4 = city
+#b_samnium_5 = temple
+#b_samnium_6 = castle
 
 # Misc
 culture = roman

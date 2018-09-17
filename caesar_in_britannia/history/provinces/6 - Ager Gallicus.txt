@@ -8,7 +8,7 @@ max_settlements = 3
 
 b_ancona = city
 b_perusia = city
-#b_placeholder_9 = temple
+#b_placeholder_7 = temple
 
 # Misc
 culture = roman

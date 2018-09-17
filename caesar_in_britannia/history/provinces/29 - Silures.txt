@@ -6,7 +6,7 @@ title = c_silures
 # Settlements
 max_settlements = 1
 
-b_placeholder_15 = castle
+b_placeholder_13 = castle
 
 # Misc
 culture = british

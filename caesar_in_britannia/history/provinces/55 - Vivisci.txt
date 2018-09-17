@@ -6,7 +6,7 @@ title = c_vivisci
 # Settlements
 max_settlements = 1
 
-b_placeholder_41 = castle
+b_placeholder_39 = castle
 
 # Misc
 culture = gallic
