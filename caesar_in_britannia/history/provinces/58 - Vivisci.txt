@@ -4,9 +4,15 @@
 title = c_vivisci
 
 # Settlements
-max_settlements = 1
+max_settlements = 2
 
-b_placeholder_11 = castle
+b_vivisci = castle
+#b_vivisci_2 = city
+#b_vivisci_3 = temple
+#b_vivisci_4 = castle
+#b_vivisci_5 = city
+#b_vivisci_6 = temple
+#b_vivisci_7 = castle
 
 # Misc
 culture = gallic

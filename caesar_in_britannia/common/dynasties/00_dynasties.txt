@@ -53,13 +53,13 @@
 }
 9=
 {
-	name="Desticius Bodenius"
+	name="Desticius"
 	culture="roman"
 	religion="roman_hellenic"
 }
 10=
 {
-	name="Rabirius Cerinthus"
+	name="Rabirius"
 	culture="roman"
 	religion="roman_hellenic"
 }
@@ -72,6 +72,18 @@
 12=
 {
 	name="Mamercus"
+	culture="roman"
+	religion="roman_hellenic"
+}
+13=
+{
+	name="Bodenius"
+	culture="roman"
+	religion="roman_hellenic"
+}
+14=
+{
+	name="Cerinthus"
 	culture="roman"
 	religion="roman_hellenic"
 }

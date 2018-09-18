@@ -4,9 +4,10 @@
 title = c_arverni
 
 # Settlements
-max_settlements = 1
+max_settlements = 2
 
-b_placeholder_21 = castle
+b_placeholder = castle
+#b_arverni = city
 
 # Misc
 culture = celtic

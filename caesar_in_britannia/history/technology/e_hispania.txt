@@ -1,13 +1,19 @@
 #HISPANIA
 technology = {
 	titles = {
+		d_baleares
 		d_berones
+		d_caristii
 		d_ceretani
 		d_cessetani
+		d_ebusus
 		d_emporion
 		d_iacetani
+		d_ilercavones
 		d_illergetae
 		d_indigetes
+		d_sedetani
+		d_vardulli
 	}
 	1 = {
 		military = 0.0

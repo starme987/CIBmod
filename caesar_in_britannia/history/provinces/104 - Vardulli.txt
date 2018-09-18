@@ -4,9 +4,10 @@
 title = c_vardulli
 
 # Settlements
-max_settlements = 1
+max_settlements = 2
 
-b_placeholder_57 = castle
+b_placeholder_37 = castle
+#b_vardulli = city
 
 # Misc
 culture = iberian

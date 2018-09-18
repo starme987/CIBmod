@@ -4,9 +4,15 @@
 title = c_aedui
 
 # Settlements
-max_settlements = 1
+max_settlements = 2
 
-b_placeholder_16 = castle
+b_aedui = castle
+#b_aedui_2 = city
+#b_aedui_3 = temple
+#b_aedui_4 = castle
+#b_aedui_5 = city
+#b_aedui_6 = temple
+#b_aedui_7 = castle
 
 # Misc
 culture = celtic

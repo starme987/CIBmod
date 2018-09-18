@@ -1,0 +1,5 @@
+796.1.1={
+	holding_dynasty = 14
+	liege="d_campania"
+    holder=55
+}

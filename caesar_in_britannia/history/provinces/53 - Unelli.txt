@@ -4,9 +4,15 @@
 title = c_unelli
 
 # Settlements
-max_settlements = 1
+max_settlements = 2
 
-b_placeholder_6 = castle
+b_unelli = castle
+#b_unelli_2 = city
+#b_unelli_3 = temple
+#b_unelli_4 = castle
+#b_unelli_5 = city
+#b_unelli_6 = temple
+#b_unelli_7 = castle
 
 # Misc
 culture = gallic

@@ -4,9 +4,10 @@
 title = c_biturges
 
 # Settlements
-max_settlements = 1
+max_settlements = 2
 
-b_placeholder_22 = castle
+b_placeholder_2 = castle
+#b_biturges = city
 
 # Misc
 culture = celtic

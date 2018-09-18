@@ -2,3 +2,5 @@
 
 b_plautius = { culture = roman }
 b_mamercus = { culture = roman }
+b_bodenius = { culture = roman }
+b_cerinthus = { culture = roman }

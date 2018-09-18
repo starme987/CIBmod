@@ -546,3 +546,49 @@
 	758.7.21={ birth=yes }
 	819.8.28={ death=yes }
 }
+51={
+	name=Gratianus
+	dynasty=13
+	culture=roman 
+	religion=roman_hellenic
+	743.4.9={ birth=yes }
+	763.1.1={ add_spouse=54 }
+	823.10.17={ death=yes }
+}
+52={
+	name=Leontia
+	female=yes
+	dynasty=13
+	culture=roman 
+	religion=roman_hellenic
+	father=51	#Gratianus
+	mother=54	#Patricia
+	769.2.16={ birth=yes }
+	847.3.21={ death=yes }
+}
+53={
+	name=Anastasius
+	dynasty=13
+	culture=roman 
+	religion=roman_hellenic
+	father=51	#Gratianus
+	mother=54	#Patricia
+	771.5.21={ birth=yes }
+	826.11.27={ death=yes }
+}
+54={
+	name=Patricia
+	female=yes
+	culture=roman 
+	religion=roman_hellenic
+	743.7.21={ birth=yes }
+	823.8.28={ death=yes }
+}
+55={
+	name=Julianus
+	dynasty=14
+	culture=roman 
+	religion=roman_hellenic
+	774.4.17={ birth=yes }
+	825.11.20={ death=yes }
+}

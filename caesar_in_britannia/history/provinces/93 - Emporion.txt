@@ -4,9 +4,10 @@
 title = c_emporion
 
 # Settlements
-max_settlements = 1
+max_settlements = 2
 
-b_placeholder_46 = castle
+b_placeholder_26 = castle
+#b_emporion = city
 
 # Misc
 culture = greek

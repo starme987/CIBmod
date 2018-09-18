@@ -4,9 +4,10 @@
 title = c_vangiones
 
 # Settlements
-max_settlements = 1
+max_settlements = 2
 
-b_placeholder_43 = castle
+b_placeholder_23 = castle
+#b_vangiones = city
 
 # Misc
 culture = germanic

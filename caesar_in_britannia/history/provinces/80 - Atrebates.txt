@@ -4,9 +4,10 @@
 title = c_atrebates
 
 # Settlements
-max_settlements = 1
+max_settlements = 2
 
-b_placeholder_33 = castle
+b_placeholder_13 = castle
+#b_atrebates = city
 
 # Misc
 culture = celtic

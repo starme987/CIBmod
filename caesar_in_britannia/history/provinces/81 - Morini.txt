@@ -4,9 +4,10 @@
 title = c_morini
 
 # Settlements
-max_settlements = 1
+max_settlements = 2
 
-b_placeholder_34 = castle
+b_placeholder_14 = castle
+#b_morini = city
 
 # Misc
 culture = celtic

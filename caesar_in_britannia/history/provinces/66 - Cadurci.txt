@@ -4,9 +4,15 @@
 title = c_cadurci
 
 # Settlements
-max_settlements = 1
+max_settlements = 2
 
-b_placeholder_19 = castle
+b_cadurci = castle
+#b_cadurci_2 = city
+#b_cadurci_3 = temple
+#b_cadurci_4 = castle
+#b_cadurci_5 = city
+#b_cadurci_6 = temple
+#b_cadurci_7 = castle
 
 # Misc
 culture = celtic

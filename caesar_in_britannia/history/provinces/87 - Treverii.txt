@@ -4,9 +4,10 @@
 title = c_treverii
 
 # Settlements
-max_settlements = 1
+max_settlements = 2
 
-b_placeholder_40 = castle
+b_placeholder_20 = castle
+#b_treverii = city
 
 # Misc
 culture = celtic

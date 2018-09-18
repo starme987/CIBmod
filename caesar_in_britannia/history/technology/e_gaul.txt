@@ -19,6 +19,7 @@ technology = {
 		d_parisii
 		d_pictones
 		d_redones
+		d_ruteni
 		d_santones
 		d_senones
 		d_sotiates

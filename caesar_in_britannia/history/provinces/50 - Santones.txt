@@ -4,9 +4,15 @@
 title = c_santones
 
 # Settlements
-max_settlements = 1
+max_settlements = 2
 
-b_placeholder_3 = castle
+b_santones = castle
+#b_santones_2 = city
+#b_santones_3 = temple
+#b_santones_4 = castle
+#b_santones_5 = city
+#b_santones_6 = temple
+#b_santones_7 = castle
 
 # Misc
 culture = gallic

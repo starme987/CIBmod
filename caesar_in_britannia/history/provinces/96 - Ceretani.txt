@@ -4,9 +4,10 @@
 title = c_ceretani
 
 # Settlements
-max_settlements = 1
+max_settlements = 2
 
-b_placeholder_49 = castle
+b_placeholder_29 = castle
+#b_ceretani = city
 
 # Misc
 culture = iberian
