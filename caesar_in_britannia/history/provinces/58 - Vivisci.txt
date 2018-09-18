@@ -1,0 +1,15 @@
+# c_vivisci
+
+# County Title
+title = c_vivisci
+
+# Settlements
+max_settlements = 1
+
+b_placeholder_11 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

@@ -1,0 +1,15 @@
+# c_suebi
+
+# County Title
+title = c_suebi
+
+# Settlements
+max_settlements = 1
+
+b_placeholder_41 = castle
+
+# Misc
+culture = germanic
+religion = heathen
+
+#History

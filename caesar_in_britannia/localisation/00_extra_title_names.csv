@@ -6,3 +6,27 @@ world_britannia;Britannia;;;;;;;;;;;x
 world_belgica;Belgica;;;;;;;;;;;x
 world_gaul;Gaul;;;;;;;;;;;x
 world_celtica;Celtica;;;;;;;;;;;x
+city_emperor_roman;Princeps;Princeps;Kaiser;;Emperador;;;;;;;;;x
+city_king_roman;Consul;Consul;Konsulat;;Cónsul;;;;;;;;;x
+city_duke_roman;Proconsul;Proconsul;Prokonsul;;Procónsul;;;;;;;;;x
+city_count_roman;Praefectus Urbanus;Praefectus Urbanus;Praefectus Urbanus;;Praefectus Urbanus;;;;;;;;;x
+city_baron_roman;Praefectus;Praefectus;Praefectus;;Praefectus;;;;;;;;;x
+city_barony_of_roman;Municipium;Municipium;Municipium;;Municipium;;;;;;;;;x
+family_palace_baron_roman;Pater Familias;Pater Familias;Pater Familias;;Pater Familias;;;;;;;;;x
+family_palace_baron_female_roman;Mater Familias;Mater Familias;Mater Familias;;Mater Familias;;;;;;;;;x
+baron_roman;Senator;Sénateur;Senator;;Senator;;;;;;;x
+barony_of_roman;Castrum;Castrum;Castrum;;Castrum;;;;;;;x
+count_roman;Prefect;Préfet;Prefect;;Prefecto;;;;;;;x
+county_of_roman;Prefecture of;Préfecture de;;;Prefectura de;;;;;;;x
+duke_roman;Governor;Gouverneur;;;Governador;;;;;;;x
+duchy_of_roman;Province of;Province de;;;Provincia de;;;;;;;x
+king_roman;Vicar;Vicaire;Vicar;;Vicar;;;;;;;x
+kingdom_of_roman;Diocese of;Diocèse de;;;Diócesis de;;;;;;;x
+emperor_roman;Imperator Caesar;Imperator Caesar;Imperator Caesar;;Imperator Caesar;;;;;;;x
+empire_of_roman;Imperium;Imperium;Imperium;;Imperium;;;;;;;x
+emperor_female_roman;Augusta;Augusta;Rex;Rey;;;;;;;;;x
+job_chancellor_roman;Magister Officiorum;Magister Officiorum;Magister Officiorum;;Magister Officiorum;;;;;;;;;x
+job_marshal_roman;Magister Militum;Magister Militum;Magister Militum;;Magister Militum;;;;;;;;;x
+job_treasurer_roman;Quaestor;Quaestor;Quaestor;;Quaestor;;;;;;;;;x
+job_spymaster_roman;Frumentarius;Frumentarius;Frumentarius;;Frumentarius;;;;;;;;;x
+job_spiritual_roman;Censor;Censor;Censor;;Censor;;;;;;;;;x

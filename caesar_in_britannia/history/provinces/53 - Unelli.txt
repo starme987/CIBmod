@@ -1,0 +1,15 @@
+# c_unelli
+
+# County Title
+title = c_unelli
+
+# Settlements
+max_settlements = 1
+
+b_placeholder_6 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

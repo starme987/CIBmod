@@ -219,6 +219,8 @@ italian = {
 			Zenobia_Zenobia
 		}
 		from_dynasty_prefix = " "
+		
+		dynasty_title_names = yes
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 50

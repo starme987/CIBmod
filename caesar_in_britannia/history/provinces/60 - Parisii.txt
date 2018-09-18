@@ -1,0 +1,15 @@
+# c_parisii
+
+# County Title
+title = c_parisii
+
+# Settlements
+max_settlements = 1
+
+b_placeholder_13 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

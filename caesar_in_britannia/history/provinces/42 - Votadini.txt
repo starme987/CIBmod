@@ -1,0 +1,21 @@
+# c_votadini
+
+# County Title
+title = c_votadini
+
+# Settlements
+max_settlements = 2
+
+b_votadini = castle
+#b_votadini_2 = city
+#b_votadini_3 = temple
+#b_votadini_4 = castle
+#b_votadini_5 = city
+#b_votadini_6 = temple
+#b_votadini_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

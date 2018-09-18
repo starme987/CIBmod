@@ -1,0 +1,15 @@
+# c_illergetae
+
+# County Title
+title = c_illergetae
+
+# Settlements
+max_settlements = 1
+
+b_placeholder_51 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

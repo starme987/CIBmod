@@ -1,0 +1,21 @@
+# c_phikaria
+
+# County Title
+title = c_phikaria
+
+# Settlements
+max_settlements = 1
+
+b_phikaria = castle
+#b_phikaria_2 = city
+#b_phikaria_3 = temple
+#b_phikaria_4 = castle
+#b_phikaria_5 = city
+#b_phikaria_6 = temple
+#b_phikaria_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

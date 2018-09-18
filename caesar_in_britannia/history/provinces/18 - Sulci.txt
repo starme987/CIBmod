@@ -1,0 +1,21 @@
+# c_sulci
+
+# County Title
+title = c_sulci
+
+# Settlements
+max_settlements = 1
+
+b_sulci = castle
+#b_sulci_2 = city
+#b_sulci_3 = temple
+#b_sulci_4 = castle
+#b_sulci_5 = city
+#b_sulci_6 = temple
+#b_sulci_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

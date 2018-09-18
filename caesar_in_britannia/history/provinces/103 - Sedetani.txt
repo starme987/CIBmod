@@ -1,0 +1,15 @@
+# c_sedetani
+
+# County Title
+title = c_sedetani
+
+# Settlements
+max_settlements = 1
+
+b_placeholder_56 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

@@ -3,7 +3,7 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
+600.1.1={
 	liege=k_silva_nigra
 }
 766.1.1={holder=6500} #Becilla[700]

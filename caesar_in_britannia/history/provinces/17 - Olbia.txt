@@ -1,0 +1,21 @@
+# c_olbia
+
+# County Title
+title = c_olbia
+
+# Settlements
+max_settlements = 2
+
+b_olbia = castle
+#b_olbia_2 = city
+#b_olbia_3 = temple
+#b_olbia_4 = castle
+#b_olbia_5 = city
+#b_olbia_6 = temple
+#b_olbia_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

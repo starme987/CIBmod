@@ -5,6 +5,8 @@ c_aemiliat;Aemiliat;Aemiliat;Aemiliat;;Aemiliat;;;;;;;;;x
 c_aemiliat_adj;Aemiliatian;;aemiliater;;;;;;;;;;;x
 c_ager_gallicus;Ager Gallicus;Ager Gallicus;Ager Gallicus;;Ager Gallicus;;;;;;;;;x
 c_ager_gallicus_adj;Ager Gallicusian;;Ager Gallicuser;;;;;;;;;;;x
+c_alalie;Alalie;Alalie;Alalie;;Alalie;;;;;;;;;x
+c_alalie_adj;Alaliean;;alaler;;;;;;;;;;;x
 c_allobroges;Allobroges;Allobroges;Allobroges;;Allobroges;;;;;;;;;x
 c_allobroges_adj;Allobrogesian;;allobrogeser;;;;;;;;;;;x
 c_apulia;Apulia;Apulia;Apulia;;Apulia;;;;;;;;;x
@@ -15,10 +17,14 @@ c_atrebates;Atrebates;Atrebates;Atrebates;;Atrebates;;;;;;;;;x
 c_atrebates_adj;Atrebatesian;;atrebateser;;;;;;;;;;;x
 c_ausci;Ausci;Ausci;Ausci;;Ausci;;;;;;;;;x
 c_ausci_adj;Auscian;;auscer;;;;;;;;;;;x
+c_baleares;Baleares;Baleares;Baleares;;Baleares;;;;;;;;;x
+c_baleares_adj;Balearesian;;baleareser;;;;;;;;;;;x
 c_belgae;Belgae;Belgae;Belgae;;Belgae;;;;;;;;;x
 c_belgae_adj;Belgaean;;belger;;;;;;;;;;;x
 c_bellovaci;Bellovaci;Bellovaci;Bellovaci;;Bellovaci;;;;;;;;;x
 c_bellovaci_adj;Bellovacian;;bellovacer;;;;;;;;;;;x
+c_berones;Berones;Berones;Berones;;Berones;;;;;;;;;x
+c_berones_adj;Beronesian;;beroneser;;;;;;;;;;;x
 c_biturges;Biturges;Biturges;Biturges;;Biturges;;;;;;;;;x
 c_biturges_adj;Biturgesian;;biturgeser;;;;;;;;;;;x
 c_brigantes;Brigantes;Brigantes;Brigantes;;Brigantes;;;;;;;;;x
@@ -33,6 +39,8 @@ c_camunni;Camunni;Camunni;Camunni;;Camunni;;;;;;;;;x
 c_camunni_adj;Camunnian;;camunner;;;;;;;;;;;x
 c_cantii;Cantii;Cantii;Cantii;;Cantii;;;;;;;;;x
 c_cantii_adj;Cantian;;canter;;;;;;;;;;;x
+c_caristii;Caristii;Caristii;Caristii;;Caristii;;;;;;;;;x
+c_caristii_adj;Caristian;;carister;;;;;;;;;;;x
 c_carnutes;Carnutes;Carnutes;Carnutes;;Carnutes;;;;;;;;;x
 c_carnutes_adj;Carnutesian;;carnuteser;;;;;;;;;;;x
 c_carvetii;Carvetii;Carvetii;Carvetii;;Carvetii;;;;;;;;;x
@@ -45,12 +53,12 @@ c_cenomani;Cenomani;Cenomani;Cenomani;;Cenomani;;;;;;;;;x
 c_cenomani_adj;Cenomanian;;cenomaner;;;;;;;;;;;x
 c_ceretani;Ceretani;Ceretani;Ceretani;;Ceretani;;;;;;;;;x
 c_ceretani_adj;Ceretanian;;ceretaner;;;;;;;;;;;x
+c_cessetani;Cessetani;Cessetani;Cessetani;;Cessetani;;;;;;;;;x
+c_cessetani_adj;Cessetanian;;cessetaner;;;;;;;;;;;x
 c_coritani;Coritani;Coritani;Coritani;;Coritani;;;;;;;;;x
 c_coritani_adj;Coritanian;;coritaner;;;;;;;;;;;x
 c_cornovi;Cornovi;Cornovi;Cornovi;;Cornovi;;;;;;;;;x
 c_cornovi_adj;Cornovian;;cornover;;;;;;;;;;;x
-c_corsica;Corsica;Corsica;Corsica;;Corsica;;;;;;;;;x
-c_corsica_adj;Corsican;;corsicer;;;;;;;;;;;x
 c_damnonii;Damnonii;Damnonii;Damnonii;;Damnonii;;;;;;;;;x
 c_damnonii_adj;Damnonian;;damnoner;;;;;;;;;;;x
 c_deceangli;Deceangli;Deceangli;Deceangli;;Deceangli;;;;;;;;;x
@@ -65,6 +73,8 @@ c_durotriges;Durotriges;Durotriges;Durotriges;;Durotriges;;;;;;;;;x
 c_durotriges_adj;Durotrigesian;;durotrigeser;;;;;;;;;;;x
 c_eburones;Eburones;Eburones;Eburones;;Eburones;;;;;;;;;x
 c_eburones_adj;Eburonesian;;eburoneser;;;;;;;;;;;x
+c_ebusus;Ebusus;Ebusus;Ebusus;;Ebusus;;;;;;;;;x
+c_ebusus_adj;Ebususian;;ebususer;;;;;;;;;;;x
 c_emporion;Emporion;Emporion;Emporion;;Emporion;;;;;;;;;x
 c_emporion_adj;Emporionian;;emporioner;;;;;;;;;;;x
 c_etruria;Etruria;Etruria;Etruria;;Etruria;;;;;;;;;x
@@ -77,6 +87,10 @@ c_iacetani;Iacetani;Iacetani;Iacetani;;Iacetani;;;;;;;;;x
 c_iacetani_adj;Iacetanian;;iacetaner;;;;;;;;;;;x
 c_icenii;Icenii;Icenii;Icenii;;Icenii;;;;;;;;;x
 c_icenii_adj;Icenian;;icener;;;;;;;;;;;x
+c_ilercavones;Ilercavones;Ilercavones;Ilercavones;;Ilercavones;;;;;;;;;x
+c_ilercavones_adj;Ilercavonesian;;ilercavoneser;;;;;;;;;;;x
+c_illergetae;Illergetae;Illergetae;Illergetae;;Illergetae;;;;;;;;;x
+c_illergetae_adj;Illergetaean;;illergeter;;;;;;;;;;;x
 c_indigetes;Indigetes;Indigetes;Indigetes;;Indigetes;;;;;;;;;x
 c_indigetes_adj;Indigetesian;;indigeteser;;;;;;;;;;;x
 c_insubres;Insubres;Insubres;Insubres;;Insubres;;;;;;;;;x
@@ -109,6 +123,8 @@ c_nervii;Nervii;Nervii;Nervii;;Nervii;;;;;;;;;x
 c_nervii_adj;Nervian;;nerver;;;;;;;;;;;x
 c_novantae;Novantae;Novantae;Novantae;;Novantae;;;;;;;;;x
 c_novantae_adj;Novantaean;;novanter;;;;;;;;;;;x
+c_olbia;Olbia;Olbia;Olbia;;Olbia;;;;;;;;;x
+c_olbia_adj;Olbian;;olber;;;;;;;;;;;x
 c_ordovices;Ordovices;Ordovices;Ordovices;;Ordovices;;;;;;;;;x
 c_ordovices_adj;Ordovicesian;;ordoviceser;;;;;;;;;;;x
 c_osismii;Osismii;Osismii;Osismii;;Osismii;;;;;;;;;x
@@ -117,6 +133,8 @@ c_parisi;Parisi;Parisi;Parisi;;Parisi;;;;;;;;;x
 c_parisi_adj;Parisian;;pariser;;;;;;;;;;;x
 c_parisii;Parisii;Parisii;Parisii;;Parisii;;;;;;;;;x
 c_parisii_adj;Parisian;;pariser;;;;;;;;;;;x
+c_phikaria;Phikaria;Phikaria;Phikaria;;Phikaria;;;;;;;;;x
+c_phikaria_adj;Phikarian;;phikarer;;;;;;;;;;;x
 c_picenum;Picenum;Picenum;Picenum;;Picenum;;;;;;;;;x
 c_picenum_adj;Picenumian;;picenumer;;;;;;;;;;;x
 c_pictones;Pictones;Pictones;Pictones;;Pictones;;;;;;;;;x
@@ -135,8 +153,8 @@ c_samnium;Samnium;Samnium;Samnium;;Samnium;;;;;;;;;x
 c_samnium_adj;Samniumian;;samniumer;;;;;;;;;;;x
 c_santones;Santones;Santones;Santones;;Santones;;;;;;;;;x
 c_santones_adj;Santonesian;;santoneser;;;;;;;;;;;x
-c_sardinia;Sardinia;Sardinia;Sardinia;;Sardinia;;;;;;;;;x
-c_sardinia_adj;Sardinian;;sardiner;;;;;;;;;;;x
+c_sedetani;Sedetani;Sedetani;Sedetani;;Sedetani;;;;;;;;;x
+c_sedetani_adj;Sedetanian;;sedetaner;;;;;;;;;;;x
 c_selgovae;Selgovae;Selgovae;Selgovae;;Selgovae;;;;;;;;;x
 c_selgovae_adj;Selgovaean;;selgover;;;;;;;;;;;x
 c_senones;Senones;Senones;Senones;;Senones;;;;;;;;;x
@@ -153,8 +171,12 @@ c_suebi;Suebi;Suebi;Suebi;;Suebi;;;;;;;;;x
 c_suebi_adj;Suebian;;sueber;;;;;;;;;;;x
 c_suessiones;Suessiones;Suessiones;Suessiones;;Suessiones;;;;;;;;;x
 c_suessiones_adj;Suessionesian;;suessioneser;;;;;;;;;;;x
+c_sulci;Sulci;Sulci;Sulci;;Sulci;;;;;;;;;x
+c_sulci_adj;Sulcian;;sulcer;;;;;;;;;;;x
 c_syrakuse;Syrakuse;Syrakuse;Syrakuse;;Syrakuse;;;;;;;;;x
 c_syrakuse_adj;Syrakusean;;syrakuser;;;;;;;;;;;x
+c_talkinon;Talkinon;Talkinon;Talkinon;;Talkinon;;;;;;;;;x
+c_talkinon_adj;Talkinonian;;talkinoner;;;;;;;;;;;x
 c_tarbelli;Tarbelli;Tarbelli;Tarbelli;;Tarbelli;;;;;;;;;x
 c_tarbelli_adj;Tarbellian;;tarbeller;;;;;;;;;;;x
 c_treverii;Treverii;Treverii;Treverii;;Treverii;;;;;;;;;x
@@ -171,6 +193,8 @@ c_unelli;Unelli;Unelli;Unelli;;Unelli;;;;;;;;;x
 c_unelli_adj;Unellian;;uneller;;;;;;;;;;;x
 c_vangiones;Vangiones;Vangiones;Vangiones;;Vangiones;;;;;;;;;x
 c_vangiones_adj;Vangionesian;;vangioneser;;;;;;;;;;;x
+c_vardulli;Vardulli;Vardulli;Vardulli;;Vardulli;;;;;;;;;x
+c_vardulli_adj;Vardullian;;varduller;;;;;;;;;;;x
 c_veneti;Veneti;Veneti;Veneti;;Veneti;;;;;;;;;x
 c_veneti_adj;Venetian;;veneter;;;;;;;;;;;x
 c_venetia;Venetia;Venetia;Venetia;;Venetia;;;;;;;;;x

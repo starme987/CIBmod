@@ -1,0 +1,21 @@
+# c_ordovices
+
+# County Title
+title = c_ordovices
+
+# Settlements
+max_settlements = 2
+
+b_ordovices = castle
+#b_ordovices_2 = city
+#b_ordovices_3 = temple
+#b_ordovices_4 = castle
+#b_ordovices_5 = city
+#b_ordovices_6 = temple
+#b_ordovices_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

@@ -1,0 +1,15 @@
+# c_iacetani
+
+# County Title
+title = c_iacetani
+
+# Settlements
+max_settlements = 1
+
+b_placeholder_48 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

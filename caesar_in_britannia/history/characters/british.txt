@@ -1621,8 +1621,8 @@
 	culture=british
 	religion=british_druidic
 	772.1.1 = { birth=yes }
-	837.1.1 = { death=yes }
 	796.1.1 = { add_spouse =3401 }
+	837.1.1 = { death=yes }
 }
 3401 = {
 	name=Visterlo
@@ -1658,8 +1658,8 @@
 	culture=british
 	religion=british_druidic
 	772.1.1 = { birth=yes }
-	837.1.1 = { death=yes }
 	796.1.1 = { add_spouse =3451 }
+	837.1.1 = { death=yes }
 }
 3451 = {
 	name=Gundiverga
