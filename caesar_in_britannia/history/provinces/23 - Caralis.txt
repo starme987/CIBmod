@@ -1,0 +1,21 @@
+# c_caralis
+
+# County Title
+title = c_caralis
+
+# Settlements
+max_settlements = 3
+
+b_caralis = castle
+#b_caralis_2 = city
+#b_caralis_3 = temple
+#b_caralis_4 = castle
+#b_caralis_5 = city
+#b_caralis_6 = temple
+#b_caralis_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

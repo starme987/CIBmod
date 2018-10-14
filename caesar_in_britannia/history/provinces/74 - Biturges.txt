@@ -1,0 +1,21 @@
+# c_biturges
+
+# County Title
+title = c_biturges
+
+# Settlements
+max_settlements = 2
+
+b_biturges = castle
+#b_biturges_2 = city
+#b_biturges_3 = temple
+#b_biturges_4 = castle
+#b_biturges_5 = city
+#b_biturges_6 = temple
+#b_biturges_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

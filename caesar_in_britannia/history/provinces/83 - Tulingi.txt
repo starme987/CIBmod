@@ -1,0 +1,16 @@
+# c_tulingi
+
+# County Title
+title = c_tulingi
+
+# Settlements
+max_settlements = 2
+
+b_placeholder_5 = castle
+#b_tulingi = city
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

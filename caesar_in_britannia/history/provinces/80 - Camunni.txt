@@ -1,0 +1,16 @@
+# c_camunni
+
+# County Title
+title = c_camunni
+
+# Settlements
+max_settlements = 2
+
+b_placeholder_2 = castle
+#b_camunni = city
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

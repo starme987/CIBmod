@@ -1,0 +1,16 @@
+# c_sequani
+
+# County Title
+title = c_sequani
+
+# Settlements
+max_settlements = 2
+
+b_placeholder_18 = castle
+#b_sequani = city
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

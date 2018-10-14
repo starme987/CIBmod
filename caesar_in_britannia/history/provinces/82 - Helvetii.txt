@@ -1,0 +1,16 @@
+# c_helvetii
+
+# County Title
+title = c_helvetii
+
+# Settlements
+max_settlements = 2
+
+b_placeholder_4 = castle
+#b_helvetii = city
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

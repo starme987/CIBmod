@@ -1,0 +1,16 @@
+# c_treverii
+
+# County Title
+title = c_treverii
+
+# Settlements
+max_settlements = 2
+
+b_placeholder_14 = castle
+#b_treverii = city
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

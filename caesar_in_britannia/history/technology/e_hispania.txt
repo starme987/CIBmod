@@ -1,28 +1,36 @@
 #HISPANIA
 technology = {
 	titles = {
+		d_arevaci
 		d_baleares
 		d_berones
+		d_calontienses
 		d_caristii
+		d_carpetani
 		d_ceretani
 		d_cessetani
+		d_contestani
 		d_ebusus
+		d_edetani
 		d_emporion
+		d_germanii
 		d_iacetani
 		d_ilercavones
 		d_illergetae
 		d_indigetes
+		d_lobetani
 		d_sedetani
 		d_vardulli
+		d_vettones
 	}
-	1 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+	796 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
 	}
-	9999 = {
-		military = 8.0
-		economy = 8.0
-		culture = 8.0
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
 	}
 }

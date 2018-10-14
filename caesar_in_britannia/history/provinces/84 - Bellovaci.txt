@@ -1,0 +1,16 @@
+# c_bellovaci
+
+# County Title
+title = c_bellovaci
+
+# Settlements
+max_settlements = 2
+
+b_placeholder_6 = castle
+#b_bellovaci = city
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

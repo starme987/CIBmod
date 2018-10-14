@@ -1,0 +1,16 @@
+# c_lingones
+
+# County Title
+title = c_lingones
+
+# Settlements
+max_settlements = 2
+
+b_placeholder_19 = castle
+#b_lingones = city
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

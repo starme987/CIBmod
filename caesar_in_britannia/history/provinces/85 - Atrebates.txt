@@ -1,0 +1,16 @@
+# c_atrebates
+
+# County Title
+title = c_atrebates
+
+# Settlements
+max_settlements = 2
+
+b_placeholder_7 = castle
+#b_atrebates = city
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

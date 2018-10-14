@@ -1,0 +1,16 @@
+# c_nervii
+
+# County Title
+title = c_nervii
+
+# Settlements
+max_settlements = 2
+
+b_placeholder_9 = castle
+#b_nervii = city
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

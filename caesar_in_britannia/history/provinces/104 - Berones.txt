@@ -1,0 +1,16 @@
+# c_berones
+
+# County Title
+title = c_berones
+
+# Settlements
+max_settlements = 2
+
+b_placeholder_26 = castle
+#b_berones = city
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

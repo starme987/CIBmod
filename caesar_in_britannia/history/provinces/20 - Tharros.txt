@@ -1,0 +1,21 @@
+# c_tharros
+
+# County Title
+title = c_tharros
+
+# Settlements
+max_settlements = 1
+
+b_tharros = castle
+#b_tharros_2 = city
+#b_tharros_3 = temple
+#b_tharros_4 = castle
+#b_tharros_5 = city
+#b_tharros_6 = temple
+#b_tharros_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

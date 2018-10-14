@@ -9,6 +9,8 @@ d_allobroges;Allobroges;Allobroges;Allobroges;;Allobroges;;;;;;;;;x
 d_allobroges_adj;Allobrogesian;;allobrogeser;;;;;;;;;;;x
 d_apulia;Apulia;Apulia;Apulia;;Apulia;;;;;;;;;x
 d_apulia_adj;Apulian;;apuler;;;;;;;;;;;x
+d_arevaci;Arevaci;Arevaci;Arevaci;;Arevaci;;;;;;;;;x
+d_arevaci_adj;Arevacian;;arevacer;;;;;;;;;;;x
 d_arverni;Arverni;Arverni;Arverni;;Arverni;;;;;;;;;x
 d_arverni_adj;Arvernian;;arverner;;;;;;;;;;;x
 d_atrebates;Atrebates;Atrebates;Atrebates;;Atrebates;;;;;;;;;x
@@ -31,6 +33,8 @@ d_bruttium;Bruttium;Bruttium;Bruttium;;Bruttium;;;;;;;;;x
 d_bruttium_adj;Bruttiumian;;bruttiumer;;;;;;;;;;;x
 d_cadurci;Cadurci;Cadurci;Cadurci;;Cadurci;;;;;;;;;x
 d_cadurci_adj;Cadurcian;;cadurcer;;;;;;;;;;;x
+d_calontienses;Calontienses;Calontienses;Calontienses;;Calontienses;;;;;;;;;x
+d_calontienses_adj;Calontiensesian;;calontienseser;;;;;;;;;;;x
 d_campania;Campania;Campania;Campania;;Campania;;;;;;;;;x
 d_campania_adj;Campanian;;campaner;;;;;;;;;;;x
 d_camunni;Camunni;Camunni;Camunni;;Camunni;;;;;;;;;x
@@ -41,6 +45,8 @@ d_caristii;Caristii;Caristii;Caristii;;Caristii;;;;;;;;;x
 d_caristii_adj;Caristian;;carister;;;;;;;;;;;x
 d_carnutes;Carnutes;Carnutes;Carnutes;;Carnutes;;;;;;;;;x
 d_carnutes_adj;Carnutesian;;carnuteser;;;;;;;;;;;x
+d_carpetani;Carpetani;Carpetani;Carpetani;;Carpetani;;;;;;;;;x
+d_carpetani_adj;Carpetanian;;carpetaner;;;;;;;;;;;x
 d_carvetii;Carvetii;Carvetii;Carvetii;;Carvetii;;;;;;;;;x
 d_carvetii_adj;Carvetian;;carveter;;;;;;;;;;;x
 d_caturiges;Caturiges;Caturiges;Caturiges;;Caturiges;;;;;;;;;x
@@ -53,6 +59,8 @@ d_ceretani;Ceretani;Ceretani;Ceretani;;Ceretani;;;;;;;;;x
 d_ceretani_adj;Ceretanian;;ceretaner;;;;;;;;;;;x
 d_cessetani;Cessetani;Cessetani;Cessetani;;Cessetani;;;;;;;;;x
 d_cessetani_adj;Cessetanian;;cessetaner;;;;;;;;;;;x
+d_contestani;Contestani;Contestani;Contestani;;Contestani;;;;;;;;;x
+d_contestani_adj;Contestanian;;contestaner;;;;;;;;;;;x
 d_coritani;Coritani;Coritani;Coritani;;Coritani;;;;;;;;;x
 d_coritani_adj;Coritanian;;coritaner;;;;;;;;;;;x
 d_cornovi;Cornovi;Cornovi;Cornovi;;Cornovi;;;;;;;;;x
@@ -75,10 +83,14 @@ d_eburones;Eburones;Eburones;Eburones;;Eburones;;;;;;;;;x
 d_eburones_adj;Eburonesian;;eburoneser;;;;;;;;;;;x
 d_ebusus;Ebusus;Ebusus;Ebusus;;Ebusus;;;;;;;;;x
 d_ebusus_adj;Ebususian;;ebususer;;;;;;;;;;;x
+d_edetani;Edetani;Edetani;Edetani;;Edetani;;;;;;;;;x
+d_edetani_adj;Edetanian;;edetaner;;;;;;;;;;;x
 d_emporion;Emporion;Emporion;Emporion;;Emporion;;;;;;;;;x
 d_emporion_adj;Emporionian;;emporioner;;;;;;;;;;;x
 d_etruria;Etruria;Etruria;Etruria;;Etruria;;;;;;;;;x
 d_etruria_adj;Etrurian;;etrurer;;;;;;;;;;;x
+d_germanii;Germanii;Germanii;Germanii;;Germanii;;;;;;;;;x
+d_germanii_adj;Germanian;;germaner;;;;;;;;;;;x
 d_helvetii;Helvetii;Helvetii;Helvetii;;Helvetii;;;;;;;;;x
 d_helvetii_adj;Helvetian;;helveter;;;;;;;;;;;x
 d_histria;Histria;Histria;Histria;;Histria;;;;;;;;;x
@@ -105,6 +117,8 @@ d_liguria;Liguria;Liguria;Liguria;;Liguria;;;;;;;;;x
 d_liguria_adj;Ligurian;;ligurer;;;;;;;;;;;x
 d_lingones;Lingones;Lingones;Lingones;;Lingones;;;;;;;;;x
 d_lingones_adj;Lingonesian;;lingoneser;;;;;;;;;;;x
+d_lobetani;Lobetani;Lobetani;Lobetani;;Lobetani;;;;;;;;;x
+d_lobetani_adj;Lobetanian;;lobetaner;;;;;;;;;;;x
 d_lucania;Lucania;Lucania;Lucania;;Lucania;;;;;;;;;x
 d_lucania_adj;Lucanian;;lucaner;;;;;;;;;;;x
 d_mandubii;Mandubii;Mandubii;Mandubii;;Mandubii;;;;;;;;;x
@@ -195,6 +209,8 @@ d_venetia;Venetia;Venetia;Venetia;;Venetia;;;;;;;;;x
 d_venetia_adj;Venetian;;veneter;;;;;;;;;;;x
 d_venicones;Venicones;Venicones;Venicones;;Venicones;;;;;;;;;x
 d_venicones_adj;Veniconesian;;veniconeser;;;;;;;;;;;x
+d_vettones;Vettones;Vettones;Vettones;;Vettones;;;;;;;;;x
+d_vettones_adj;Vettonesian;;vettoneser;;;;;;;;;;;x
 d_vivisci;Vivisci;Vivisci;Vivisci;;Vivisci;;;;;;;;;x
 d_vivisci_adj;Viviscian;;viviscer;;;;;;;;;;;x
 d_vocontii;Vocontii;Vocontii;Vocontii;;Vocontii;;;;;;;;;x
