@@ -83,6 +83,8 @@ c_cessetani;Cessetani;Cessetani;Cessetani;;Cessetani;;;;;;;;;x
 c_cessetani_adj;Cessetanian;;cessetaner;;;;;;;;;;;x
 c_cibarci;Cibarci;Cibarci;Cibarci;;Cibarci;;;;;;;;;x
 c_cibarci_adj;Cibarcian;;cibarcer;;;;;;;;;;;x
+c_coclearia;Coclearia;Coclearia;Coclearia;;Coclearia;;;;;;;;;x
+c_coclearia_adj;Coclearian;;coclearer;;;;;;;;;;;x
 c_contestani;Contestani;Contestani;Contestani;;Contestani;;;;;;;;;x
 c_contestani_adj;Contestanian;;contestaner;;;;;;;;;;;x
 c_coritani;Coritani;Coritani;Coritani;;Coritani;;;;;;;;;x
@@ -157,8 +159,12 @@ c_lobetani;Lobetani;Lobetani;Lobetani;;Lobetani;;;;;;;;;x
 c_lobetani_adj;Lobetanian;;lobetaner;;;;;;;;;;;x
 c_lucania;Lucania;Lucania;Lucania;;Lucania;;;;;;;;;x
 c_lucania_adj;Lucanian;;lucaner;;;;;;;;;;;x
+c_luiguidnec;Luiguidnec;Luiguidnec;Luiguidnec;;Luiguidnec;;;;;;;;;x
+c_luiguidnec_adj;Luiguidnecian;;luiguidnecer;;;;;;;;;;;x
 c_mandubii;Mandubii;Mandubii;Mandubii;;Mandubii;;;;;;;;;x
 c_mandubii_adj;Mandubian;;manduber;;;;;;;;;;;x
+c_mariana;Mariana;Mariana;Mariana;;Mariana;;;;;;;;;x
+c_mariana_adj;Marianan;;marianer;;;;;;;;;;;x
 c_masilia;Masilia;Masilia;Masilia;;Masilia;;;;;;;;;x
 c_masilia_adj;Masilian;;masiler;;;;;;;;;;;x
 c_mediomatrici;Mediomatrici;Mediomatrici;Mediomatrici;;Mediomatrici;;;;;;;;;x
