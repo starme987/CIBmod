@@ -1,13 +1,13 @@
-# c_caristii
+# c_edetani
 
 # County Title
-title = c_caristii
+title = c_edetani
 
 # Settlements
 max_settlements = 2
 
-b_placeholder_32 = castle
-#b_caristii = city
+b_placeholder_4 = castle
+#b_edetani = city
 
 # Misc
 culture = iberian

@@ -6,8 +6,13 @@ title = c_iacetani
 # Settlements
 max_settlements = 2
 
-b_placeholder_22 = castle
-#b_iacetani = city
+b_iacetani = castle
+#b_iacetani_2 = city
+#b_iacetani_3 = temple
+#b_iacetani_4 = castle
+#b_iacetani_5 = city
+#b_iacetani_6 = temple
+#b_iacetani_7 = castle
 
 # Misc
 culture = iberian

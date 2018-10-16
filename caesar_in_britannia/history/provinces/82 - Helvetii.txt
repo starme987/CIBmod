@@ -6,8 +6,13 @@ title = c_helvetii
 # Settlements
 max_settlements = 2
 
-b_placeholder_4 = castle
-#b_helvetii = city
+b_helvetii = castle
+#b_helvetii_2 = city
+#b_helvetii_3 = temple
+#b_helvetii_4 = castle
+#b_helvetii_5 = city
+#b_helvetii_6 = temple
+#b_helvetii_7 = castle
 
 # Misc
 culture = celtic

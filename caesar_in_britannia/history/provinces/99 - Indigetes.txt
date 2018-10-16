@@ -6,8 +6,13 @@ title = c_indigetes
 # Settlements
 max_settlements = 2
 
-b_placeholder_21 = castle
-#b_indigetes = city
+b_indigetes = castle
+#b_indigetes_2 = city
+#b_indigetes_3 = temple
+#b_indigetes_4 = castle
+#b_indigetes_5 = city
+#b_indigetes_6 = temple
+#b_indigetes_7 = castle
 
 # Misc
 culture = iberian

@@ -6,8 +6,13 @@ title = c_baleares
 # Settlements
 max_settlements = 2
 
-b_placeholder_27 = castle
-#b_baleares = city
+b_baleares = castle
+#b_baleares_2 = city
+#b_baleares_3 = temple
+#b_baleares_4 = castle
+#b_baleares_5 = city
+#b_baleares_6 = temple
+#b_baleares_7 = castle
 
 # Misc
 culture = iberian

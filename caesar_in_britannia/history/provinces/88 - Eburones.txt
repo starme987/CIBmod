@@ -6,8 +6,13 @@ title = c_eburones
 # Settlements
 max_settlements = 2
 
-b_placeholder_10 = castle
-#b_eburones = city
+b_eburones = castle
+#b_eburones_2 = city
+#b_eburones_3 = temple
+#b_eburones_4 = castle
+#b_eburones_5 = city
+#b_eburones_6 = temple
+#b_eburones_7 = castle
 
 # Misc
 culture = celtic

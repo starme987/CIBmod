@@ -32,9 +32,19 @@ e_belgica = {
 				color={ 204 98 87 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_6 = {
-				}
 				b_bellovaci = {
+				}
+				b_bellovaci_2 = {
+				}
+				b_bellovaci_3 = {
+				}
+				b_bellovaci_4 = {
+				}
+				b_bellovaci_5 = {
+				}
+				b_bellovaci_6 = {
+				}
+				b_bellovaci_7 = {
 				}
 			}
 		}
@@ -54,9 +64,19 @@ e_belgica = {
 				color={ 132 39 30 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_7 = {
-				}
 				b_atrebates = {
+				}
+				b_atrebates_2 = {
+				}
+				b_atrebates_3 = {
+				}
+				b_atrebates_4 = {
+				}
+				b_atrebates_5 = {
+				}
+				b_atrebates_6 = {
+				}
+				b_atrebates_7 = {
 				}
 			}
 		}
@@ -76,9 +96,19 @@ e_belgica = {
 				color={ 126 81 76 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_8 = {
-				}
 				b_morini = {
+				}
+				b_morini_2 = {
+				}
+				b_morini_3 = {
+				}
+				b_morini_4 = {
+				}
+				b_morini_5 = {
+				}
+				b_morini_6 = {
+				}
+				b_morini_7 = {
 				}
 			}
 		}
@@ -106,9 +136,19 @@ e_belgica = {
 				color={ 150 115 54 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_11 = {
-				}
 				b_suessiones = {
+				}
+				b_suessiones_2 = {
+				}
+				b_suessiones_3 = {
+				}
+				b_suessiones_4 = {
+				}
+				b_suessiones_5 = {
+				}
+				b_suessiones_6 = {
+				}
+				b_suessiones_7 = {
 				}
 			}
 		}
@@ -128,9 +168,19 @@ e_belgica = {
 				color={ 212 160 86 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_13 = {
-				}
 				b_mediomatrici = {
+				}
+				b_mediomatrici_2 = {
+				}
+				b_mediomatrici_3 = {
+				}
+				b_mediomatrici_4 = {
+				}
+				b_mediomatrici_5 = {
+				}
+				b_mediomatrici_6 = {
+				}
+				b_mediomatrici_7 = {
 				}
 			}
 		}
@@ -150,9 +200,19 @@ e_belgica = {
 				color={ 79 74 65 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_12 = {
-				}
 				b_remi = {
+				}
+				b_remi_2 = {
+				}
+				b_remi_3 = {
+				}
+				b_remi_4 = {
+				}
+				b_remi_5 = {
+				}
+				b_remi_6 = {
+				}
+				b_remi_7 = {
 				}
 			}
 		}
@@ -172,9 +232,19 @@ e_belgica = {
 				color={ 146 97 27 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_14 = {
-				}
 				b_treverii = {
+				}
+				b_treverii_2 = {
+				}
+				b_treverii_3 = {
+				}
+				b_treverii_4 = {
+				}
+				b_treverii_5 = {
+				}
+				b_treverii_6 = {
+				}
+				b_treverii_7 = {
 				}
 			}
 		}
@@ -202,9 +272,19 @@ e_belgica = {
 				color={ 211 228 184 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_9 = {
-				}
 				b_nervii = {
+				}
+				b_nervii_2 = {
+				}
+				b_nervii_3 = {
+				}
+				b_nervii_4 = {
+				}
+				b_nervii_5 = {
+				}
+				b_nervii_6 = {
+				}
+				b_nervii_7 = {
 				}
 			}
 		}
@@ -224,9 +304,19 @@ e_belgica = {
 				color={ 101 121 69 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_10 = {
-				}
 				b_eburones = {
+				}
+				b_eburones_2 = {
+				}
+				b_eburones_3 = {
+				}
+				b_eburones_4 = {
+				}
+				b_eburones_5 = {
+				}
+				b_eburones_6 = {
+				}
+				b_eburones_7 = {
 				}
 			}
 		}
@@ -254,9 +344,19 @@ e_belgica = {
 				color={ 233 208 140 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_18 = {
-				}
 				b_sequani = {
+				}
+				b_sequani_2 = {
+				}
+				b_sequani_3 = {
+				}
+				b_sequani_4 = {
+				}
+				b_sequani_5 = {
+				}
+				b_sequani_6 = {
+				}
+				b_sequani_7 = {
 				}
 			}
 		}
@@ -276,9 +376,19 @@ e_belgica = {
 				color={ 109 103 86 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_19 = {
-				}
 				b_lingones = {
+				}
+				b_lingones_2 = {
+				}
+				b_lingones_3 = {
+				}
+				b_lingones_4 = {
+				}
+				b_lingones_5 = {
+				}
+				b_lingones_6 = {
+				}
+				b_lingones_7 = {
 				}
 			}
 		}
@@ -306,9 +416,19 @@ e_belgica = {
 				color={ 196 159 145 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_15 = {
-				}
 				b_suebi = {
+				}
+				b_suebi_2 = {
+				}
+				b_suebi_3 = {
+				}
+				b_suebi_4 = {
+				}
+				b_suebi_5 = {
+				}
+				b_suebi_6 = {
+				}
+				b_suebi_7 = {
 				}
 			}
 		}
@@ -328,9 +448,19 @@ e_belgica = {
 				color={ 198 83 40 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_16 = {
-				}
 				b_nemetes = {
+				}
+				b_nemetes_2 = {
+				}
+				b_nemetes_3 = {
+				}
+				b_nemetes_4 = {
+				}
+				b_nemetes_5 = {
+				}
+				b_nemetes_6 = {
+				}
+				b_nemetes_7 = {
 				}
 			}
 		}
@@ -350,9 +480,19 @@ e_belgica = {
 				color={ 128 57 30 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_17 = {
-				}
 				b_vangiones = {
+				}
+				b_vangiones_2 = {
+				}
+				b_vangiones_3 = {
+				}
+				b_vangiones_4 = {
+				}
+				b_vangiones_5 = {
+				}
+				b_vangiones_6 = {
+				}
+				b_vangiones_7 = {
 				}
 			}
 		}
@@ -1180,9 +1320,19 @@ e_celtica = {
 				color={ 102 80 20 }
 				color2={ 255 255 255 }
 				
-				b_placeholder = {
-				}
 				b_insubres = {
+				}
+				b_insubres_2 = {
+				}
+				b_insubres_3 = {
+				}
+				b_insubres_4 = {
+				}
+				b_insubres_5 = {
+				}
+				b_insubres_6 = {
+				}
+				b_insubres_7 = {
 				}
 			}
 		}
@@ -1202,9 +1352,19 @@ e_celtica = {
 				color={ 131 185 83 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_2 = {
-				}
 				b_camunni = {
+				}
+				b_camunni_2 = {
+				}
+				b_camunni_3 = {
+				}
+				b_camunni_4 = {
+				}
+				b_camunni_5 = {
+				}
+				b_camunni_6 = {
+				}
+				b_camunni_7 = {
 				}
 			}
 		}
@@ -1224,9 +1384,19 @@ e_celtica = {
 				color={ 139 150 128 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_3 = {
-				}
 				b_raeti = {
+				}
+				b_raeti_2 = {
+				}
+				b_raeti_3 = {
+				}
+				b_raeti_4 = {
+				}
+				b_raeti_5 = {
+				}
+				b_raeti_6 = {
+				}
+				b_raeti_7 = {
 				}
 			}
 		}
@@ -1254,9 +1424,19 @@ e_celtica = {
 				color={ 75 105 48 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_4 = {
-				}
 				b_helvetii = {
+				}
+				b_helvetii_2 = {
+				}
+				b_helvetii_3 = {
+				}
+				b_helvetii_4 = {
+				}
+				b_helvetii_5 = {
+				}
+				b_helvetii_6 = {
+				}
+				b_helvetii_7 = {
 				}
 			}
 		}
@@ -1276,9 +1456,19 @@ e_celtica = {
 				color={ 130 104 29 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_5 = {
-				}
 				b_tulingi = {
+				}
+				b_tulingi_2 = {
+				}
+				b_tulingi_3 = {
+				}
+				b_tulingi_4 = {
+				}
+				b_tulingi_5 = {
+				}
+				b_tulingi_6 = {
+				}
+				b_tulingi_7 = {
 				}
 			}
 		}
@@ -2322,9 +2512,19 @@ e_hispania = {
 				color={ 173 113 63 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_20 = {
-				}
 				b_emporion = {
+				}
+				b_emporion_2 = {
+				}
+				b_emporion_3 = {
+				}
+				b_emporion_4 = {
+				}
+				b_emporion_5 = {
+				}
+				b_emporion_6 = {
+				}
+				b_emporion_7 = {
 				}
 			}
 		}
@@ -2344,9 +2544,19 @@ e_hispania = {
 				color={ 175 131 181 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_27 = {
-				}
 				b_baleares = {
+				}
+				b_baleares_2 = {
+				}
+				b_baleares_3 = {
+				}
+				b_baleares_4 = {
+				}
+				b_baleares_5 = {
+				}
+				b_baleares_6 = {
+				}
+				b_baleares_7 = {
 				}
 			}
 		}
@@ -2366,9 +2576,19 @@ e_hispania = {
 				color={ 144 137 68 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_26 = {
-				}
 				b_berones = {
+				}
+				b_berones_2 = {
+				}
+				b_berones_3 = {
+				}
+				b_berones_4 = {
+				}
+				b_berones_5 = {
+				}
+				b_berones_6 = {
+				}
+				b_berones_7 = {
 				}
 			}
 		}
@@ -2379,16 +2599,16 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 110 } }
+					any_demesne_province = { OR = { province_id = 111 } }
 				}
 			}
-			capital = 110 # c_caristii
+			capital = 111 # c_caristii
 			
-			c_caristii = { # 110
+			c_caristii = { # 111
 				color={ 173 94 52 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_32 = {
+				b_placeholder_3 = {
 				}
 				b_caristii = {
 				}
@@ -2410,9 +2630,19 @@ e_hispania = {
 				color={ 223 220 126 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_23 = {
-				}
 				b_ceretani = {
+				}
+				b_ceretani_2 = {
+				}
+				b_ceretani_3 = {
+				}
+				b_ceretani_4 = {
+				}
+				b_ceretani_5 = {
+				}
+				b_ceretani_6 = {
+				}
+				b_ceretani_7 = {
 				}
 			}
 		}
@@ -2432,9 +2662,19 @@ e_hispania = {
 				color={ 126 124 49 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_24 = {
-				}
 				b_cessetani = {
+				}
+				b_cessetani_2 = {
+				}
+				b_cessetani_3 = {
+				}
+				b_cessetani_4 = {
+				}
+				b_cessetani_5 = {
+				}
+				b_cessetani_6 = {
+				}
+				b_cessetani_7 = {
 				}
 			}
 		}
@@ -2454,9 +2694,19 @@ e_hispania = {
 				color={ 130 76 139 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_28 = {
-				}
 				b_ebusus = {
+				}
+				b_ebusus_2 = {
+				}
+				b_ebusus_3 = {
+				}
+				b_ebusus_4 = {
+				}
+				b_ebusus_5 = {
+				}
+				b_ebusus_6 = {
+				}
+				b_ebusus_7 = {
 				}
 			}
 		}
@@ -2476,9 +2726,19 @@ e_hispania = {
 				color={ 153 151 106 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_22 = {
-				}
 				b_iacetani = {
+				}
+				b_iacetani_2 = {
+				}
+				b_iacetani_3 = {
+				}
+				b_iacetani_4 = {
+				}
+				b_iacetani_5 = {
+				}
+				b_iacetani_6 = {
+				}
+				b_iacetani_7 = {
 				}
 			}
 		}
@@ -2498,9 +2758,19 @@ e_hispania = {
 				color={ 137 165 193 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_29 = {
-				}
 				b_ilercavones = {
+				}
+				b_ilercavones_2 = {
+				}
+				b_ilercavones_3 = {
+				}
+				b_ilercavones_4 = {
+				}
+				b_ilercavones_5 = {
+				}
+				b_ilercavones_6 = {
+				}
+				b_ilercavones_7 = {
 				}
 			}
 		}
@@ -2520,9 +2790,19 @@ e_hispania = {
 				color={ 103 144 106 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_25 = {
-				}
 				b_illergetae = {
+				}
+				b_illergetae_2 = {
+				}
+				b_illergetae_3 = {
+				}
+				b_illergetae_4 = {
+				}
+				b_illergetae_5 = {
+				}
+				b_illergetae_6 = {
+				}
+				b_illergetae_7 = {
 				}
 			}
 		}
@@ -2542,9 +2822,19 @@ e_hispania = {
 				color={ 198 193 56 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_21 = {
-				}
 				b_indigetes = {
+				}
+				b_indigetes_2 = {
+				}
+				b_indigetes_3 = {
+				}
+				b_indigetes_4 = {
+				}
+				b_indigetes_5 = {
+				}
+				b_indigetes_6 = {
+				}
+				b_indigetes_7 = {
 				}
 			}
 		}
@@ -2564,9 +2854,41 @@ e_hispania = {
 				color={ 90 143 195 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_30 = {
-				}
 				b_sedetani = {
+				}
+				b_sedetani_2 = {
+				}
+				b_sedetani_3 = {
+				}
+				b_sedetani_4 = {
+				}
+				b_sedetani_5 = {
+				}
+				b_sedetani_6 = {
+				}
+				b_sedetani_7 = {
+				}
+			}
+		}
+		d_turmodigi = {
+			color={ 109 59 58 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 110 } }
+				}
+			}
+			capital = 110 # c_turmodigi
+			
+			c_turmodigi = { # 110
+				color={ 99 69 53 }
+				color2={ 255 255 255 }
+				
+				b_placeholder_2 = {
+				}
+				b_turmodigi = {
 				}
 			}
 		}
@@ -2586,7 +2908,7 @@ e_hispania = {
 				color={ 64 173 71 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_31 = {
+				b_placeholder = {
 				}
 				b_vardulli = {
 				}
@@ -2597,7 +2919,7 @@ e_hispania = {
 		color={ 84 69 159 }
 		color2={ 255 255 255 }
 		
-		capital = 111 # c_edetani
+		capital = 112 # c_edetani
 		culture = iberian
 		
 		d_edetani = {
@@ -2607,16 +2929,16 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 111 } }
+					any_demesne_province = { OR = { province_id = 112 } }
 				}
 			}
-			capital = 111 # c_edetani
+			capital = 112 # c_edetani
 			
-			c_edetani = { # 111
+			c_edetani = { # 112
 				color={ 54 99 144 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_33 = {
+				b_placeholder_4 = {
 				}
 				b_edetani = {
 				}
@@ -2629,16 +2951,16 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 116 } }
+					any_demesne_province = { OR = { province_id = 117 } }
 				}
 			}
-			capital = 116 # c_arevaci
+			capital = 117 # c_arevaci
 			
-			c_arevaci = { # 116
+			c_arevaci = { # 117
 				color={ 181 168 46 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_38 = {
+				b_placeholder_9 = {
 				}
 				b_arevaci = {
 				}
@@ -2651,16 +2973,16 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 117 } }
+					any_demesne_province = { OR = { province_id = 118 } }
 				}
 			}
-			capital = 117 # c_calontienses
+			capital = 118 # c_calontienses
 			
-			c_calontienses = { # 117
+			c_calontienses = { # 118
 				color={ 187 94 94 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_39 = {
+				b_placeholder_10 = {
 				}
 				b_calontienses = {
 				}
@@ -2673,16 +2995,16 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 115 } }
+					any_demesne_province = { OR = { province_id = 116 } }
 				}
 			}
-			capital = 115 # c_carpetani
+			capital = 116 # c_carpetani
 			
-			c_carpetani = { # 115
+			c_carpetani = { # 116
 				color={ 151 117 156 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_37 = {
+				b_placeholder_8 = {
 				}
 				b_carpetani = {
 				}
@@ -2695,16 +3017,16 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 112 } }
+					any_demesne_province = { OR = { province_id = 113 } }
 				}
 			}
-			capital = 112 # c_contestani
+			capital = 113 # c_contestani
 			
-			c_contestani = { # 112
+			c_contestani = { # 113
 				color={ 76 130 184 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_34 = {
+				b_placeholder_5 = {
 				}
 				b_contestani = {
 				}
@@ -2717,16 +3039,16 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 114 } }
+					any_demesne_province = { OR = { province_id = 115 } }
 				}
 			}
-			capital = 114 # c_germanii
+			capital = 115 # c_germanii
 			
-			c_germanii = { # 114
+			c_germanii = { # 115
 				color={ 126 86 133 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_36 = {
+				b_placeholder_7 = {
 				}
 				b_germanii = {
 				}
@@ -2739,18 +3061,40 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 113 } }
+					any_demesne_province = { OR = { province_id = 114 } }
 				}
 			}
-			capital = 113 # c_lobetani
+			capital = 114 # c_lobetani
 			
-			c_lobetani = { # 113
+			c_lobetani = { # 114
 				color={ 57 150 136 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_35 = {
+				b_placeholder_6 = {
 				}
 				b_lobetani = {
+				}
+			}
+		}
+		d_vaccaei = {
+			color={ 42 108 126 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 120 } }
+				}
+			}
+			capital = 120 # c_vaccaei
+			
+			c_vaccaei = { # 120
+				color={ 32 118 121 }
+				color2={ 255 255 255 }
+				
+				b_placeholder_12 = {
+				}
+				b_vaccaei = {
 				}
 			}
 		}
@@ -2761,18 +3105,254 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 118 } }
+					any_demesne_province = { OR = { province_id = 119 } }
 				}
 			}
-			capital = 118 # c_vettones
+			capital = 119 # c_vettones
 			
-			c_vettones = { # 118
+			c_vettones = { # 119
 				color={ 221 116 116 }
 				color2={ 255 255 255 }
 				
-				b_placeholder_40 = {
+				b_placeholder_11 = {
 				}
 				b_vettones = {
+				}
+			}
+		}
+	}
+	k_gallaecia = {
+		color={ 65 97 73 }
+		color2={ 255 255 255 }
+		
+		capital = 121 # c_cantabri
+		culture = iberian
+		
+		d_cantabri = {
+			color={ 45 117 63 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 121 } }
+				}
+			}
+			capital = 121 # c_cantabri
+			
+			c_cantabri = { # 121
+				color={ 35 127 58 }
+				color2={ 255 255 255 }
+				
+				b_placeholder_13 = {
+				}
+				b_cantabri = {
+				}
+			}
+		}
+		d_artabri = {
+			color={ 106 176 199 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 126 } }
+				}
+			}
+			capital = 126 # c_artabri
+			
+			c_artabri = { # 126
+				color={ 116 166 204 }
+				color2={ 255 255 255 }
+				
+				b_placeholder_18 = {
+				}
+				b_artabri = {
+				}
+			}
+		}
+		d_astures = {
+			color={ 81 98 85 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 123 } }
+				}
+			}
+			capital = 123 # c_astures
+			
+			c_astures = { # 123
+				color={ 71 108 80 }
+				color2={ 255 255 255 }
+				
+				b_placeholder_15 = {
+				}
+				b_astures = {
+				}
+			}
+		}
+		d_baedunenses = {
+			color={ 51 82 98 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 122 } }
+				}
+			}
+			capital = 122 # c_baedunenses
+			
+			c_baedunenses = { # 122
+				color={ 41 92 93 }
+				color2={ 255 255 255 }
+				
+				b_placeholder_14 = {
+				}
+				b_baedunenses = {
+				}
+			}
+		}
+		d_bletonesii = {
+			color={ 157 80 95 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 129 } }
+				}
+			}
+			capital = 129 # c_bletonesii
+			
+			c_bletonesii = { # 129
+				color={ 147 90 90 }
+				color2={ 255 255 255 }
+				
+				b_placeholder_21 = {
+				}
+				b_bletonesii = {
+				}
+			}
+		}
+		d_bracari = {
+			color={ 51 114 192 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 128 } }
+				}
+			}
+			capital = 128 # c_bracari
+			
+			c_bracari = { # 128
+				color={ 41 124 187 }
+				color2={ 255 255 255 }
+				
+				b_placeholder_20 = {
+				}
+				b_bracari = {
+				}
+			}
+		}
+		d_cibarci = {
+			color={ 35 142 199 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 125 } }
+				}
+			}
+			capital = 125 # c_cibarci
+			
+			c_cibarci = { # 125
+				color={ 25 152 194 }
+				color2={ 255 255 255 }
+				
+				b_placeholder_17 = {
+				}
+				b_cibarci = {
+				}
+			}
+		}
+		d_gallaeci = {
+			color={ 100 151 202 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 127 } }
+				}
+			}
+			capital = 127 # c_gallaeci
+			
+			c_gallaeci = { # 127
+				color={ 110 141 207 }
+				color2={ 255 255 255 }
+				
+				b_placeholder_19 = {
+				}
+				b_gallaeci = {
+				}
+			}
+		}
+		d_lemavi = {
+			color={ 77 143 94 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 124 } }
+				}
+			}
+			capital = 124 # c_lemavi
+			
+			c_lemavi = { # 124
+				color={ 67 153 89 }
+				color2={ 255 255 255 }
+				
+				b_placeholder_16 = {
+				}
+				b_lemavi = {
+				}
+			}
+		}
+	}
+	k_lusitania = {
+		color={ 123 46 174 }
+		color2={ 255 255 255 }
+		
+		capital = 130 # c_lanciences
+		culture = iberian
+		
+		d_lanciences = {
+			color={ 103 66 164 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 130 } }
+				}
+			}
+			capital = 130 # c_lanciences
+			
+			c_lanciences = { # 130
+				color={ 93 76 159 }
+				color2={ 255 255 255 }
+				
+				b_placeholder_22 = {
+				}
+				b_lanciences = {
 				}
 			}
 		}

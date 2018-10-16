@@ -6,8 +6,13 @@ title = c_mediomatrici
 # Settlements
 max_settlements = 2
 
-b_placeholder_13 = castle
-#b_mediomatrici = city
+b_mediomatrici = castle
+#b_mediomatrici_2 = city
+#b_mediomatrici_3 = temple
+#b_mediomatrici_4 = castle
+#b_mediomatrici_5 = city
+#b_mediomatrici_6 = temple
+#b_mediomatrici_7 = castle
 
 # Misc
 culture = celtic

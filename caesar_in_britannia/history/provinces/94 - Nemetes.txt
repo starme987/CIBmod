@@ -6,8 +6,13 @@ title = c_nemetes
 # Settlements
 max_settlements = 2
 
-b_placeholder_16 = castle
-#b_nemetes = city
+b_nemetes = castle
+#b_nemetes_2 = city
+#b_nemetes_3 = temple
+#b_nemetes_4 = castle
+#b_nemetes_5 = city
+#b_nemetes_6 = temple
+#b_nemetes_7 = castle
 
 # Misc
 culture = germanic

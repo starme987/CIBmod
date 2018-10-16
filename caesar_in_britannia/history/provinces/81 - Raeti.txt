@@ -6,8 +6,13 @@ title = c_raeti
 # Settlements
 max_settlements = 2
 
-b_placeholder_3 = castle
-#b_raeti = city
+b_raeti = castle
+#b_raeti_2 = city
+#b_raeti_3 = temple
+#b_raeti_4 = castle
+#b_raeti_5 = city
+#b_raeti_6 = temple
+#b_raeti_7 = castle
 
 # Misc
 culture = celtic

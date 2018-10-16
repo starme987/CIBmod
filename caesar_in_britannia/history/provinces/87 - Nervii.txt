@@ -6,8 +6,13 @@ title = c_nervii
 # Settlements
 max_settlements = 2
 
-b_placeholder_9 = castle
-#b_nervii = city
+b_nervii = castle
+#b_nervii_2 = city
+#b_nervii_3 = temple
+#b_nervii_4 = castle
+#b_nervii_5 = city
+#b_nervii_6 = temple
+#b_nervii_7 = castle
 
 # Misc
 culture = celtic

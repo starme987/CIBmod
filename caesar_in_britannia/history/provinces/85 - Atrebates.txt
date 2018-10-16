@@ -6,8 +6,13 @@ title = c_atrebates
 # Settlements
 max_settlements = 2
 
-b_placeholder_7 = castle
-#b_atrebates = city
+b_atrebates = castle
+#b_atrebates_2 = city
+#b_atrebates_3 = temple
+#b_atrebates_4 = castle
+#b_atrebates_5 = city
+#b_atrebates_6 = temple
+#b_atrebates_7 = castle
 
 # Misc
 culture = celtic

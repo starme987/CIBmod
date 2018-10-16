@@ -6,8 +6,13 @@ title = c_treverii
 # Settlements
 max_settlements = 2
 
-b_placeholder_14 = castle
-#b_treverii = city
+b_treverii = castle
+#b_treverii_2 = city
+#b_treverii_3 = temple
+#b_treverii_4 = castle
+#b_treverii_5 = city
+#b_treverii_6 = temple
+#b_treverii_7 = castle
 
 # Misc
 culture = celtic

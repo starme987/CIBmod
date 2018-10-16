@@ -6,8 +6,13 @@ title = c_sequani
 # Settlements
 max_settlements = 2
 
-b_placeholder_18 = castle
-#b_sequani = city
+b_sequani = castle
+#b_sequani_2 = city
+#b_sequani_3 = temple
+#b_sequani_4 = castle
+#b_sequani_5 = city
+#b_sequani_6 = temple
+#b_sequani_7 = castle
 
 # Misc
 culture = gallic

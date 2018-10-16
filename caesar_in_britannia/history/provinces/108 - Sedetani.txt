@@ -6,8 +6,13 @@ title = c_sedetani
 # Settlements
 max_settlements = 2
 
-b_placeholder_30 = castle
-#b_sedetani = city
+b_sedetani = castle
+#b_sedetani_2 = city
+#b_sedetani_3 = temple
+#b_sedetani_4 = castle
+#b_sedetani_5 = city
+#b_sedetani_6 = temple
+#b_sedetani_7 = castle
 
 # Misc
 culture = iberian

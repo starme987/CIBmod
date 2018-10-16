@@ -1,13 +1,13 @@
-# c_germanii
+# c_cantabri
 
 # County Title
-title = c_germanii
+title = c_cantabri
 
 # Settlements
 max_settlements = 2
 
-b_placeholder_36 = castle
-#b_germanii = city
+b_placeholder_13 = castle
+#b_cantabri = city
 
 # Misc
 culture = iberian

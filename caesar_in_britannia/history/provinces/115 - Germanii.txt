@@ -1,13 +1,13 @@
-# c_lobetani
+# c_germanii
 
 # County Title
-title = c_lobetani
+title = c_germanii
 
 # Settlements
 max_settlements = 2
 
-b_placeholder_35 = castle
-#b_lobetani = city
+b_placeholder_7 = castle
+#b_germanii = city
 
 # Misc
 culture = iberian

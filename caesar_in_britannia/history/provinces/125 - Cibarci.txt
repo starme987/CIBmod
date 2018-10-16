@@ -1,0 +1,16 @@
+# c_cibarci
+
+# County Title
+title = c_cibarci
+
+# Settlements
+max_settlements = 2
+
+b_placeholder_17 = castle
+#b_cibarci = city
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

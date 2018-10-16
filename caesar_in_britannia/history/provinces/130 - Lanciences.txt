@@ -1,13 +1,13 @@
-# c_contestani
+# c_lanciences
 
 # County Title
-title = c_contestani
+title = c_lanciences
 
 # Settlements
 max_settlements = 2
 
-b_placeholder_34 = castle
-#b_contestani = city
+b_placeholder_22 = castle
+#b_lanciences = city
 
 # Misc
 culture = iberian

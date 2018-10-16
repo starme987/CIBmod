@@ -1,13 +1,13 @@
-# c_edetani
+# c_baedunenses
 
 # County Title
-title = c_edetani
+title = c_baedunenses
 
 # Settlements
 max_settlements = 2
 
-b_placeholder_33 = castle
-#b_edetani = city
+b_placeholder_14 = castle
+#b_baedunenses = city
 
 # Misc
 culture = iberian

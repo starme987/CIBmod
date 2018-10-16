@@ -1,0 +1,16 @@
+# c_calontienses
+
+# County Title
+title = c_calontienses
+
+# Settlements
+max_settlements = 2
+
+b_placeholder_10 = castle
+#b_calontienses = city
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

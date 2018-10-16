@@ -6,7 +6,7 @@ title = c_vardulli
 # Settlements
 max_settlements = 2
 
-b_placeholder_31 = castle
+b_placeholder = castle
 #b_vardulli = city
 
 # Misc

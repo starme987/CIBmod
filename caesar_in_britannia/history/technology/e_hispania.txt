@@ -2,24 +2,36 @@
 technology = {
 	titles = {
 		d_arevaci
+		d_artabri
+		d_astures
+		d_baedunenses
 		d_baleares
 		d_berones
+		d_bletonesii
+		d_bracari
 		d_calontienses
+		d_cantabri
 		d_caristii
 		d_carpetani
 		d_ceretani
 		d_cessetani
+		d_cibarci
 		d_contestani
 		d_ebusus
 		d_edetani
 		d_emporion
+		d_gallaeci
 		d_germanii
 		d_iacetani
 		d_ilercavones
 		d_illergetae
 		d_indigetes
+		d_lanciences
+		d_lemavi
 		d_lobetani
 		d_sedetani
+		d_turmodigi
+		d_vaccaei
 		d_vardulli
 		d_vettones
 	}

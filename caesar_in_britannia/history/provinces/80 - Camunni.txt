@@ -6,8 +6,13 @@ title = c_camunni
 # Settlements
 max_settlements = 2
 
-b_placeholder_2 = castle
-#b_camunni = city
+b_camunni = castle
+#b_camunni_2 = city
+#b_camunni_3 = temple
+#b_camunni_4 = castle
+#b_camunni_5 = city
+#b_camunni_6 = temple
+#b_camunni_7 = castle
 
 # Misc
 culture = celtic

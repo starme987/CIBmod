@@ -44,11 +44,15 @@
 #		# GAUL / Transalpina
 #		76 77 78 
 #		# HISPANIA / Cartaginensis
-#		111 112 113 114 115 116 117 118 
+#		112 113 114 115 116 117 118 119 120 
+#		# HISPANIA / Gallaecia
+#		121 122 123 124 125 126 127 128 129 
+#		# HISPANIA / Lusitania
+#		130 
 #		# HISPANIA / Tarraconensis
-#		98 99 100 101 102 103 104 105 106 107 108 109 110 
+#		98 99 100 101 102 103 104 105 106 107 108 109 110 111 
 #		# NO KINGDOM
-#		119 120 
+#		131 132 
 #		# ROMAN EMPIRE / Casalpina
 #		11 12 13 14 
 #		# ROMAN EMPIRE / Italia
