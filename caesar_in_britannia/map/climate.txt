@@ -43,16 +43,18 @@
 #		65 66 67 
 #		# GAUL / Transalpina
 #		76 77 78 
+#		# HISPANIA / Baetica
+#		141 142 143 144 145 
 #		# HISPANIA / Cartaginensis
 #		112 113 114 115 116 117 118 119 120 
 #		# HISPANIA / Gallaecia
 #		121 122 123 124 125 126 127 128 129 
 #		# HISPANIA / Lusitania
-#		130 
+#		130 131 132 133 134 135 136 137 138 139 140 
 #		# HISPANIA / Tarraconensis
 #		98 99 100 101 102 103 104 105 106 107 108 109 110 111 
 #		# NO KINGDOM
-#		131 132 
+#		146 147 
 #		# ROMAN EMPIRE / Casalpina
 #		11 12 13 14 
 #		# ROMAN EMPIRE / Italia

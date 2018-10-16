@@ -25,8 +25,12 @@ c_ausci;Ausci;Ausci;Ausci;;Ausci;;;;;;;;;x
 c_ausci_adj;Auscian;;auscer;;;;;;;;;;;x
 c_baedunenses;Baedunenses;Baedunenses;Baedunenses;;Baedunenses;;;;;;;;;x
 c_baedunenses_adj;Baedunensesian;;baedunenseser;;;;;;;;;;;x
+c_baetica;Baetica;Baetica;Baetica;;Baetica;;;;;;;;;x
+c_baetica_adj;Baetican;;baeticer;;;;;;;;;;;x
 c_baleares;Baleares;Baleares;Baleares;;Baleares;;;;;;;;;x
 c_baleares_adj;Balearesian;;baleareser;;;;;;;;;;;x
+c_bastetani;Bastetani;Bastetani;Bastetani;;Bastetani;;;;;;;;;x
+c_bastetani_adj;Bastetanian;;bastetaner;;;;;;;;;;;x
 c_belgae;Belgae;Belgae;Belgae;;Belgae;;;;;;;;;x
 c_belgae_adj;Belgaean;;belger;;;;;;;;;;;x
 c_bellovaci;Bellovaci;Bellovaci;Bellovaci;;Bellovaci;;;;;;;;;x
@@ -69,6 +73,8 @@ c_caturiges;Caturiges;Caturiges;Caturiges;;Caturiges;;;;;;;;;x
 c_caturiges_adj;Caturigesian;;caturigeser;;;;;;;;;;;x
 c_catuvellauni;Catuvellauni;Catuvellauni;Catuvellauni;;Catuvellauni;;;;;;;;;x
 c_catuvellauni_adj;Catuvellaunian;;catuvellauner;;;;;;;;;;;x
+c_celtici;Celtici;Celtici;Celtici;;Celtici;;;;;;;;;x
+c_celtici_adj;Celtician;;celticer;;;;;;;;;;;x
 c_cenomani;Cenomani;Cenomani;Cenomani;;Cenomani;;;;;;;;;x
 c_cenomani_adj;Cenomanian;;cenomaner;;;;;;;;;;;x
 c_ceretani;Ceretani;Ceretani;Ceretani;;Ceretani;;;;;;;;;x
@@ -83,6 +89,8 @@ c_coritani;Coritani;Coritani;Coritani;;Coritani;;;;;;;;;x
 c_coritani_adj;Coritanian;;coritaner;;;;;;;;;;;x
 c_cornovi;Cornovi;Cornovi;Cornovi;;Cornovi;;;;;;;;;x
 c_cornovi_adj;Cornovian;;cornover;;;;;;;;;;;x
+c_cunetes;Cunetes;Cunetes;Cunetes;;Cunetes;;;;;;;;;x
+c_cunetes_adj;Cunetesian;;cuneteser;;;;;;;;;;;x
 c_damnonii;Damnonii;Damnonii;Damnonii;;Damnonii;;;;;;;;;x
 c_damnonii_adj;Damnonian;;damnoner;;;;;;;;;;;x
 c_deceangli;Deceangli;Deceangli;Deceangli;;Deceangli;;;;;;;;;x
@@ -95,12 +103,18 @@ c_dumnonii;Dumnonii;Dumnonii;Dumnonii;;Dumnonii;;;;;;;;;x
 c_dumnonii_adj;Dumnonian;;dumnoner;;;;;;;;;;;x
 c_durotriges;Durotriges;Durotriges;Durotriges;;Durotriges;;;;;;;;;x
 c_durotriges_adj;Durotrigesian;;durotrigeser;;;;;;;;;;;x
+c_east_oretani;East Oretani;East Oretani;East Oretani;;East Oretani;;;;;;;;;x
+c_east_oretani_adj;East Oretanian;;East Oretaner;;;;;;;;;;;x
 c_eburones;Eburones;Eburones;Eburones;;Eburones;;;;;;;;;x
 c_eburones_adj;Eburonesian;;eburoneser;;;;;;;;;;;x
 c_ebusus;Ebusus;Ebusus;Ebusus;;Ebusus;;;;;;;;;x
 c_ebusus_adj;Ebususian;;ebususer;;;;;;;;;;;x
 c_edetani;Edetani;Edetani;Edetani;;Edetani;;;;;;;;;x
 c_edetani_adj;Edetanian;;edetaner;;;;;;;;;;;x
+c_elbestoi;Elbestoi;Elbestoi;Elbestoi;;Elbestoi;;;;;;;;;x
+c_elbestoi_adj;Elbestian;;elbester;;;;;;;;;;;x
+c_elbocori;Elbocori;Elbocori;Elbocori;;Elbocori;;;;;;;;;x
+c_elbocori_adj;Elbocorian;;elbocorer;;;;;;;;;;;x
 c_emporion;Emporion;Emporion;Emporion;;Emporion;;;;;;;;;x
 c_emporion_adj;Emporionian;;emporioner;;;;;;;;;;;x
 c_etruria;Etruria;Etruria;Etruria;;Etruria;;;;;;;;;x
@@ -149,6 +163,8 @@ c_masilia;Masilia;Masilia;Masilia;;Masilia;;;;;;;;;x
 c_masilia_adj;Masilian;;masiler;;;;;;;;;;;x
 c_mediomatrici;Mediomatrici;Mediomatrici;Mediomatrici;;Mediomatrici;;;;;;;;;x
 c_mediomatrici_adj;Mediomatrician;;mediomatricer;;;;;;;;;;;x
+c_mirobrigenses;Mirobrigenses;Mirobrigenses;Mirobrigenses;;Mirobrigenses;;;;;;;;;x
+c_mirobrigenses_adj;Mirobrigensesian;;mirobrigenseser;;;;;;;;;;;x
 c_morini;Morini;Morini;Morini;;Morini;;;;;;;;;x
 c_morini_adj;Morinian;;moriner;;;;;;;;;;;x
 c_namnetes;Namnetes;Namnetes;Namnetes;;Namnetes;;;;;;;;;x
@@ -163,10 +179,14 @@ c_nuoro;Nuoro;Nuoro;Nuoro;;Nuoro;;;;;;;;;x
 c_nuoro_adj;Nuorian;;nuorer;;;;;;;;;;;x
 c_olbia;Olbia;Olbia;Olbia;;Olbia;;;;;;;;;x
 c_olbia_adj;Olbian;;olber;;;;;;;;;;;x
+c_oppidani;Oppidani;Oppidani;Oppidani;;Oppidani;;;;;;;;;x
+c_oppidani_adj;Oppidanian;;oppidaner;;;;;;;;;;;x
 c_ordovices;Ordovices;Ordovices;Ordovices;;Ordovices;;;;;;;;;x
 c_ordovices_adj;Ordovicesian;;ordoviceser;;;;;;;;;;;x
 c_osismii;Osismii;Osismii;Osismii;;Osismii;;;;;;;;;x
 c_osismii_adj;Osismian;;osismer;;;;;;;;;;;x
+c_paesuri;Paesuri;Paesuri;Paesuri;;Paesuri;;;;;;;;;x
+c_paesuri_adj;Paesurian;;paesurer;;;;;;;;;;;x
 c_palermo;Palermo;Palermo;Palermo;;Palermo;;;;;;;;;x
 c_palermo_adj;Palermian;;palermer;;;;;;;;;;;x
 c_parisi;Parisi;Parisi;Parisi;;Parisi;;;;;;;;;x
@@ -217,6 +237,8 @@ c_syrakuse;Syrakuse;Syrakuse;Syrakuse;;Syrakuse;;;;;;;;;x
 c_syrakuse_adj;Syrakusean;;syrakuser;;;;;;;;;;;x
 c_talkinon;Talkinon;Talkinon;Talkinon;;Talkinon;;;;;;;;;x
 c_talkinon_adj;Talkinonian;;talkinoner;;;;;;;;;;;x
+c_tapori;Tapori;Tapori;Tapori;;Tapori;;;;;;;;;x
+c_tapori_adj;Taporian;;taporer;;;;;;;;;;;x
 c_tarbelli;Tarbelli;Tarbelli;Tarbelli;;Tarbelli;;;;;;;;;x
 c_tarbelli_adj;Tarbellian;;tarbeller;;;;;;;;;;;x
 c_tharros;Tharros;Tharros;Tharros;;Tharros;;;;;;;;;x
@@ -227,6 +249,10 @@ c_trinovantes;Trinovantes;Trinovantes;Trinovantes;;Trinovantes;;;;;;;;;x
 c_trinovantes_adj;Trinovantesian;;trinovanteser;;;;;;;;;;;x
 c_tulingi;Tulingi;Tulingi;Tulingi;;Tulingi;;;;;;;;;x
 c_tulingi_adj;Tulingian;;tulinger;;;;;;;;;;;x
+c_turdetani;Turdetani;Turdetani;Turdetani;;Turdetani;;;;;;;;;x
+c_turdetani_adj;Turdetanian;;turdetaner;;;;;;;;;;;x
+c_turduli;Turduli;Turduli;Turduli;;Turduli;;;;;;;;;x
+c_turduli_adj;Turdulian;;turduler;;;;;;;;;;;x
 c_turmodigi;Turmodigi;Turmodigi;Turmodigi;;Turmodigi;;;;;;;;;x
 c_turmodigi_adj;Turmodigian;;turmodiger;;;;;;;;;;;x
 c_turones;Turones;Turones;Turones;;Turones;;;;;;;;;x
@@ -249,6 +275,8 @@ c_venetia;Venetia;Venetia;Venetia;;Venetia;;;;;;;;;x
 c_venetia_adj;Venetian;;veneter;;;;;;;;;;;x
 c_venicones;Venicones;Venicones;Venicones;;Venicones;;;;;;;;;x
 c_venicones_adj;Veniconesian;;veniconeser;;;;;;;;;;;x
+c_veteres;Veteres;Veteres;Veteres;;Veteres;;;;;;;;;x
+c_veteres_adj;Veteresian;;vetereser;;;;;;;;;;;x
 c_vettones;Vettones;Vettones;Vettones;;Vettones;;;;;;;;;x
 c_vettones_adj;Vettonesian;;vettoneser;;;;;;;;;;;x
 c_vivisci;Vivisci;Vivisci;Vivisci;;Vivisci;;;;;;;;;x
@@ -259,3 +287,5 @@ c_volcae;Volcae;Volcae;Volcae;;Volcae;;;;;;;;;x
 c_volcae_adj;Volcaean;;volcer;;;;;;;;;;;x
 c_votadini;Votadini;Votadini;Votadini;;Votadini;;;;;;;;;x
 c_votadini_adj;Votadinian;;votadiner;;;;;;;;;;;x
+c_west_oretani;West Oretani;West Oretani;West Oretani;;West Oretani;;;;;;;;;x
+c_west_oretani_adj;West Oretanian;;West Oretaner;;;;;;;;;;;x

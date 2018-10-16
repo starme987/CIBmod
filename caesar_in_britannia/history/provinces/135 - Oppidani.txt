@@ -1,0 +1,16 @@
+# c_oppidani
+
+# County Title
+title = c_oppidani
+
+# Settlements
+max_settlements = 2
+
+b_placeholder_27 = castle
+#b_oppidani = city
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

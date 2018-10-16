@@ -5,7 +5,9 @@ technology = {
 		d_artabri
 		d_astures
 		d_baedunenses
+		d_baetica
 		d_baleares
+		d_bastetani
 		d_berones
 		d_bletonesii
 		d_bracari
@@ -13,12 +15,17 @@ technology = {
 		d_cantabri
 		d_caristii
 		d_carpetani
+		d_celtici
 		d_ceretani
 		d_cessetani
 		d_cibarci
 		d_contestani
+		d_cunetes
+		d_east_oretani
 		d_ebusus
 		d_edetani
+		d_elbestoi
+		d_elbocori
 		d_emporion
 		d_gallaeci
 		d_germanii
@@ -29,20 +36,28 @@ technology = {
 		d_lanciences
 		d_lemavi
 		d_lobetani
+		d_mirobrigenses
+		d_oppidani
+		d_paesuri
 		d_sedetani
+		d_tapori
+		d_turdetani
+		d_turduli
 		d_turmodigi
 		d_vaccaei
 		d_vardulli
+		d_veteres
 		d_vettones
+		d_west_oretani
 	}
-	796 = {
-		military = 1.0
-		economy = 1.0
-		culture = 1.0
+	500 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
 	}
-	2500 = {
-		military = 5.0
-		economy = 5.0
-		culture = 5.0
+	2018 = {
+		military = 8.0
+		economy = 8.0
+		culture = 8.0
 	}
 }
