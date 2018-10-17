@@ -1,0 +1,21 @@
+# c_croton
+
+# County Title
+title = c_croton
+
+# Settlements
+max_settlements = 2
+
+b_croton = castle
+#b_croton_2 = city
+#b_croton_3 = temple
+#b_croton_4 = castle
+#b_croton_5 = city
+#b_croton_6 = temple
+#b_croton_7 = castle
+
+# Misc
+culture = greek
+religion = greek_hellenic
+
+#History

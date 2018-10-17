@@ -1,0 +1,21 @@
+# c_oualentia
+
+# County Title
+title = c_oualentia
+
+# Settlements
+max_settlements = 2
+
+b_oualentia = castle
+#b_oualentia_2 = city
+#b_oualentia_3 = temple
+#b_oualentia_4 = castle
+#b_oualentia_5 = city
+#b_oualentia_6 = temple
+#b_oualentia_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

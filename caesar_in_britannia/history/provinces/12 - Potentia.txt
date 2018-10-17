@@ -1,0 +1,21 @@
+# c_potentia
+
+# County Title
+title = c_potentia
+
+# Settlements
+max_settlements = 2
+
+b_potentia = castle
+#b_potentia_2 = city
+#b_potentia_3 = temple
+#b_potentia_4 = castle
+#b_potentia_5 = city
+#b_potentia_6 = temple
+#b_potentia_7 = castle
+
+# Misc
+culture = greek
+religion = greek_hellenic
+
+#History

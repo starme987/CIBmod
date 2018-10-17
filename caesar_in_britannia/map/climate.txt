@@ -1,66 +1,66 @@
 #	NO WINTER = {
 #		# BELGICA / Arduenna Silva
-#		92 93 94 95 
+#		108 109 110 111 
 #		# BELGICA / Germania Inferior
-#		90 91 
+#		106 107 
 #		# BELGICA / Maxima Sequanorum
-#		99 100 
+#		115 116 
 #		# BELGICA / Silva Carbonaria
-#		87 88 89 
+#		103 104 105 
 #		# BELGICA / Silva Nigra
-#		96 97 98 
+#		112 113 114 
 #		# BRITANNIA / Brigantes
-#		45 46 47 
+#		61 62 63 
 #		# BRITANNIA / Cantii
-#		30 31 32 
+#		46 47 48 
 #		# BRITANNIA / Demetae
-#		41 42 43 44 
+#		57 58 59 60 
 #		# BRITANNIA / Dumnonii
-#		36 37 38 39 40 
+#		52 53 54 55 56 
 #		# BRITANNIA / Icenii
-#		33 34 35 
+#		49 50 51 
 #		# BRITANNIA / Novantae
-#		48 49 50 51 52 
+#		64 65 66 67 68 
 #		# CELTICA / Cisalpina
-#		82 83 84 
+#		98 99 100 
 #		# CELTICA / Helvetia
-#		85 86 
+#		101 102 
 #		# GAUL / Aquitania
-#		64 65 66 67 
+#		80 81 82 83 
 #		# GAUL / Aremorica
-#		53 54 55 56 
+#		69 70 71 72 
 #		# GAUL / Gergovia
-#		76 77 78 
+#		92 93 94 
 #		# GAUL / Lugdunensis
-#		71 72 
+#		87 88 
 #		# GAUL / Lutetia
-#		60 61 62 63 
+#		76 77 78 79 
 #		# GAUL / Narbonesis
-#		73 74 75 
+#		89 90 91 
 #		# GAUL / Pictavis
-#		57 58 59 
+#		73 74 75 
 #		# GAUL / Senonia
-#		68 69 70 
+#		84 85 86 
 #		# GAUL / Transalpina
-#		79 80 81 
+#		95 96 97 
 #		# HISPANIA / Baetica
-#		144 145 146 147 148 
+#		160 161 162 163 164 
 #		# HISPANIA / Cartaginensis
-#		115 116 117 118 119 120 121 122 123 
+#		131 132 133 134 135 136 137 138 139 
 #		# HISPANIA / Gallaecia
-#		124 125 126 127 128 129 130 131 132 
+#		140 141 142 143 144 145 146 147 148 
 #		# HISPANIA / Lusitania
-#		133 134 135 136 137 138 139 140 141 142 143 
+#		149 150 151 152 153 154 155 156 157 158 159 
 #		# HISPANIA / Tarraconensis
-#		101 102 103 104 105 106 107 108 109 110 111 112 113 114 
+#		117 118 119 120 121 122 123 124 125 126 127 128 129 130 
 #		# NO KINGDOM
-#		149 150 
+#		165 166 
 #		# ROMAN EMPIRE / Casalpina
-#		11 12 13 14 
+#		17 18 19 20 
 #		# ROMAN EMPIRE / Italia
 #		1 2 3 4 5 6 7 
 #		# ROMAN EMPIRE / Magna Graecia
-#		8 9 10 15 16 17 
+#		8 9 10 11 12 13 14 15 16 21 22 23 24 25 26 27 28 29 30 
 #		# ROMAN EMPIRE / Sardinia et Corsica
-#		18 19 20 21 22 23 24 25 26 27 28 29 
+#		31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 
 #	}

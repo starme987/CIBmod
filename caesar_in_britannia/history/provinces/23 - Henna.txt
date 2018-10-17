@@ -1,0 +1,21 @@
+# c_henna
+
+# County Title
+title = c_henna
+
+# Settlements
+max_settlements = 2
+
+b_henna = castle
+#b_henna_2 = city
+#b_henna_3 = temple
+#b_henna_4 = castle
+#b_henna_5 = city
+#b_henna_6 = temple
+#b_henna_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

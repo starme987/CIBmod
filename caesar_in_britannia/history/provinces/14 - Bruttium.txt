@@ -7,12 +7,12 @@ title = c_bruttium
 max_settlements = 4
 
 b_thurii = castle
-#b_croton = city
-#b_bruttium = temple
-#b_bruttium_2 = castle
-#b_bruttium_3 = city
-#b_bruttium_4 = temple
-#b_bruttium_5 = castle
+#b_bruttium = city
+#b_bruttium_2 = temple
+#b_bruttium_3 = castle
+#b_bruttium_4 = city
+#b_bruttium_5 = temple
+#b_bruttium_6 = castle
 
 # Misc
 culture = greek
