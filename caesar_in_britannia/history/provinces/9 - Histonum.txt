@@ -1,0 +1,21 @@
+# c_histonum
+
+# County Title
+title = c_histonum
+
+# Settlements
+max_settlements = 2
+
+b_histonum = castle
+#b_histonum_2 = city
+#b_histonum_3 = temple
+#b_histonum_4 = castle
+#b_histonum_5 = city
+#b_histonum_6 = temple
+#b_histonum_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

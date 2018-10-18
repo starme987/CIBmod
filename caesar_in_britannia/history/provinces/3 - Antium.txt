@@ -1,0 +1,21 @@
+# c_antium
+
+# County Title
+title = c_antium
+
+# Settlements
+max_settlements = 2
+
+b_antium = castle
+#b_antium_2 = city
+#b_antium_3 = temple
+#b_antium_4 = castle
+#b_antium_5 = city
+#b_antium_6 = temple
+#b_antium_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

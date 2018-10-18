@@ -1,0 +1,21 @@
+# c_norba
+
+# County Title
+title = c_norba
+
+# Settlements
+max_settlements = 2
+
+b_norba = castle
+#b_norba_2 = city
+#b_norba_3 = temple
+#b_norba_4 = castle
+#b_norba_5 = city
+#b_norba_6 = temple
+#b_norba_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

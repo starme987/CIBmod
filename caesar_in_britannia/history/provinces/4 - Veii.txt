@@ -1,0 +1,21 @@
+# c_veii
+
+# County Title
+title = c_veii
+
+# Settlements
+max_settlements = 2
+
+b_veii = castle
+#b_veii_2 = city
+#b_veii_3 = temple
+#b_veii_4 = castle
+#b_veii_5 = city
+#b_veii_6 = temple
+#b_veii_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

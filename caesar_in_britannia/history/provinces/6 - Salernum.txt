@@ -1,0 +1,21 @@
+# c_salernum
+
+# County Title
+title = c_salernum
+
+# Settlements
+max_settlements = 2
+
+b_salernum = castle
+#b_salernum_2 = city
+#b_salernum_3 = temple
+#b_salernum_4 = castle
+#b_salernum_5 = city
+#b_salernum_6 = temple
+#b_salernum_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History
