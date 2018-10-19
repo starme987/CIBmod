@@ -1,0 +1,21 @@
+# c_reate
+
+# County Title
+title = c_reate
+
+# Settlements
+max_settlements = 2
+
+b_reate = castle
+#b_reate_2 = city
+#b_reate_3 = temple
+#b_reate_4 = castle
+#b_reate_5 = city
+#b_reate_6 = temple
+#b_reate_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

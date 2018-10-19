@@ -1,7 +1,7 @@
-# c_ager_gallicus
+# c_ancona
 
 # County Title
-title = c_ager_gallicus
+title = c_ancona
 
 # Settlements
 max_settlements = 6

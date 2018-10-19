@@ -1,0 +1,21 @@
+# c_sena_gallica
+
+# County Title
+title = c_sena_gallica
+
+# Settlements
+max_settlements = 2
+
+b_sena_gallica = castle
+#b_sena_gallica_2 = city
+#b_sena_gallica_3 = temple
+#b_sena_gallica_4 = castle
+#b_sena_gallica_5 = city
+#b_sena_gallica_6 = temple
+#b_sena_gallica_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

@@ -1,0 +1,21 @@
+# c_sulmo
+
+# County Title
+title = c_sulmo
+
+# Settlements
+max_settlements = 2
+
+b_sulmo = castle
+#b_sulmo_2 = city
+#b_sulmo_3 = temple
+#b_sulmo_4 = castle
+#b_sulmo_5 = city
+#b_sulmo_6 = temple
+#b_sulmo_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History
