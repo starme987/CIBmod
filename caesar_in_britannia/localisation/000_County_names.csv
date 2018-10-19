@@ -199,6 +199,8 @@ c_lexovii;Lexovii;Lexovii;Lexovii;;Lexovii;;;;;;;;;x
 c_lexovii_adj;Lexovian;;lexover;;;;;;;;;;;x
 c_libarna;Libarna;Libarna;Libarna;;Libarna;;;;;;;;;x
 c_libarna_adj;Libarnan;;libarner;;;;;;;;;;;x
+c_lilybaeum;Lilybaeum;Lilybaeum;Lilybaeum;;Lilybaeum;;;;;;;;;x
+c_lilybaeum_adj;Lilybaeumian;;lilybaeumer;;;;;;;;;;;x
 c_lingones;Lingones;Lingones;Lingones;;Lingones;;;;;;;;;x
 c_lingones_adj;Lingonesian;;lingoneser;;;;;;;;;;;x
 c_lobetani;Lobetani;Lobetani;Lobetani;;Lobetani;;;;;;;;;x
@@ -221,6 +223,8 @@ c_mirobrigenses;Mirobrigenses;Mirobrigenses;Mirobrigenses;;Mirobrigenses;;;;;;;;
 c_mirobrigenses_adj;Mirobrigensesian;;mirobrigenseser;;;;;;;;;;;x
 c_morini;Morini;Morini;Morini;;Morini;;;;;;;;;x
 c_morini_adj;Morinian;;moriner;;;;;;;;;;;x
+c_mutina;Mutina;Mutina;Mutina;;Mutina;;;;;;;;;x
+c_mutina_adj;Mutinan;;mutiner;;;;;;;;;;;x
 c_namnetes;Namnetes;Namnetes;Namnetes;;Namnetes;;;;;;;;;x
 c_namnetes_adj;Namnetesian;;namneteser;;;;;;;;;;;x
 c_nemetes;Nemetes;Nemetes;Nemetes;;Nemetes;;;;;;;;;x
@@ -255,6 +259,8 @@ c_parisi;Parisi;Parisi;Parisi;;Parisi;;;;;;;;;x
 c_parisi_adj;Parisian;;pariser;;;;;;;;;;;x
 c_parisii;Parisii;Parisii;Parisii;;Parisii;;;;;;;;;x
 c_parisii_adj;Parisian;;pariser;;;;;;;;;;;x
+c_parma;Parma;Parma;Parma;;Parma;;;;;;;;;x
+c_parma_adj;Parman;;parmer;;;;;;;;;;;x
 c_phikaria;Phikaria;Phikaria;Phikaria;;Phikaria;;;;;;;;;x
 c_phikaria_adj;Phikarian;;phikarer;;;;;;;;;;;x
 c_phintias;Phintias;Phintias;Phintias;;Phintias;;;;;;;;;x
@@ -303,8 +309,6 @@ c_senones;Senones;Senones;Senones;;Senones;;;;;;;;;x
 c_senones_adj;Senonesian;;senoneser;;;;;;;;;;;x
 c_sequani;Sequani;Sequani;Sequani;;Sequani;;;;;;;;;x
 c_sequani_adj;Sequanian;;sequaner;;;;;;;;;;;x
-c_sicilia;Sicilia;Sicilia;Sicilia;;Sicilia;;;;;;;;;x
-c_sicilia_adj;Sicilian;;siciler;;;;;;;;;;;x
 c_silures;Silures;Silures;Silures;;Silures;;;;;;;;;x
 c_silures_adj;Siluresian;;silureser;;;;;;;;;;;x
 c_sipous;Sipous;Sipous;Sipous;;Sipous;;;;;;;;;x

@@ -7,12 +7,12 @@ title = c_lilybaeum
 max_settlements = 4
 
 b_lilybaeum = castle
-#b_messana = city
-#b_lilybaeum_2 = temple
-#b_lilybaeum_3 = castle
-#b_lilybaeum_4 = city
-#b_lilybaeum_5 = temple
-#b_lilybaeum_6 = castle
+#b_lilybaeum_2 = city
+#b_lilybaeum_3 = temple
+#b_lilybaeum_4 = castle
+#b_lilybaeum_5 = city
+#b_lilybaeum_6 = temple
+#b_lilybaeum_7 = castle
 
 # Misc
 culture = roman

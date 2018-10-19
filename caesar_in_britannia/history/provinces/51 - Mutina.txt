@@ -1,0 +1,21 @@
+# c_mutina
+
+# County Title
+title = c_mutina
+
+# Settlements
+max_settlements = 3
+
+b_mutina = castle
+#b_mutina_2 = city
+#b_mutina_3 = temple
+#b_mutina_4 = castle
+#b_mutina_5 = city
+#b_mutina_6 = temple
+#b_mutina_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

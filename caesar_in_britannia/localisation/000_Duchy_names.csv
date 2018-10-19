@@ -47,6 +47,8 @@ d_bruttium;Bruttium;Bruttium;Bruttium;;Bruttium;;;;;;;;;x
 d_bruttium_adj;Bruttiumian;;bruttiumer;;;;;;;;;;;x
 d_cadurci;Cadurci;Cadurci;Cadurci;;Cadurci;;;;;;;;;x
 d_cadurci_adj;Cadurcian;;cadurcer;;;;;;;;;;;x
+d_calaris;Calaris;Calaris;Calaris;;Calaris;;;;;;;;;x
+d_calaris_adj;Calarisian;;calariser;;;;;;;;;;;x
 d_calontienses;Calontienses;Calontienses;Calontienses;;Calontienses;;;;;;;;;x
 d_calontienses_adj;Calontiensesian;;calontienseser;;;;;;;;;;;x
 d_campania;Campania;Campania;Campania;;Campania;;;;;;;;;x
@@ -119,6 +121,8 @@ d_etruria;Etruria;Etruria;Etruria;;Etruria;;;;;;;;;x
 d_etruria_adj;Etrurian;;etrurer;;;;;;;;;;;x
 d_gallaeci;Gallaeci;Gallaeci;Gallaeci;;Gallaeci;;;;;;;;;x
 d_gallaeci_adj;Gallaecian;;gallaecer;;;;;;;;;;;x
+d_gallurae;Gallurae;Gallurae;Gallurae;;Gallurae;;;;;;;;;x
+d_gallurae_adj;Galluraean;;gallurer;;;;;;;;;;;x
 d_germanii;Germanii;Germanii;Germanii;;Germanii;;;;;;;;;x
 d_germanii_adj;Germanian;;germaner;;;;;;;;;;;x
 d_helvetii;Helvetii;Helvetii;Helvetii;;Helvetii;;;;;;;;;x
@@ -203,8 +207,6 @@ d_samnium;Samnium;Samnium;Samnium;;Samnium;;;;;;;;;x
 d_samnium_adj;Samniumian;;samniumer;;;;;;;;;;;x
 d_santones;Santones;Santones;Santones;;Santones;;;;;;;;;x
 d_santones_adj;Santonesian;;santoneser;;;;;;;;;;;x
-d_sardinia;Calaris;Calaris;Calaris;;Calaris;;;;;;;;;x
-d_sardinia_adj;Calarian;;calarer;;;;;;;;;;;x
 d_sedetani;Sedetani;Sedetani;Sedetani;;Sedetani;;;;;;;;;x
 d_sedetani_adj;Sedetanian;;sedetaner;;;;;;;;;;;x
 d_selgovae;Selgovae;Selgovae;Selgovae;;Selgovae;;;;;;;;;x
@@ -273,5 +275,3 @@ d_votadini;Votadini;Votadini;Votadini;;Votadini;;;;;;;;;x
 d_votadini_adj;Votadinian;;votadiner;;;;;;;;;;;x
 d_west_oretani;West Oretani;West Oretani;West Oretani;;West Oretani;;;;;;;;;x
 d_west_oretani_adj;West Oretanian;;West Oretaner;;;;;;;;;;;x
-d_north_sardinia;Gallurae;;Gallurae;;;;;;;;;;;x
-d_north_sardinia_adj;Galluran;;gallurer;;;;;;;;;;;x
