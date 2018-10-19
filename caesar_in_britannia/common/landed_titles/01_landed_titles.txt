@@ -4980,9 +4980,9 @@ e_roman_empire = {
 					any_demesne_province = { OR = { province_id = 53 province_id = 54 province_id = 55 province_id = 56 province_id = 57 province_id = 58 } }
 				}
 			}
-			capital = 53 # c_sicilia
+			capital = 53 # c_lilybaeum
 			
-			c_sicilia = { # 53
+			c_lilybaeum = { # 53
 				color={ 81 132 80 }
 				color2={ 255 255 255 }
 				
@@ -4990,15 +4990,15 @@ e_roman_empire = {
 				}
 				b_messana = {
 				}
-				b_sicilia = {
+				b_lilybaeum_2 = {
 				}
-				b_sicilia_2 = {
+				b_lilybaeum_3 = {
 				}
-				b_sicilia_3 = {
+				b_lilybaeum_4 = {
 				}
-				b_sicilia_4 = {
+				b_lilybaeum_5 = {
 				}
-				b_sicilia_5 = {
+				b_lilybaeum_6 = {
 				}
 			}
 			c_agrigentum = { # 58
