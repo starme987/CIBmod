@@ -1,0 +1,21 @@
+# c_pisae
+
+# County Title
+title = c_pisae
+
+# Settlements
+max_settlements = 3
+
+b_pisae = castle
+#b_pisae_2 = city
+#b_pisae_3 = temple
+#b_pisae_4 = castle
+#b_pisae_5 = city
+#b_pisae_6 = temple
+#b_pisae_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

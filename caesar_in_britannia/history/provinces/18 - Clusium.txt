@@ -1,0 +1,21 @@
+# c_clusium
+
+# County Title
+title = c_clusium
+
+# Settlements
+max_settlements = 3
+
+b_clusium = castle
+#b_clusium_2 = city
+#b_clusium_3 = temple
+#b_clusium_4 = castle
+#b_clusium_5 = city
+#b_clusium_6 = temple
+#b_clusium_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

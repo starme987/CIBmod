@@ -1,0 +1,21 @@
+# c_ancona
+
+# County Title
+title = c_ancona
+
+# Settlements
+max_settlements = 4
+
+b_ancona = city
+b_perusia = city
+#b_ager_gallicus = temple
+#b_ager_gallicus_2 = castle
+#b_ager_gallicus_3 = city
+#b_ager_gallicus_4 = temple
+#b_ager_gallicus_5 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

@@ -1,0 +1,21 @@
+# c_silures
+
+# County Title
+title = c_silures
+
+# Settlements
+max_settlements = 3
+
+b_silures = castle
+#b_silures_2 = city
+#b_silures_3 = temple
+#b_silures_4 = castle
+#b_silures_5 = city
+#b_silures_6 = temple
+#b_silures_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_saena
+
+# County Title
+title = c_saena
+
+# Settlements
+max_settlements = 3
+
+b_saena = castle
+#b_saena_2 = city
+#b_saena_3 = temple
+#b_saena_4 = castle
+#b_saena_5 = city
+#b_saena_6 = temple
+#b_saena_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

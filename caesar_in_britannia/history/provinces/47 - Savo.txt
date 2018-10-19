@@ -1,0 +1,21 @@
+# c_savo
+
+# County Title
+title = c_savo
+
+# Settlements
+max_settlements = 3
+
+b_savo = castle
+#b_savo_2 = city
+#b_savo_3 = temple
+#b_savo_4 = castle
+#b_savo_5 = city
+#b_savo_6 = temple
+#b_savo_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

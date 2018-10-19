@@ -1,0 +1,21 @@
+# c_redones
+
+# County Title
+title = c_redones
+
+# Settlements
+max_settlements = 3
+
+b_redones = castle
+#b_redones_2 = city
+#b_redones_3 = temple
+#b_redones_4 = castle
+#b_redones_5 = city
+#b_redones_6 = temple
+#b_redones_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

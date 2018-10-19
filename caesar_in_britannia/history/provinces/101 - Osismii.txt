@@ -1,0 +1,21 @@
+# c_osismii
+
+# County Title
+title = c_osismii
+
+# Settlements
+max_settlements = 3
+
+b_osismii = castle
+#b_osismii_2 = city
+#b_osismii_3 = temple
+#b_osismii_4 = castle
+#b_osismii_5 = city
+#b_osismii_6 = temple
+#b_osismii_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

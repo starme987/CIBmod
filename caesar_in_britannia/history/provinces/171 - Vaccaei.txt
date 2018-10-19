@@ -1,0 +1,17 @@
+# c_vaccaei
+
+# County Title
+title = c_vaccaei
+
+# Settlements
+max_settlements = 3
+
+b_placeholder_12 = castle
+#b_vaccaei = city
+#b_vaccaei_2 = temple
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

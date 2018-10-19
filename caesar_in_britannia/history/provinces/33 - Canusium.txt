@@ -1,0 +1,21 @@
+# c_canusium
+
+# County Title
+title = c_canusium
+
+# Settlements
+max_settlements = 3
+
+b_canusium = castle
+#b_canusium_2 = city
+#b_canusium_3 = temple
+#b_canusium_4 = castle
+#b_canusium_5 = city
+#b_canusium_6 = temple
+#b_canusium_7 = castle
+
+# Misc
+culture = greek
+religion = greek_hellenic
+
+#History

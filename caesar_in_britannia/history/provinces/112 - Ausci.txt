@@ -1,0 +1,21 @@
+# c_ausci
+
+# County Title
+title = c_ausci
+
+# Settlements
+max_settlements = 3
+
+b_ausci = castle
+#b_ausci_2 = city
+#b_ausci_3 = temple
+#b_ausci_4 = castle
+#b_ausci_5 = city
+#b_ausci_6 = temple
+#b_ausci_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

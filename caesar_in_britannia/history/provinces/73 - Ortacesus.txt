@@ -1,0 +1,21 @@
+# c_ortacesus
+
+# County Title
+title = c_ortacesus
+
+# Settlements
+max_settlements = 2
+
+b_ortacesus = castle
+#b_ortacesus_2 = city
+#b_ortacesus_3 = temple
+#b_ortacesus_4 = castle
+#b_ortacesus_5 = city
+#b_ortacesus_6 = temple
+#b_ortacesus_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

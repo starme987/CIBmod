@@ -1,0 +1,21 @@
+# c_libarna
+
+# County Title
+title = c_libarna
+
+# Settlements
+max_settlements = 3
+
+b_libarna = castle
+#b_libarna_2 = city
+#b_libarna_3 = temple
+#b_libarna_4 = castle
+#b_libarna_5 = city
+#b_libarna_6 = temple
+#b_libarna_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

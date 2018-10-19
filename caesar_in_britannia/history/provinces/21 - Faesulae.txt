@@ -1,0 +1,21 @@
+# c_faesulae
+
+# County Title
+title = c_faesulae
+
+# Settlements
+max_settlements = 3
+
+b_faesulae = castle
+#b_faesulae_2 = city
+#b_faesulae_3 = temple
+#b_faesulae_4 = castle
+#b_faesulae_5 = city
+#b_faesulae_6 = temple
+#b_faesulae_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

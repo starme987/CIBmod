@@ -1,0 +1,21 @@
+# c_suebi
+
+# County Title
+title = c_suebi
+
+# Settlements
+max_settlements = 3
+
+b_suebi = castle
+#b_suebi_2 = city
+#b_suebi_3 = temple
+#b_suebi_4 = castle
+#b_suebi_5 = city
+#b_suebi_6 = temple
+#b_suebi_7 = castle
+
+# Misc
+culture = germanic
+religion = heathen
+
+#History

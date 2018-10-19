@@ -1,0 +1,21 @@
+# c_genua
+
+# County Title
+title = c_genua
+
+# Settlements
+max_settlements = 4
+
+b_genua = castle
+#b_genua_2 = city
+#b_genua_3 = temple
+#b_genua_4 = castle
+#b_genua_5 = city
+#b_genua_6 = temple
+#b_genua_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

@@ -1,0 +1,21 @@
+# c_florentia
+
+# County Title
+title = c_florentia
+
+# Settlements
+max_settlements = 3
+
+b_florentia = castle
+#b_florentia_2 = city
+#b_florentia_3 = temple
+#b_florentia_4 = castle
+#b_florentia_5 = city
+#b_florentia_6 = temple
+#b_florentia_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

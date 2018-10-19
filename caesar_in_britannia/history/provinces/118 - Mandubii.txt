@@ -1,0 +1,21 @@
+# c_mandubii
+
+# County Title
+title = c_mandubii
+
+# Settlements
+max_settlements = 3
+
+b_mandubii = castle
+#b_mandubii_2 = city
+#b_mandubii_3 = temple
+#b_mandubii_4 = castle
+#b_mandubii_5 = city
+#b_mandubii_6 = temple
+#b_mandubii_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

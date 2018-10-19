@@ -1,0 +1,21 @@
+# c_bononia
+
+# County Title
+title = c_bononia
+
+# Settlements
+max_settlements = 3
+
+b_bononia = castle
+#b_bononia_2 = city
+#b_bononia_3 = temple
+#b_bononia_4 = castle
+#b_bononia_5 = city
+#b_bononia_6 = temple
+#b_bononia_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

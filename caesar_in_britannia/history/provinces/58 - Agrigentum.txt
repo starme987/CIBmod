@@ -1,0 +1,21 @@
+# c_agrigentum
+
+# County Title
+title = c_agrigentum
+
+# Settlements
+max_settlements = 3
+
+b_agrigentum = castle
+#b_agrigentum_2 = city
+#b_agrigentum_3 = temple
+#b_agrigentum_4 = castle
+#b_agrigentum_5 = city
+#b_agrigentum_6 = temple
+#b_agrigentum_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

@@ -1,0 +1,21 @@
+# c_populonia
+
+# County Title
+title = c_populonia
+
+# Settlements
+max_settlements = 3
+
+b_populonia = castle
+#b_populonia_2 = city
+#b_populonia_3 = temple
+#b_populonia_4 = castle
+#b_populonia_5 = city
+#b_populonia_6 = temple
+#b_populonia_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

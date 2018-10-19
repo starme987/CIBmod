@@ -1,0 +1,21 @@
+# c_velia
+
+# County Title
+title = c_velia
+
+# Settlements
+max_settlements = 3
+
+b_velia = castle
+#b_velia_2 = city
+#b_velia_3 = temple
+#b_velia_4 = castle
+#b_velia_5 = city
+#b_velia_6 = temple
+#b_velia_7 = castle
+
+# Misc
+culture = greek
+religion = greek_hellenic
+
+#History

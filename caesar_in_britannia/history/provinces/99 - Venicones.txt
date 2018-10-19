@@ -1,0 +1,21 @@
+# c_venicones
+
+# County Title
+title = c_venicones
+
+# Settlements
+max_settlements = 3
+
+b_venicones = castle
+#b_venicones_2 = city
+#b_venicones_3 = temple
+#b_venicones_4 = castle
+#b_venicones_5 = city
+#b_venicones_6 = temple
+#b_venicones_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

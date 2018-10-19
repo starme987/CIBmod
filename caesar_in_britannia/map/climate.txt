@@ -1,66 +1,66 @@
 #	NO WINTER = {
 #		# BELGICA / Arduenna Silva
-#		126 127 128 129 
+#		140 141 142 143 
 #		# BELGICA / Germania Inferior
-#		124 125 
+#		138 139 
 #		# BELGICA / Maxima Sequanorum
-#		133 134 
+#		147 148 
 #		# BELGICA / Silva Carbonaria
-#		121 122 123 
+#		135 136 137 
 #		# BELGICA / Silva Nigra
-#		130 131 132 
+#		144 145 146 
 #		# BRITANNIA / Brigantes
-#		79 80 81 
+#		93 94 95 
 #		# BRITANNIA / Cantii
-#		64 65 66 
+#		78 79 80 
 #		# BRITANNIA / Demetae
-#		75 76 77 78 
+#		89 90 91 92 
 #		# BRITANNIA / Dumnonii
-#		70 71 72 73 74 
+#		84 85 86 87 88 
 #		# BRITANNIA / Icenii
-#		67 68 69 
+#		81 82 83 
 #		# BRITANNIA / Novantae
-#		82 83 84 85 86 
+#		96 97 98 99 100 
 #		# CELTICA / Cisalpina
-#		116 117 118 
+#		130 131 132 
 #		# CELTICA / Helvetia
-#		119 120 
+#		133 134 
 #		# GAUL / Aquitania
-#		98 99 100 101 
+#		112 113 114 115 
 #		# GAUL / Aremorica
-#		87 88 89 90 
+#		101 102 103 104 
 #		# GAUL / Gergovia
-#		110 111 112 
+#		124 125 126 
 #		# GAUL / Lugdunensis
-#		105 106 
+#		119 120 
 #		# GAUL / Lutetia
-#		94 95 96 97 
+#		108 109 110 111 
 #		# GAUL / Narbonesis
-#		107 108 109 
+#		121 122 123 
 #		# GAUL / Pictavis
-#		91 92 93 
+#		105 106 107 
 #		# GAUL / Senonia
-#		102 103 104 
+#		116 117 118 
 #		# GAUL / Transalpina
-#		113 114 115 
+#		127 128 129 
 #		# HISPANIA / Baetica
-#		178 179 180 181 182 
+#		192 193 194 195 196 
 #		# HISPANIA / Cartaginensis
-#		149 150 151 152 153 154 155 156 157 
+#		163 164 165 166 167 168 169 170 171 
 #		# HISPANIA / Gallaecia
-#		158 159 160 161 162 163 164 165 166 
+#		172 173 174 175 176 177 178 179 180 
 #		# HISPANIA / Lusitania
-#		167 168 169 170 171 172 173 174 175 176 177 
+#		181 182 183 184 185 186 187 188 189 190 191 
 #		# HISPANIA / Tarraconensis
-#		135 136 137 138 139 140 141 142 143 144 145 146 147 148 
+#		149 150 151 152 153 154 155 156 157 158 159 160 161 162 
 #		# NO KINGDOM
-#		183 184 
+#		197 198 
 #		# ROMAN EMPIRE / Casalpina
-#		35 36 37 38 
+#		43 44 45 46 47 48 49 50 51 52 
 #		# ROMAN EMPIRE / Italia
-#		1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 
+#		1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
 #		# ROMAN EMPIRE / Magna Graecia
-#		22 23 24 25 26 27 28 29 30 31 32 33 34 39 40 41 42 43 44 45 46 47 48 
+#		30 31 32 33 34 35 36 37 38 39 40 41 42 53 54 55 56 57 58 59 60 61 62 
 #		# ROMAN EMPIRE / Sardinia et Corsica
-#		49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 
+#		63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 
 #	}

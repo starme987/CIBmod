@@ -1,0 +1,21 @@
+# c_raeti
+
+# County Title
+title = c_raeti
+
+# Settlements
+max_settlements = 3
+
+b_raeti = castle
+#b_raeti_2 = city
+#b_raeti_3 = temple
+#b_raeti_4 = castle
+#b_raeti_5 = city
+#b_raeti_6 = temple
+#b_raeti_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

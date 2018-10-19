@@ -1,0 +1,21 @@
+# c_lucania
+
+# County Title
+title = c_lucania
+
+# Settlements
+max_settlements = 4
+
+b_buxentum = castle
+#b_lucania = city
+#b_lucania_2 = temple
+#b_lucania_3 = castle
+#b_lucania_4 = city
+#b_lucania_5 = temple
+#b_lucania_6 = castle
+
+# Misc
+culture = greek
+religion = greek_hellenic
+
+#History

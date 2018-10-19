@@ -1,0 +1,21 @@
+# c_ariminum
+
+# County Title
+title = c_ariminum
+
+# Settlements
+max_settlements = 3
+
+b_ariminum = castle
+#b_ariminum_2 = city
+#b_ariminum_3 = temple
+#b_ariminum_4 = castle
+#b_ariminum_5 = city
+#b_ariminum_6 = temple
+#b_ariminum_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

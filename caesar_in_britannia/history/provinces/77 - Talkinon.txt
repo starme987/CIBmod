@@ -1,0 +1,21 @@
+# c_talkinon
+
+# County Title
+title = c_talkinon
+
+# Settlements
+max_settlements = 3
+
+b_talkinon = castle
+#b_talkinon_2 = city
+#b_talkinon_3 = temple
+#b_talkinon_4 = castle
+#b_talkinon_5 = city
+#b_talkinon_6 = temple
+#b_talkinon_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

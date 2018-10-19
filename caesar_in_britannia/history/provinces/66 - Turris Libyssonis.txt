@@ -1,0 +1,21 @@
+# c_turris_libyssonis
+
+# County Title
+title = c_turris_libyssonis
+
+# Settlements
+max_settlements = 3
+
+b_turris_libyssonis = castle
+#b_turris_libyssonis_2 = city
+#b_turris_libyssonis_3 = temple
+#b_turris_libyssonis_4 = castle
+#b_turris_libyssonis_5 = city
+#b_turris_libyssonis_6 = temple
+#b_turris_libyssonis_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

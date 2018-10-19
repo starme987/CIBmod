@@ -1,0 +1,21 @@
+# c_larinum
+
+# County Title
+title = c_larinum
+
+# Settlements
+max_settlements = 3
+
+b_larinum = castle
+#b_larinum_2 = city
+#b_larinum_3 = temple
+#b_larinum_4 = castle
+#b_larinum_5 = city
+#b_larinum_6 = temple
+#b_larinum_7 = castle
+
+# Misc
+culture = greek
+religion = greek_hellenic
+
+#History

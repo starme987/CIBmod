@@ -1,0 +1,21 @@
+# c_leontini
+
+# County Title
+title = c_leontini
+
+# Settlements
+max_settlements = 3
+
+b_leontini = castle
+#b_leontini_2 = city
+#b_leontini_3 = temple
+#b_leontini_4 = castle
+#b_leontini_5 = city
+#b_leontini_6 = temple
+#b_leontini_7 = castle
+
+# Misc
+culture = greek
+religion = greek_hellenic
+
+#History

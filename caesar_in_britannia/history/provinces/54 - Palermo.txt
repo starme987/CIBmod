@@ -1,0 +1,21 @@
+# c_palermo
+
+# County Title
+title = c_palermo
+
+# Settlements
+max_settlements = 3
+
+b_palermo = castle
+#b_palermo_2 = city
+#b_palermo_3 = temple
+#b_palermo_4 = castle
+#b_palermo_5 = city
+#b_palermo_6 = temple
+#b_palermo_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

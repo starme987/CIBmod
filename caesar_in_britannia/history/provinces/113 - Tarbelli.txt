@@ -1,0 +1,21 @@
+# c_tarbelli
+
+# County Title
+title = c_tarbelli
+
+# Settlements
+max_settlements = 3
+
+b_tarbelli = castle
+#b_tarbelli_2 = city
+#b_tarbelli_3 = temple
+#b_tarbelli_4 = castle
+#b_tarbelli_5 = city
+#b_tarbelli_6 = temple
+#b_tarbelli_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

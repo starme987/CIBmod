@@ -1,0 +1,21 @@
+# c_volaterrae
+
+# County Title
+title = c_volaterrae
+
+# Settlements
+max_settlements = 3
+
+b_volaterrae = castle
+#b_volaterrae_2 = city
+#b_volaterrae_3 = temple
+#b_volaterrae_4 = castle
+#b_volaterrae_5 = city
+#b_volaterrae_6 = temple
+#b_volaterrae_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

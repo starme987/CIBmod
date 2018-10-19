@@ -1,0 +1,21 @@
+# c_makopsisa
+
+# County Title
+title = c_makopsisa
+
+# Settlements
+max_settlements = 2
+
+b_makopsisa = castle
+#b_makopsisa_2 = city
+#b_makopsisa_3 = temple
+#b_makopsisa_4 = castle
+#b_makopsisa_5 = city
+#b_makopsisa_6 = temple
+#b_makopsisa_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

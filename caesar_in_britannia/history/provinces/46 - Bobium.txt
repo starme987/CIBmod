@@ -1,0 +1,21 @@
+# c_bobium
+
+# County Title
+title = c_bobium
+
+# Settlements
+max_settlements = 3
+
+b_bobium = castle
+#b_bobium_2 = city
+#b_bobium_3 = temple
+#b_bobium_4 = castle
+#b_bobium_5 = city
+#b_bobium_6 = temple
+#b_bobium_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

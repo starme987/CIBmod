@@ -1,0 +1,21 @@
+# c_vangiones
+
+# County Title
+title = c_vangiones
+
+# Settlements
+max_settlements = 3
+
+b_vangiones = castle
+#b_vangiones_2 = city
+#b_vangiones_3 = temple
+#b_vangiones_4 = castle
+#b_vangiones_5 = city
+#b_vangiones_6 = temple
+#b_vangiones_7 = castle
+
+# Misc
+culture = germanic
+religion = heathen
+
+#History

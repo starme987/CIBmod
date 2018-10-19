@@ -1,0 +1,21 @@
+# c_tuscana
+
+# County Title
+title = c_tuscana
+
+# Settlements
+max_settlements = 3
+
+b_tuscana = castle
+#b_tuscana_2 = city
+#b_tuscana_3 = temple
+#b_tuscana_4 = castle
+#b_tuscana_5 = city
+#b_tuscana_6 = temple
+#b_tuscana_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

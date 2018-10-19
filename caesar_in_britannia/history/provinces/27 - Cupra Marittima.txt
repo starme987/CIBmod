@@ -1,0 +1,21 @@
+# c_cupra_marittima
+
+# County Title
+title = c_cupra_marittima
+
+# Settlements
+max_settlements = 3
+
+b_cupra_marittima = castle
+#b_cupra_marittima_2 = city
+#b_cupra_marittima_3 = temple
+#b_cupra_marittima_4 = castle
+#b_cupra_marittima_5 = city
+#b_cupra_marittima_6 = temple
+#b_cupra_marittima_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

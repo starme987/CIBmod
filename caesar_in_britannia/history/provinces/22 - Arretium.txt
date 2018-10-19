@@ -1,0 +1,21 @@
+# c_arretium
+
+# County Title
+title = c_arretium
+
+# Settlements
+max_settlements = 3
+
+b_arretium = castle
+#b_arretium_2 = city
+#b_arretium_3 = temple
+#b_arretium_4 = castle
+#b_arretium_5 = city
+#b_arretium_6 = temple
+#b_arretium_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

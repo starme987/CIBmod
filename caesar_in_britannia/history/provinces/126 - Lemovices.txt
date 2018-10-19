@@ -1,0 +1,21 @@
+# c_lemovices
+
+# County Title
+title = c_lemovices
+
+# Settlements
+max_settlements = 3
+
+b_lemovices = castle
+#b_lemovices_2 = city
+#b_lemovices_3 = temple
+#b_lemovices_4 = castle
+#b_lemovices_5 = city
+#b_lemovices_6 = temple
+#b_lemovices_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

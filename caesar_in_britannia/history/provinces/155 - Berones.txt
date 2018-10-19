@@ -1,0 +1,21 @@
+# c_berones
+
+# County Title
+title = c_berones
+
+# Settlements
+max_settlements = 3
+
+b_berones = castle
+#b_berones_2 = city
+#b_berones_3 = temple
+#b_berones_4 = castle
+#b_berones_5 = city
+#b_berones_6 = temple
+#b_berones_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History
