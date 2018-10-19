@@ -4,6 +4,6 @@
 	law = succ_gavelkind
 }
 800.1.1={
-	liege=k_magna_graecia
+	liege=k_sardinia_et_corsica
 }
-790.1.1={holder=62)
+785.1.1={holder=78}

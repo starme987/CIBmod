@@ -6,3 +6,6 @@
 800.1.1={
 	liege=k_magna_graecia
 }
+790.1.1={
+	liege=d_lucania
+}

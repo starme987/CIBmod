@@ -87,7 +87,18 @@
 	culture="roman"
 	religion="roman_hellenic"
 }
-
+15=
+{
+	name="Gallus"
+	culture="roman"
+	religion="roman_hellenic"
+}
+16=
+{
+	name="Simplex"
+	culture="roman"
+	religion="roman_hellenic"
+}
 # Greek #
 
 50=

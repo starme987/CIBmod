@@ -592,3 +592,261 @@
 	774.4.17={ birth=yes }
 	825.11.20={ death=yes }
 }
+60={
+	name=Linus
+	dynasty=15
+	culture=roman
+	religion=roman_hellenic
+	729.5.4={ birth = yes }
+	750.1.2={add_spouse=61}
+	770.12.12={ death=yes }
+}
+61={
+	name=Maura
+	culture=roman
+	religion=roman_hellenic
+	female=yes
+	735.1.2={birth=yes}
+	770.1.5={death=yes}
+}
+62={
+	name="Aulus Didius"
+	dynasty=15
+	father=60
+	mother=61
+	culture=roman
+	religion=roman_hellenic
+	750.3.12={birth=yes}
+	766.1.1={add_spouse=69}
+	800.6.3={death=yes}
+}
+63={
+	name=Stephanus
+	dynasty=15
+	father=60
+	mother=61
+	culture=roman
+	religion=roman_hellenic
+	752.7.2={birth=yes}
+	760.1.5={add_spouse=67}
+	800.6.3={death=yes}
+}
+64={
+	name=Julia
+	dynasty=15
+	female=yes
+	father=60
+	mother=61
+	culture=roman
+	religion=roman_hellenic
+	755.1.10={birth=yes}
+	800.6.3={death=yes}
+}
+65={
+	name=Publius
+	culture=roman
+	religion=roman_hellenic
+	749.5.4={birth=yes}
+	770.10.10={add_spouse=64}
+	799.1.1={death=yes}
+}
+66={
+	name=Flavia
+	culture=roman
+	religion=roman_hellenic
+	female=yes
+	father=65
+	mother=64
+	773.9.3={birth=yes}
+	846.1.9={death=yes}
+}
+67={
+	name=Felicia
+	culture=roman
+	religion=roman_hellenic
+	female=yes
+	750.12.2={birth=yes}
+	799.1.1={death=yes}
+}
+68={
+	name=Maura
+	culture=roman
+	religion=roman_hellenic
+	female=yes
+	mother=67
+	father=63
+	dynasty=15
+	770.9.9={birth=yes}
+	813.10.6={death=yes}
+}
+69={
+	name=Honoria
+	culture=roman
+	religion=roman_hellenic
+	female=yes
+	751.2.1={birth=yes}
+	800.1.1={death=yes}
+}
+70={
+	name=Serena
+	dynasty=15
+	culture=roman
+	religion=roman_hellenic
+	female=yes
+	father=62
+	mother=69
+	766.1.2={birth=yes}
+	840.4.29={death=yes}
+}
+71={
+	name=Lucius
+	culture=roman
+	religion=roman_hellenic
+	760.5.21={birth=yes}
+	784.7.20={add_spouse=70}
+	820.9.13={death=yes}
+}
+72={
+	name=Silvanus
+	culture=roman
+	religion=roman_hellenic
+	father=71
+	mother=70
+	786.5.5={birth=yes}
+	813.10.10={death=yes}
+}
+73={
+	name=Severus
+	dynasty=15
+	culture=roman
+	religion=roman_hellenic
+	father=62
+	mother=69
+	767.12.13={birth=yes}
+	790.3.17={add_spouse=74}
+	840.1.30={death=yes}
+}
+74={
+	name=Nausicaa
+	culture=roman
+	religion=roman_hellenic
+	female=yes
+	770.3.11={birth=yes}
+	840.1.30={death=yes}
+}
+75={
+	name=Ulysses
+	culture=roman
+	dynasty=15
+	religion=roman_hellenic
+	father=73
+	mother=74
+	794.8.18={birth=yes}
+	851.4.16={death=yes}
+}
+76={
+	name=Urbanus
+	dynasty=16
+	culture=roman
+	religion=roman_hellenic
+	731.9.14={ birth = yes }
+	750.1.2={add_spouse=77}
+	770.12.12={ death=yes }
+}
+77={
+	name=Lucia
+	culture=roman
+	religion=roman_hellenic
+	female=yes
+	733.5.9={birth=yes}
+	770.1.5={death=yes}
+}
+78={
+	name=Leo
+	dynasty=16
+	father=76
+	mother=77
+	religion=roman_hellenic
+	culture=roman
+	751.5.11={birth=yes}
+	772.7.2={add_spouse=79}
+	810.1.1={death=yes}
+}
+79={
+	name=Desidera
+	religion=roman_hellenic
+	culture=roman
+	female=yes
+	756.1.28={birth=yes}
+	810.1.1={death=yes}
+}
+80={
+	name=Claudia
+	religion=roman_hellenic
+	culture=roman
+	dynasty=16
+	female=yes
+	father=78
+	mother=79
+	778.11.11={birth=yes}
+	830.1.1={death=yes}
+}
+81={
+	name=Caecilius
+	religion=roman_hellenic
+	culture=roman
+	dynasty=16
+	father=78
+	mother=79
+	775.10.4={birth=yes}
+	794.3.11={add_spouse=82}
+	830.1.1={death=yes}
+}
+82={
+	name=Antigone
+	religion=roman_hellenic
+	culture=roman
+	female=yes
+	778.4.23={birth=yes}
+	830.1.1={death=yes}
+}
+83={
+	name=Silvanus
+	dynasty=16
+	father=76
+	mother=77
+	religion=roman_hellenic
+	culture=roman
+	756.11.5={birth=yes}
+	778.9.21={add_spouse=84}
+	810.1.1={death=yes}
+}
+84={
+	name=Numeria
+	religion=roman_hellenic
+	culture=roman
+	female=yes
+	760.12.2={birth=yes}
+	810.1.1={death=yes}
+}
+85={
+	name=Serena
+	religion=roman_hellenic
+	culture=roman
+	female=yes
+	dynasty=16
+	father=83
+	mother=84
+	782.3.3={birth=yes}
+	840.1.1={death=yes}
+}
+86={
+	name=Pontianus
+	religion=roman_hellenic
+	culture=roman
+	dynasty=16
+	father=83
+	mother=84
+	785.1.21={birth=yes}
+	840.1.1={death=yes}
+}

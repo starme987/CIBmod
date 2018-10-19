@@ -203,8 +203,8 @@ d_samnium;Samnium;Samnium;Samnium;;Samnium;;;;;;;;;x
 d_samnium_adj;Samniumian;;samniumer;;;;;;;;;;;x
 d_santones;Santones;Santones;Santones;;Santones;;;;;;;;;x
 d_santones_adj;Santonesian;;santoneser;;;;;;;;;;;x
-d_sardinia;Sardinia;Sardinia;Sardinia;;Sardinia;;;;;;;;;x
-d_sardinia_adj;Sardinian;;sardiner;;;;;;;;;;;x
+d_sardinia;Calaris;Calaris;Calaris;;Calaris;;;;;;;;;x
+d_sardinia_adj;Calarian;;calarer;;;;;;;;;;;x
 d_sedetani;Sedetani;Sedetani;Sedetani;;Sedetani;;;;;;;;;x
 d_sedetani_adj;Sedetanian;;sedetaner;;;;;;;;;;;x
 d_selgovae;Selgovae;Selgovae;Selgovae;;Selgovae;;;;;;;;;x
@@ -273,3 +273,5 @@ d_votadini;Votadini;Votadini;Votadini;;Votadini;;;;;;;;;x
 d_votadini_adj;Votadinian;;votadiner;;;;;;;;;;;x
 d_west_oretani;West Oretani;West Oretani;West Oretani;;West Oretani;;;;;;;;;x
 d_west_oretani_adj;West Oretanian;;West Oretaner;;;;;;;;;;;x
+d_north_sardinia;Gallurae;;Gallurae;;;;;;;;;;;x
+d_north_sardinia_adj;Galluran;;gallurer;;;;;;;;;;;x

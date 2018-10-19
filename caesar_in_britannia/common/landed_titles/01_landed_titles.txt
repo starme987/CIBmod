@@ -4980,9 +4980,9 @@ e_roman_empire = {
 					any_demesne_province = { OR = { province_id = 53 province_id = 54 province_id = 55 province_id = 56 province_id = 57 province_id = 58 } }
 				}
 			}
-			capital = 53 # c_lilybaeum
+			capital = 53 # c_sicilia
 			
-			c_lilybaeum = { # 53
+			c_sicilia = { # 53
 				color={ 81 132 80 }
 				color2={ 255 255 255 }
 				
@@ -4990,15 +4990,15 @@ e_roman_empire = {
 				}
 				b_messana = {
 				}
-				b_lilybaeum_2 = {
+				b_sicilia = {
 				}
-				b_lilybaeum_3 = {
+				b_sicilia_2 = {
 				}
-				b_lilybaeum_4 = {
+				b_sicilia_3 = {
 				}
-				b_lilybaeum_5 = {
+				b_sicilia_4 = {
 				}
-				b_lilybaeum_6 = {
+				b_sicilia_5 = {
 				}
 			}
 			c_agrigentum = { # 58
@@ -5193,11 +5193,9 @@ e_roman_empire = {
 		
 		capital = 63 # c_olbia
 		culture = roman
-		
-		d_sardinia = {
-			color={ 101 196 185 }
+		d_north_sardinia = {
+			color={ 151 96 205 }
 			color2={ 255 255 255 }
-			
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -5205,7 +5203,44 @@ e_roman_empire = {
 				}
 			}
 			capital = 63 # c_olbia
-			
+			c_coclearia = { # 69
+				color={ 39 94 81 }
+				color2={ 255 255 255 }
+				
+				b_coclearia = {
+				}
+				b_coclearia_2 = {
+				}
+				b_coclearia_3 = {
+				}
+				b_coclearia_4 = {
+				}
+				b_coclearia_5 = {
+				}
+				b_coclearia_6 = {
+				}
+				b_coclearia_7 = {
+				}
+			}
+			c_nuoro = { # 67
+				color={ 20 134 141 }
+				color2={ 255 255 255 }
+				
+				b_nuoro = {
+				}
+				b_nuoro_2 = {
+				}
+				b_nuoro_3 = {
+				}
+				b_nuoro_4 = {
+				}
+				b_nuoro_5 = {
+				}
+				b_nuoro_6 = {
+				}
+				b_nuoro_7 = {
+				}
+			}
 			c_olbia = { # 63
 				color={ 111 186 190 }
 				color2={ 255 255 255 }
@@ -5225,42 +5260,23 @@ e_roman_empire = {
 				b_olbia_7 = {
 				}
 			}
-			c_caralis = { # 68
-				color={ 47 85 87 }
+			c_turris_libyssonis = { # 66
+				color={ 64 101 103 }
 				color2={ 255 255 255 }
 				
-				b_caralis = {
+				b_turris_libyssonis = {
 				}
-				b_caralis_2 = {
+				b_turris_libyssonis_2 = {
 				}
-				b_caralis_3 = {
+				b_turris_libyssonis_3 = {
 				}
-				b_caralis_4 = {
+				b_turris_libyssonis_4 = {
 				}
-				b_caralis_5 = {
+				b_turris_libyssonis_5 = {
 				}
-				b_caralis_6 = {
+				b_turris_libyssonis_6 = {
 				}
-				b_caralis_7 = {
-				}
-			}
-			c_coclearia = { # 69
-				color={ 39 94 81 }
-				color2={ 255 255 255 }
-				
-				b_coclearia = {
-				}
-				b_coclearia_2 = {
-				}
-				b_coclearia_3 = {
-				}
-				b_coclearia_4 = {
-				}
-				b_coclearia_5 = {
-				}
-				b_coclearia_6 = {
-				}
-				b_coclearia_7 = {
+				b_turris_libyssonis_7 = {
 				}
 			}
 			c_luiguidnec = { # 70
@@ -5301,23 +5317,36 @@ e_roman_empire = {
 				b_makopsisa_7 = {
 				}
 			}
-			c_nuoro = { # 67
-				color={ 20 134 141 }
+		}
+		d_sardinia = {
+			color={ 101 196 185 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 63 province_id = 64 province_id = 65 province_id = 66 province_id = 67 province_id = 68 province_id = 69 province_id = 70 province_id = 71 province_id = 72 province_id = 73 } }
+				}
+			}
+			capital = 68 # c_caralis
+			
+			c_caralis = { # 68
+				color={ 47 85 87 }
 				color2={ 255 255 255 }
 				
-				b_nuoro = {
+				b_caralis = {
 				}
-				b_nuoro_2 = {
+				b_caralis_2 = {
 				}
-				b_nuoro_3 = {
+				b_caralis_3 = {
 				}
-				b_nuoro_4 = {
+				b_caralis_4 = {
 				}
-				b_nuoro_5 = {
+				b_caralis_5 = {
 				}
-				b_nuoro_6 = {
+				b_caralis_6 = {
 				}
-				b_nuoro_7 = {
+				b_caralis_7 = {
 				}
 			}
 			c_ortacesus = { # 73
@@ -5394,25 +5423,6 @@ e_roman_empire = {
 				b_tharros_6 = {
 				}
 				b_tharros_7 = {
-				}
-			}
-			c_turris_libyssonis = { # 66
-				color={ 64 101 103 }
-				color2={ 255 255 255 }
-				
-				b_turris_libyssonis = {
-				}
-				b_turris_libyssonis_2 = {
-				}
-				b_turris_libyssonis_3 = {
-				}
-				b_turris_libyssonis_4 = {
-				}
-				b_turris_libyssonis_5 = {
-				}
-				b_turris_libyssonis_6 = {
-				}
-				b_turris_libyssonis_7 = {
 				}
 			}
 		}
