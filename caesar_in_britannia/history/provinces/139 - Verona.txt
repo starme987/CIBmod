@@ -15,7 +15,7 @@ b_verona = castle
 #b_verona_7 = castle
 
 # Misc
-culture = roman
-religion = roman_hellenic
+culture = celtic
+religion = celtic_druidic
 
 #History

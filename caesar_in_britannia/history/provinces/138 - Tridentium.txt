@@ -1,0 +1,21 @@
+# c_tridentium
+
+# County Title
+title = c_tridentium
+
+# Settlements
+max_settlements = 4
+
+b_tridentium = castle
+#b_tridentium_2 = city
+#b_tridentium_3 = temple
+#b_tridentium_4 = castle
+#b_tridentium_5 = city
+#b_tridentium_6 = temple
+#b_tridentium_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

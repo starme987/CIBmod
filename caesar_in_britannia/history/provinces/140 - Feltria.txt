@@ -1,0 +1,21 @@
+# c_feltria
+
+# County Title
+title = c_feltria
+
+# Settlements
+max_settlements = 3
+
+b_feltria = castle
+#b_feltria_2 = city
+#b_feltria_3 = temple
+#b_feltria_4 = castle
+#b_feltria_5 = city
+#b_feltria_6 = temple
+#b_feltria_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

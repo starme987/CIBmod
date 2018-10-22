@@ -1,0 +1,21 @@
+# c_vicetia
+
+# County Title
+title = c_vicetia
+
+# Settlements
+max_settlements = 3
+
+b_vicetia = castle
+#b_vicetia_2 = city
+#b_vicetia_3 = temple
+#b_vicetia_4 = castle
+#b_vicetia_5 = city
+#b_vicetia_6 = temple
+#b_vicetia_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History
