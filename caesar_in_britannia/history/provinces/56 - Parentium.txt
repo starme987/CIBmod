@@ -1,0 +1,21 @@
+# c_parentium
+
+# County Title
+title = c_parentium
+
+# Settlements
+max_settlements = 4
+
+b_parentium = castle
+#b_parentium_2 = city
+#b_parentium_3 = temple
+#b_parentium_4 = castle
+#b_parentium_5 = city
+#b_parentium_6 = temple
+#b_parentium_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

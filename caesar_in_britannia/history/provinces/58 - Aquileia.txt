@@ -1,0 +1,21 @@
+# c_aquileia
+
+# County Title
+title = c_aquileia
+
+# Settlements
+max_settlements = 3
+
+b_aquileia = castle
+#b_aquileia_2 = city
+#b_aquileia_3 = temple
+#b_aquileia_4 = castle
+#b_aquileia_5 = city
+#b_aquileia_6 = temple
+#b_aquileia_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

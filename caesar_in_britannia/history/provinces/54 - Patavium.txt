@@ -1,0 +1,21 @@
+# c_patavium
+
+# County Title
+title = c_patavium
+
+# Settlements
+max_settlements = 3
+
+b_patavium = castle
+#b_patavium_2 = city
+#b_patavium_3 = temple
+#b_patavium_4 = castle
+#b_patavium_5 = city
+#b_patavium_6 = temple
+#b_patavium_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

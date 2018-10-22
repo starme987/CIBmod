@@ -1,11 +1,13 @@
 # e_roman_empire
-500.1.1={
+1.1.1={
 	law = agnatic_succession
-	law = succ_gavelkind
+	law = succ_primogeniture
 }
-600.1.1={
-	liege=d_histria
+800.1.1={
+	liege=k_casalpina
 }
 746.1.1={holder=32} #Julius[11]
+
 792.06.12={holder=33} #Romaeus[11]
+
 820.11.19={holder=37} #Jovianus[11]

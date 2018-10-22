@@ -1,0 +1,21 @@
+# c_iulia_concordia
+
+# County Title
+title = c_iulia_concordia
+
+# Settlements
+max_settlements = 3
+
+b_iulia_concordia = castle
+#b_iulia_concordia_2 = city
+#b_iulia_concordia_3 = temple
+#b_iulia_concordia_4 = castle
+#b_iulia_concordia_5 = city
+#b_iulia_concordia_6 = temple
+#b_iulia_concordia_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

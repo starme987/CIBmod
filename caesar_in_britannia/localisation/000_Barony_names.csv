@@ -37,6 +37,20 @@ b_agrigentum_6;Agrigentum;Agrigentum;Agrigentum;;Agrigentum;;;;;;;;;x
 b_agrigentum_6_adj;Agrigentumian;;agrigentumer;;;;;;;;;;;x
 b_agrigentum_7;Agrigentum;Agrigentum;Agrigentum;;Agrigentum;;;;;;;;;x
 b_agrigentum_7_adj;Agrigentumian;;agrigentumer;;;;;;;;;;;x
+b_aguntum;Aguntum;Aguntum;Aguntum;;Aguntum;;;;;;;;;x
+b_aguntum_adj;Aguntumian;;aguntumer;;;;;;;;;;;x
+b_aguntum_2;Aguntum;Aguntum;Aguntum;;Aguntum;;;;;;;;;x
+b_aguntum_2_adj;Aguntumian;;aguntumer;;;;;;;;;;;x
+b_aguntum_3;Aguntum;Aguntum;Aguntum;;Aguntum;;;;;;;;;x
+b_aguntum_3_adj;Aguntumian;;aguntumer;;;;;;;;;;;x
+b_aguntum_4;Aguntum;Aguntum;Aguntum;;Aguntum;;;;;;;;;x
+b_aguntum_4_adj;Aguntumian;;aguntumer;;;;;;;;;;;x
+b_aguntum_5;Aguntum;Aguntum;Aguntum;;Aguntum;;;;;;;;;x
+b_aguntum_5_adj;Aguntumian;;aguntumer;;;;;;;;;;;x
+b_aguntum_6;Aguntum;Aguntum;Aguntum;;Aguntum;;;;;;;;;x
+b_aguntum_6_adj;Aguntumian;;aguntumer;;;;;;;;;;;x
+b_aguntum_7;Aguntum;Aguntum;Aguntum;;Aguntum;;;;;;;;;x
+b_aguntum_7_adj;Aguntumian;;aguntumer;;;;;;;;;;;x
 b_alalie;Alalie;Alalie;Alalie;;Alalie;;;;;;;;;x
 b_alalie_adj;Alaliean;;alaler;;;;;;;;;;;x
 b_alalie_2;Alalie;Alalie;Alalie;;Alalie;;;;;;;;;x
@@ -95,6 +109,20 @@ b_apulia_5;Apulia;Apulia;Apulia;;Apulia;;;;;;;;;x
 b_apulia_5_adj;Apulian;;apuler;;;;;;;;;;;x
 b_apulia_6;Apulia;Apulia;Apulia;;Apulia;;;;;;;;;x
 b_apulia_6_adj;Apulian;;apuler;;;;;;;;;;;x
+b_aquileia;Aquileia;Aquileia;Aquileia;;Aquileia;;;;;;;;;x
+b_aquileia_adj;Aquileian;;aquiler;;;;;;;;;;;x
+b_aquileia_2;Aquileia;Aquileia;Aquileia;;Aquileia;;;;;;;;;x
+b_aquileia_2_adj;Aquileian;;aquiler;;;;;;;;;;;x
+b_aquileia_3;Aquileia;Aquileia;Aquileia;;Aquileia;;;;;;;;;x
+b_aquileia_3_adj;Aquileian;;aquiler;;;;;;;;;;;x
+b_aquileia_4;Aquileia;Aquileia;Aquileia;;Aquileia;;;;;;;;;x
+b_aquileia_4_adj;Aquileian;;aquiler;;;;;;;;;;;x
+b_aquileia_5;Aquileia;Aquileia;Aquileia;;Aquileia;;;;;;;;;x
+b_aquileia_5_adj;Aquileian;;aquiler;;;;;;;;;;;x
+b_aquileia_6;Aquileia;Aquileia;Aquileia;;Aquileia;;;;;;;;;x
+b_aquileia_6_adj;Aquileian;;aquiler;;;;;;;;;;;x
+b_aquileia_7;Aquileia;Aquileia;Aquileia;;Aquileia;;;;;;;;;x
+b_aquileia_7_adj;Aquileian;;aquiler;;;;;;;;;;;x
 b_arevaci;Arevaci;Arevaci;Arevaci;;Arevaci;;;;;;;;;x
 b_arevaci_adj;Arevacian;;arevacer;;;;;;;;;;;x
 b_arevaci_2;Arevaci;Arevaci;Arevaci;;Arevaci;;;;;;;;;x
@@ -849,6 +877,20 @@ b_faesulae_6;Faesulae;Faesulae;Faesulae;;Faesulae;;;;;;;;;x
 b_faesulae_6_adj;Faesulaean;;faesuler;;;;;;;;;;;x
 b_faesulae_7;Faesulae;Faesulae;Faesulae;;Faesulae;;;;;;;;;x
 b_faesulae_7_adj;Faesulaean;;faesuler;;;;;;;;;;;x
+b_flanona;Flanona;Flanona;Flanona;;Flanona;;;;;;;;;x
+b_flanona_adj;Flanonan;;flanoner;;;;;;;;;;;x
+b_flanona_2;Flanona;Flanona;Flanona;;Flanona;;;;;;;;;x
+b_flanona_2_adj;Flanonan;;flanoner;;;;;;;;;;;x
+b_flanona_3;Flanona;Flanona;Flanona;;Flanona;;;;;;;;;x
+b_flanona_3_adj;Flanonan;;flanoner;;;;;;;;;;;x
+b_flanona_4;Flanona;Flanona;Flanona;;Flanona;;;;;;;;;x
+b_flanona_4_adj;Flanonan;;flanoner;;;;;;;;;;;x
+b_flanona_5;Flanona;Flanona;Flanona;;Flanona;;;;;;;;;x
+b_flanona_5_adj;Flanonan;;flanoner;;;;;;;;;;;x
+b_flanona_6;Flanona;Flanona;Flanona;;Flanona;;;;;;;;;x
+b_flanona_6_adj;Flanonan;;flanoner;;;;;;;;;;;x
+b_flanona_7;Flanona;Flanona;Flanona;;Flanona;;;;;;;;;x
+b_flanona_7_adj;Flanonan;;flanoner;;;;;;;;;;;x
 b_florentia;Florentia;Florentia;Florentia;;Florentia;;;;;;;;;x
 b_florentia_adj;Florentian;;florenter;;;;;;;;;;;x
 b_florentia_2;Florentia;Florentia;Florentia;;Florentia;;;;;;;;;x
@@ -943,18 +985,6 @@ b_histonum_6;Histonum;Histonum;Histonum;;Histonum;;;;;;;;;x
 b_histonum_6_adj;Histonumian;;histonumer;;;;;;;;;;;x
 b_histonum_7;Histonum;Histonum;Histonum;;Histonum;;;;;;;;;x
 b_histonum_7_adj;Histonumian;;histonumer;;;;;;;;;;;x
-b_histria;Histria;Histria;Histria;;Histria;;;;;;;;;x
-b_histria_adj;Histrian;;histrer;;;;;;;;;;;x
-b_histria_2;Histria;Histria;Histria;;Histria;;;;;;;;;x
-b_histria_2_adj;Histrian;;histrer;;;;;;;;;;;x
-b_histria_3;Histria;Histria;Histria;;Histria;;;;;;;;;x
-b_histria_3_adj;Histrian;;histrer;;;;;;;;;;;x
-b_histria_4;Histria;Histria;Histria;;Histria;;;;;;;;;x
-b_histria_4_adj;Histrian;;histrer;;;;;;;;;;;x
-b_histria_5;Histria;Histria;Histria;;Histria;;;;;;;;;x
-b_histria_5_adj;Histrian;;histrer;;;;;;;;;;;x
-b_histria_6;Histria;Histria;Histria;;Histria;;;;;;;;;x
-b_histria_6_adj;Histrian;;histrer;;;;;;;;;;;x
 b_iacetani;Iacetani;Iacetani;Iacetani;;Iacetani;;;;;;;;;x
 b_iacetani_adj;Iacetanian;;iacetaner;;;;;;;;;;;x
 b_iacetani_2;Iacetani;Iacetani;Iacetani;;Iacetani;;;;;;;;;x
@@ -1053,6 +1083,20 @@ b_insubres_7;Insubres;Insubres;Insubres;;Insubres;;;;;;;;;x
 b_insubres_7_adj;Insubresian;;insubreser;;;;;;;;;;;x
 b_iska;Iska;Iska;Iska;;Iska;;;;;;;;;x
 b_iska_adj;Iskan;;isker;;;;;;;;;;;x
+b_iulia_concordia;Iulia Concordia;Iulia Concordia;Iulia Concordia;;Iulia Concordia;;;;;;;;;x
+b_iulia_concordia_adj;Iulia Concordian;;Iulia Concorder;;;;;;;;;;;x
+b_iulia_concordia_2;Iulia Concordia;Iulia Concordia;Iulia Concordia;;Iulia Concordia;;;;;;;;;x
+b_iulia_concordia_2_adj;Iulia Concordian;;Iulia Concorder;;;;;;;;;;;x
+b_iulia_concordia_3;Iulia Concordia;Iulia Concordia;Iulia Concordia;;Iulia Concordia;;;;;;;;;x
+b_iulia_concordia_3_adj;Iulia Concordian;;Iulia Concorder;;;;;;;;;;;x
+b_iulia_concordia_4;Iulia Concordia;Iulia Concordia;Iulia Concordia;;Iulia Concordia;;;;;;;;;x
+b_iulia_concordia_4_adj;Iulia Concordian;;Iulia Concorder;;;;;;;;;;;x
+b_iulia_concordia_5;Iulia Concordia;Iulia Concordia;Iulia Concordia;;Iulia Concordia;;;;;;;;;x
+b_iulia_concordia_5_adj;Iulia Concordian;;Iulia Concorder;;;;;;;;;;;x
+b_iulia_concordia_6;Iulia Concordia;Iulia Concordia;Iulia Concordia;;Iulia Concordia;;;;;;;;;x
+b_iulia_concordia_6_adj;Iulia Concordian;;Iulia Concorder;;;;;;;;;;;x
+b_iulia_concordia_7;Iulia Concordia;Iulia Concordia;Iulia Concordia;;Iulia Concordia;;;;;;;;;x
+b_iulia_concordia_7_adj;Iulia Concordian;;Iulia Concorder;;;;;;;;;;;x
 b_lanciences;Lanciences;Lanciences;Lanciences;;Lanciences;;;;;;;;;x
 b_lanciences_adj;Lanciencesian;;lancienceser;;;;;;;;;;;x
 b_lanciences_2;Lanciences;Lanciences;Lanciences;;Lanciences;;;;;;;;;x
@@ -1487,6 +1531,20 @@ b_palermo_6;Palermo;Palermo;Palermo;;Palermo;;;;;;;;;x
 b_palermo_6_adj;Palermian;;palermer;;;;;;;;;;;x
 b_palermo_7;Palermo;Palermo;Palermo;;Palermo;;;;;;;;;x
 b_palermo_7_adj;Palermian;;palermer;;;;;;;;;;;x
+b_parentium;Parentium;Parentium;Parentium;;Parentium;;;;;;;;;x
+b_parentium_adj;Parentiumian;;parentiumer;;;;;;;;;;;x
+b_parentium_2;Parentium;Parentium;Parentium;;Parentium;;;;;;;;;x
+b_parentium_2_adj;Parentiumian;;parentiumer;;;;;;;;;;;x
+b_parentium_3;Parentium;Parentium;Parentium;;Parentium;;;;;;;;;x
+b_parentium_3_adj;Parentiumian;;parentiumer;;;;;;;;;;;x
+b_parentium_4;Parentium;Parentium;Parentium;;Parentium;;;;;;;;;x
+b_parentium_4_adj;Parentiumian;;parentiumer;;;;;;;;;;;x
+b_parentium_5;Parentium;Parentium;Parentium;;Parentium;;;;;;;;;x
+b_parentium_5_adj;Parentiumian;;parentiumer;;;;;;;;;;;x
+b_parentium_6;Parentium;Parentium;Parentium;;Parentium;;;;;;;;;x
+b_parentium_6_adj;Parentiumian;;parentiumer;;;;;;;;;;;x
+b_parentium_7;Parentium;Parentium;Parentium;;Parentium;;;;;;;;;x
+b_parentium_7_adj;Parentiumian;;parentiumer;;;;;;;;;;;x
 b_parisi;Parisi;Parisi;Parisi;;Parisi;;;;;;;;;x
 b_parisi_adj;Parisian;;pariser;;;;;;;;;;;x
 b_parisi_2;Parisi;Parisi;Parisi;;Parisi;;;;;;;;;x
@@ -1531,6 +1589,18 @@ b_parma_7;Parma;Parma;Parma;;Parma;;;;;;;;;x
 b_parma_7_adj;Parman;;parmer;;;;;;;;;;;x
 b_patavium;Patavium;Patavium;Patavium;;Patavium;;;;;;;;;x
 b_patavium_adj;Pataviumian;;pataviumer;;;;;;;;;;;x
+b_patavium_2;Patavium;Patavium;Patavium;;Patavium;;;;;;;;;x
+b_patavium_2_adj;Pataviumian;;pataviumer;;;;;;;;;;;x
+b_patavium_3;Patavium;Patavium;Patavium;;Patavium;;;;;;;;;x
+b_patavium_3_adj;Pataviumian;;pataviumer;;;;;;;;;;;x
+b_patavium_4;Patavium;Patavium;Patavium;;Patavium;;;;;;;;;x
+b_patavium_4_adj;Pataviumian;;pataviumer;;;;;;;;;;;x
+b_patavium_5;Patavium;Patavium;Patavium;;Patavium;;;;;;;;;x
+b_patavium_5_adj;Pataviumian;;pataviumer;;;;;;;;;;;x
+b_patavium_6;Patavium;Patavium;Patavium;;Patavium;;;;;;;;;x
+b_patavium_6_adj;Pataviumian;;pataviumer;;;;;;;;;;;x
+b_patavium_7;Patavium;Patavium;Patavium;;Patavium;;;;;;;;;x
+b_patavium_7_adj;Pataviumian;;pataviumer;;;;;;;;;;;x
 b_perusia;Perusia;Perusia;Perusia;;Perusia;;;;;;;;;x
 b_perusia_adj;Perusian;;peruser;;;;;;;;;;;x
 b_phikaria;Phikaria;Phikaria;Phikaria;;Phikaria;;;;;;;;;x
@@ -2143,6 +2213,20 @@ b_temple_of_jupiter_capitolinus;Temple of Jupiter Capitolinus;Temple of Jupiter 
 b_temple_of_jupiter_capitolinus_adj;Temple of Jupiter Capitolinusian;;Temple of Jupiter Capitolinuser;;;;;;;;;;;x
 b_temple_of_portunus;Temple of Portunus;Temple of Portunus;Temple of Portunus;;Temple of Portunus;;;;;;;;;x
 b_temple_of_portunus_adj;Temple of Portunusian;;Temple of Portunuser;;;;;;;;;;;x
+b_teurnia;Teurnia;Teurnia;Teurnia;;Teurnia;;;;;;;;;x
+b_teurnia_adj;Teurnian;;teurner;;;;;;;;;;;x
+b_teurnia_2;Teurnia;Teurnia;Teurnia;;Teurnia;;;;;;;;;x
+b_teurnia_2_adj;Teurnian;;teurner;;;;;;;;;;;x
+b_teurnia_3;Teurnia;Teurnia;Teurnia;;Teurnia;;;;;;;;;x
+b_teurnia_3_adj;Teurnian;;teurner;;;;;;;;;;;x
+b_teurnia_4;Teurnia;Teurnia;Teurnia;;Teurnia;;;;;;;;;x
+b_teurnia_4_adj;Teurnian;;teurner;;;;;;;;;;;x
+b_teurnia_5;Teurnia;Teurnia;Teurnia;;Teurnia;;;;;;;;;x
+b_teurnia_5_adj;Teurnian;;teurner;;;;;;;;;;;x
+b_teurnia_6;Teurnia;Teurnia;Teurnia;;Teurnia;;;;;;;;;x
+b_teurnia_6_adj;Teurnian;;teurner;;;;;;;;;;;x
+b_teurnia_7;Teurnia;Teurnia;Teurnia;;Teurnia;;;;;;;;;x
+b_teurnia_7_adj;Teurnian;;teurner;;;;;;;;;;;x
 b_tharros;Tharros;Tharros;Tharros;;Tharros;;;;;;;;;x
 b_tharros_adj;Tharrosian;;tharroser;;;;;;;;;;;x
 b_tharros_2;Tharros;Tharros;Tharros;;Tharros;;;;;;;;;x
@@ -2175,8 +2259,6 @@ b_treverii_6;Treverii;Treverii;Treverii;;Treverii;;;;;;;;;x
 b_treverii_6_adj;Treverian;;treverer;;;;;;;;;;;x
 b_treverii_7;Treverii;Treverii;Treverii;;Treverii;;;;;;;;;x
 b_treverii_7_adj;Treverian;;treverer;;;;;;;;;;;x
-b_trieste;Trieste;Trieste;Trieste;;Trieste;;;;;;;;;x
-b_trieste_adj;Triestean;;triester;;;;;;;;;;;x
 b_trinovantes;Trinovantes;Trinovantes;Trinovantes;;Trinovantes;;;;;;;;;x
 b_trinovantes_adj;Trinovantesian;;trinovanteser;;;;;;;;;;;x
 b_trinovantes_2;Trinovantes;Trinovantes;Trinovantes;;Trinovantes;;;;;;;;;x
@@ -2363,18 +2445,20 @@ b_veneti_6;Veneti;Veneti;Veneti;;Veneti;;;;;;;;;x
 b_veneti_6_adj;Venetian;;veneter;;;;;;;;;;;x
 b_veneti_7;Veneti;Veneti;Veneti;;Veneti;;;;;;;;;x
 b_veneti_7_adj;Venetian;;veneter;;;;;;;;;;;x
-b_venetia;Venetia;Venetia;Venetia;;Venetia;;;;;;;;;x
-b_venetia_adj;Venetian;;veneter;;;;;;;;;;;x
-b_venetia_2;Venetia;Venetia;Venetia;;Venetia;;;;;;;;;x
-b_venetia_2_adj;Venetian;;veneter;;;;;;;;;;;x
-b_venetia_3;Venetia;Venetia;Venetia;;Venetia;;;;;;;;;x
-b_venetia_3_adj;Venetian;;veneter;;;;;;;;;;;x
-b_venetia_4;Venetia;Venetia;Venetia;;Venetia;;;;;;;;;x
-b_venetia_4_adj;Venetian;;veneter;;;;;;;;;;;x
-b_venetia_5;Venetia;Venetia;Venetia;;Venetia;;;;;;;;;x
-b_venetia_5_adj;Venetian;;veneter;;;;;;;;;;;x
-b_venetia_6;Venetia;Venetia;Venetia;;Venetia;;;;;;;;;x
-b_venetia_6_adj;Venetian;;veneter;;;;;;;;;;;x
+b_venezia;Venezia;Venezia;Venezia;;Venezia;;;;;;;;;x
+b_venezia_adj;Venezian;;venezer;;;;;;;;;;;x
+b_venezia_2;Venezia;Venezia;Venezia;;Venezia;;;;;;;;;x
+b_venezia_2_adj;Venezian;;venezer;;;;;;;;;;;x
+b_venezia_3;Venezia;Venezia;Venezia;;Venezia;;;;;;;;;x
+b_venezia_3_adj;Venezian;;venezer;;;;;;;;;;;x
+b_venezia_4;Venezia;Venezia;Venezia;;Venezia;;;;;;;;;x
+b_venezia_4_adj;Venezian;;venezer;;;;;;;;;;;x
+b_venezia_5;Venezia;Venezia;Venezia;;Venezia;;;;;;;;;x
+b_venezia_5_adj;Venezian;;venezer;;;;;;;;;;;x
+b_venezia_6;Venezia;Venezia;Venezia;;Venezia;;;;;;;;;x
+b_venezia_6_adj;Venezian;;venezer;;;;;;;;;;;x
+b_venezia_7;Venezia;Venezia;Venezia;;Venezia;;;;;;;;;x
+b_venezia_7_adj;Venezian;;venezer;;;;;;;;;;;x
 b_venicones;Venicones;Venicones;Venicones;;Venicones;;;;;;;;;x
 b_venicones_adj;Veniconesian;;veniconeser;;;;;;;;;;;x
 b_venicones_2;Venicones;Venicones;Venicones;;Venicones;;;;;;;;;x
@@ -2393,6 +2477,20 @@ b_venta;Venta;Venta;Venta;;Venta;;;;;;;;;x
 b_venta_adj;Ventan;;venter;;;;;;;;;;;x
 b_verlamion;Verlamion;Verlamion;Verlamion;;Verlamion;;;;;;;;;x
 b_verlamion_adj;Verlamionian;;verlamioner;;;;;;;;;;;x
+b_verona;Verona;Verona;Verona;;Verona;;;;;;;;;x
+b_verona_adj;Veronan;;veroner;;;;;;;;;;;x
+b_verona_2;Verona;Verona;Verona;;Verona;;;;;;;;;x
+b_verona_2_adj;Veronan;;veroner;;;;;;;;;;;x
+b_verona_3;Verona;Verona;Verona;;Verona;;;;;;;;;x
+b_verona_3_adj;Veronan;;veroner;;;;;;;;;;;x
+b_verona_4;Verona;Verona;Verona;;Verona;;;;;;;;;x
+b_verona_4_adj;Veronan;;veroner;;;;;;;;;;;x
+b_verona_5;Verona;Verona;Verona;;Verona;;;;;;;;;x
+b_verona_5_adj;Veronan;;veroner;;;;;;;;;;;x
+b_verona_6;Verona;Verona;Verona;;Verona;;;;;;;;;x
+b_verona_6_adj;Veronan;;veroner;;;;;;;;;;;x
+b_verona_7;Verona;Verona;Verona;;Verona;;;;;;;;;x
+b_verona_7_adj;Veronan;;veroner;;;;;;;;;;;x
 b_veteres;Veteres;Veteres;Veteres;;Veteres;;;;;;;;;x
 b_veteres_adj;Veteresian;;vetereser;;;;;;;;;;;x
 b_veteres_2;Veteres;Veteres;Veteres;;Veteres;;;;;;;;;x

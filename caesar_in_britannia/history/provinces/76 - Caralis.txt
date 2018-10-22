@@ -4,7 +4,7 @@
 title = c_caralis
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_caralis = castle
 #b_caralis_2 = city

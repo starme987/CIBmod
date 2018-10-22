@@ -1,0 +1,21 @@
+# c_flanona
+
+# County Title
+title = c_flanona
+
+# Settlements
+max_settlements = 3
+
+b_flanona = castle
+#b_flanona_2 = city
+#b_flanona_3 = temple
+#b_flanona_4 = castle
+#b_flanona_5 = city
+#b_flanona_6 = temple
+#b_flanona_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History
