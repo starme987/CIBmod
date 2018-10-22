@@ -1,0 +1,21 @@
+# c_sedunum
+
+# County Title
+title = c_sedunum
+
+# Settlements
+max_settlements = 3
+
+b_sedunum = castle
+#b_sedunum_2 = city
+#b_sedunum_3 = temple
+#b_sedunum_4 = castle
+#b_sedunum_5 = city
+#b_sedunum_6 = temple
+#b_sedunum_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

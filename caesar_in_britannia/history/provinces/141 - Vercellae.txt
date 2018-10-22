@@ -1,0 +1,21 @@
+# c_vercellae
+
+# County Title
+title = c_vercellae
+
+# Settlements
+max_settlements = 3
+
+b_vercellae = castle
+#b_vercellae_2 = city
+#b_vercellae_3 = temple
+#b_vercellae_4 = castle
+#b_vercellae_5 = city
+#b_vercellae_6 = temple
+#b_vercellae_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History
