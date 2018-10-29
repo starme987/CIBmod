@@ -1,0 +1,21 @@
+# c_albium_intimilium
+
+# County Title
+title = c_albium_intimilium
+
+# Settlements
+max_settlements = 3
+
+b_albium_intimilium = castle
+#b_albium_intimilium_2 = city
+#b_albium_intimilium_3 = temple
+#b_albium_intimilium_4 = castle
+#b_albium_intimilium_5 = city
+#b_albium_intimilium_6 = temple
+#b_albium_intimilium_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

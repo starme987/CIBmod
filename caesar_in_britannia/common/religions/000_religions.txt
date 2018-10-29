@@ -1,5 +1,5 @@
 hellenic_group = {
-	graphical_culture = germangfx
+	graphical_culture = easterngfx
 	color = { 102 2 60 }
 	playable=yes
 
@@ -69,7 +69,7 @@ hellenic_group = {
 }
 
 druidic_group = {
-	graphical_culture = germangfx
+	graphical_culture = westerngfx
 	color = { 0.67 0.29 0.32 }
 	playable=yes
 
@@ -161,7 +161,7 @@ druidic_group = {
 }
 
 heathen_group = {
-	graphical_culture = germangfx
+	graphical_culture = norsegfx
 	color = { 0.6 0.6 0.6 }
 	playable=yes
 	

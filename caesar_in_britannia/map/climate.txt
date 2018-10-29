@@ -1,14 +1,14 @@
 #	NO WINTER = {
 #		# BELGICA / Arduenna Silva
-#		165 166 167 168 
+#		174 175 176 177 
 #		# BELGICA / Germania Inferior
-#		163 164 
-#		# BELGICA / Maxima Sequanorum
 #		172 173 
+#		# BELGICA / Maxima Sequanorum
+#		181 182 
 #		# BELGICA / Silva Carbonaria
-#		160 161 162 
-#		# BELGICA / Silva Nigra
 #		169 170 171 
+#		# BELGICA / Silva Nigra
+#		178 179 180 
 #		# BRITANNIA / Brigantes
 #		100 101 102 
 #		# BRITANNIA / Cantii
@@ -22,9 +22,9 @@
 #		# BRITANNIA / Novantae
 #		103 104 105 106 107 
 #		# CELTICA / Cisalpina
-#		137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 
+#		146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 
 #		# CELTICA / Helvetia
-#		152 153 154 155 156 157 158 159 
+#		161 162 163 164 165 166 167 168 
 #		# GAUL / Aquitania
 #		119 120 121 122 
 #		# GAUL / Aremorica
@@ -42,19 +42,19 @@
 #		# GAUL / Senonia
 #		123 124 125 
 #		# GAUL / Transalpina
-#		134 135 136 
+#		134 135 136 137 138 139 140 141 142 143 144 145 
 #		# HISPANIA / Baetica
-#		217 218 219 220 221 
+#		226 227 228 229 230 
 #		# HISPANIA / Cartaginensis
-#		188 189 190 191 192 193 194 195 196 
-#		# HISPANIA / Gallaecia
 #		197 198 199 200 201 202 203 204 205 
+#		# HISPANIA / Gallaecia
+#		206 207 208 209 210 211 212 213 214 
 #		# HISPANIA / Lusitania
-#		206 207 208 209 210 211 212 213 214 215 216 
+#		215 216 217 218 219 220 221 222 223 224 225 
 #		# HISPANIA / Tarraconensis
-#		174 175 176 177 178 179 180 181 182 183 184 185 186 187 
+#		183 184 185 186 187 188 189 190 191 192 193 194 195 196 
 #		# NO KINGDOM
-#		222 223 
+#		231 232 
 #		# ROMAN EMPIRE / Casalpina
 #		43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 
 #		# ROMAN EMPIRE / Italia
