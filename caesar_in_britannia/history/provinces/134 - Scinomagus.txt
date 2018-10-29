@@ -1,0 +1,21 @@
+# c_scinomagus
+
+# County Title
+title = c_scinomagus
+
+# Settlements
+max_settlements = 3
+
+b_scinomagus = castle
+#b_scinomagus_2 = city
+#b_scinomagus_3 = temple
+#b_scinomagus_4 = castle
+#b_scinomagus_5 = city
+#b_scinomagus_6 = temple
+#b_scinomagus_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

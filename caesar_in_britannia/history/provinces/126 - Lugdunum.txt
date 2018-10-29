@@ -1,0 +1,21 @@
+# c_lugdunum
+
+# County Title
+title = c_lugdunum
+
+# Settlements
+max_settlements = 4
+
+b_lugdunum = castle
+#b_lugdunum_2 = city
+#b_lugdunum_3 = temple
+#b_lugdunum_4 = castle
+#b_lugdunum_5 = city
+#b_lugdunum_6 = temple
+#b_lugdunum_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

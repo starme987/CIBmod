@@ -6,14 +6,14 @@ e_belgica = {
 	color={ 164 138 67 }
 	color2={ 255 255 20 }
 	
-	capital = 169 # c_bellovaci
+	capital = 178 # c_bellovaci
 	culture = celtic
 	
 	k_silva_carbonaria = {
 		color={ 174 128 72 }
 		color2={ 255 255 255 }
 		
-		capital = 169 # c_bellovaci
+		capital = 178 # c_bellovaci
 		culture = celtic
 		
 		d_bellovaci = {
@@ -23,12 +23,12 @@ e_belgica = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 169 } }
+					any_demesne_province = { OR = { province_id = 178 } }
 				}
 			}
-			capital = 169 # c_bellovaci
+			capital = 178 # c_bellovaci
 			
-			c_bellovaci = { # 169
+			c_bellovaci = { # 178
 				color={ 204 98 87 }
 				color2={ 255 255 255 }
 				
@@ -55,12 +55,12 @@ e_belgica = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 170 } }
+					any_demesne_province = { OR = { province_id = 179 } }
 				}
 			}
-			capital = 170 # c_atrebates
+			capital = 179 # c_atrebates
 			
-			c_atrebates = { # 170
+			c_atrebates = { # 179
 				color={ 132 39 30 }
 				color2={ 255 255 255 }
 				
@@ -87,12 +87,12 @@ e_belgica = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 171 } }
+					any_demesne_province = { OR = { province_id = 180 } }
 				}
 			}
-			capital = 171 # c_morini
+			capital = 180 # c_morini
 			
-			c_morini = { # 171
+			c_morini = { # 180
 				color={ 126 81 76 }
 				color2={ 255 255 255 }
 				
@@ -117,7 +117,7 @@ e_belgica = {
 		color={ 180 85 69 }
 		color2={ 255 255 255 }
 		
-		capital = 174 # c_suessiones
+		capital = 183 # c_suessiones
 		culture = celtic
 		
 		d_suessiones = {
@@ -127,12 +127,12 @@ e_belgica = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 174 } }
+					any_demesne_province = { OR = { province_id = 183 } }
 				}
 			}
-			capital = 174 # c_suessiones
+			capital = 183 # c_suessiones
 			
-			c_suessiones = { # 174
+			c_suessiones = { # 183
 				color={ 150 115 54 }
 				color2={ 255 255 255 }
 				
@@ -159,12 +159,12 @@ e_belgica = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 176 } }
+					any_demesne_province = { OR = { province_id = 185 } }
 				}
 			}
-			capital = 176 # c_mediomatrici
+			capital = 185 # c_mediomatrici
 			
-			c_mediomatrici = { # 176
+			c_mediomatrici = { # 185
 				color={ 212 160 86 }
 				color2={ 255 255 255 }
 				
@@ -191,12 +191,12 @@ e_belgica = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 175 } }
+					any_demesne_province = { OR = { province_id = 184 } }
 				}
 			}
-			capital = 175 # c_remi
+			capital = 184 # c_remi
 			
-			c_remi = { # 175
+			c_remi = { # 184
 				color={ 79 74 65 }
 				color2={ 255 255 255 }
 				
@@ -223,12 +223,12 @@ e_belgica = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 177 } }
+					any_demesne_province = { OR = { province_id = 186 } }
 				}
 			}
-			capital = 177 # c_treverii
+			capital = 186 # c_treverii
 			
-			c_treverii = { # 177
+			c_treverii = { # 186
 				color={ 146 97 27 }
 				color2={ 255 255 255 }
 				
@@ -253,7 +253,7 @@ e_belgica = {
 		color={ 181 2 169 }
 		color2={ 255 255 255 }
 		
-		capital = 172 # c_nervii
+		capital = 181 # c_nervii
 		culture = celtic
 		
 		d_nervii = {
@@ -263,12 +263,12 @@ e_belgica = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 172 } }
+					any_demesne_province = { OR = { province_id = 181 } }
 				}
 			}
-			capital = 172 # c_nervii
+			capital = 181 # c_nervii
 			
-			c_nervii = { # 172
+			c_nervii = { # 181
 				color={ 211 228 184 }
 				color2={ 255 255 255 }
 				
@@ -295,12 +295,12 @@ e_belgica = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 173 } }
+					any_demesne_province = { OR = { province_id = 182 } }
 				}
 			}
-			capital = 173 # c_eburones
+			capital = 182 # c_eburones
 			
-			c_eburones = { # 173
+			c_eburones = { # 182
 				color={ 101 121 69 }
 				color2={ 255 255 255 }
 				
@@ -325,7 +325,7 @@ e_belgica = {
 		color={ 203 238 125 }
 		color2={ 255 255 255 }
 		
-		capital = 181 # c_sequani
+		capital = 190 # c_sequani
 		culture = gallic
 		
 		d_sequani = {
@@ -335,12 +335,12 @@ e_belgica = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 181 } }
+					any_demesne_province = { OR = { province_id = 190 } }
 				}
 			}
-			capital = 181 # c_sequani
+			capital = 190 # c_sequani
 			
-			c_sequani = { # 181
+			c_sequani = { # 190
 				color={ 233 208 140 }
 				color2={ 255 255 255 }
 				
@@ -367,12 +367,12 @@ e_belgica = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 182 } }
+					any_demesne_province = { OR = { province_id = 191 } }
 				}
 			}
-			capital = 182 # c_lingones
+			capital = 191 # c_lingones
 			
-			c_lingones = { # 182
+			c_lingones = { # 191
 				color={ 109 103 86 }
 				color2={ 255 255 255 }
 				
@@ -397,7 +397,7 @@ e_belgica = {
 		color={ 166 189 130 }
 		color2={ 255 255 255 }
 		
-		capital = 178 # c_suebi
+		capital = 187 # c_suebi
 		culture = germanic
 		
 		d_suebi = {
@@ -407,12 +407,12 @@ e_belgica = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 178 } }
+					any_demesne_province = { OR = { province_id = 187 } }
 				}
 			}
-			capital = 178 # c_suebi
+			capital = 187 # c_suebi
 			
-			c_suebi = { # 178
+			c_suebi = { # 187
 				color={ 196 159 145 }
 				color2={ 255 255 255 }
 				
@@ -439,12 +439,12 @@ e_belgica = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 179 } }
+					any_demesne_province = { OR = { province_id = 188 } }
 				}
 			}
-			capital = 179 # c_nemetes
+			capital = 188 # c_nemetes
 			
-			c_nemetes = { # 179
+			c_nemetes = { # 188
 				color={ 198 83 40 }
 				color2={ 255 255 255 }
 				
@@ -471,12 +471,12 @@ e_belgica = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 180 } }
+					any_demesne_province = { OR = { province_id = 189 } }
 				}
 			}
-			capital = 180 # c_vangiones
+			capital = 189 # c_vangiones
 			
-			c_vangiones = { # 180
+			c_vangiones = { # 189
 				color={ 128 57 30 }
 				color2={ 255 255 255 }
 				
@@ -1294,14 +1294,14 @@ e_celtica = {
 	color={ 185 75 53 }
 	color2={ 255 255 20 }
 	
-	capital = 146 # c_mediolanum
+	capital = 155 # c_mediolanum
 	culture = celtic
 	
 	k_cisalpina = {
 		color={ 175 85 48 }
 		color2={ 255 255 255 }
 		
-		capital = 146 # c_mediolanum
+		capital = 155 # c_mediolanum
 		culture = celtic
 		
 		d_insubres = {
@@ -1311,12 +1311,12 @@ e_celtica = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 146 province_id = 147 province_id = 148 province_id = 149 province_id = 150 } }
+					any_demesne_province = { OR = { province_id = 155 province_id = 156 province_id = 157 province_id = 158 province_id = 159 } }
 				}
 			}
-			capital = 146 # c_mediolanum
+			capital = 155 # c_mediolanum
 			
-			c_mediolanum = { # 146
+			c_mediolanum = { # 155
 				color={ 145 115 33 }
 				color2={ 255 255 255 }
 				
@@ -1335,7 +1335,7 @@ e_celtica = {
 				b_mediolanum_7 = {
 				}
 			}
-			c_comun = { # 148
+			c_comun = { # 157
 				color={ 150 135 94 }
 				color2={ 255 255 255 }
 				
@@ -1354,7 +1354,7 @@ e_celtica = {
 				b_comun_7 = {
 				}
 			}
-			c_novaria = { # 149
+			c_novaria = { # 158
 				color={ 224 190 97 }
 				color2={ 255 255 255 }
 				
@@ -1373,7 +1373,7 @@ e_celtica = {
 				b_novaria_7 = {
 				}
 			}
-			c_ticinum = { # 147
+			c_ticinum = { # 156
 				color={ 102 80 20 }
 				color2={ 255 255 255 }
 				
@@ -1392,7 +1392,7 @@ e_celtica = {
 				b_ticinum_7 = {
 				}
 			}
-			c_vercellae = { # 150
+			c_vercellae = { # 159
 				color={ 132 115 68 }
 				color2={ 255 255 255 }
 				
@@ -1419,12 +1419,12 @@ e_celtica = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 151 province_id = 152 province_id = 153 province_id = 154 province_id = 155 } }
+					any_demesne_province = { OR = { province_id = 160 province_id = 161 province_id = 162 province_id = 163 province_id = 164 } }
 				}
 			}
-			capital = 151 # c_tridentium
+			capital = 160 # c_tridentium
 			
-			c_tridentium = { # 151
+			c_tridentium = { # 160
 				color={ 131 185 83 }
 				color2={ 255 255 255 }
 				
@@ -1443,7 +1443,7 @@ e_celtica = {
 				b_tridentium_7 = {
 				}
 			}
-			c_anaunion = { # 155
+			c_anaunion = { # 164
 				color={ 115 156 92 }
 				color2={ 255 255 255 }
 				
@@ -1462,7 +1462,7 @@ e_celtica = {
 				b_anaunion_7 = {
 				}
 			}
-			c_feltria = { # 153
+			c_feltria = { # 162
 				color={ 168 185 129 }
 				color2={ 255 255 255 }
 				
@@ -1481,7 +1481,7 @@ e_celtica = {
 				b_feltria_7 = {
 				}
 			}
-			c_verona = { # 152
+			c_verona = { # 161
 				color={ 66 174 95 }
 				color2={ 255 255 255 }
 				
@@ -1500,7 +1500,7 @@ e_celtica = {
 				b_verona_7 = {
 				}
 			}
-			c_verruca = { # 154
+			c_verruca = { # 163
 				color={ 81 128 72 }
 				color2={ 255 255 255 }
 				
@@ -1527,12 +1527,12 @@ e_celtica = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 156 province_id = 157 province_id = 158 province_id = 159 province_id = 160 } }
+					any_demesne_province = { OR = { province_id = 165 province_id = 166 province_id = 167 province_id = 168 province_id = 169 } }
 				}
 			}
-			capital = 156 # c_raeti
+			capital = 165 # c_raeti
 			
-			c_raeti = { # 156
+			c_raeti = { # 165
 				color={ 139 150 128 }
 				color2={ 255 255 255 }
 				
@@ -1551,7 +1551,7 @@ e_celtica = {
 				b_raeti_7 = {
 				}
 			}
-			c_aguntum = { # 158
+			c_aguntum = { # 167
 				color={ 112 171 113 }
 				color2={ 255 255 255 }
 				
@@ -1570,7 +1570,7 @@ e_celtica = {
 				b_aguntum_7 = {
 				}
 			}
-			c_littamum = { # 159
+			c_littamum = { # 168
 				color={ 79 116 80 }
 				color2={ 255 255 255 }
 				
@@ -1589,7 +1589,7 @@ e_celtica = {
 				b_littamum_7 = {
 				}
 			}
-			c_teurnia = { # 157
+			c_teurnia = { # 166
 				color={ 71 180 73 }
 				color2={ 255 255 255 }
 				
@@ -1608,7 +1608,7 @@ e_celtica = {
 				b_teurnia_7 = {
 				}
 			}
-			c_veldidena = { # 160
+			c_veldidena = { # 169
 				color={ 160 209 111 }
 				color2={ 255 255 255 }
 				
@@ -1633,7 +1633,7 @@ e_celtica = {
 		color={ 105 75 63 }
 		color2={ 255 255 255 }
 		
-		capital = 161 # c_aventicum
+		capital = 170 # c_aventicum
 		culture = celtic
 		
 		d_helvetii = {
@@ -1643,12 +1643,12 @@ e_celtica = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 161 province_id = 162 province_id = 163 province_id = 164 province_id = 165 province_id = 166 province_id = 167 } }
+					any_demesne_province = { OR = { province_id = 170 province_id = 171 province_id = 172 province_id = 173 province_id = 174 province_id = 175 province_id = 176 } }
 				}
 			}
-			capital = 161 # c_aventicum
+			capital = 170 # c_aventicum
 			
-			c_aventicum = { # 161
+			c_aventicum = { # 170
 				color={ 75 105 48 }
 				color2={ 255 255 255 }
 				
@@ -1667,7 +1667,7 @@ e_celtica = {
 				b_aventicum_7 = {
 				}
 			}
-			c_brenodunum = { # 166
+			c_brenodunum = { # 175
 				color={ 100 116 64 }
 				color2={ 255 255 255 }
 				
@@ -1686,7 +1686,7 @@ e_celtica = {
 				b_brenodunum_7 = {
 				}
 			}
-			c_cunus_aureas = { # 163
+			c_cunus_aureas = { # 172
 				color={ 66 73 48 }
 				color2={ 255 255 255 }
 				
@@ -1705,7 +1705,7 @@ e_celtica = {
 				b_cunus_aureas_7 = {
 				}
 			}
-			c_curia = { # 162
+			c_curia = { # 171
 				color={ 128 163 46 }
 				color2={ 255 255 255 }
 				
@@ -1724,7 +1724,7 @@ e_celtica = {
 				b_curia_7 = {
 				}
 			}
-			c_grepault = { # 165
+			c_grepault = { # 174
 				color={ 69 81 41 }
 				color2={ 255 255 255 }
 				
@@ -1743,7 +1743,7 @@ e_celtica = {
 				b_grepault_7 = {
 				}
 			}
-			c_magia = { # 164
+			c_magia = { # 173
 				color={ 189 209 141 }
 				color2={ 255 255 255 }
 				
@@ -1762,7 +1762,7 @@ e_celtica = {
 				b_magia_7 = {
 				}
 			}
-			c_sedunum = { # 167
+			c_sedunum = { # 176
 				color={ 146 178 73 }
 				color2={ 255 255 255 }
 				
@@ -1789,12 +1789,12 @@ e_celtica = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 168 } }
+					any_demesne_province = { OR = { province_id = 177 } }
 				}
 			}
-			capital = 168 # c_tulingi
+			capital = 177 # c_tulingi
 			
-			c_tulingi = { # 168
+			c_tulingi = { # 177
 				color={ 130 104 29 }
 				color2={ 255 255 255 }
 				
@@ -2099,7 +2099,7 @@ e_gaul = {
 		color={ 134 73 100 }
 		color2={ 255 255 255 }
 		
-		capital = 131 # c_arverni
+		capital = 140 # c_arverni
 		culture = celtic
 		
 		d_arverni = {
@@ -2109,12 +2109,12 @@ e_gaul = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 131 } }
+					any_demesne_province = { OR = { province_id = 140 } }
 				}
 			}
-			capital = 131 # c_arverni
+			capital = 140 # c_arverni
 			
-			c_arverni = { # 131
+			c_arverni = { # 140
 				color={ 104 103 85 }
 				color2={ 255 255 255 }
 				
@@ -2141,12 +2141,12 @@ e_gaul = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 132 } }
+					any_demesne_province = { OR = { province_id = 141 } }
 				}
 			}
-			capital = 132 # c_biturges
+			capital = 141 # c_biturges
 			
-			c_biturges = { # 132
+			c_biturges = { # 141
 				color={ 197 193 126 }
 				color2={ 255 255 255 }
 				
@@ -2173,12 +2173,12 @@ e_gaul = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 133 } }
+					any_demesne_province = { OR = { province_id = 142 } }
 				}
 			}
-			capital = 133 # c_lemovices
+			capital = 142 # c_lemovices
 			
-			c_lemovices = { # 133
+			c_lemovices = { # 142
 				color={ 135 131 63 }
 				color2={ 255 255 255 }
 				
@@ -2203,9 +2203,218 @@ e_gaul = {
 		color={ 186 195 13 }
 		color2={ 255 255 255 }
 		
-		capital = 126 # c_aedui
+		capital = 126 # c_lugdunum
 		culture = celtic
 		
+		c_lugdunum = { # 126
+			color={ 216 165 28 }
+			color2={ 255 255 255 }
+			
+			b_lugdunum = {
+			}
+			b_lugdunum_2 = {
+			}
+			b_lugdunum_3 = {
+			}
+			b_lugdunum_4 = {
+			}
+			b_lugdunum_5 = {
+			}
+			b_lugdunum_6 = {
+			}
+			b_lugdunum_7 = {
+			}
+		}
+		c_augusta_taurinorum = { # 133
+			color={ 160 157 79 }
+			color2={ 255 255 255 }
+			
+			b_augusta_taurinorum = {
+			}
+			b_augusta_taurinorum_2 = {
+			}
+			b_augusta_taurinorum_3 = {
+			}
+			b_augusta_taurinorum_4 = {
+			}
+			b_augusta_taurinorum_5 = {
+			}
+			b_augusta_taurinorum_6 = {
+			}
+			b_augusta_taurinorum_7 = {
+			}
+		}
+		c_cerebecialla = { # 131
+			color={ 130 111 59 }
+			color2={ 255 255 255 }
+			
+			b_cerebecialla = {
+			}
+			b_cerebecialla_2 = {
+			}
+			b_cerebecialla_3 = {
+			}
+			b_cerebecialla_4 = {
+			}
+			b_cerebecialla_5 = {
+			}
+			b_cerebecialla_6 = {
+			}
+			b_cerebecialla_7 = {
+			}
+		}
+		c_cularo = { # 129
+			color={ 139 110 81 }
+			color2={ 255 255 255 }
+			
+			b_cularo = {
+			}
+			b_cularo_2 = {
+			}
+			b_cularo_3 = {
+			}
+			b_cularo_4 = {
+			}
+			b_cularo_5 = {
+			}
+			b_cularo_6 = {
+			}
+			b_cularo_7 = {
+			}
+		}
+		c_darantasia = { # 128
+			color={ 119 104 64 }
+			color2={ 255 255 255 }
+			
+			b_darantasia = {
+			}
+			b_darantasia_2 = {
+			}
+			b_darantasia_3 = {
+			}
+			b_darantasia_4 = {
+			}
+			b_darantasia_5 = {
+			}
+			b_darantasia_6 = {
+			}
+			b_darantasia_7 = {
+			}
+		}
+		c_dea_vocontiorum = { # 136
+			color={ 138 136 78 }
+			color2={ 255 255 255 }
+			
+			b_dea_vocontiorum = {
+			}
+			b_dea_vocontiorum_2 = {
+			}
+			b_dea_vocontiorum_3 = {
+			}
+			b_dea_vocontiorum_4 = {
+			}
+			b_dea_vocontiorum_5 = {
+			}
+			b_dea_vocontiorum_6 = {
+			}
+			b_dea_vocontiorum_7 = {
+			}
+		}
+		c_eporedia = { # 130
+			color={ 171 138 52 }
+			color2={ 255 255 255 }
+			
+			b_eporedia = {
+			}
+			b_eporedia_2 = {
+			}
+			b_eporedia_3 = {
+			}
+			b_eporedia_4 = {
+			}
+			b_eporedia_5 = {
+			}
+			b_eporedia_6 = {
+			}
+			b_eporedia_7 = {
+			}
+		}
+		c_morginnum = { # 127
+			color={ 196 131 66 }
+			color2={ 255 255 255 }
+			
+			b_morginnum = {
+			}
+			b_morginnum_2 = {
+			}
+			b_morginnum_3 = {
+			}
+			b_morginnum_4 = {
+			}
+			b_morginnum_5 = {
+			}
+			b_morginnum_6 = {
+			}
+			b_morginnum_7 = {
+			}
+		}
+		c_scinomagus = { # 134
+			color={ 121 120 87 }
+			color2={ 255 255 255 }
+			
+			b_scinomagus = {
+			}
+			b_scinomagus_2 = {
+			}
+			b_scinomagus_3 = {
+			}
+			b_scinomagus_4 = {
+			}
+			b_scinomagus_5 = {
+			}
+			b_scinomagus_6 = {
+			}
+			b_scinomagus_7 = {
+			}
+		}
+		c_vappincum = { # 132
+			color={ 219 215 106 }
+			color2={ 255 255 255 }
+			
+			b_vappincum = {
+			}
+			b_vappincum_2 = {
+			}
+			b_vappincum_3 = {
+			}
+			b_vappincum_4 = {
+			}
+			b_vappincum_5 = {
+			}
+			b_vappincum_6 = {
+			}
+			b_vappincum_7 = {
+			}
+		}
+		c_vologotae = { # 135
+			color={ 196 192 69 }
+			color2={ 255 255 255 }
+			
+			b_vologotae = {
+			}
+			b_vologotae_2 = {
+			}
+			b_vologotae_3 = {
+			}
+			b_vologotae_4 = {
+			}
+			b_vologotae_5 = {
+			}
+			b_vologotae_6 = {
+			}
+			b_vologotae_7 = {
+			}
+		}
 		d_aedui = {
 			color={ 206 175 23 }
 			color2={ 255 255 255 }
@@ -2213,28 +2422,104 @@ e_gaul = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 126 } }
+					any_demesne_province = { OR = { province_id = 126 province_id = 127 province_id = 128 province_id = 129 province_id = 130 } }
 				}
 			}
-			capital = 126 # c_aedui
+			capital = 126 # c_lugdunum
 			
-			c_aedui = { # 126
+			c_lugdunum = { # 126
 				color={ 216 165 28 }
 				color2={ 255 255 255 }
 				
-				b_aedui = {
+				b_lugdunum = {
 				}
-				b_aedui_2 = {
+				b_lugdunum_2 = {
 				}
-				b_aedui_3 = {
+				b_lugdunum_3 = {
 				}
-				b_aedui_4 = {
+				b_lugdunum_4 = {
 				}
-				b_aedui_5 = {
+				b_lugdunum_5 = {
 				}
-				b_aedui_6 = {
+				b_lugdunum_6 = {
 				}
-				b_aedui_7 = {
+				b_lugdunum_7 = {
+				}
+			}
+			c_cularo = { # 129
+				color={ 139 110 81 }
+				color2={ 255 255 255 }
+				
+				b_cularo = {
+				}
+				b_cularo_2 = {
+				}
+				b_cularo_3 = {
+				}
+				b_cularo_4 = {
+				}
+				b_cularo_5 = {
+				}
+				b_cularo_6 = {
+				}
+				b_cularo_7 = {
+				}
+			}
+			c_darantasia = { # 128
+				color={ 119 104 64 }
+				color2={ 255 255 255 }
+				
+				b_darantasia = {
+				}
+				b_darantasia_2 = {
+				}
+				b_darantasia_3 = {
+				}
+				b_darantasia_4 = {
+				}
+				b_darantasia_5 = {
+				}
+				b_darantasia_6 = {
+				}
+				b_darantasia_7 = {
+				}
+			}
+			c_eporedia = { # 130
+				color={ 171 138 52 }
+				color2={ 255 255 255 }
+				
+				b_eporedia = {
+				}
+				b_eporedia_2 = {
+				}
+				b_eporedia_3 = {
+				}
+				b_eporedia_4 = {
+				}
+				b_eporedia_5 = {
+				}
+				b_eporedia_6 = {
+				}
+				b_eporedia_7 = {
+				}
+			}
+			c_morginnum = { # 127
+				color={ 196 131 66 }
+				color2={ 255 255 255 }
+				
+				b_morginnum = {
+				}
+				b_morginnum_2 = {
+				}
+				b_morginnum_3 = {
+				}
+				b_morginnum_4 = {
+				}
+				b_morginnum_5 = {
+				}
+				b_morginnum_6 = {
+				}
+				b_morginnum_7 = {
 				}
 			}
 		}
@@ -2245,28 +2530,123 @@ e_gaul = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 127 } }
+					any_demesne_province = { OR = { province_id = 131 province_id = 132 province_id = 133 province_id = 134 province_id = 135 province_id = 136 } }
 				}
 			}
-			capital = 127 # c_allobroges
+			capital = 131 # c_cerebecialla
 			
-			c_allobroges = { # 127
+			c_cerebecialla = { # 131
 				color={ 130 111 59 }
 				color2={ 255 255 255 }
 				
-				b_allobroges = {
+				b_cerebecialla = {
 				}
-				b_allobroges_2 = {
+				b_cerebecialla_2 = {
 				}
-				b_allobroges_3 = {
+				b_cerebecialla_3 = {
 				}
-				b_allobroges_4 = {
+				b_cerebecialla_4 = {
 				}
-				b_allobroges_5 = {
+				b_cerebecialla_5 = {
 				}
-				b_allobroges_6 = {
+				b_cerebecialla_6 = {
 				}
-				b_allobroges_7 = {
+				b_cerebecialla_7 = {
+				}
+			}
+			c_augusta_taurinorum = { # 133
+				color={ 160 157 79 }
+				color2={ 255 255 255 }
+				
+				b_augusta_taurinorum = {
+				}
+				b_augusta_taurinorum_2 = {
+				}
+				b_augusta_taurinorum_3 = {
+				}
+				b_augusta_taurinorum_4 = {
+				}
+				b_augusta_taurinorum_5 = {
+				}
+				b_augusta_taurinorum_6 = {
+				}
+				b_augusta_taurinorum_7 = {
+				}
+			}
+			c_dea_vocontiorum = { # 136
+				color={ 138 136 78 }
+				color2={ 255 255 255 }
+				
+				b_dea_vocontiorum = {
+				}
+				b_dea_vocontiorum_2 = {
+				}
+				b_dea_vocontiorum_3 = {
+				}
+				b_dea_vocontiorum_4 = {
+				}
+				b_dea_vocontiorum_5 = {
+				}
+				b_dea_vocontiorum_6 = {
+				}
+				b_dea_vocontiorum_7 = {
+				}
+			}
+			c_scinomagus = { # 134
+				color={ 121 120 87 }
+				color2={ 255 255 255 }
+				
+				b_scinomagus = {
+				}
+				b_scinomagus_2 = {
+				}
+				b_scinomagus_3 = {
+				}
+				b_scinomagus_4 = {
+				}
+				b_scinomagus_5 = {
+				}
+				b_scinomagus_6 = {
+				}
+				b_scinomagus_7 = {
+				}
+			}
+			c_vappincum = { # 132
+				color={ 219 215 106 }
+				color2={ 255 255 255 }
+				
+				b_vappincum = {
+				}
+				b_vappincum_2 = {
+				}
+				b_vappincum_3 = {
+				}
+				b_vappincum_4 = {
+				}
+				b_vappincum_5 = {
+				}
+				b_vappincum_6 = {
+				}
+				b_vappincum_7 = {
+				}
+			}
+			c_vologotae = { # 135
+				color={ 196 192 69 }
+				color2={ 255 255 255 }
+				
+				b_vologotae = {
+				}
+				b_vologotae_2 = {
+				}
+				b_vologotae_3 = {
+				}
+				b_vologotae_4 = {
+				}
+				b_vologotae_5 = {
+				}
+				b_vologotae_6 = {
+				}
+				b_vologotae_7 = {
 				}
 			}
 		}
@@ -2411,7 +2791,7 @@ e_gaul = {
 		color={ 161 254 89 }
 		color2={ 255 255 255 }
 		
-		capital = 128 # c_volcae
+		capital = 137 # c_volcae
 		culture = celtic
 		
 		d_volcae = {
@@ -2421,12 +2801,12 @@ e_gaul = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 128 } }
+					any_demesne_province = { OR = { province_id = 137 } }
 				}
 			}
-			capital = 128 # c_volcae
+			capital = 137 # c_volcae
 			
-			c_volcae = { # 128
+			c_volcae = { # 137
 				color={ 131 28 74 }
 				color2={ 255 255 255 }
 				
@@ -2453,12 +2833,12 @@ e_gaul = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 129 } }
+					any_demesne_province = { OR = { province_id = 138 } }
 				}
 			}
-			capital = 129 # c_cadurci
+			capital = 138 # c_cadurci
 			
-			c_cadurci = { # 129
+			c_cadurci = { # 138
 				color={ 99 59 77 }
 				color2={ 255 255 255 }
 				
@@ -2485,12 +2865,12 @@ e_gaul = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 130 } }
+					any_demesne_province = { OR = { province_id = 139 } }
 				}
 			}
-			capital = 130 # c_ruteni
+			capital = 139 # c_ruteni
 			
-			c_ruteni = { # 130
+			c_ruteni = { # 139
 				color={ 187 89 132 }
 				color2={ 255 255 255 }
 				
@@ -2723,237 +3103,9 @@ e_gaul = {
 		color={ 128 61 128 }
 		color2={ 255 255 255 }
 		
-		capital = 134 # c_apta_iulia
+		capital = 143 # c_apta_iulia
 		culture = celtic
 		
-		c_apta_iulia = { # 134
-			color={ 98 91 113 }
-			color2={ 255 255 255 }
-			
-			b_apta_iulia = {
-			}
-			b_apta_iulia_2 = {
-			}
-			b_apta_iulia_3 = {
-			}
-			b_apta_iulia_4 = {
-			}
-			b_apta_iulia_5 = {
-			}
-			b_apta_iulia_6 = {
-			}
-			b_apta_iulia_7 = {
-			}
-		}
-		c_alaebecae = { # 135
-			color={ 68 28 99 }
-			color2={ 255 255 255 }
-			
-			b_alaebecae = {
-			}
-			b_alaebecae_2 = {
-			}
-			b_alaebecae_3 = {
-			}
-			b_alaebecae_4 = {
-			}
-			b_alaebecae_5 = {
-			}
-			b_alaebecae_6 = {
-			}
-			b_alaebecae_7 = {
-			}
-		}
-		c_albium_intimilium = { # 140
-			color={ 86 67 103 }
-			color2={ 255 255 255 }
-			
-			b_albium_intimilium = {
-			}
-			b_albium_intimilium_2 = {
-			}
-			b_albium_intimilium_3 = {
-			}
-			b_albium_intimilium_4 = {
-			}
-			b_albium_intimilium_5 = {
-			}
-			b_albium_intimilium_6 = {
-			}
-			b_albium_intimilium_7 = {
-			}
-		}
-		c_album_ingaunum = { # 139
-			color={ 133 120 145 }
-			color2={ 255 255 255 }
-			
-			b_album_ingaunum = {
-			}
-			b_album_ingaunum_2 = {
-			}
-			b_album_ingaunum_3 = {
-			}
-			b_album_ingaunum_4 = {
-			}
-			b_album_ingaunum_5 = {
-			}
-			b_album_ingaunum_6 = {
-			}
-			b_album_ingaunum_7 = {
-			}
-		}
-		c_antipolis = { # 143
-			color={ 72 89 110 }
-			color2={ 255 255 255 }
-			
-			b_antipolis = {
-			}
-			b_antipolis_2 = {
-			}
-			b_antipolis_3 = {
-			}
-			b_antipolis_4 = {
-			}
-			b_antipolis_5 = {
-			}
-			b_antipolis_6 = {
-			}
-			b_antipolis_7 = {
-			}
-		}
-		c_aquae_sextiae = { # 145
-			color={ 81 105 134 }
-			color2={ 255 255 255 }
-			
-			b_aquae_sextiae = {
-			}
-			b_aquae_sextiae_2 = {
-			}
-			b_aquae_sextiae_3 = {
-			}
-			b_aquae_sextiae_4 = {
-			}
-			b_aquae_sextiae_5 = {
-			}
-			b_aquae_sextiae_6 = {
-			}
-			b_aquae_sextiae_7 = {
-			}
-		}
-		c_catuaicia = { # 137
-			color={ 175 144 198 }
-			color2={ 255 255 255 }
-			
-			b_catuaicia = {
-			}
-			b_catuaicia_2 = {
-			}
-			b_catuaicia_3 = {
-			}
-			b_catuaicia_4 = {
-			}
-			b_catuaicia_5 = {
-			}
-			b_catuaicia_6 = {
-			}
-			b_catuaicia_7 = {
-			}
-		}
-		c_cemenellum = { # 138
-			color={ 121 94 168 }
-			color2={ 255 255 255 }
-			
-			b_cemenellum = {
-			}
-			b_cemenellum_2 = {
-			}
-			b_cemenellum_3 = {
-			}
-			b_cemenellum_4 = {
-			}
-			b_cemenellum_5 = {
-			}
-			b_cemenellum_6 = {
-			}
-			b_cemenellum_7 = {
-			}
-		}
-		c_forum_iulii = { # 144
-			color={ 135 166 204 }
-			color2={ 255 255 255 }
-			
-			b_forum_iulii = {
-			}
-			b_forum_iulii_2 = {
-			}
-			b_forum_iulii_3 = {
-			}
-			b_forum_iulii_4 = {
-			}
-			b_forum_iulii_5 = {
-			}
-			b_forum_iulii_6 = {
-			}
-			b_forum_iulii_7 = {
-			}
-		}
-		c_massalia = { # 142
-			color={ 25 80 148 }
-			color2={ 255 255 255 }
-			
-			b_massalia = {
-			}
-			b_massalia_2 = {
-			}
-			b_massalia_3 = {
-			}
-			b_massalia_4 = {
-			}
-			b_massalia_5 = {
-			}
-			b_massalia_6 = {
-			}
-			b_massalia_7 = {
-			}
-		}
-		c_segustoro = { # 136
-			color={ 116 92 134 }
-			color2={ 255 255 255 }
-			
-			b_segustoro = {
-			}
-			b_segustoro_2 = {
-			}
-			b_segustoro_3 = {
-			}
-			b_segustoro_4 = {
-			}
-			b_segustoro_5 = {
-			}
-			b_segustoro_6 = {
-			}
-			b_segustoro_7 = {
-			}
-		}
-		c_vintium = { # 141
-			color={ 104 94 112 }
-			color2={ 255 255 255 }
-			
-			b_vintium = {
-			}
-			b_vintium_2 = {
-			}
-			b_vintium_3 = {
-			}
-			b_vintium_4 = {
-			}
-			b_vintium_5 = {
-			}
-			b_vintium_6 = {
-			}
-			b_vintium_7 = {
-			}
-		}
 		d_vocontii = {
 			color={ 108 81 118 }
 			color2={ 255 255 255 }
@@ -2961,12 +3113,12 @@ e_gaul = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 134 province_id = 135 province_id = 136 province_id = 137 } }
+					any_demesne_province = { OR = { province_id = 143 province_id = 144 province_id = 145 province_id = 146 } }
 				}
 			}
-			capital = 134 # c_apta_iulia
+			capital = 143 # c_apta_iulia
 			
-			c_apta_iulia = { # 134
+			c_apta_iulia = { # 143
 				color={ 98 91 113 }
 				color2={ 255 255 255 }
 				
@@ -2985,7 +3137,7 @@ e_gaul = {
 				b_apta_iulia_7 = {
 				}
 			}
-			c_alaebecae = { # 135
+			c_alaebecae = { # 144
 				color={ 68 28 99 }
 				color2={ 255 255 255 }
 				
@@ -3004,7 +3156,7 @@ e_gaul = {
 				b_alaebecae_7 = {
 				}
 			}
-			c_catuaicia = { # 137
+			c_catuaicia = { # 146
 				color={ 175 144 198 }
 				color2={ 255 255 255 }
 				
@@ -3023,7 +3175,7 @@ e_gaul = {
 				b_catuaicia_7 = {
 				}
 			}
-			c_segustoro = { # 136
+			c_segustoro = { # 145
 				color={ 116 92 134 }
 				color2={ 255 255 255 }
 				
@@ -3050,12 +3202,12 @@ e_gaul = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 138 province_id = 139 province_id = 140 province_id = 141 } }
+					any_demesne_province = { OR = { province_id = 147 province_id = 148 province_id = 149 province_id = 150 } }
 				}
 			}
-			capital = 138 # c_cemenellum
+			capital = 147 # c_cemenellum
 			
-			c_cemenellum = { # 138
+			c_cemenellum = { # 147
 				color={ 121 94 168 }
 				color2={ 255 255 255 }
 				
@@ -3074,7 +3226,7 @@ e_gaul = {
 				b_cemenellum_7 = {
 				}
 			}
-			c_albium_intimilium = { # 140
+			c_albium_intimilium = { # 149
 				color={ 86 67 103 }
 				color2={ 255 255 255 }
 				
@@ -3093,7 +3245,7 @@ e_gaul = {
 				b_albium_intimilium_7 = {
 				}
 			}
-			c_album_ingaunum = { # 139
+			c_album_ingaunum = { # 148
 				color={ 133 120 145 }
 				color2={ 255 255 255 }
 				
@@ -3112,7 +3264,7 @@ e_gaul = {
 				b_album_ingaunum_7 = {
 				}
 			}
-			c_vintium = { # 141
+			c_vintium = { # 150
 				color={ 104 94 112 }
 				color2={ 255 255 255 }
 				
@@ -3139,12 +3291,12 @@ e_gaul = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 142 province_id = 143 province_id = 144 province_id = 145 } }
+					any_demesne_province = { OR = { province_id = 151 province_id = 152 province_id = 153 province_id = 154 } }
 				}
 			}
-			capital = 142 # c_massalia
+			capital = 151 # c_massalia
 			
-			c_massalia = { # 142
+			c_massalia = { # 151
 				color={ 25 80 148 }
 				color2={ 255 255 255 }
 				
@@ -3163,7 +3315,7 @@ e_gaul = {
 				b_massalia_7 = {
 				}
 			}
-			c_antipolis = { # 143
+			c_antipolis = { # 152
 				color={ 72 89 110 }
 				color2={ 255 255 255 }
 				
@@ -3182,7 +3334,7 @@ e_gaul = {
 				b_antipolis_7 = {
 				}
 			}
-			c_aquae_sextiae = { # 145
+			c_aquae_sextiae = { # 154
 				color={ 81 105 134 }
 				color2={ 255 255 255 }
 				
@@ -3201,7 +3353,7 @@ e_gaul = {
 				b_aquae_sextiae_7 = {
 				}
 			}
-			c_forum_iulii = { # 144
+			c_forum_iulii = { # 153
 				color={ 135 166 204 }
 				color2={ 255 255 255 }
 				
@@ -3227,14 +3379,14 @@ e_hispania = {
 	color={ 213 73 83 }
 	color2={ 255 255 20 }
 	
-	capital = 183 # c_emporion
+	capital = 192 # c_emporion
 	culture = greek
 	
 	k_tarraconensis = {
 		color={ 203 83 78 }
 		color2={ 255 255 255 }
 		
-		capital = 183 # c_emporion
+		capital = 192 # c_emporion
 		culture = greek
 		
 		d_emporion = {
@@ -3244,12 +3396,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 183 } }
+					any_demesne_province = { OR = { province_id = 192 } }
 				}
 			}
-			capital = 183 # c_emporion
+			capital = 192 # c_emporion
 			
-			c_emporion = { # 183
+			c_emporion = { # 192
 				color={ 173 113 63 }
 				color2={ 255 255 255 }
 				
@@ -3276,12 +3428,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 190 } }
+					any_demesne_province = { OR = { province_id = 199 } }
 				}
 			}
-			capital = 190 # c_baleares
+			capital = 199 # c_baleares
 			
-			c_baleares = { # 190
+			c_baleares = { # 199
 				color={ 175 131 181 }
 				color2={ 255 255 255 }
 				
@@ -3308,12 +3460,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 189 } }
+					any_demesne_province = { OR = { province_id = 198 } }
 				}
 			}
-			capital = 189 # c_berones
+			capital = 198 # c_berones
 			
-			c_berones = { # 189
+			c_berones = { # 198
 				color={ 144 137 68 }
 				color2={ 255 255 255 }
 				
@@ -3340,12 +3492,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 196 } }
+					any_demesne_province = { OR = { province_id = 205 } }
 				}
 			}
-			capital = 196 # c_caristii
+			capital = 205 # c_caristii
 			
-			c_caristii = { # 196
+			c_caristii = { # 205
 				color={ 173 94 52 }
 				color2={ 255 255 255 }
 				
@@ -3364,12 +3516,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 186 } }
+					any_demesne_province = { OR = { province_id = 195 } }
 				}
 			}
-			capital = 186 # c_ceretani
+			capital = 195 # c_ceretani
 			
-			c_ceretani = { # 186
+			c_ceretani = { # 195
 				color={ 223 220 126 }
 				color2={ 255 255 255 }
 				
@@ -3396,12 +3548,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 187 } }
+					any_demesne_province = { OR = { province_id = 196 } }
 				}
 			}
-			capital = 187 # c_cessetani
+			capital = 196 # c_cessetani
 			
-			c_cessetani = { # 187
+			c_cessetani = { # 196
 				color={ 126 124 49 }
 				color2={ 255 255 255 }
 				
@@ -3428,12 +3580,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 191 } }
+					any_demesne_province = { OR = { province_id = 200 } }
 				}
 			}
-			capital = 191 # c_ebusus
+			capital = 200 # c_ebusus
 			
-			c_ebusus = { # 191
+			c_ebusus = { # 200
 				color={ 130 76 139 }
 				color2={ 255 255 255 }
 				
@@ -3460,12 +3612,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 185 } }
+					any_demesne_province = { OR = { province_id = 194 } }
 				}
 			}
-			capital = 185 # c_iacetani
+			capital = 194 # c_iacetani
 			
-			c_iacetani = { # 185
+			c_iacetani = { # 194
 				color={ 153 151 106 }
 				color2={ 255 255 255 }
 				
@@ -3492,12 +3644,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 192 } }
+					any_demesne_province = { OR = { province_id = 201 } }
 				}
 			}
-			capital = 192 # c_ilercavones
+			capital = 201 # c_ilercavones
 			
-			c_ilercavones = { # 192
+			c_ilercavones = { # 201
 				color={ 137 165 193 }
 				color2={ 255 255 255 }
 				
@@ -3524,12 +3676,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 188 } }
+					any_demesne_province = { OR = { province_id = 197 } }
 				}
 			}
-			capital = 188 # c_illergetae
+			capital = 197 # c_illergetae
 			
-			c_illergetae = { # 188
+			c_illergetae = { # 197
 				color={ 103 144 106 }
 				color2={ 255 255 255 }
 				
@@ -3556,12 +3708,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 184 } }
+					any_demesne_province = { OR = { province_id = 193 } }
 				}
 			}
-			capital = 184 # c_indigetes
+			capital = 193 # c_indigetes
 			
-			c_indigetes = { # 184
+			c_indigetes = { # 193
 				color={ 198 193 56 }
 				color2={ 255 255 255 }
 				
@@ -3588,12 +3740,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 193 } }
+					any_demesne_province = { OR = { province_id = 202 } }
 				}
 			}
-			capital = 193 # c_sedetani
+			capital = 202 # c_sedetani
 			
-			c_sedetani = { # 193
+			c_sedetani = { # 202
 				color={ 90 143 195 }
 				color2={ 255 255 255 }
 				
@@ -3620,12 +3772,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 195 } }
+					any_demesne_province = { OR = { province_id = 204 } }
 				}
 			}
-			capital = 195 # c_turmodigi
+			capital = 204 # c_turmodigi
 			
-			c_turmodigi = { # 195
+			c_turmodigi = { # 204
 				color={ 99 69 53 }
 				color2={ 255 255 255 }
 				
@@ -3644,12 +3796,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 194 } }
+					any_demesne_province = { OR = { province_id = 203 } }
 				}
 			}
-			capital = 194 # c_vardulli
+			capital = 203 # c_vardulli
 			
-			c_vardulli = { # 194
+			c_vardulli = { # 203
 				color={ 64 173 71 }
 				color2={ 255 255 255 }
 				
@@ -3666,7 +3818,7 @@ e_hispania = {
 		color={ 128 153 75 }
 		color2={ 255 255 255 }
 		
-		capital = 226 # c_baetica
+		capital = 235 # c_baetica
 		culture = roman
 		
 		d_baetica = {
@@ -3676,12 +3828,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 226 } }
+					any_demesne_province = { OR = { province_id = 235 } }
 				}
 			}
-			capital = 226 # c_baetica
+			capital = 235 # c_baetica
 			
-			c_baetica = { # 226
+			c_baetica = { # 235
 				color={ 98 183 60 }
 				color2={ 255 255 255 }
 				
@@ -3700,12 +3852,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 230 } }
+					any_demesne_province = { OR = { province_id = 239 } }
 				}
 			}
-			capital = 230 # c_bastetani
+			capital = 239 # c_bastetani
 			
-			c_bastetani = { # 230
+			c_bastetani = { # 239
 				color={ 52 170 151 }
 				color2={ 255 255 255 }
 				
@@ -3724,12 +3876,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 229 } }
+					any_demesne_province = { OR = { province_id = 238 } }
 				}
 			}
-			capital = 229 # c_east_oretani
+			capital = 238 # c_east_oretani
 			
-			c_east_oretani = { # 229
+			c_east_oretani = { # 238
 				color={ 144 193 185 }
 				color2={ 255 255 255 }
 				
@@ -3748,12 +3900,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 227 } }
+					any_demesne_province = { OR = { province_id = 236 } }
 				}
 			}
-			capital = 227 # c_turdetani
+			capital = 236 # c_turdetani
 			
-			c_turdetani = { # 227
+			c_turdetani = { # 236
 				color={ 55 94 37 }
 				color2={ 255 255 255 }
 				
@@ -3772,12 +3924,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 228 } }
+					any_demesne_province = { OR = { province_id = 237 } }
 				}
 			}
-			capital = 228 # c_west_oretani
+			capital = 237 # c_west_oretani
 			
-			c_west_oretani = { # 228
+			c_west_oretani = { # 237
 				color={ 132 166 117 }
 				color2={ 255 255 255 }
 				
@@ -3794,7 +3946,7 @@ e_hispania = {
 		color={ 84 69 159 }
 		color2={ 255 255 255 }
 		
-		capital = 197 # c_edetani
+		capital = 206 # c_edetani
 		culture = iberian
 		
 		d_edetani = {
@@ -3804,12 +3956,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 197 } }
+					any_demesne_province = { OR = { province_id = 206 } }
 				}
 			}
-			capital = 197 # c_edetani
+			capital = 206 # c_edetani
 			
-			c_edetani = { # 197
+			c_edetani = { # 206
 				color={ 54 99 144 }
 				color2={ 255 255 255 }
 				
@@ -3828,12 +3980,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 202 } }
+					any_demesne_province = { OR = { province_id = 211 } }
 				}
 			}
-			capital = 202 # c_arevaci
+			capital = 211 # c_arevaci
 			
-			c_arevaci = { # 202
+			c_arevaci = { # 211
 				color={ 181 168 46 }
 				color2={ 255 255 255 }
 				
@@ -3852,12 +4004,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 203 } }
+					any_demesne_province = { OR = { province_id = 212 } }
 				}
 			}
-			capital = 203 # c_calontienses
+			capital = 212 # c_calontienses
 			
-			c_calontienses = { # 203
+			c_calontienses = { # 212
 				color={ 187 94 94 }
 				color2={ 255 255 255 }
 				
@@ -3876,12 +4028,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 201 } }
+					any_demesne_province = { OR = { province_id = 210 } }
 				}
 			}
-			capital = 201 # c_carpetani
+			capital = 210 # c_carpetani
 			
-			c_carpetani = { # 201
+			c_carpetani = { # 210
 				color={ 151 117 156 }
 				color2={ 255 255 255 }
 				
@@ -3900,12 +4052,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 198 } }
+					any_demesne_province = { OR = { province_id = 207 } }
 				}
 			}
-			capital = 198 # c_contestani
+			capital = 207 # c_contestani
 			
-			c_contestani = { # 198
+			c_contestani = { # 207
 				color={ 76 130 184 }
 				color2={ 255 255 255 }
 				
@@ -3924,12 +4076,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 200 } }
+					any_demesne_province = { OR = { province_id = 209 } }
 				}
 			}
-			capital = 200 # c_germanii
+			capital = 209 # c_germanii
 			
-			c_germanii = { # 200
+			c_germanii = { # 209
 				color={ 126 86 133 }
 				color2={ 255 255 255 }
 				
@@ -3948,12 +4100,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 199 } }
+					any_demesne_province = { OR = { province_id = 208 } }
 				}
 			}
-			capital = 199 # c_lobetani
+			capital = 208 # c_lobetani
 			
-			c_lobetani = { # 199
+			c_lobetani = { # 208
 				color={ 57 150 136 }
 				color2={ 255 255 255 }
 				
@@ -3972,12 +4124,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 205 } }
+					any_demesne_province = { OR = { province_id = 214 } }
 				}
 			}
-			capital = 205 # c_vaccaei
+			capital = 214 # c_vaccaei
 			
-			c_vaccaei = { # 205
+			c_vaccaei = { # 214
 				color={ 32 118 121 }
 				color2={ 255 255 255 }
 				
@@ -3996,12 +4148,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 204 } }
+					any_demesne_province = { OR = { province_id = 213 } }
 				}
 			}
-			capital = 204 # c_vettones
+			capital = 213 # c_vettones
 			
-			c_vettones = { # 204
+			c_vettones = { # 213
 				color={ 221 116 116 }
 				color2={ 255 255 255 }
 				
@@ -4018,7 +4170,7 @@ e_hispania = {
 		color={ 65 97 73 }
 		color2={ 255 255 255 }
 		
-		capital = 206 # c_cantabri
+		capital = 215 # c_cantabri
 		culture = iberian
 		
 		d_cantabri = {
@@ -4028,12 +4180,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 206 } }
+					any_demesne_province = { OR = { province_id = 215 } }
 				}
 			}
-			capital = 206 # c_cantabri
+			capital = 215 # c_cantabri
 			
-			c_cantabri = { # 206
+			c_cantabri = { # 215
 				color={ 35 127 58 }
 				color2={ 255 255 255 }
 				
@@ -4052,12 +4204,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 211 } }
+					any_demesne_province = { OR = { province_id = 220 } }
 				}
 			}
-			capital = 211 # c_artabri
+			capital = 220 # c_artabri
 			
-			c_artabri = { # 211
+			c_artabri = { # 220
 				color={ 116 166 204 }
 				color2={ 255 255 255 }
 				
@@ -4076,12 +4228,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 208 } }
+					any_demesne_province = { OR = { province_id = 217 } }
 				}
 			}
-			capital = 208 # c_astures
+			capital = 217 # c_astures
 			
-			c_astures = { # 208
+			c_astures = { # 217
 				color={ 71 108 80 }
 				color2={ 255 255 255 }
 				
@@ -4100,12 +4252,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 207 } }
+					any_demesne_province = { OR = { province_id = 216 } }
 				}
 			}
-			capital = 207 # c_baedunenses
+			capital = 216 # c_baedunenses
 			
-			c_baedunenses = { # 207
+			c_baedunenses = { # 216
 				color={ 41 92 93 }
 				color2={ 255 255 255 }
 				
@@ -4124,12 +4276,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 214 } }
+					any_demesne_province = { OR = { province_id = 223 } }
 				}
 			}
-			capital = 214 # c_bletonesii
+			capital = 223 # c_bletonesii
 			
-			c_bletonesii = { # 214
+			c_bletonesii = { # 223
 				color={ 147 90 90 }
 				color2={ 255 255 255 }
 				
@@ -4148,12 +4300,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 213 } }
+					any_demesne_province = { OR = { province_id = 222 } }
 				}
 			}
-			capital = 213 # c_bracari
+			capital = 222 # c_bracari
 			
-			c_bracari = { # 213
+			c_bracari = { # 222
 				color={ 41 124 187 }
 				color2={ 255 255 255 }
 				
@@ -4172,12 +4324,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 210 } }
+					any_demesne_province = { OR = { province_id = 219 } }
 				}
 			}
-			capital = 210 # c_cibarci
+			capital = 219 # c_cibarci
 			
-			c_cibarci = { # 210
+			c_cibarci = { # 219
 				color={ 25 152 194 }
 				color2={ 255 255 255 }
 				
@@ -4196,12 +4348,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 212 } }
+					any_demesne_province = { OR = { province_id = 221 } }
 				}
 			}
-			capital = 212 # c_gallaeci
+			capital = 221 # c_gallaeci
 			
-			c_gallaeci = { # 212
+			c_gallaeci = { # 221
 				color={ 110 141 207 }
 				color2={ 255 255 255 }
 				
@@ -4220,12 +4372,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 209 } }
+					any_demesne_province = { OR = { province_id = 218 } }
 				}
 			}
-			capital = 209 # c_lemavi
+			capital = 218 # c_lemavi
 			
-			c_lemavi = { # 209
+			c_lemavi = { # 218
 				color={ 67 153 89 }
 				color2={ 255 255 255 }
 				
@@ -4242,7 +4394,7 @@ e_hispania = {
 		color={ 123 46 174 }
 		color2={ 255 255 255 }
 		
-		capital = 215 # c_lanciences
+		capital = 224 # c_lanciences
 		culture = iberian
 		
 		d_lanciences = {
@@ -4252,12 +4404,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 215 } }
+					any_demesne_province = { OR = { province_id = 224 } }
 				}
 			}
-			capital = 215 # c_lanciences
+			capital = 224 # c_lanciences
 			
-			c_lanciences = { # 215
+			c_lanciences = { # 224
 				color={ 93 76 159 }
 				color2={ 255 255 255 }
 				
@@ -4276,12 +4428,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 221 } }
+					any_demesne_province = { OR = { province_id = 230 } }
 				}
 			}
-			capital = 221 # c_celtici
+			capital = 230 # c_celtici
 			
-			c_celtici = { # 221
+			c_celtici = { # 230
 				color={ 187 183 66 }
 				color2={ 255 255 255 }
 				
@@ -4300,12 +4452,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 224 } }
+					any_demesne_province = { OR = { province_id = 233 } }
 				}
 			}
-			capital = 224 # c_cunetes
+			capital = 233 # c_cunetes
 			
-			c_cunetes = { # 224
+			c_cunetes = { # 233
 				color={ 148 91 63 }
 				color2={ 255 255 255 }
 				
@@ -4324,12 +4476,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 223 } }
+					any_demesne_province = { OR = { province_id = 232 } }
 				}
 			}
-			capital = 223 # c_elbestoi
+			capital = 232 # c_elbestoi
 			
-			c_elbestoi = { # 223
+			c_elbestoi = { # 232
 				color={ 153 152 94 }
 				color2={ 255 255 255 }
 				
@@ -4348,12 +4500,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 219 } }
+					any_demesne_province = { OR = { province_id = 228 } }
 				}
 			}
-			capital = 219 # c_elbocori
+			capital = 228 # c_elbocori
 			
-			c_elbocori = { # 219
+			c_elbocori = { # 228
 				color={ 133 133 176 }
 				color2={ 255 255 255 }
 				
@@ -4372,12 +4524,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 222 } }
+					any_demesne_province = { OR = { province_id = 231 } }
 				}
 			}
-			capital = 222 # c_mirobrigenses
+			capital = 231 # c_mirobrigenses
 			
-			c_mirobrigenses = { # 222
+			c_mirobrigenses = { # 231
 				color={ 133 75 47 }
 				color2={ 255 255 255 }
 				
@@ -4396,12 +4548,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 220 } }
+					any_demesne_province = { OR = { province_id = 229 } }
 				}
 			}
-			capital = 220 # c_oppidani
+			capital = 229 # c_oppidani
 			
-			c_oppidani = { # 220
+			c_oppidani = { # 229
 				color={ 139 136 61 }
 				color2={ 255 255 255 }
 				
@@ -4420,12 +4572,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 216 } }
+					any_demesne_province = { OR = { province_id = 225 } }
 				}
 			}
-			capital = 216 # c_paesuri
+			capital = 225 # c_paesuri
 			
-			c_paesuri = { # 216
+			c_paesuri = { # 225
 				color={ 116 98 171 }
 				color2={ 255 255 255 }
 				
@@ -4444,12 +4596,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 218 } }
+					any_demesne_province = { OR = { province_id = 227 } }
 				}
 			}
-			capital = 218 # c_tapori
+			capital = 227 # c_tapori
 			
-			c_tapori = { # 218
+			c_tapori = { # 227
 				color={ 122 113 147 }
 				color2={ 255 255 255 }
 				
@@ -4468,12 +4620,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 225 } }
+					any_demesne_province = { OR = { province_id = 234 } }
 				}
 			}
-			capital = 225 # c_turduli
+			capital = 234 # c_turduli
 			
-			c_turduli = { # 225
+			c_turduli = { # 234
 				color={ 130 128 60 }
 				color2={ 255 255 255 }
 				
@@ -4492,12 +4644,12 @@ e_hispania = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 217 } }
+					any_demesne_province = { OR = { province_id = 226 } }
 				}
 			}
-			capital = 217 # c_veteres
+			capital = 226 # c_veteres
 			
-			c_veteres = { # 217
+			c_veteres = { # 226
 				color={ 164 163 112 }
 				color2={ 255 255 255 }
 				

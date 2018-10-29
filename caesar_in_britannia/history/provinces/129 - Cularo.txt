@@ -1,0 +1,21 @@
+# c_cularo
+
+# County Title
+title = c_cularo
+
+# Settlements
+max_settlements = 3
+
+b_cularo = castle
+#b_cularo_2 = city
+#b_cularo_3 = temple
+#b_cularo_4 = castle
+#b_cularo_5 = city
+#b_cularo_6 = temple
+#b_cularo_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History
