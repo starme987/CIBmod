@@ -33,6 +33,8 @@ c_aquileia;Aquileia;Aquileia;Aquileia;;Aquileia;;;;;;;;;x
 c_aquileia_adj;Aquileian;;aquiler;;;;;;;;;;;x
 c_arae_flaviae;Arae Flaviae;Arae Flaviae;Arae Flaviae;;Arae Flaviae;;;;;;;;;x
 c_arae_flaviae_adj;Arae Flaviaean;;Arae Flaver;;;;;;;;;;;x
+c_arbor_felix;Arbor Felix;Arbor Felix;Arbor Felix;;Arbor Felix;;;;;;;;;x
+c_arbor_felix_adj;Arbor Felixian;;Arbor Felixer;;;;;;;;;;;x
 c_arevaci;Arevaci;Arevaci;Arevaci;;Arevaci;;;;;;;;;x
 c_arevaci_adj;Arevacian;;arevacer;;;;;;;;;;;x
 c_argentorate;Argentorate;Argentorate;Argentorate;;Argentorate;;;;;;;;;x
@@ -87,6 +89,8 @@ c_bononia;Bononia;Bononia;Bononia;;Bononia;;;;;;;;;x
 c_bononia_adj;Bononian;;bononer;;;;;;;;;;;x
 c_bracari;Bracari;Bracari;Bracari;;Bracari;;;;;;;;;x
 c_bracari_adj;Bracarian;;bracarer;;;;;;;;;;;x
+c_bragodurum;Bragodurum;Bragodurum;Bragodurum;;Bragodurum;;;;;;;;;x
+c_bragodurum_adj;Bragodurumian;;bragodurumer;;;;;;;;;;;x
 c_brenodunum;Brenodunum;Brenodunum;Brenodunum;;Brenodunum;;;;;;;;;x
 c_brenodunum_adj;Brenodunumian;;brenodunumer;;;;;;;;;;;x
 c_brigantes;Brigantes;Brigantes;Brigantes;;Brigantes;;;;;;;;;x
@@ -99,6 +103,8 @@ c_cadurci;Cadurci;Cadurci;Cadurci;;Cadurci;;;;;;;;;x
 c_cadurci_adj;Cadurcian;;cadurcer;;;;;;;;;;;x
 c_calontienses;Calontienses;Calontienses;Calontienses;;Calontienses;;;;;;;;;x
 c_calontienses_adj;Calontiensesian;;calontienseser;;;;;;;;;;;x
+c_cambodunum;Cambodunum;Cambodunum;Cambodunum;;Cambodunum;;;;;;;;;x
+c_cambodunum_adj;Cambodunumian;;cambodunumer;;;;;;;;;;;x
 c_campania;Campania;Campania;Campania;;Campania;;;;;;;;;x
 c_campania_adj;Campanian;;campaner;;;;;;;;;;;x
 c_cantabri;Cantabri;Cantabri;Cantabri;;Cantabri;;;;;;;;;x
@@ -169,6 +175,8 @@ c_cupra_marittima;Cupra Marittima;Cupra Marittima;Cupra Marittima;;Cupra Maritti
 c_cupra_marittima_adj;Cupra Marittiman;;Cupra Marittimer;;;;;;;;;;;x
 c_curia;Curia;Curia;Curia;;Curia;;;;;;;;;x
 c_curia_adj;Curian;;curer;;;;;;;;;;;x
+c_damasia;Damasia;Damasia;Damasia;;Damasia;;;;;;;;;x
+c_damasia_adj;Damasian;;damaser;;;;;;;;;;;x
 c_damnonii;Damnonii;Damnonii;Damnonii;;Damnonii;;;;;;;;;x
 c_damnonii_adj;Damnonian;;damnoner;;;;;;;;;;;x
 c_darantasia;Darantasia;Darantasia;Darantasia;;Darantasia;;;;;;;;;x
@@ -285,6 +293,8 @@ c_massalia;Massalia;Massalia;Massalia;;Massalia;;;;;;;;;x
 c_massalia_adj;Massalian;;massaler;;;;;;;;;;;x
 c_matisco;Matisco;Matisco;Matisco;;Matisco;;;;;;;;;x
 c_matisco_adj;Matiscian;;matiscer;;;;;;;;;;;x
+c_matreum;Matreum;Matreum;Matreum;;Matreum;;;;;;;;;x
+c_matreum_adj;Matreumian;;matreumer;;;;;;;;;;;x
 c_mediolanum;Mediolanum;Mediolanum;Mediolanum;;Mediolanum;;;;;;;;;x
 c_mediolanum_adj;Mediolanumian;;mediolanumer;;;;;;;;;;;x
 c_mediomatrici;Mediomatrici;Mediomatrici;Mediomatrici;;Mediomatrici;;;;;;;;;x
@@ -337,6 +347,8 @@ c_parisii;Parisii;Parisii;Parisii;;Parisii;;;;;;;;;x
 c_parisii_adj;Parisian;;pariser;;;;;;;;;;;x
 c_parma;Parma;Parma;Parma;;Parma;;;;;;;;;x
 c_parma_adj;Parman;;parmer;;;;;;;;;;;x
+c_parthanum;Parthanum;Parthanum;Parthanum;;Parthanum;;;;;;;;;x
+c_parthanum_adj;Parthanumian;;parthanumer;;;;;;;;;;;x
 c_patavium;Patavium;Patavium;Patavium;;Patavium;;;;;;;;;x
 c_patavium_adj;Pataviumian;;pataviumer;;;;;;;;;;;x
 c_phikaria;Phikaria;Phikaria;Phikaria;;Phikaria;;;;;;;;;x
@@ -385,6 +397,8 @@ c_sedetani;Sedetani;Sedetani;Sedetani;;Sedetani;;;;;;;;;x
 c_sedetani_adj;Sedetanian;;sedetaner;;;;;;;;;;;x
 c_sedunum;Sedunum;Sedunum;Sedunum;;Sedunum;;;;;;;;;x
 c_sedunum_adj;Sedunumian;;sedunumer;;;;;;;;;;;x
+c_segavio;Segavio;Segavio;Segavio;;Segavio;;;;;;;;;x
+c_segavio_adj;Segavian;;segaver;;;;;;;;;;;x
 c_segustoro;Segustoro;Segustoro;Segustoro;;Segustoro;;;;;;;;;x
 c_segustoro_adj;Segustorian;;segustorer;;;;;;;;;;;x
 c_selgovae;Selgovae;Selgovae;Selgovae;;Selgovae;;;;;;;;;x
@@ -409,6 +423,8 @@ c_sulci;Sulci;Sulci;Sulci;;Sulci;;;;;;;;;x
 c_sulci_adj;Sulcian;;sulcer;;;;;;;;;;;x
 c_sulmo;Sulmo;Sulmo;Sulmo;;Sulmo;;;;;;;;;x
 c_sulmo_adj;Sulmian;;sulmer;;;;;;;;;;;x
+c_summelocenna;Summelocenna;Summelocenna;Summelocenna;;Summelocenna;;;;;;;;;x
+c_summelocenna_adj;Summelocennan;;summelocenner;;;;;;;;;;;x
 c_summus_vicus;Summus Vicus;Summus Vicus;Summus Vicus;;Summus Vicus;;;;;;;;;x
 c_summus_vicus_adj;Summus Vicusian;;Summus Vicuser;;;;;;;;;;;x
 c_sybaris;Sybaris;Sybaris;Sybaris;;Sybaris;;;;;;;;;x
@@ -437,8 +453,6 @@ c_tridentium;Tridentium;Tridentium;Tridentium;;Tridentium;;;;;;;;;x
 c_tridentium_adj;Tridentiumian;;tridentiumer;;;;;;;;;;;x
 c_trinovantes;Trinovantes;Trinovantes;Trinovantes;;Trinovantes;;;;;;;;;x
 c_trinovantes_adj;Trinovantesian;;trinovanteser;;;;;;;;;;;x
-c_tulingi;Tulingi;Tulingi;Tulingi;;Tulingi;;;;;;;;;x
-c_tulingi_adj;Tulingian;;tulinger;;;;;;;;;;;x
 c_tullum;Tullum;Tullum;Tullum;;Tullum;;;;;;;;;x
 c_tullum_adj;Tullumian;;tullumer;;;;;;;;;;;x
 c_turdetani;Turdetani;Turdetani;Turdetani;;Turdetani;;;;;;;;;x
@@ -461,8 +475,6 @@ c_unelli;Unelli;Unelli;Unelli;;Unelli;;;;;;;;;x
 c_unelli_adj;Unellian;;uneller;;;;;;;;;;;x
 c_vaccaei;Vaccaei;Vaccaei;Vaccaei;;Vaccaei;;;;;;;;;x
 c_vaccaei_adj;Vaccian;;vaccer;;;;;;;;;;;x
-c_vangiones;Vangiones;Vangiones;Vangiones;;Vangiones;;;;;;;;;x
-c_vangiones_adj;Vangionesian;;vangioneser;;;;;;;;;;;x
 c_vappincum;Vappincum;Vappincum;Vappincum;;Vappincum;;;;;;;;;x
 c_vappincum_adj;Vappincumian;;vappincumer;;;;;;;;;;;x
 c_vardulli;Vardulli;Vardulli;Vardulli;;Vardulli;;;;;;;;;x
