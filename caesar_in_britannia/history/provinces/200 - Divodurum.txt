@@ -1,0 +1,21 @@
+# c_divodurum
+
+# County Title
+title = c_divodurum
+
+# Settlements
+max_settlements = 3
+
+b_divodurum = castle
+#b_divodurum_2 = city
+#b_divodurum_3 = temple
+#b_divodurum_4 = castle
+#b_divodurum_5 = city
+#b_divodurum_6 = temple
+#b_divodurum_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

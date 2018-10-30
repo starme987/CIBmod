@@ -1,0 +1,21 @@
+# c_epamanduodurum
+
+# County Title
+title = c_epamanduodurum
+
+# Settlements
+max_settlements = 4
+
+b_epamanduodurum = castle
+#b_epamanduodurum_2 = city
+#b_epamanduodurum_3 = temple
+#b_epamanduodurum_4 = castle
+#b_epamanduodurum_5 = city
+#b_epamanduodurum_6 = temple
+#b_epamanduodurum_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

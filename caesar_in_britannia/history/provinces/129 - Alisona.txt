@@ -1,0 +1,21 @@
+# c_alisona
+
+# County Title
+title = c_alisona
+
+# Settlements
+max_settlements = 3
+
+b_alisona = castle
+#b_alisona_2 = city
+#b_alisona_3 = temple
+#b_alisona_4 = castle
+#b_alisona_5 = city
+#b_alisona_6 = temple
+#b_alisona_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

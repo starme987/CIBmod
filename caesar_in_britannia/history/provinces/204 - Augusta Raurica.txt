@@ -1,0 +1,21 @@
+# c_augusta_raurica
+
+# County Title
+title = c_augusta_raurica
+
+# Settlements
+max_settlements = 4
+
+b_augusta_raurica = castle
+#b_augusta_raurica_2 = city
+#b_augusta_raurica_3 = temple
+#b_augusta_raurica_4 = castle
+#b_augusta_raurica_5 = city
+#b_augusta_raurica_6 = temple
+#b_augusta_raurica_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History
