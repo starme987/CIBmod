@@ -1,0 +1,21 @@
+# c_durobrivae
+
+# County Title
+title = c_durobrivae
+
+# Settlements
+max_settlements = 3
+
+b_durobrivae = castle
+#b_durobrivae_2 = city
+#b_durobrivae_3 = temple
+#b_durobrivae_4 = castle
+#b_durobrivae_5 = city
+#b_durobrivae_6 = temple
+#b_durobrivae_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_phoebiana
+
+# County Title
+title = c_phoebiana
+
+# Settlements
+max_settlements = 3
+
+b_phoebiana = castle
+#b_phoebiana_2 = city
+#b_phoebiana_3 = temple
+#b_phoebiana_4 = castle
+#b_phoebiana_5 = city
+#b_phoebiana_6 = temple
+#b_phoebiana_7 = castle
+
+# Misc
+culture = germanic
+religion = heathen
+
+#History

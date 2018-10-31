@@ -1,0 +1,21 @@
+# c_durovernum
+
+# County Title
+title = c_durovernum
+
+# Settlements
+max_settlements = 4
+
+b_durovernum = castle
+#b_durovernum_2 = city
+#b_durovernum_3 = temple
+#b_durovernum_4 = castle
+#b_durovernum_5 = city
+#b_durovernum_6 = temple
+#b_durovernum_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

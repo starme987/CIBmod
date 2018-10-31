@@ -1,0 +1,21 @@
+# c_guntia
+
+# County Title
+title = c_guntia
+
+# Settlements
+max_settlements = 3
+
+b_guntia = castle
+#b_guntia_2 = city
+#b_guntia_3 = temple
+#b_guntia_4 = castle
+#b_guntia_5 = city
+#b_guntia_6 = temple
+#b_guntia_7 = castle
+
+# Misc
+culture = germanic
+religion = heathen
+
+#History

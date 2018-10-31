@@ -1,0 +1,21 @@
+# c_vindelicum
+
+# County Title
+title = c_vindelicum
+
+# Settlements
+max_settlements = 3
+
+b_vindelicum = castle
+#b_vindelicum_2 = city
+#b_vindelicum_3 = temple
+#b_vindelicum_4 = castle
+#b_vindelicum_5 = city
+#b_vindelicum_6 = temple
+#b_vindelicum_7 = castle
+
+# Misc
+culture = germanic
+religion = heathen
+
+#History

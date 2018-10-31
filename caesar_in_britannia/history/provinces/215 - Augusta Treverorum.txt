@@ -1,0 +1,21 @@
+# c_augusta_treverorum
+
+# County Title
+title = c_augusta_treverorum
+
+# Settlements
+max_settlements = 3
+
+b_augusta_treverorum = castle
+#b_augusta_treverorum_2 = city
+#b_augusta_treverorum_3 = temple
+#b_augusta_treverorum_4 = castle
+#b_augusta_treverorum_5 = city
+#b_augusta_treverorum_6 = temple
+#b_augusta_treverorum_7 = castle
+
+# Misc
+culture = germanic
+religion = heathen
+
+#History

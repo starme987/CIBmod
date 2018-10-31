@@ -1,0 +1,21 @@
+# c_aquae
+
+# County Title
+title = c_aquae
+
+# Settlements
+max_settlements = 3
+
+b_aquae = castle
+#b_aquae_2 = city
+#b_aquae_3 = temple
+#b_aquae_4 = castle
+#b_aquae_5 = city
+#b_aquae_6 = temple
+#b_aquae_7 = castle
+
+# Misc
+culture = germanic
+religion = heathen
+
+#History
