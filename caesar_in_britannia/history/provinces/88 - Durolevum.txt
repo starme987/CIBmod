@@ -1,0 +1,21 @@
+# c_durolevum
+
+# County Title
+title = c_durolevum
+
+# Settlements
+max_settlements = 3
+
+b_durolevum = castle
+#b_durolevum_2 = city
+#b_durolevum_3 = temple
+#b_durolevum_4 = castle
+#b_durolevum_5 = city
+#b_durolevum_6 = temple
+#b_durolevum_7 = castle
+
+# Misc
+culture = german
+religion = catholic
+
+#History

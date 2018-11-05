@@ -1,0 +1,21 @@
+# c_burrium
+
+# County Title
+title = c_burrium
+
+# Settlements
+max_settlements = 3
+
+b_burrium = castle
+#b_burrium_2 = city
+#b_burrium_3 = temple
+#b_burrium_4 = castle
+#b_burrium_5 = city
+#b_burrium_6 = temple
+#b_burrium_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_calleva
+
+# County Title
+title = c_calleva
+
+# Settlements
+max_settlements = 3
+
+b_calleva = castle
+#b_calleva_2 = city
+#b_calleva_3 = temple
+#b_calleva_4 = castle
+#b_calleva_5 = city
+#b_calleva_6 = temple
+#b_calleva_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

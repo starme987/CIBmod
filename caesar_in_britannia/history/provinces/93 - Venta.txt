@@ -1,0 +1,21 @@
+# c_venta
+
+# County Title
+title = c_venta
+
+# Settlements
+max_settlements = 3
+
+b_venta = castle
+#b_venta_2 = city
+#b_venta_3 = temple
+#b_venta_4 = castle
+#b_venta_5 = city
+#b_venta_6 = temple
+#b_venta_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

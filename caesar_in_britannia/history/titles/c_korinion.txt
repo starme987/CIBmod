@@ -1,14 +1,14 @@
 # e_britannia
-500.1.1={
+1.1.1={
 	law = agnatic_succession
 	law = succ_gavelkind
 }
 600.1.1={
-	liege=k_dumnonii
+	liege=k_cantii
 }
-772.1.1={
-	holder=2802
+795.1.1={
+	holder=2600
 }
-786.1.1={
-	holder=2800
+796.1.1={
+	holder=2501
 }

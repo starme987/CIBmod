@@ -1,0 +1,21 @@
+# c_vindocladia
+
+# County Title
+title = c_vindocladia
+
+# Settlements
+max_settlements = 3
+
+b_vindocladia = castle
+#b_vindocladia_2 = city
+#b_vindocladia_3 = temple
+#b_vindocladia_4 = castle
+#b_vindocladia_5 = city
+#b_vindocladia_6 = temple
+#b_vindocladia_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

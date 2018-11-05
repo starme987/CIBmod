@@ -6,7 +6,7 @@ title = c_icenii
 # Settlements
 max_settlements = 4
 
-b_venta = castle
+b_venta_8 = castle
 #b_icinon = city
 #b_icenii = temple
 #b_icenii_2 = castle

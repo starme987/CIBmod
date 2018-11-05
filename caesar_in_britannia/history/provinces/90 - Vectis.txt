@@ -1,0 +1,21 @@
+# c_vectis
+
+# County Title
+title = c_vectis
+
+# Settlements
+max_settlements = 3
+
+b_vectis = castle
+#b_vectis_2 = city
+#b_vectis_3 = temple
+#b_vectis_4 = castle
+#b_vectis_5 = city
+#b_vectis_6 = temple
+#b_vectis_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

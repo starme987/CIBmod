@@ -1,0 +1,21 @@
+# c_novus_portus
+
+# County Title
+title = c_novus_portus
+
+# Settlements
+max_settlements = 3
+
+b_novus_portus = castle
+#b_novus_portus_2 = city
+#b_novus_portus_3 = temple
+#b_novus_portus_4 = castle
+#b_novus_portus_5 = city
+#b_novus_portus_6 = temple
+#b_novus_portus_7 = castle
+
+# Misc
+culture = german
+religion = catholic
+
+#History

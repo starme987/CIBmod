@@ -1,0 +1,21 @@
+# c_noviomagis
+
+# County Title
+title = c_noviomagis
+
+# Settlements
+max_settlements = 3
+
+b_noviomagis = castle
+#b_noviomagis_2 = city
+#b_noviomagis_3 = temple
+#b_noviomagis_4 = castle
+#b_noviomagis_5 = city
+#b_noviomagis_6 = temple
+#b_noviomagis_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History
