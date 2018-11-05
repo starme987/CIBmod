@@ -1,7 +1,7 @@
 # e_roman_empire
 1.1.1={
 	law = agnatic_succession
-	law = succ_primogeniture
+	law = succ_gavelkind
 }
 800.1.1={
 	liege=k_magna_graecia

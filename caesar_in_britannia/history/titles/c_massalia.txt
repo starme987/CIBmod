@@ -1,7 +1,7 @@
 # e_gaul
 1.1.1={
 	law = agnatic_succession
-	law = succ_primogeniture
+	law = succ_gavelkind
 }
 600.1.1={
 	liege=d_masilia

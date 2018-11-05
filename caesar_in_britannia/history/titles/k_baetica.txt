@@ -1,5 +1,5 @@
 # k_baetica
 1.1.1={
 	law = agnatic_succession
-	law = succ_primogeniture
+	law = succ_gavelkind
 }

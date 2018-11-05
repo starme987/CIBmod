@@ -1,7 +1,7 @@
 # e_celtica
 1.1.1={
 	law = agnatic_succession
-	law = succ_primogeniture
+	law = succ_gavelkind
 }
 700.1.1={
 	liege=d_helvetii
