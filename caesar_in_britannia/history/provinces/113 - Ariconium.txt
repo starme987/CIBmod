@@ -1,0 +1,21 @@
+# c_ariconium
+
+# County Title
+title = c_ariconium
+
+# Settlements
+max_settlements = 3
+
+b_ariconium = castle
+#b_ariconium_2 = city
+#b_ariconium_3 = temple
+#b_ariconium_4 = castle
+#b_ariconium_5 = city
+#b_ariconium_6 = temple
+#b_ariconium_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

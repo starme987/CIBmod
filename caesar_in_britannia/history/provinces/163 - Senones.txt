@@ -1,0 +1,21 @@
+# c_senones
+
+# County Title
+title = c_senones
+
+# Settlements
+max_settlements = 3
+
+b_senones = castle
+#b_senones_2 = city
+#b_senones_3 = temple
+#b_senones_4 = castle
+#b_senones_5 = city
+#b_senones_6 = temple
+#b_senones_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

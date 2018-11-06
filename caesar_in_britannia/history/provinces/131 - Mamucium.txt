@@ -1,0 +1,21 @@
+# c_mamucium
+
+# County Title
+title = c_mamucium
+
+# Settlements
+max_settlements = 3
+
+b_mamucium = castle
+#b_mamucium_2 = city
+#b_mamucium_3 = temple
+#b_mamucium_4 = castle
+#b_mamucium_5 = city
+#b_mamucium_6 = temple
+#b_mamucium_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_uxacona
+
+# County Title
+title = c_uxacona
+
+# Settlements
+max_settlements = 3
+
+b_uxacona = castle
+#b_uxacona_2 = city
+#b_uxacona_3 = temple
+#b_uxacona_4 = castle
+#b_uxacona_5 = city
+#b_uxacona_6 = temple
+#b_uxacona_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_summelocenna
+
+# County Title
+title = c_summelocenna
+
+# Settlements
+max_settlements = 4
+
+b_summelocenna = castle
+#b_summelocenna_2 = city
+#b_summelocenna_3 = temple
+#b_summelocenna_4 = castle
+#b_summelocenna_5 = city
+#b_summelocenna_6 = temple
+#b_summelocenna_7 = castle
+
+# Misc
+culture = germanic
+religion = heathen
+
+#History

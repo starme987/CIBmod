@@ -1,0 +1,21 @@
+# c_sorviodunum
+
+# County Title
+title = c_sorviodunum
+
+# Settlements
+max_settlements = 4
+
+b_sorviodunum = castle
+#b_sorviodunum_2 = city
+#b_sorviodunum_3 = temple
+#b_sorviodunum_4 = castle
+#b_sorviodunum_5 = city
+#b_sorviodunum_6 = temple
+#b_sorviodunum_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

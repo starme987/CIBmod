@@ -1,0 +1,21 @@
+# c_massalia
+
+# County Title
+title = c_massalia
+
+# Settlements
+max_settlements = 4
+
+b_massalia = castle
+#b_massalia_2 = city
+#b_massalia_3 = temple
+#b_massalia_4 = castle
+#b_massalia_5 = city
+#b_massalia_6 = temple
+#b_massalia_7 = castle
+
+# Misc
+culture = greek
+religion = greek_hellenic
+
+#History

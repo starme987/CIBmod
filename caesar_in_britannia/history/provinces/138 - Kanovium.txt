@@ -1,0 +1,21 @@
+# c_kanovium
+
+# County Title
+title = c_kanovium
+
+# Settlements
+max_settlements = 3
+
+b_kanovium = castle
+#b_kanovium_2 = city
+#b_kanovium_3 = temple
+#b_kanovium_4 = castle
+#b_kanovium_5 = city
+#b_kanovium_6 = temple
+#b_kanovium_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

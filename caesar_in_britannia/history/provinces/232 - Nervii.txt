@@ -1,0 +1,21 @@
+# c_nervii
+
+# County Title
+title = c_nervii
+
+# Settlements
+max_settlements = 3
+
+b_nervii = castle
+#b_nervii_2 = city
+#b_nervii_3 = temple
+#b_nervii_4 = castle
+#b_nervii_5 = city
+#b_nervii_6 = temple
+#b_nervii_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_veneti
+
+# County Title
+title = c_veneti
+
+# Settlements
+max_settlements = 3
+
+b_veneti = castle
+#b_veneti_2 = city
+#b_veneti_3 = temple
+#b_veneti_4 = castle
+#b_veneti_5 = city
+#b_veneti_6 = temple
+#b_veneti_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

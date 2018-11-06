@@ -1,0 +1,21 @@
+# c_gwanas_fawr
+
+# County Title
+title = c_gwanas_fawr
+
+# Settlements
+max_settlements = 4
+
+b_gwanas_fawr = castle
+#b_gwanas_fawr_2 = city
+#b_gwanas_fawr_3 = temple
+#b_gwanas_fawr_4 = castle
+#b_gwanas_fawr_5 = city
+#b_gwanas_fawr_6 = temple
+#b_gwanas_fawr_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

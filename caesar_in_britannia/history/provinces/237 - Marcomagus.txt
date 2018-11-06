@@ -1,0 +1,21 @@
+# c_marcomagus
+
+# County Title
+title = c_marcomagus
+
+# Settlements
+max_settlements = 4
+
+b_marcomagus = castle
+#b_marcomagus_2 = city
+#b_marcomagus_3 = temple
+#b_marcomagus_4 = castle
+#b_marcomagus_5 = city
+#b_marcomagus_6 = temple
+#b_marcomagus_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

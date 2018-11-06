@@ -1,0 +1,21 @@
+# c_cambodunum
+
+# County Title
+title = c_cambodunum
+
+# Settlements
+max_settlements = 4
+
+b_cambodunum = castle
+#b_cambodunum_2 = city
+#b_cambodunum_3 = temple
+#b_cambodunum_4 = castle
+#b_cambodunum_5 = city
+#b_cambodunum_6 = temple
+#b_cambodunum_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

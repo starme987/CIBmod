@@ -1,0 +1,21 @@
+# c_vologotae
+
+# County Title
+title = c_vologotae
+
+# Settlements
+max_settlements = 3
+
+b_vologotae = castle
+#b_vologotae_2 = city
+#b_vologotae_3 = temple
+#b_vologotae_4 = castle
+#b_vologotae_5 = city
+#b_vologotae_6 = temple
+#b_vologotae_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_cwm_brwym
+
+# County Title
+title = c_cwm_brwym
+
+# Settlements
+max_settlements = 4
+
+b_cwm_brwym = castle
+#b_cwm_brwym_2 = city
+#b_cwm_brwym_3 = temple
+#b_cwm_brwym_4 = castle
+#b_cwm_brwym_5 = city
+#b_cwm_brwym_6 = temple
+#b_cwm_brwym_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

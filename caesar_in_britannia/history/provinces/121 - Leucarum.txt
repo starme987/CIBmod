@@ -1,0 +1,21 @@
+# c_leucarum
+
+# County Title
+title = c_leucarum
+
+# Settlements
+max_settlements = 3
+
+b_leucarum = castle
+#b_leucarum_2 = city
+#b_leucarum_3 = temple
+#b_leucarum_4 = castle
+#b_leucarum_5 = city
+#b_leucarum_6 = temple
+#b_leucarum_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

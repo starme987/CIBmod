@@ -1,0 +1,21 @@
+# c_argentovaria
+
+# County Title
+title = c_argentovaria
+
+# Settlements
+max_settlements = 3
+
+b_argentovaria = castle
+#b_argentovaria_2 = city
+#b_argentovaria_3 = temple
+#b_argentovaria_4 = castle
+#b_argentovaria_5 = city
+#b_argentovaria_6 = temple
+#b_argentovaria_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

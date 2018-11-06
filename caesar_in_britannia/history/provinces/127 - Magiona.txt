@@ -1,0 +1,21 @@
+# c_magiona
+
+# County Title
+title = c_magiona
+
+# Settlements
+max_settlements = 3
+
+b_magiona = castle
+#b_magiona_2 = city
+#b_magiona_3 = temple
+#b_magiona_4 = castle
+#b_magiona_5 = city
+#b_magiona_6 = temple
+#b_magiona_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_matreum
+
+# County Title
+title = c_matreum
+
+# Settlements
+max_settlements = 3
+
+b_matreum = castle
+#b_matreum_2 = city
+#b_matreum_3 = temple
+#b_matreum_4 = castle
+#b_matreum_5 = city
+#b_matreum_6 = temple
+#b_matreum_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

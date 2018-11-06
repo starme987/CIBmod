@@ -1,0 +1,21 @@
+# c_louentinon
+
+# County Title
+title = c_louentinon
+
+# Settlements
+max_settlements = 3
+
+b_louentinon = castle
+#b_louentinon_2 = city
+#b_louentinon_3 = temple
+#b_louentinon_4 = castle
+#b_louentinon_5 = city
+#b_louentinon_6 = temple
+#b_louentinon_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

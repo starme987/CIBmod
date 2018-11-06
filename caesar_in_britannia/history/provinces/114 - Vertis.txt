@@ -1,0 +1,21 @@
+# c_vertis
+
+# County Title
+title = c_vertis
+
+# Settlements
+max_settlements = 3
+
+b_vertis = castle
+#b_vertis_2 = city
+#b_vertis_3 = temple
+#b_vertis_4 = castle
+#b_vertis_5 = city
+#b_vertis_6 = temple
+#b_vertis_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

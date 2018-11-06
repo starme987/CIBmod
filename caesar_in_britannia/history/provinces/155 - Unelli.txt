@@ -1,0 +1,21 @@
+# c_unelli
+
+# County Title
+title = c_unelli
+
+# Settlements
+max_settlements = 3
+
+b_unelli = castle
+#b_unelli_2 = city
+#b_unelli_3 = temple
+#b_unelli_4 = castle
+#b_unelli_5 = city
+#b_unelli_6 = temple
+#b_unelli_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_tiberiacum
+
+# County Title
+title = c_tiberiacum
+
+# Settlements
+max_settlements = 3
+
+b_tiberiacum = castle
+#b_tiberiacum_2 = city
+#b_tiberiacum_3 = temple
+#b_tiberiacum_4 = castle
+#b_tiberiacum_5 = city
+#b_tiberiacum_6 = temple
+#b_tiberiacum_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

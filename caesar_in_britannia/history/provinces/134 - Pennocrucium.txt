@@ -1,0 +1,21 @@
+# c_pennocrucium
+
+# County Title
+title = c_pennocrucium
+
+# Settlements
+max_settlements = 3
+
+b_pennocrucium = castle
+#b_pennocrucium_2 = city
+#b_pennocrucium_3 = temple
+#b_pennocrucium_4 = castle
+#b_pennocrucium_5 = city
+#b_pennocrucium_6 = temple
+#b_pennocrucium_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

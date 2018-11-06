@@ -1,0 +1,21 @@
+# c_verona
+
+# County Title
+title = c_verona
+
+# Settlements
+max_settlements = 3
+
+b_verona = castle
+#b_verona_2 = city
+#b_verona_3 = temple
+#b_verona_4 = castle
+#b_verona_5 = city
+#b_verona_6 = temple
+#b_verona_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

@@ -15,7 +15,7 @@ b_durolevum = castle
 #b_durolevum_7 = castle
 
 # Misc
-culture = german
-religion = catholic
+culture = british
+religion = british_druidic
 
 #History

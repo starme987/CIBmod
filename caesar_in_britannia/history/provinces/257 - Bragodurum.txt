@@ -1,0 +1,21 @@
+# c_bragodurum
+
+# County Title
+title = c_bragodurum
+
+# Settlements
+max_settlements = 3
+
+b_bragodurum = castle
+#b_bragodurum_2 = city
+#b_bragodurum_3 = temple
+#b_bragodurum_4 = castle
+#b_bragodurum_5 = city
+#b_bragodurum_6 = temple
+#b_bragodurum_7 = castle
+
+# Misc
+culture = germanic
+religion = heathen
+
+#History

@@ -1,0 +1,21 @@
+# c_rutunium
+
+# County Title
+title = c_rutunium
+
+# Settlements
+max_settlements = 3
+
+b_rutunium = castle
+#b_rutunium_2 = city
+#b_rutunium_3 = temple
+#b_rutunium_4 = castle
+#b_rutunium_5 = city
+#b_rutunium_6 = temple
+#b_rutunium_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

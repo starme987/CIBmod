@@ -1,0 +1,21 @@
+# c_bannaventa
+
+# County Title
+title = c_bannaventa
+
+# Settlements
+max_settlements = 3
+
+b_bannaventa = castle
+#b_bannaventa_2 = city
+#b_bannaventa_3 = temple
+#b_bannaventa_4 = castle
+#b_bannaventa_5 = city
+#b_bannaventa_6 = temple
+#b_bannaventa_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

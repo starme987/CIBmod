@@ -1,0 +1,21 @@
+# c_album_ingaunum
+
+# County Title
+title = c_album_ingaunum
+
+# Settlements
+max_settlements = 3
+
+b_album_ingaunum = castle
+#b_album_ingaunum_2 = city
+#b_album_ingaunum_3 = temple
+#b_album_ingaunum_4 = castle
+#b_album_ingaunum_5 = city
+#b_album_ingaunum_6 = temple
+#b_album_ingaunum_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

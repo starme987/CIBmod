@@ -1,0 +1,21 @@
+# c_comun
+
+# County Title
+title = c_comun
+
+# Settlements
+max_settlements = 3
+
+b_comun = castle
+#b_comun_2 = city
+#b_comun_3 = temple
+#b_comun_4 = castle
+#b_comun_5 = city
+#b_comun_6 = temple
+#b_comun_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

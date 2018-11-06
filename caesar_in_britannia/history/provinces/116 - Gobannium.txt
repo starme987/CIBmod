@@ -1,0 +1,21 @@
+# c_gobannium
+
+# County Title
+title = c_gobannium
+
+# Settlements
+max_settlements = 4
+
+b_gobannium = castle
+#b_gobannium_2 = city
+#b_gobannium_3 = temple
+#b_gobannium_4 = castle
+#b_gobannium_5 = city
+#b_gobannium_6 = temple
+#b_gobannium_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

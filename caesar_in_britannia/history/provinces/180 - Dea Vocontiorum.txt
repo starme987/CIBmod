@@ -1,0 +1,21 @@
+# c_dea_vocontiorum
+
+# County Title
+title = c_dea_vocontiorum
+
+# Settlements
+max_settlements = 3
+
+b_dea_vocontiorum = castle
+#b_dea_vocontiorum_2 = city
+#b_dea_vocontiorum_3 = temple
+#b_dea_vocontiorum_4 = castle
+#b_dea_vocontiorum_5 = city
+#b_dea_vocontiorum_6 = temple
+#b_dea_vocontiorum_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

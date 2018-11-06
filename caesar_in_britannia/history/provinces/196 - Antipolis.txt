@@ -1,0 +1,21 @@
+# c_antipolis
+
+# County Title
+title = c_antipolis
+
+# Settlements
+max_settlements = 3
+
+b_antipolis = castle
+#b_antipolis_2 = city
+#b_antipolis_3 = temple
+#b_antipolis_4 = castle
+#b_antipolis_5 = city
+#b_antipolis_6 = temple
+#b_antipolis_7 = castle
+
+# Misc
+culture = greek
+religion = greek_hellenic
+
+#History

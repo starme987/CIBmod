@@ -1,0 +1,21 @@
+# c_arae_flaviae
+
+# County Title
+title = c_arae_flaviae
+
+# Settlements
+max_settlements = 3
+
+b_arae_flaviae = castle
+#b_arae_flaviae_2 = city
+#b_arae_flaviae_3 = temple
+#b_arae_flaviae_4 = castle
+#b_arae_flaviae_5 = city
+#b_arae_flaviae_6 = temple
+#b_arae_flaviae_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

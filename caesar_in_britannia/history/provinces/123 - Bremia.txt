@@ -1,0 +1,21 @@
+# c_bremia
+
+# County Title
+title = c_bremia
+
+# Settlements
+max_settlements = 3
+
+b_bremia = castle
+#b_bremia_2 = city
+#b_bremia_3 = temple
+#b_bremia_4 = castle
+#b_bremia_5 = city
+#b_bremia_6 = temple
+#b_bremia_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

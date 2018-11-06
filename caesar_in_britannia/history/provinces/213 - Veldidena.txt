@@ -1,0 +1,21 @@
+# c_veldidena
+
+# County Title
+title = c_veldidena
+
+# Settlements
+max_settlements = 3
+
+b_veldidena = castle
+#b_veldidena_2 = city
+#b_veldidena_3 = temple
+#b_veldidena_4 = castle
+#b_veldidena_5 = city
+#b_veldidena_6 = temple
+#b_veldidena_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

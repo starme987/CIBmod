@@ -1,0 +1,21 @@
+# c_salinae
+
+# County Title
+title = c_salinae
+
+# Settlements
+max_settlements = 3
+
+b_salinae = castle
+#b_salinae_2 = city
+#b_salinae_3 = temple
+#b_salinae_4 = castle
+#b_salinae_5 = city
+#b_salinae_6 = temple
+#b_salinae_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

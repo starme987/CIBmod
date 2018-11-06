@@ -1,0 +1,21 @@
+# c_alaebecae
+
+# County Title
+title = c_alaebecae
+
+# Settlements
+max_settlements = 3
+
+b_alaebecae = castle
+#b_alaebecae_2 = city
+#b_alaebecae_3 = temple
+#b_alaebecae_4 = castle
+#b_alaebecae_5 = city
+#b_alaebecae_6 = temple
+#b_alaebecae_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

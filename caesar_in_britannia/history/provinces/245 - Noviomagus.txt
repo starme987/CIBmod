@@ -1,0 +1,21 @@
+# c_noviomagus
+
+# County Title
+title = c_noviomagus
+
+# Settlements
+max_settlements = 3
+
+b_noviomagus = castle
+#b_noviomagus_2 = city
+#b_noviomagus_3 = temple
+#b_noviomagus_4 = castle
+#b_noviomagus_5 = city
+#b_noviomagus_6 = temple
+#b_noviomagus_7 = castle
+
+# Misc
+culture = germanic
+religion = heathen
+
+#History

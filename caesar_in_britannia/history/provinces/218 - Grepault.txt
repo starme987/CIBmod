@@ -1,0 +1,21 @@
+# c_grepault
+
+# County Title
+title = c_grepault
+
+# Settlements
+max_settlements = 3
+
+b_grepault = castle
+#b_grepault_2 = city
+#b_grepault_3 = temple
+#b_grepault_4 = castle
+#b_grepault_5 = city
+#b_grepault_6 = temple
+#b_grepault_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History
