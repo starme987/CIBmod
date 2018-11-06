@@ -1,8 +1,17 @@
 # e_britannia
-1.1.1={
+500.1.1={
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-800.1.1={
-	liege=k_cantii
+600.1.1={
+	liege=k_icenii
+}
+743.01.01={
+	holder=2654
+}
+756.01.01={
+	holder=2650
+}
+814.01.01={
+	holder=2651
 }

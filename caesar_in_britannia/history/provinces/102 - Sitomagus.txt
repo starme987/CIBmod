@@ -1,0 +1,21 @@
+# c_sitomagus
+
+# County Title
+title = c_sitomagus
+
+# Settlements
+max_settlements = 3
+
+b_sitomagus = castle
+#b_sitomagus_2 = city
+#b_sitomagus_3 = temple
+#b_sitomagus_4 = castle
+#b_sitomagus_5 = city
+#b_sitomagus_6 = temple
+#b_sitomagus_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_rutupiae
+
+# County Title
+title = c_rutupiae
+
+# Settlements
+max_settlements = 3
+
+b_rutupiae = castle
+#b_rutupiae_2 = city
+#b_rutupiae_3 = temple
+#b_rutupiae_4 = castle
+#b_rutupiae_5 = city
+#b_rutupiae_6 = temple
+#b_rutupiae_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

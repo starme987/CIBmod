@@ -1,0 +1,21 @@
+# c_bannovallum
+
+# County Title
+title = c_bannovallum
+
+# Settlements
+max_settlements = 3
+
+b_bannovallum = castle
+#b_bannovallum_2 = city
+#b_bannovallum_3 = temple
+#b_bannovallum_4 = castle
+#b_bannovallum_5 = city
+#b_bannovallum_6 = temple
+#b_bannovallum_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

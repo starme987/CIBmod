@@ -1,0 +1,21 @@
+# c_camulodunum
+
+# County Title
+title = c_camulodunum
+
+# Settlements
+max_settlements = 4
+
+b_camulodunum = castle
+#b_camulodunum_2 = city
+#b_camulodunum_3 = temple
+#b_camulodunum_4 = castle
+#b_camulodunum_5 = city
+#b_camulodunum_6 = temple
+#b_camulodunum_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

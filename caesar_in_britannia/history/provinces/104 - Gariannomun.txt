@@ -1,0 +1,21 @@
+# c_gariannomun
+
+# County Title
+title = c_gariannomun
+
+# Settlements
+max_settlements = 3
+
+b_gariannomun = castle
+#b_gariannomun_2 = city
+#b_gariannomun_3 = temple
+#b_gariannomun_4 = castle
+#b_gariannomun_5 = city
+#b_gariannomun_6 = temple
+#b_gariannomun_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History
