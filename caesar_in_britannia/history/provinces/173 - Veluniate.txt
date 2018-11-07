@@ -1,0 +1,21 @@
+# c_veluniate
+
+# County Title
+title = c_veluniate
+
+# Settlements
+max_settlements = 3
+
+b_veluniate = castle
+#b_veluniate_2 = city
+#b_veluniate_3 = temple
+#b_veluniate_4 = castle
+#b_veluniate_5 = city
+#b_veluniate_6 = temple
+#b_veluniate_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_blatobulgium
+
+# County Title
+title = c_blatobulgium
+
+# Settlements
+max_settlements = 3
+
+b_blatobulgium = castle
+#b_blatobulgium_2 = city
+#b_blatobulgium_3 = temple
+#b_blatobulgium_4 = castle
+#b_blatobulgium_5 = city
+#b_blatobulgium_6 = temple
+#b_blatobulgium_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

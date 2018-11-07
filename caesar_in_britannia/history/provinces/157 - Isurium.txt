@@ -1,0 +1,21 @@
+# c_isurium
+
+# County Title
+title = c_isurium
+
+# Settlements
+max_settlements = 3
+
+b_isurium = castle
+#b_isurium_2 = city
+#b_isurium_3 = temple
+#b_isurium_4 = castle
+#b_isurium_5 = city
+#b_isurium_6 = temple
+#b_isurium_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_locus_maponi
+
+# County Title
+title = c_locus_maponi
+
+# Settlements
+max_settlements = 3
+
+b_locus_maponi = castle
+#b_locus_maponi_2 = city
+#b_locus_maponi_3 = temple
+#b_locus_maponi_4 = castle
+#b_locus_maponi_5 = city
+#b_locus_maponi_6 = temple
+#b_locus_maponi_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

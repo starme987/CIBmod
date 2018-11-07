@@ -1,0 +1,21 @@
+# c_karbantorigon
+
+# County Title
+title = c_karbantorigon
+
+# Settlements
+max_settlements = 4
+
+b_karbantorigon = castle
+#b_karbantorigon_2 = city
+#b_karbantorigon_3 = temple
+#b_karbantorigon_4 = castle
+#b_karbantorigon_5 = city
+#b_karbantorigon_6 = temple
+#b_karbantorigon_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

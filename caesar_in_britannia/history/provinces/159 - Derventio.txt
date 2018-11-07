@@ -1,0 +1,21 @@
+# c_derventio
+
+# County Title
+title = c_derventio
+
+# Settlements
+max_settlements = 3
+
+b_derventio = castle
+#b_derventio_2 = city
+#b_derventio_3 = temple
+#b_derventio_4 = castle
+#b_derventio_5 = city
+#b_derventio_6 = temple
+#b_derventio_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_fanum_cocidi
+
+# County Title
+title = c_fanum_cocidi
+
+# Settlements
+max_settlements = 3
+
+b_fanum_cocidi = castle
+#b_fanum_cocidi_2 = city
+#b_fanum_cocidi_3 = temple
+#b_fanum_cocidi_4 = castle
+#b_fanum_cocidi_5 = city
+#b_fanum_cocidi_6 = temple
+#b_fanum_cocidi_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_longovicium
+
+# County Title
+title = c_longovicium
+
+# Settlements
+max_settlements = 3
+
+b_longovicium = castle
+#b_longovicium_2 = city
+#b_longovicium_3 = temple
+#b_longovicium_4 = castle
+#b_longovicium_5 = city
+#b_longovicium_6 = temple
+#b_longovicium_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

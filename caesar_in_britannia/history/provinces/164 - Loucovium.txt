@@ -1,0 +1,21 @@
+# c_loucovium
+
+# County Title
+title = c_loucovium
+
+# Settlements
+max_settlements = 4
+
+b_loucovium = castle
+#b_loucovium_2 = city
+#b_loucovium_3 = temple
+#b_loucovium_4 = castle
+#b_loucovium_5 = city
+#b_loucovium_6 = temple
+#b_loucovium_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

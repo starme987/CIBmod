@@ -1,0 +1,21 @@
+# c_ratae
+
+# County Title
+title = c_ratae
+
+# Settlements
+max_settlements = 6
+
+b_ratae = castle
+#b_ratae_2 = city
+#b_ratae_3 = temple
+#b_ratae_4 = castle
+#b_ratae_5 = city
+#b_ratae_6 = temple
+#b_ratae_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

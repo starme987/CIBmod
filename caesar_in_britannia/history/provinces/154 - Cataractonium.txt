@@ -1,0 +1,21 @@
+# c_cataractonium
+
+# County Title
+title = c_cataractonium
+
+# Settlements
+max_settlements = 3
+
+b_cataractonium = castle
+#b_cataractonium_2 = city
+#b_cataractonium_3 = temple
+#b_cataractonium_4 = castle
+#b_cataractonium_5 = city
+#b_cataractonium_6 = temple
+#b_cataractonium_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

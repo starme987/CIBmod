@@ -1,0 +1,21 @@
+# c_lagentium
+
+# County Title
+title = c_lagentium
+
+# Settlements
+max_settlements = 3
+
+b_lagentium = castle
+#b_lagentium_2 = city
+#b_lagentium_3 = temple
+#b_lagentium_4 = castle
+#b_lagentium_5 = city
+#b_lagentium_6 = temple
+#b_lagentium_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

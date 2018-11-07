@@ -1,0 +1,21 @@
+# c_rerigonium
+
+# County Title
+title = c_rerigonium
+
+# Settlements
+max_settlements = 3
+
+b_rerigonium = castle
+#b_rerigonium_2 = city
+#b_rerigonium_3 = temple
+#b_rerigonium_4 = castle
+#b_rerigonium_5 = city
+#b_rerigonium_6 = temple
+#b_rerigonium_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

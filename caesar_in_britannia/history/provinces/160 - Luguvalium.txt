@@ -1,0 +1,21 @@
+# c_luguvalium
+
+# County Title
+title = c_luguvalium
+
+# Settlements
+max_settlements = 4
+
+b_luguvalium = castle
+#b_luguvalium_2 = city
+#b_luguvalium_3 = temple
+#b_luguvalium_4 = castle
+#b_luguvalium_5 = city
+#b_luguvalium_6 = temple
+#b_luguvalium_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

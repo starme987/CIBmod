@@ -1,0 +1,21 @@
+# c_kalagon
+
+# County Title
+title = c_kalagon
+
+# Settlements
+max_settlements = 3
+
+b_kalagon = castle
+#b_kalagon_2 = city
+#b_kalagon_3 = temple
+#b_kalagon_4 = castle
+#b_kalagon_5 = city
+#b_kalagon_6 = temple
+#b_kalagon_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_petuaria
+
+# County Title
+title = c_petuaria
+
+# Settlements
+max_settlements = 3
+
+b_petuaria = castle
+#b_petuaria_2 = city
+#b_petuaria_3 = temple
+#b_petuaria_4 = castle
+#b_petuaria_5 = city
+#b_petuaria_6 = temple
+#b_petuaria_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

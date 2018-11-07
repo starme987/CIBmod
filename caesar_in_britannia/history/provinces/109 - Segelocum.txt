@@ -1,0 +1,21 @@
+# c_segelocum
+
+# County Title
+title = c_segelocum
+
+# Settlements
+max_settlements = 3
+
+b_segelocum = castle
+#b_segelocum_2 = city
+#b_segelocum_3 = temple
+#b_segelocum_4 = castle
+#b_segelocum_5 = city
+#b_segelocum_6 = temple
+#b_segelocum_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

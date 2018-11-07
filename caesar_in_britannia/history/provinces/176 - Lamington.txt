@@ -1,0 +1,21 @@
+# c_lamington
+
+# County Title
+title = c_lamington
+
+# Settlements
+max_settlements = 3
+
+b_lamington = castle
+#b_lamington_2 = city
+#b_lamington_3 = temple
+#b_lamington_4 = castle
+#b_lamington_5 = city
+#b_lamington_6 = temple
+#b_lamington_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

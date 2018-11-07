@@ -1,0 +1,21 @@
+# c_lindum
+
+# County Title
+title = c_lindum
+
+# Settlements
+max_settlements = 3
+
+b_lindum = castle
+#b_lindum_2 = city
+#b_lindum_3 = temple
+#b_lindum_4 = castle
+#b_lindum_5 = city
+#b_lindum_6 = temple
+#b_lindum_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

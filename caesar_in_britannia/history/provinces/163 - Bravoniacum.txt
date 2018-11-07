@@ -1,0 +1,21 @@
+# c_bravoniacum
+
+# County Title
+title = c_bravoniacum
+
+# Settlements
+max_settlements = 3
+
+b_bravoniacum = castle
+#b_bravoniacum_2 = city
+#b_bravoniacum_3 = temple
+#b_bravoniacum_4 = castle
+#b_bravoniacum_5 = city
+#b_bravoniacum_6 = temple
+#b_bravoniacum_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History

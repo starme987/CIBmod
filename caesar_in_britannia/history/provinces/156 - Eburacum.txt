@@ -1,0 +1,21 @@
+# c_eburacum
+
+# County Title
+title = c_eburacum
+
+# Settlements
+max_settlements = 4
+
+b_eburacum = castle
+#b_eburacum_2 = city
+#b_eburacum_3 = temple
+#b_eburacum_4 = castle
+#b_eburacum_5 = city
+#b_eburacum_6 = temple
+#b_eburacum_7 = castle
+
+# Misc
+culture = british
+religion = british_druidic
+
+#History
