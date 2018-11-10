@@ -193,8 +193,6 @@ b_andematunnum_6;Andematunnum;Andematunnum;Andematunnum;;Andematunnum;;;;;;;;;x
 b_andematunnum_6_adj;Andematunnumian;;andematunnumer;;;;;;;;;;;x
 b_andematunnum_7;Andematunnum;Andematunnum;Andematunnum;;Andematunnum;;;;;;;;;x
 b_andematunnum_7_adj;Andematunnumian;;andematunnumer;;;;;;;;;;;x
-b_ankona;Ankona;Ankona;Ankona;;Ankona;;;;;;;;;x
-b_ankona_adj;Ankonan;;ankoner;;;;;;;;;;;x
 b_antipolis;Antipolis;Antipolis;Antipolis;;Antipolis;;;;;;;;;x
 b_antipolis_adj;Antipolisian;;antipoliser;;;;;;;;;;;x
 b_antipolis_2;Antipolis;Antipolis;Antipolis;;Antipolis;;;;;;;;;x
@@ -3591,6 +3589,8 @@ b_samnium_5;Samnium;Samnium;Samnium;;Samnium;;;;;;;;;x
 b_samnium_5_adj;Samniumian;;samniumer;;;;;;;;;;;x
 b_samnium_6;Samnium;Samnium;Samnium;;Samnium;;;;;;;;;x
 b_samnium_6_adj;Samniumian;;samniumer;;;;;;;;;;;x
+b_samnium_7;Samnium;Samnium;Samnium;;Samnium;;;;;;;;;x
+b_samnium_7_adj;Samniumian;;samniumer;;;;;;;;;;;x
 b_santones;Santones;Santones;Santones;;Santones;;;;;;;;;x
 b_santones_adj;Santonesian;;santoneser;;;;;;;;;;;x
 b_santones_2;Santones;Santones;Santones;;Santones;;;;;;;;;x

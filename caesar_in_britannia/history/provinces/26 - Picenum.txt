@@ -6,7 +6,7 @@ title = c_picenum
 # Settlements
 max_settlements = 4
 
-b_hatria = city
+b_hatria = castle
 #b_picenum = city
 #b_picenum_2 = temple
 #b_picenum_3 = castle

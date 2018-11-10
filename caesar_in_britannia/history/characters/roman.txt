@@ -592,6 +592,43 @@
 	774.4.17={ birth=yes }
 	825.11.20={ death=yes }
 }
+56={
+	name=Romanus
+	dynasty=23
+	culture=roman 
+	religion=roman_hellenic
+	732.12.13={ birth=yes }
+	752.1.1={ add_spouse=59 }
+	782.10.31={ death=yes }
+}
+57={
+	name=Dionysius
+	dynasty=23
+	culture=roman 
+	religion=roman_hellenic
+	father=56	#Romanus
+	mother=59	#Flacilla
+	760.10.16={ birth=yes }
+	833.12.10={ death=yes }
+}
+58={
+	name=Simplicianus
+	dynasty=23
+	culture=roman 
+	religion=roman_hellenic
+	father=56	#Romanus
+	mother=59	#Flacilla
+	765.7.25={ birth=yes }
+	816.7.28={ death=yes }
+}
+59={
+	name=Flacilla
+	female=yes
+	culture=roman 
+	religion=roman_hellenic
+	732.5.7={ birth=yes }
+	782.6.4={ death=yes }
+}
 60={
 	name=Linus
 	dynasty=15

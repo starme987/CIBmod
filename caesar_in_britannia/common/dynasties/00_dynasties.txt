@@ -129,6 +129,11 @@
 	culture="roman"
 	religion="roman_hellenic"
 }
+23={
+	name="Helvius"
+	culture="roman"
+	religion="roman_hellenic"
+}
 # Greek #
 
 50=

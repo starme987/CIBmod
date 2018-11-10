@@ -8,7 +8,7 @@ c_bellovaci = {
 	holy_site = british_druidic
 	holy_site = heathen
 }
-c_cantii = {
+c_durovernum = {
 	holy_site = roman_hellenic
 	holy_site = greek_hellenic
 	holy_site = celtic_druidic
@@ -16,7 +16,7 @@ c_cantii = {
 	holy_site = british_druidic
 	holy_site = heathen
 }
-c_insubres = {
+c_mediolanum = {
 	holy_site = roman_hellenic
 	holy_site = greek_hellenic
 	holy_site = celtic_druidic

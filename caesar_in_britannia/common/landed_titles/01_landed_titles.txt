@@ -7019,8 +7019,6 @@ e_roman_empire = {
 				color={ 96 23 23 }
 				color2={ 255 255 255 }
 				
-				b_ankona = {
-				}
 				b_samnium = {
 				}
 				b_samnium_2 = {
@@ -7032,6 +7030,8 @@ e_roman_empire = {
 				b_samnium_5 = {
 				}
 				b_samnium_6 = {
+				}
+				b_samnium_7 = {
 				}
 			}
 			c_histonum = { # 9
