@@ -43,7 +43,7 @@ bm_britannia = {
 		id = 2501 # Caratacus
 		age = 33
 		name = ERA_CHAR_NAME_500
-		title = c_catuvellauni
+		title = c_verulamion
 		title_name = CATUVELLAUNI
 		
 		character = {

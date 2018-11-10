@@ -635,7 +635,7 @@
 	culture=roman
 	religion=roman_hellenic
 	729.5.4={ birth = yes }
-	750.1.2={add_spouse=61}
+	751.1.2={add_spouse=61}
 	770.12.12={ death=yes }
 }
 61={
@@ -665,7 +665,7 @@
 	culture=roman
 	religion=roman_hellenic
 	752.7.2={birth=yes}
-	760.1.5={add_spouse=67}
+	761.1.5={add_spouse=67}
 	800.6.3={death=yes}
 }
 64={
@@ -721,8 +721,8 @@
 	culture=roman
 	religion=roman_hellenic
 	female=yes
-	751.2.1={birth=yes}
-	800.1.1={death=yes}
+	750.2.1={birth=yes}
+	600.1.1={death=yes}
 }
 70={
 	name=Serena
@@ -1140,7 +1140,7 @@
 	750.11.11={birth=yes}
 	766.1.1={add_spouse=135}
 	771.1.1={add_spouse=134}
-	800.1.1={death=yes}
+	600.1.1={death=yes}
 }
 134={
 	name=Helena
@@ -1148,7 +1148,7 @@
 	female=yes
 	religion=roman_hellenic
 	753.2.7={birth=yes}
-	800.1.1={death=yes}
+	600.1.1={death=yes}
 }
 135={
 	name=Galeria
@@ -1156,8 +1156,12 @@
 	culture=roman
 	religion=roman_hellenic
 	750.2.7={birth=yes}
-	769.5.5={death=yes}
-	769.5.5={death_reason=death_childbirth}
+	769.5.5={
+		death = {
+			death_reason = death_childbirth
+ 			killer = 629
+		}
+	}
 }
 136={
 	name=Nicolaus
@@ -1219,7 +1223,7 @@
 	culture=roman
 	747.6.3={birth=yes}
 	756.4.21={add_spouse=142}
-	800.1.1={death=yes}
+	600.1.1={death=yes}
 }
 142={
 	name=Rosalia
@@ -1227,7 +1231,7 @@
 	religion=roman_hellenic
 	culture=roman
 	750.4.1={birth=yes}
-	800.1.1={death=yes}
+	600.1.1={death=yes}
 }
 143={
 	name=Gaius

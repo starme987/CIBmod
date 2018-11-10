@@ -14,7 +14,7 @@
 world_roman_empire = {
 	duchies = {
 		d_latium d_campania d_samnium d_etruria d_umbria d_ager_gallicus d_picenum d_apulia d_lucania
-		d_bruttium d_liguria d_aemilitat d_venetia d_histria d_sicilia d_syrakuse d_sardinia d_corsica
+		d_bruttium d_liguria d_aemilitat d_venetia d_histria d_sicilia d_syrakuse d_gallurae d_calaris d_corsica
 	}
 }
 
