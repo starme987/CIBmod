@@ -7,5 +7,5 @@
 	liege=k_sardinia_et_corsica
 }
 790.1.1={
-	liege=d_north_sardinia
+	liege=d_gallurae
 }

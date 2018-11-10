@@ -1,8 +1,11 @@
-# e_britannia
+	# e_britannia
 1.1.1={
 	law = agnatic_succession
 	law = succ_primogeniture
 }
 800.1.1={
 	liege=k_icenii
+}
+796.1.1={
+	liege=d_coritani
 }

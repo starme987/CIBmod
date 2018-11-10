@@ -99,6 +99,36 @@
 	culture="roman"
 	religion="roman_hellenic"
 }
+17={
+	name="Mercatus"
+	culture="roman"
+	religion="roman_hellenic"
+}
+18={
+	name="Nauticus"
+	culture="roman"
+	religion="roman_hellenic"
+}
+19={
+	name="Valentius"
+	culture="roman"
+	religion="roman_hellenic"
+}
+20={
+	name="Cassalus"
+	culture="roman"
+	religion="roman_hellenic"
+}
+21={
+	name="Armigius"
+	culture="roman"
+	religion="roman_hellenic"
+}
+22={
+	name="Tumulus"
+	culture="roman"
+	religion="roman_hellenic"
+}
 # Greek #
 
 50=

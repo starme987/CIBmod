@@ -6,3 +6,6 @@
 800.1.1={
 	liege=k_dumnonii
 }
+796.1.1={
+	liege=d_dobunni
+}

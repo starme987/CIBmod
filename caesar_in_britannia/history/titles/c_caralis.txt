@@ -6,3 +6,6 @@
 800.1.1={
 	liege=k_sardinia_et_corsica
 }
+796.1.1={
+	holder=100
+}
