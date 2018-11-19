@@ -1,0 +1,21 @@
+# c_bagacum
+
+# County Title
+title = c_bagacum
+
+# Settlements
+max_settlements = 4
+
+b_bagacum = castle
+#b_bagacum_2 = city
+#b_bagacum_3 = temple
+#b_bagacum_4 = castle
+#b_bagacum_5 = city
+#b_bagacum_6 = temple
+#b_bagacum_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

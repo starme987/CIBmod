@@ -1,0 +1,21 @@
+# c_tarvenna
+
+# County Title
+title = c_tarvenna
+
+# Settlements
+max_settlements = 3
+
+b_tarvenna = castle
+#b_tarvenna_2 = city
+#b_tarvenna_3 = temple
+#b_tarvenna_4 = castle
+#b_tarvenna_5 = city
+#b_tarvenna_6 = temple
+#b_tarvenna_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

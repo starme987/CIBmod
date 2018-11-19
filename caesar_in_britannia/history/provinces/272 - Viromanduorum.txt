@@ -1,0 +1,21 @@
+# c_viromanduorum
+
+# County Title
+title = c_viromanduorum
+
+# Settlements
+max_settlements = 3
+
+b_viromanduorum = castle
+#b_viromanduorum_2 = city
+#b_viromanduorum_3 = temple
+#b_viromanduorum_4 = castle
+#b_viromanduorum_5 = city
+#b_viromanduorum_6 = temple
+#b_viromanduorum_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History
