@@ -1,0 +1,21 @@
+# c_augusta_suessionium
+
+# County Title
+title = c_augusta_suessionium
+
+# Settlements
+max_settlements = 4
+
+b_augusta_suessionium = castle
+#b_augusta_suessionium_2 = city
+#b_augusta_suessionium_3 = temple
+#b_augusta_suessionium_4 = castle
+#b_augusta_suessionium_5 = city
+#b_augusta_suessionium_6 = temple
+#b_augusta_suessionium_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

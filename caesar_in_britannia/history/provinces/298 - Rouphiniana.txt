@@ -1,0 +1,21 @@
+# c_rouphiniana
+
+# County Title
+title = c_rouphiniana
+
+# Settlements
+max_settlements = 4
+
+b_rouphiniana = castle
+#b_rouphiniana_2 = city
+#b_rouphiniana_3 = temple
+#b_rouphiniana_4 = castle
+#b_rouphiniana_5 = city
+#b_rouphiniana_6 = temple
+#b_rouphiniana_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

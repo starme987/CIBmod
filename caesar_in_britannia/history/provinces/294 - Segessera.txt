@@ -1,0 +1,21 @@
+# c_segessera
+
+# County Title
+title = c_segessera
+
+# Settlements
+max_settlements = 4
+
+b_segessera = castle
+#b_segessera_2 = city
+#b_segessera_3 = temple
+#b_segessera_4 = castle
+#b_segessera_5 = city
+#b_segessera_6 = temple
+#b_segessera_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

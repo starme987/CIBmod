@@ -1,0 +1,21 @@
+# c_orolanum
+
+# County Title
+title = c_orolanum
+
+# Settlements
+max_settlements = 3
+
+b_orolanum = castle
+#b_orolanum_2 = city
+#b_orolanum_3 = temple
+#b_orolanum_4 = castle
+#b_orolanum_5 = city
+#b_orolanum_6 = temple
+#b_orolanum_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

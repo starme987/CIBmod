@@ -1,0 +1,21 @@
+# c_durocortium
+
+# County Title
+title = c_durocortium
+
+# Settlements
+max_settlements = 3
+
+b_durocortium = castle
+#b_durocortium_2 = city
+#b_durocortium_3 = temple
+#b_durocortium_4 = castle
+#b_durocortium_5 = city
+#b_durocortium_6 = temple
+#b_durocortium_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

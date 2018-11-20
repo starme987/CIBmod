@@ -1,6 +1,6 @@
 #Placeholder holy sites - to avoid crashes 
 
-c_bellovaci = {
+c_caesaromagus = {
 	holy_site = roman_hellenic
 	holy_site = greek_hellenic
 	holy_site = celtic_druidic
