@@ -9,6 +9,7 @@ replace_path="common/alternate_start"
 replace_path="common/bloodlines"
 replace_path="common/landed_titles"
 replace_path="common/trade_routes"
+replace_path = "dlc_metadata" 
 user_dir="Caesar in Britannia"
 tags={Rome Roman Caesar Britannia Britain A.D. 43 Celts Germans WIP}
 picture="thumbnail_caesar_in_britannia.jpg"
