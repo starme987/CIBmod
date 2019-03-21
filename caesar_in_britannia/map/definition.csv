@@ -122,7 +122,7 @@ province;red;green;blue;x;x
 121;35;123;78;Clausentum;x
 122;55;116;37;Glevum;x
 123;108;116;108;Ariconium;x
-124;41;178;77;Vertis;x
+124;41;178;78;Vertis;x
 125;109;187;85;Blestium;x
 126;102;179;96;Gobannium;x
 127;157;204;154;Burrium;x
@@ -131,7 +131,7 @@ province;red;green;blue;x;x
 130;110;99;100;Alabum;x
 131;204;103;108;Leucarum;x
 132;198;127;130;Louentinon;x
-133;238;77;85;Bremia;x
+133;199;80;86;Bremia;x
 134;168;130;132;Abermagwr;x
 135;119;55;58;Credenhill;x
 136;196;100;105;Colwyn;x
@@ -218,7 +218,7 @@ province;red;green;blue;x;x
 217;138;136;78;Dea Vocontiorum;x
 218;131;28;74;Volcae;x
 219;99;59;77;Cadurci;x
-220;187;89;132;Ruteni;x
+220;156;133;71;Ruteni;x
 221;104;103;85;Arverni;x
 222;197;193;126;Biturges;x
 223;135;131;63;Lemovices;x
