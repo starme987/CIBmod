@@ -565,6 +565,8 @@ c_pictones;Pictones;Pictones;Pictones;;Pictones;;;;;;;;;x
 c_pictones_adj;Pictonesian;;pictoneser;;;;;;;;;;;x
 c_pisae;Pisae;Pisae;Pisae;;Pisae;;;;;;;;;x
 c_pisae_adj;Pisaean;;piser;;;;;;;;;;;x
+c_pocrinium;Pocrinium;Pocrinium;Pocrinium;;Pocrinium;;;;;;;;;x
+c_pocrinium_adj;Pocriniumian;;pocriniumer;;;;;;;;;;;x
 c_pons_saravi;Pons Saravi;Pons Saravi;Pons Saravi;;Pons Saravi;;;;;;;;;x
 c_pons_saravi_adj;Pons Saravian;;Pons Saraver;;;;;;;;;;;x
 c_populonia;Populonia;Populonia;Populonia;;Populonia;;;;;;;;;x
@@ -587,8 +589,6 @@ c_rotomagus;Rotomagus;Rotomagus;Rotomagus;;Rotomagus;;;;;;;;;x
 c_rotomagus_adj;Rotomagusian;;rotomaguser;;;;;;;;;;;x
 c_rouphiniana;Rouphiniana;Rouphiniana;Rouphiniana;;Rouphiniana;;;;;;;;;x
 c_rouphiniana_adj;Rouphinianan;;rouphinianer;;;;;;;;;;;x
-c_ruteni;Ruteni;Ruteni;Ruteni;;Ruteni;;;;;;;;;x
-c_ruteni_adj;Rutenian;;rutener;;;;;;;;;;;x
 c_rutunium;Rutunium;Rutunium;Rutunium;;Rutunium;;;;;;;;;x
 c_rutunium_adj;Rutuniumian;;rutuniumer;;;;;;;;;;;x
 c_rutupiae;Rutupiae;Rutupiae;Rutupiae;;Rutupiae;;;;;;;;;x
@@ -621,6 +621,8 @@ c_segelocum;Segelocum;Segelocum;Segelocum;;Segelocum;;;;;;;;;x
 c_segelocum_adj;Segelocumian;;segelocumer;;;;;;;;;;;x
 c_segessera;Segessera;Segessera;Segessera;;Segessera;;;;;;;;;x
 c_segessera_adj;Segesseran;;segesserer;;;;;;;;;;;x
+c_segodunum;Segodunum;Segodunum;Segodunum;;Segodunum;;;;;;;;;x
+c_segodunum_adj;Segodunumian;;segodunumer;;;;;;;;;;;x
 c_seguntium;Seguntium;Seguntium;Seguntium;;Seguntium;;;;;;;;;x
 c_seguntium_adj;Seguntiumian;;seguntiumer;;;;;;;;;;;x
 c_segustoro;Segustoro;Segustoro;Segustoro;;Segustoro;;;;;;;;;x
