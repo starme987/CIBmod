@@ -1,0 +1,21 @@
+# c_colomna
+
+# County Title
+title = c_colomna
+
+# Settlements
+max_settlements = 3
+
+b_colomna = castle
+#b_colomna_2 = city
+#b_colomna_3 = temple
+#b_colomna_4 = castle
+#b_colomna_5 = city
+#b_colomna_6 = temple
+#b_colomna_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History
