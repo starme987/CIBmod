@@ -1,0 +1,21 @@
+# c_caesarodunum
+
+# County Title
+title = c_caesarodunum
+
+# Settlements
+max_settlements = 4
+
+b_caesarodunum = castle
+#b_caesarodunum_2 = city
+#b_caesarodunum_3 = temple
+#b_caesarodunum_4 = castle
+#b_caesarodunum_5 = city
+#b_caesarodunum_6 = temple
+#b_caesarodunum_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

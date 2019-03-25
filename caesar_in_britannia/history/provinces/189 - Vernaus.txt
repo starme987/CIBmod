@@ -1,0 +1,21 @@
+# c_vernaus
+
+# County Title
+title = c_vernaus
+
+# Settlements
+max_settlements = 3
+
+b_vernaus = castle
+#b_vernaus_2 = city
+#b_vernaus_3 = temple
+#b_vernaus_4 = castle
+#b_vernaus_5 = city
+#b_vernaus_6 = temple
+#b_vernaus_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_calatonno
+
+# County Title
+title = c_calatonno
+
+# Settlements
+max_settlements = 3
+
+b_calatonno = castle
+#b_calatonno_2 = city
+#b_calatonno_3 = temple
+#b_calatonno_4 = castle
+#b_calatonno_5 = city
+#b_calatonno_6 = temple
+#b_calatonno_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

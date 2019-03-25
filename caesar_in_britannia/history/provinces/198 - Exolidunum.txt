@@ -1,0 +1,21 @@
+# c_exolidunum
+
+# County Title
+title = c_exolidunum
+
+# Settlements
+max_settlements = 3
+
+b_exolidunum = castle
+#b_exolidunum_2 = city
+#b_exolidunum_3 = temple
+#b_exolidunum_4 = castle
+#b_exolidunum_5 = city
+#b_exolidunum_6 = temple
+#b_exolidunum_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

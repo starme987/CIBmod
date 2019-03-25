@@ -179,213 +179,227 @@ PROV178;Redones;Redones;Redones;;;;;;;;;x
 PROV179;Namnetes;Namnetes;Namnetes;;;;;;;;;x
 PROV180;Pictones;Pictones;Pictones;;;;;;;;;x
 PROV181;Santones;Santones;Santones;;;;;;;;;x
-PROV182;Turones;Turones;Turones;;;;;;;;;x
-PROV183;Cenomani;Cenomani;Cenomani;;;;;;;;;x
-PROV184;Unelli;Unelli;Unelli;;;;;;;;;x
-PROV185;Lexovii;Lexovii;Lexovii;;;;;;;;;x
-PROV186;Cenabum;Cenabum;Cenabum;;;;;;;;;x
-PROV187;Avalocum;Avalocum;Avalocum;;;;;;;;;x
-PROV188;Colomna;Colomna;Colomna;;;;;;;;;x
-PROV189;Miciacum;Miciacum;Miciacum;;;;;;;;;x
-PROV190;Segimovicus;Segimovicus;Segimovicus;;;;;;;;;x
-PROV191;Ausci;Ausci;Ausci;;;;;;;;;x
-PROV192;Tarbelli;Tarbelli;Tarbelli;;;;;;;;;x
-PROV193;Vivisci;Vivisci;Vivisci;;;;;;;;;x
-PROV194;Sotiates;Sotiates;Sotiates;;;;;;;;;x
-PROV195;Autricum;Autricum;Autricum;;;;;;;;;x
-PROV196;Lutetia;Lutetia;Lutetia;;;;;;;;;x
-PROV197;Agedincum;Agedincum;Agedincum;;;;;;;;;x
-PROV198;Autessiodurum;Autessiodurum;Autessiodurum;;;;;;;;;x
-PROV199;Argentomagus;Argentomagus;Argentomagus;;;;;;;;;x
-PROV200;Leprosum;Leprosum;Leprosum;;;;;;;;;x
-PROV201;Balatedine;Balatedine;Balatedine;;;;;;;;;x
-PROV202;Avaricum;Avaricum;Avaricum;;;;;;;;;x
-PROV203;Cervidunum;Cervidunum;Cervidunum;;;;;;;;;x
-PROV204;Genava;Genava;Genava;;;;;;;;;x
-PROV205;Iulia Equestris;Iulia Equestris;Iulia Equestris;;;;;;;;;x
-PROV206;Matisco;Matisco;Matisco;;;;;;;;;x
-PROV207;Vesontio;Vesontio;Vesontio;;;;;;;;;x
-PROV208;Alisona;Alisona;Alisona;;;;;;;;;x
-PROV209;Andematunnum;Andematunnum;Andematunnum;;;;;;;;;x
-PROV210;Lugdunum;Lugdunum;Lugdunum;;;;;;;;;x
-PROV211;Morginnum;Morginnum;Morginnum;;;;;;;;;x
-PROV212;Darantasia;Darantasia;Darantasia;;;;;;;;;x
-PROV213;Cularo;Cularo;Cularo;;;;;;;;;x
-PROV214;Eporedia;Eporedia;Eporedia;;;;;;;;;x
-PROV215;Pocrinium;Pocrinium;Pocrinium;;;;;;;;;x
-PROV216;Cerebecialla;Cerebecialla;Cerebecialla;;;;;;;;;x
-PROV217;Vappincum;Vappincum;Vappincum;;;;;;;;;x
-PROV218;Augusta Taurinorum;Augusta Taurinorum;Augusta Taurinorum;;;;;;;;;x
-PROV219;Scinomagus;Scinomagus;Scinomagus;;;;;;;;;x
-PROV220;Vologotae;Vologotae;Vologotae;;;;;;;;;x
-PROV221;Dea Vocontiorum;Dea Vocontiorum;Dea Vocontiorum;;;;;;;;;x
-PROV222;Volcae;Volcae;Volcae;;;;;;;;;x
-PROV223;Cadurci;Cadurci;Cadurci;;;;;;;;;x
-PROV224;Segodunum;Segodunum;Segodunum;;;;;;;;;x
-PROV225;Arverni;Arverni;Arverni;;;;;;;;;x
-PROV226;Biturges;Biturges;Biturges;;;;;;;;;x
-PROV227;Lemovices;Lemovices;Lemovices;;;;;;;;;x
-PROV228;Apta Iulia;Apta Iulia;Apta Iulia;;;;;;;;;x
-PROV229;Alaebecae;Alaebecae;Alaebecae;;;;;;;;;x
-PROV230;Segustoro;Segustoro;Segustoro;;;;;;;;;x
-PROV231;Catuaicia;Catuaicia;Catuaicia;;;;;;;;;x
-PROV232;Cemenellum;Cemenellum;Cemenellum;;;;;;;;;x
-PROV233;Album Ingaunum;Album Ingaunum;Album Ingaunum;;;;;;;;;x
-PROV234;Albium Intimilium;Albium Intimilium;Albium Intimilium;;;;;;;;;x
-PROV235;Vintium;Vintium;Vintium;;;;;;;;;x
-PROV236;Massalia;Massalia;Massalia;;;;;;;;;x
-PROV237;Antipolis;Antipolis;Antipolis;;;;;;;;;x
-PROV238;Forum Iulii;Forum Iulii;Forum Iulii;;;;;;;;;x
-PROV239;Aquae Sextiae;Aquae Sextiae;Aquae Sextiae;;;;;;;;;x
-PROV240;Mediolanum;Mediolanum;Mediolanum;;;;;;;;;x
-PROV241;Ticinum;Ticinum;Ticinum;;;;;;;;;x
-PROV242;Comun;Comun;Comun;;;;;;;;;x
-PROV243;Novaria;Novaria;Novaria;;;;;;;;;x
-PROV244;Vercellae;Vercellae;Vercellae;;;;;;;;;x
-PROV245;Tridentium;Tridentium;Tridentium;;;;;;;;;x
-PROV246;Verona;Verona;Verona;;;;;;;;;x
-PROV247;Feltria;Feltria;Feltria;;;;;;;;;x
-PROV248;Verruca;Verruca;Verruca;;;;;;;;;x
-PROV249;Anaunion;Anaunion;Anaunion;;;;;;;;;x
-PROV250;Raeti;Raeti;Raeti;;;;;;;;;x
-PROV251;Teurnia;Teurnia;Teurnia;;;;;;;;;x
-PROV252;Aguntum;Aguntum;Aguntum;;;;;;;;;x
-PROV253;Littamum;Littamum;Littamum;;;;;;;;;x
-PROV254;Veldidena;Veldidena;Veldidena;;;;;;;;;x
-PROV255;Aventicum;Aventicum;Aventicum;;;;;;;;;x
-PROV256;Curia;Curia;Curia;;;;;;;;;x
-PROV257;Cunus Aureas;Cunus Aureas;Cunus Aureas;;;;;;;;;x
-PROV258;Magia;Magia;Magia;;;;;;;;;x
-PROV259;Grepault;Grepault;Grepault;;;;;;;;;x
-PROV260;Brenodunum;Brenodunum;Brenodunum;;;;;;;;;x
-PROV261;Sedunum;Sedunum;Sedunum;;;;;;;;;x
-PROV262;Cambodunum;Cambodunum;Cambodunum;;;;;;;;;x
-PROV263;Sermiana;Sermiana;Sermiana;;;;;;;;;x
-PROV264;Summus Vicus;Summus Vicus;Summus Vicus;;;;;;;;;x
-PROV265;Segavio;Segavio;Segavio;;;;;;;;;x
-PROV266;Matreum;Matreum;Matreum;;;;;;;;;x
-PROV267;Parthanum;Parthanum;Parthanum;;;;;;;;;x
-PROV268;Damasia;Damasia;Damasia;;;;;;;;;x
-PROV269;Arbor Felix;Arbor Felix;Arbor Felix;;;;;;;;;x
-PROV270;Caesaromagus;Caesaromagus;Caesaromagus;;;;;;;;;x
-PROV271;Caracoticum;Caracoticum;Caracoticum;;;;;;;;;x
-PROV272;Rotomagus;Rotomagus;Rotomagus;;;;;;;;;x
-PROV273;Briga;Briga;Briga;;;;;;;;;x
-PROV274;Augustomagus;Augustomagus;Augustomagus;;;;;;;;;x
-PROV275;Bagacum;Bagacum;Bagacum;;;;;;;;;x
-PROV276;Viromanduorum;Viromanduorum;Viromanduorum;;;;;;;;;x
-PROV277;Verbinum;Verbinum;Verbinum;;;;;;;;;x
-PROV278;Catusiacum;Catusiacum;Catusiacum;;;;;;;;;x
-PROV279;Castellum Menaporium;Castellum Menaporium;Castellum Menaporium;;;;;;;;;x
-PROV280;Samarobriva;Samarobriva;Samarobriva;;;;;;;;;x
-PROV281;Gesoriacum;Gesoriacum;Gesoriacum;;;;;;;;;x
-PROV282;Tarvenna;Tarvenna;Tarvenna;;;;;;;;;x
-PROV283;Ganuen;Ganuen;Ganuen;;;;;;;;;x
-PROV284;Nasagus;Nasagus;Nasagus;;;;;;;;;x
-PROV285;Gelduba;Gelduba;Gelduba;;;;;;;;;x
-PROV286;Mederiacum;Mederiacum;Mederiacum;;;;;;;;;x
-PROV287;Atuatuca;Atuatuca;Atuatuca;;;;;;;;;x
-PROV288;Vervigium;Vervigium;Vervigium;;;;;;;;;x
-PROV289;Perniciacum;Perniciacum;Perniciacum;;;;;;;;;x
-PROV290;Castra Vetera;Castra Vetera;Castra Vetera;;;;;;;;;x
-PROV291;Helinio;Helinio;Helinio;;;;;;;;;x
-PROV292;Grinnes;Grinnes;Grinnes;;;;;;;;;x
-PROV293;Geminiacum;Geminiacum;Geminiacum;;;;;;;;;x
-PROV294;Blariacum;Blariacum;Blariacum;;;;;;;;;x
-PROV295;Augusta Suessionium;Augusta Suessionium;Augusta Suessionium;;;;;;;;;x
-PROV296;Durocortium;Durocortium;Durocortium;;;;;;;;;x
-PROV297;Durocatalaunum;Durocatalaunum;Durocatalaunum;;;;;;;;;x
-PROV298;Segessera;Segessera;Segessera;;;;;;;;;x
-PROV299;Caviniacum;Caviniacum;Caviniacum;;;;;;;;;x
-PROV300;Orolanum;Orolanum;Orolanum;;;;;;;;;x
-PROV301;Caturicis;Caturicis;Caturicis;;;;;;;;;x
-PROV302;Rouphiniana;Rouphiniana;Rouphiniana;;;;;;;;;x
-PROV303;Decem Pagi;Decem Pagi;Decem Pagi;;;;;;;;;x
-PROV304;Pons Saravi;Pons Saravi;Pons Saravi;;;;;;;;;x
-PROV305;Marcomagus;Marcomagus;Marcomagus;;;;;;;;;x
-PROV306;Tolbiacum;Tolbiacum;Tolbiacum;;;;;;;;;x
-PROV307;Tiberiacum;Tiberiacum;Tiberiacum;;;;;;;;;x
-PROV308;Novaesium;Novaesium;Novaesium;;;;;;;;;x
-PROV309;Burungum;Burungum;Burungum;;;;;;;;;x
-PROV310;Marcodurum;Marcodurum;Marcodurum;;;;;;;;;x
-PROV311;Vicus Alisinensium;Vicus Alisinensium;Vicus Alisinensium;;;;;;;;;x
-PROV312;Aquae;Aquae;Aquae;;;;;;;;;x
-PROV313;Noviomagus;Noviomagus;Noviomagus;;;;;;;;;x
-PROV314;Lopodunum;Lopodunum;Lopodunum;;;;;;;;;x
-PROV315;Borbetomagus;Borbetomagus;Borbetomagus;;;;;;;;;x
-PROV316;Mogontiacum;Mogontiacum;Mogontiacum;;;;;;;;;x
-PROV317;Aquae Mattiacorum;Aquae Mattiacorum;Aquae Mattiacorum;;;;;;;;;x
-PROV318;Nida;Nida;Nida;;;;;;;;;x
-PROV319;Bonna;Bonna;Bonna;;;;;;;;;x
-PROV320;Bingium;Bingium;Bingium;;;;;;;;;x
-PROV321;Augusta Treverorum;Augusta Treverorum;Augusta Treverorum;;;;;;;;;x
-PROV322;Ausava;Ausava;Ausava;;;;;;;;;x
-PROV323;Belsonacum;Belsonacum;Belsonacum;;;;;;;;;x
-PROV324;Summelocenna;Summelocenna;Summelocenna;;;;;;;;;x
-PROV325;Bragodurum;Bragodurum;Bragodurum;;;;;;;;;x
-PROV326;Guntia;Guntia;Guntia;;;;;;;;;x
-PROV327;Phoebiana;Phoebiana;Phoebiana;;;;;;;;;x
-PROV328;Vindelicum;Vindelicum;Vindelicum;;;;;;;;;x
-PROV329;Parrodunum;Parrodunum;Parrodunum;;;;;;;;;x
-PROV330;Epamanduodurum;Epamanduodurum;Epamanduodurum;;;;;;;;;x
-PROV331;Tullum;Tullum;Tullum;;;;;;;;;x
-PROV332;Viridunum;Viridunum;Viridunum;;;;;;;;;x
-PROV333;Divodurum;Divodurum;Divodurum;;;;;;;;;x
-PROV334;Broccomagus;Broccomagus;Broccomagus;;;;;;;;;x
-PROV335;Argentorate;Argentorate;Argentorate;;;;;;;;;x
-PROV336;Argentovaria;Argentovaria;Argentovaria;;;;;;;;;x
-PROV337;Augusta Raurica;Augusta Raurica;Augusta Raurica;;;;;;;;;x
-PROV338;Salodurum;Salodurum;Salodurum;;;;;;;;;x
-PROV339;Vindonissa;Vindonissa;Vindonissa;;;;;;;;;x
-PROV340;Arae Flaviae;Arae Flaviae;Arae Flaviae;;;;;;;;;x
-PROV341;Centrum Prata;Centrum Prata;Centrum Prata;;;;;;;;;x
-PROV342;Emporion;Emporion;Emporion;;;;;;;;;x
-PROV343;Indigetes;Indigetes;Indigetes;;;;;;;;;x
-PROV344;Iacetani;Iacetani;Iacetani;;;;;;;;;x
-PROV345;Ceretani;Ceretani;Ceretani;;;;;;;;;x
-PROV346;Cessetani;Cessetani;Cessetani;;;;;;;;;x
-PROV347;Illergetae;Illergetae;Illergetae;;;;;;;;;x
-PROV348;Berones;Berones;Berones;;;;;;;;;x
-PROV349;Baleares;Baleares;Baleares;;;;;;;;;x
-PROV350;Ebusus;Ebusus;Ebusus;;;;;;;;;x
-PROV351;Ilercavones;Ilercavones;Ilercavones;;;;;;;;;x
-PROV352;Sedetani;Sedetani;Sedetani;;;;;;;;;x
-PROV353;Vardulli;Vardulli;Vardulli;;;;;;;;;x
-PROV354;Turmodigi;Turmodigi;Turmodigi;;;;;;;;;x
-PROV355;Caristii;Caristii;Caristii;;;;;;;;;x
-PROV356;Edetani;Edetani;Edetani;;;;;;;;;x
-PROV357;Contestani;Contestani;Contestani;;;;;;;;;x
-PROV358;Lobetani;Lobetani;Lobetani;;;;;;;;;x
-PROV359;Germanii;Germanii;Germanii;;;;;;;;;x
-PROV360;Carpetani;Carpetani;Carpetani;;;;;;;;;x
-PROV361;Arevaci;Arevaci;Arevaci;;;;;;;;;x
-PROV362;Calontienses;Calontienses;Calontienses;;;;;;;;;x
-PROV363;Vettones;Vettones;Vettones;;;;;;;;;x
-PROV364;Vaccaei;Vaccaei;Vaccaei;;;;;;;;;x
-PROV365;Cantabri;Cantabri;Cantabri;;;;;;;;;x
-PROV366;Baedunenses;Baedunenses;Baedunenses;;;;;;;;;x
-PROV367;Astures;Astures;Astures;;;;;;;;;x
-PROV368;Lemavi;Lemavi;Lemavi;;;;;;;;;x
-PROV369;Cibarci;Cibarci;Cibarci;;;;;;;;;x
-PROV370;Artabri;Artabri;Artabri;;;;;;;;;x
-PROV371;Gallaeci;Gallaeci;Gallaeci;;;;;;;;;x
-PROV372;Bracari;Bracari;Bracari;;;;;;;;;x
-PROV373;Bletonesii;Bletonesii;Bletonesii;;;;;;;;;x
-PROV374;Lanciences;Lanciences;Lanciences;;;;;;;;;x
-PROV375;Paesuri;Paesuri;Paesuri;;;;;;;;;x
-PROV376;Veteres;Veteres;Veteres;;;;;;;;;x
-PROV377;Tapori;Tapori;Tapori;;;;;;;;;x
-PROV378;Elbocori;Elbocori;Elbocori;;;;;;;;;x
-PROV379;Oppidani;Oppidani;Oppidani;;;;;;;;;x
-PROV380;Celtici;Celtici;Celtici;;;;;;;;;x
-PROV381;Mirobrigenses;Mirobrigenses;Mirobrigenses;;;;;;;;;x
-PROV382;Elbestoi;Elbestoi;Elbestoi;;;;;;;;;x
-PROV383;Cunetes;Cunetes;Cunetes;;;;;;;;;x
-PROV384;Turduli;Turduli;Turduli;;;;;;;;;x
-PROV385;Baetica;Baetica;Baetica;;;;;;;;;x
-PROV386;Turdetani;Turdetani;Turdetani;;;;;;;;;x
-PROV387;West Oretani;West Oretani;West Oretani;;;;;;;;;x
-PROV388;East Oretani;East Oretani;East Oretani;;;;;;;;;x
-PROV389;Bastetani;Bastetani;Bastetani;;;;;;;;;x
-PROV390;Ocean Britain;Ocean Britain;Ocean Britain;;;;;;;;;x
-PROV391;Ocean Roman;Ocean Roman;Ocean Roman;;;;;;;;;x
+PROV182;Caesarodunum;Caesarodunum;Caesarodunum;;;;;;;;;x
+PROV183;Brixis;Brixis;Brixis;;;;;;;;;x
+PROV184;Mantalomagum;Mantalomagum;Mantalomagum;;;;;;;;;x
+PROV185;Mediconnum;Mediconnum;Mediconnum;;;;;;;;;x
+PROV186;Alingavia;Alingavia;Alingavia;;;;;;;;;x
+PROV187;Calatonno;Calatonno;Calatonno;;;;;;;;;x
+PROV188;Novivicum;Novivicum;Novivicum;;;;;;;;;x
+PROV189;Vernaus;Vernaus;Vernaus;;;;;;;;;x
+PROV190;Cenomani;Cenomani;Cenomani;;;;;;;;;x
+PROV191;Unelli;Unelli;Unelli;;;;;;;;;x
+PROV192;Lexovii;Lexovii;Lexovii;;;;;;;;;x
+PROV193;Cenabum;Cenabum;Cenabum;;;;;;;;;x
+PROV194;Avalocum;Avalocum;Avalocum;;;;;;;;;x
+PROV195;Colomna;Colomna;Colomna;;;;;;;;;x
+PROV196;Miciacum;Miciacum;Miciacum;;;;;;;;;x
+PROV197;Segimovicus;Segimovicus;Segimovicus;;;;;;;;;x
+PROV198;Exolidunum;Exolidunum;Exolidunum;;;;;;;;;x
+PROV199;Solonacum;Solonacum;Solonacum;;;;;;;;;x
+PROV200;Ausci;Ausci;Ausci;;;;;;;;;x
+PROV201;Tarbelli;Tarbelli;Tarbelli;;;;;;;;;x
+PROV202;Vivisci;Vivisci;Vivisci;;;;;;;;;x
+PROV203;Sotiates;Sotiates;Sotiates;;;;;;;;;x
+PROV204;Autricum;Autricum;Autricum;;;;;;;;;x
+PROV205;Lutetia;Lutetia;Lutetia;;;;;;;;;x
+PROV206;Agedincum;Agedincum;Agedincum;;;;;;;;;x
+PROV207;Autessiodurum;Autessiodurum;Autessiodurum;;;;;;;;;x
+PROV208;Argentomagus;Argentomagus;Argentomagus;;;;;;;;;x
+PROV209;Leprosum;Leprosum;Leprosum;;;;;;;;;x
+PROV210;Balatedine;Balatedine;Balatedine;;;;;;;;;x
+PROV211;Avaricum;Avaricum;Avaricum;;;;;;;;;x
+PROV212;Cervidunum;Cervidunum;Cervidunum;;;;;;;;;x
+PROV213;Genava;Genava;Genava;;;;;;;;;x
+PROV214;Iulia Equestris;Iulia Equestris;Iulia Equestris;;;;;;;;;x
+PROV215;Matisco;Matisco;Matisco;;;;;;;;;x
+PROV216;Vesontio;Vesontio;Vesontio;;;;;;;;;x
+PROV217;Alisona;Alisona;Alisona;;;;;;;;;x
+PROV218;Andematunnum;Andematunnum;Andematunnum;;;;;;;;;x
+PROV219;Lugdunum;Lugdunum;Lugdunum;;;;;;;;;x
+PROV220;Morginnum;Morginnum;Morginnum;;;;;;;;;x
+PROV221;Darantasia;Darantasia;Darantasia;;;;;;;;;x
+PROV222;Cularo;Cularo;Cularo;;;;;;;;;x
+PROV223;Eporedia;Eporedia;Eporedia;;;;;;;;;x
+PROV224;Pocrinium;Pocrinium;Pocrinium;;;;;;;;;x
+PROV225;Cerebecialla;Cerebecialla;Cerebecialla;;;;;;;;;x
+PROV226;Vappincum;Vappincum;Vappincum;;;;;;;;;x
+PROV227;Augusta Taurinorum;Augusta Taurinorum;Augusta Taurinorum;;;;;;;;;x
+PROV228;Scinomagus;Scinomagus;Scinomagus;;;;;;;;;x
+PROV229;Vologotae;Vologotae;Vologotae;;;;;;;;;x
+PROV230;Dea Vocontiorum;Dea Vocontiorum;Dea Vocontiorum;;;;;;;;;x
+PROV231;Volcae;Volcae;Volcae;;;;;;;;;x
+PROV232;Cadurci;Cadurci;Cadurci;;;;;;;;;x
+PROV233;Segodunum;Segodunum;Segodunum;;;;;;;;;x
+PROV234;Arverni;Arverni;Arverni;;;;;;;;;x
+PROV235;Biturges;Biturges;Biturges;;;;;;;;;x
+PROV236;Senaparia;Senaparia;Senaparia;;;;;;;;;x
+PROV237;Alerta;Alerta;Alerta;;;;;;;;;x
+PROV238;Nogeomagus;Nogeomagus;Nogeomagus;;;;;;;;;x
+PROV239;Intaranum;Intaranum;Intaranum;;;;;;;;;x
+PROV240;Decetia;Decetia;Decetia;;;;;;;;;x
+PROV241;Lemovices;Lemovices;Lemovices;;;;;;;;;x
+PROV242;Apta Iulia;Apta Iulia;Apta Iulia;;;;;;;;;x
+PROV243;Alaebecae;Alaebecae;Alaebecae;;;;;;;;;x
+PROV244;Segustoro;Segustoro;Segustoro;;;;;;;;;x
+PROV245;Catuaicia;Catuaicia;Catuaicia;;;;;;;;;x
+PROV246;Cemenellum;Cemenellum;Cemenellum;;;;;;;;;x
+PROV247;Album Ingaunum;Album Ingaunum;Album Ingaunum;;;;;;;;;x
+PROV248;Albium Intimilium;Albium Intimilium;Albium Intimilium;;;;;;;;;x
+PROV249;Vintium;Vintium;Vintium;;;;;;;;;x
+PROV250;Massalia;Massalia;Massalia;;;;;;;;;x
+PROV251;Antipolis;Antipolis;Antipolis;;;;;;;;;x
+PROV252;Forum Iulii;Forum Iulii;Forum Iulii;;;;;;;;;x
+PROV253;Aquae Sextiae;Aquae Sextiae;Aquae Sextiae;;;;;;;;;x
+PROV254;Mediolanum;Mediolanum;Mediolanum;;;;;;;;;x
+PROV255;Ticinum;Ticinum;Ticinum;;;;;;;;;x
+PROV256;Comun;Comun;Comun;;;;;;;;;x
+PROV257;Novaria;Novaria;Novaria;;;;;;;;;x
+PROV258;Vercellae;Vercellae;Vercellae;;;;;;;;;x
+PROV259;Tridentium;Tridentium;Tridentium;;;;;;;;;x
+PROV260;Verona;Verona;Verona;;;;;;;;;x
+PROV261;Feltria;Feltria;Feltria;;;;;;;;;x
+PROV262;Verruca;Verruca;Verruca;;;;;;;;;x
+PROV263;Anaunion;Anaunion;Anaunion;;;;;;;;;x
+PROV264;Raeti;Raeti;Raeti;;;;;;;;;x
+PROV265;Teurnia;Teurnia;Teurnia;;;;;;;;;x
+PROV266;Aguntum;Aguntum;Aguntum;;;;;;;;;x
+PROV267;Littamum;Littamum;Littamum;;;;;;;;;x
+PROV268;Veldidena;Veldidena;Veldidena;;;;;;;;;x
+PROV269;Aventicum;Aventicum;Aventicum;;;;;;;;;x
+PROV270;Curia;Curia;Curia;;;;;;;;;x
+PROV271;Cunus Aureas;Cunus Aureas;Cunus Aureas;;;;;;;;;x
+PROV272;Magia;Magia;Magia;;;;;;;;;x
+PROV273;Grepault;Grepault;Grepault;;;;;;;;;x
+PROV274;Brenodunum;Brenodunum;Brenodunum;;;;;;;;;x
+PROV275;Sedunum;Sedunum;Sedunum;;;;;;;;;x
+PROV276;Cambodunum;Cambodunum;Cambodunum;;;;;;;;;x
+PROV277;Sermiana;Sermiana;Sermiana;;;;;;;;;x
+PROV278;Summus Vicus;Summus Vicus;Summus Vicus;;;;;;;;;x
+PROV279;Segavio;Segavio;Segavio;;;;;;;;;x
+PROV280;Matreum;Matreum;Matreum;;;;;;;;;x
+PROV281;Parthanum;Parthanum;Parthanum;;;;;;;;;x
+PROV282;Damasia;Damasia;Damasia;;;;;;;;;x
+PROV283;Arbor Felix;Arbor Felix;Arbor Felix;;;;;;;;;x
+PROV284;Caesaromagus;Caesaromagus;Caesaromagus;;;;;;;;;x
+PROV285;Caracoticum;Caracoticum;Caracoticum;;;;;;;;;x
+PROV286;Rotomagus;Rotomagus;Rotomagus;;;;;;;;;x
+PROV287;Briga;Briga;Briga;;;;;;;;;x
+PROV288;Augustomagus;Augustomagus;Augustomagus;;;;;;;;;x
+PROV289;Bagacum;Bagacum;Bagacum;;;;;;;;;x
+PROV290;Viromanduorum;Viromanduorum;Viromanduorum;;;;;;;;;x
+PROV291;Verbinum;Verbinum;Verbinum;;;;;;;;;x
+PROV292;Catusiacum;Catusiacum;Catusiacum;;;;;;;;;x
+PROV293;Castellum Menaporium;Castellum Menaporium;Castellum Menaporium;;;;;;;;;x
+PROV294;Samarobriva;Samarobriva;Samarobriva;;;;;;;;;x
+PROV295;Gesoriacum;Gesoriacum;Gesoriacum;;;;;;;;;x
+PROV296;Tarvenna;Tarvenna;Tarvenna;;;;;;;;;x
+PROV297;Ganuen;Ganuen;Ganuen;;;;;;;;;x
+PROV298;Nasagus;Nasagus;Nasagus;;;;;;;;;x
+PROV299;Gelduba;Gelduba;Gelduba;;;;;;;;;x
+PROV300;Mederiacum;Mederiacum;Mederiacum;;;;;;;;;x
+PROV301;Atuatuca;Atuatuca;Atuatuca;;;;;;;;;x
+PROV302;Vervigium;Vervigium;Vervigium;;;;;;;;;x
+PROV303;Perniciacum;Perniciacum;Perniciacum;;;;;;;;;x
+PROV304;Castra Vetera;Castra Vetera;Castra Vetera;;;;;;;;;x
+PROV305;Helinio;Helinio;Helinio;;;;;;;;;x
+PROV306;Grinnes;Grinnes;Grinnes;;;;;;;;;x
+PROV307;Geminiacum;Geminiacum;Geminiacum;;;;;;;;;x
+PROV308;Blariacum;Blariacum;Blariacum;;;;;;;;;x
+PROV309;Augusta Suessionium;Augusta Suessionium;Augusta Suessionium;;;;;;;;;x
+PROV310;Durocortium;Durocortium;Durocortium;;;;;;;;;x
+PROV311;Durocatalaunum;Durocatalaunum;Durocatalaunum;;;;;;;;;x
+PROV312;Segessera;Segessera;Segessera;;;;;;;;;x
+PROV313;Caviniacum;Caviniacum;Caviniacum;;;;;;;;;x
+PROV314;Orolanum;Orolanum;Orolanum;;;;;;;;;x
+PROV315;Caturicis;Caturicis;Caturicis;;;;;;;;;x
+PROV316;Rouphiniana;Rouphiniana;Rouphiniana;;;;;;;;;x
+PROV317;Decem Pagi;Decem Pagi;Decem Pagi;;;;;;;;;x
+PROV318;Pons Saravi;Pons Saravi;Pons Saravi;;;;;;;;;x
+PROV319;Marcomagus;Marcomagus;Marcomagus;;;;;;;;;x
+PROV320;Tolbiacum;Tolbiacum;Tolbiacum;;;;;;;;;x
+PROV321;Tiberiacum;Tiberiacum;Tiberiacum;;;;;;;;;x
+PROV322;Novaesium;Novaesium;Novaesium;;;;;;;;;x
+PROV323;Burungum;Burungum;Burungum;;;;;;;;;x
+PROV324;Marcodurum;Marcodurum;Marcodurum;;;;;;;;;x
+PROV325;Vicus Alisinensium;Vicus Alisinensium;Vicus Alisinensium;;;;;;;;;x
+PROV326;Aquae;Aquae;Aquae;;;;;;;;;x
+PROV327;Noviomagus;Noviomagus;Noviomagus;;;;;;;;;x
+PROV328;Lopodunum;Lopodunum;Lopodunum;;;;;;;;;x
+PROV329;Borbetomagus;Borbetomagus;Borbetomagus;;;;;;;;;x
+PROV330;Mogontiacum;Mogontiacum;Mogontiacum;;;;;;;;;x
+PROV331;Aquae Mattiacorum;Aquae Mattiacorum;Aquae Mattiacorum;;;;;;;;;x
+PROV332;Nida;Nida;Nida;;;;;;;;;x
+PROV333;Bonna;Bonna;Bonna;;;;;;;;;x
+PROV334;Bingium;Bingium;Bingium;;;;;;;;;x
+PROV335;Augusta Treverorum;Augusta Treverorum;Augusta Treverorum;;;;;;;;;x
+PROV336;Ausava;Ausava;Ausava;;;;;;;;;x
+PROV337;Belsonacum;Belsonacum;Belsonacum;;;;;;;;;x
+PROV338;Summelocenna;Summelocenna;Summelocenna;;;;;;;;;x
+PROV339;Bragodurum;Bragodurum;Bragodurum;;;;;;;;;x
+PROV340;Guntia;Guntia;Guntia;;;;;;;;;x
+PROV341;Phoebiana;Phoebiana;Phoebiana;;;;;;;;;x
+PROV342;Vindelicum;Vindelicum;Vindelicum;;;;;;;;;x
+PROV343;Parrodunum;Parrodunum;Parrodunum;;;;;;;;;x
+PROV344;Epamanduodurum;Epamanduodurum;Epamanduodurum;;;;;;;;;x
+PROV345;Tullum;Tullum;Tullum;;;;;;;;;x
+PROV346;Viridunum;Viridunum;Viridunum;;;;;;;;;x
+PROV347;Divodurum;Divodurum;Divodurum;;;;;;;;;x
+PROV348;Broccomagus;Broccomagus;Broccomagus;;;;;;;;;x
+PROV349;Argentorate;Argentorate;Argentorate;;;;;;;;;x
+PROV350;Argentovaria;Argentovaria;Argentovaria;;;;;;;;;x
+PROV351;Augusta Raurica;Augusta Raurica;Augusta Raurica;;;;;;;;;x
+PROV352;Salodurum;Salodurum;Salodurum;;;;;;;;;x
+PROV353;Vindonissa;Vindonissa;Vindonissa;;;;;;;;;x
+PROV354;Arae Flaviae;Arae Flaviae;Arae Flaviae;;;;;;;;;x
+PROV355;Centrum Prata;Centrum Prata;Centrum Prata;;;;;;;;;x
+PROV356;Emporion;Emporion;Emporion;;;;;;;;;x
+PROV357;Indigetes;Indigetes;Indigetes;;;;;;;;;x
+PROV358;Iacetani;Iacetani;Iacetani;;;;;;;;;x
+PROV359;Ceretani;Ceretani;Ceretani;;;;;;;;;x
+PROV360;Cessetani;Cessetani;Cessetani;;;;;;;;;x
+PROV361;Illergetae;Illergetae;Illergetae;;;;;;;;;x
+PROV362;Berones;Berones;Berones;;;;;;;;;x
+PROV363;Baleares;Baleares;Baleares;;;;;;;;;x
+PROV364;Ebusus;Ebusus;Ebusus;;;;;;;;;x
+PROV365;Ilercavones;Ilercavones;Ilercavones;;;;;;;;;x
+PROV366;Sedetani;Sedetani;Sedetani;;;;;;;;;x
+PROV367;Vardulli;Vardulli;Vardulli;;;;;;;;;x
+PROV368;Turmodigi;Turmodigi;Turmodigi;;;;;;;;;x
+PROV369;Caristii;Caristii;Caristii;;;;;;;;;x
+PROV370;Edetani;Edetani;Edetani;;;;;;;;;x
+PROV371;Contestani;Contestani;Contestani;;;;;;;;;x
+PROV372;Lobetani;Lobetani;Lobetani;;;;;;;;;x
+PROV373;Germanii;Germanii;Germanii;;;;;;;;;x
+PROV374;Carpetani;Carpetani;Carpetani;;;;;;;;;x
+PROV375;Arevaci;Arevaci;Arevaci;;;;;;;;;x
+PROV376;Calontienses;Calontienses;Calontienses;;;;;;;;;x
+PROV377;Vettones;Vettones;Vettones;;;;;;;;;x
+PROV378;Vaccaei;Vaccaei;Vaccaei;;;;;;;;;x
+PROV379;Cantabri;Cantabri;Cantabri;;;;;;;;;x
+PROV380;Baedunenses;Baedunenses;Baedunenses;;;;;;;;;x
+PROV381;Astures;Astures;Astures;;;;;;;;;x
+PROV382;Lemavi;Lemavi;Lemavi;;;;;;;;;x
+PROV383;Cibarci;Cibarci;Cibarci;;;;;;;;;x
+PROV384;Artabri;Artabri;Artabri;;;;;;;;;x
+PROV385;Gallaeci;Gallaeci;Gallaeci;;;;;;;;;x
+PROV386;Bracari;Bracari;Bracari;;;;;;;;;x
+PROV387;Bletonesii;Bletonesii;Bletonesii;;;;;;;;;x
+PROV388;Lanciences;Lanciences;Lanciences;;;;;;;;;x
+PROV389;Paesuri;Paesuri;Paesuri;;;;;;;;;x
+PROV390;Veteres;Veteres;Veteres;;;;;;;;;x
+PROV391;Tapori;Tapori;Tapori;;;;;;;;;x
+PROV392;Elbocori;Elbocori;Elbocori;;;;;;;;;x
+PROV393;Oppidani;Oppidani;Oppidani;;;;;;;;;x
+PROV394;Celtici;Celtici;Celtici;;;;;;;;;x
+PROV395;Mirobrigenses;Mirobrigenses;Mirobrigenses;;;;;;;;;x
+PROV396;Elbestoi;Elbestoi;Elbestoi;;;;;;;;;x
+PROV397;Cunetes;Cunetes;Cunetes;;;;;;;;;x
+PROV398;Turduli;Turduli;Turduli;;;;;;;;;x
+PROV399;Baetica;Baetica;Baetica;;;;;;;;;x
+PROV400;Turdetani;Turdetani;Turdetani;;;;;;;;;x
+PROV401;West Oretani;West Oretani;West Oretani;;;;;;;;;x
+PROV402;East Oretani;East Oretani;East Oretani;;;;;;;;;x
+PROV403;Bastetani;Bastetani;Bastetani;;;;;;;;;x
+PROV404;Ocean Britain;Ocean Britain;Ocean Britain;;;;;;;;;x
+PROV405;Ocean Roman;Ocean Roman;Ocean Roman;;;;;;;;;x
