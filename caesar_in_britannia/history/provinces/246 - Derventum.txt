@@ -1,0 +1,21 @@
+# c_derventum
+
+# County Title
+title = c_derventum
+
+# Settlements
+max_settlements = 3
+
+b_derventum = castle
+#b_derventum_2 = city
+#b_derventum_3 = temple
+#b_derventum_4 = castle
+#b_derventum_5 = city
+#b_derventum_6 = temple
+#b_derventum_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

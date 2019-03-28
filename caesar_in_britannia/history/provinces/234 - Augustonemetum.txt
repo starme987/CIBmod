@@ -1,0 +1,21 @@
+# c_augustonemetum
+
+# County Title
+title = c_augustonemetum
+
+# Settlements
+max_settlements = 4
+
+b_augustonemetum = castle
+#b_augustonemetum_2 = city
+#b_augustonemetum_3 = temple
+#b_augustonemetum_4 = castle
+#b_augustonemetum_5 = city
+#b_augustonemetum_6 = temple
+#b_augustonemetum_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History
