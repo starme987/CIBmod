@@ -109,6 +109,8 @@ c_avitacum;Avitacum;Avitacum;Avitacum;;Avitacum;;;;;;;;;x
 c_avitacum_adj;Avitacumian;;avitacumer;;;;;;;;;;;x
 c_baedunenses;Baedunenses;Baedunenses;Baedunenses;;Baedunenses;;;;;;;;;x
 c_baedunenses_adj;Baedunensesian;;baedunenseser;;;;;;;;;;;x
+c_baeterrae;Baeterrae;Baeterrae;Baeterrae;;Baeterrae;;;;;;;;;x
+c_baeterrae_adj;Baeterraean;;baeterrer;;;;;;;;;;;x
 c_baetica;Baetica;Baetica;Baetica;;Baetica;;;;;;;;;x
 c_baetica_adj;Baetican;;baeticer;;;;;;;;;;;x
 c_bagacum;Bagacum;Bagacum;Bagacum;;Bagacum;;;;;;;;;x
@@ -203,6 +205,8 @@ c_caracoticum;Caracoticum;Caracoticum;Caracoticum;;Caracoticum;;;;;;;;;x
 c_caracoticum_adj;Caracoticumian;;caracoticumer;;;;;;;;;;;x
 c_caralis;Caralis;Caralis;Caralis;;Caralis;;;;;;;;;x
 c_caralis_adj;Caralisian;;caraliser;;;;;;;;;;;x
+c_carantomagus;Carantomagus;Carantomagus;Carantomagus;;Carantomagus;;;;;;;;;x
+c_carantomagus_adj;Carantomagusian;;carantomaguser;;;;;;;;;;;x
 c_caristii;Caristii;Caristii;Caristii;;Caristii;;;;;;;;;x
 c_caristii_adj;Caristian;;carister;;;;;;;;;;;x
 c_carpetani;Carpetani;Carpetani;Carpetani;;Carpetani;;;;;;;;;x
@@ -217,6 +221,8 @@ c_catania;Catania;Catania;Catania;;Catania;;;;;;;;;x
 c_catania_adj;Catanian;;cataner;;;;;;;;;;;x
 c_cataractonium;Cataractonium;Cataractonium;Cataractonium;;Cataractonium;;;;;;;;;x
 c_cataractonium_adj;Cataractoniumian;;cataractoniumer;;;;;;;;;;;x
+c_catiriacum;Catiriacum;Catiriacum;Catiriacum;;Catiriacum;;;;;;;;;x
+c_catiriacum_adj;Catiriacumian;;catiriacumer;;;;;;;;;;;x
 c_catuaicia;Catuaicia;Catuaicia;Catuaicia;;Catuaicia;;;;;;;;;x
 c_catuaicia_adj;Catuaician;;catuaicer;;;;;;;;;;;x
 c_caturicis;Caturicis;Caturicis;Caturicis;;Caturicis;;;;;;;;;x
@@ -485,6 +491,8 @@ c_luiguidnec;Luiguidnec;Luiguidnec;Luiguidnec;;Luiguidnec;;;;;;;;;x
 c_luiguidnec_adj;Luiguidnecian;;luiguidnecer;;;;;;;;;;;x
 c_lutetia;Lutetia;Lutetia;Lutetia;;Lutetia;;;;;;;;;x
 c_lutetia_adj;Lutetian;;luteter;;;;;;;;;;;x
+c_luteva;Luteva;Luteva;Luteva;;Luteva;;;;;;;;;x
+c_luteva_adj;Lutevan;;lutever;;;;;;;;;;;x
 c_magia;Magia;Magia;Magia;;Magia;;;;;;;;;x
 c_magia_adj;Magian;;mager;;;;;;;;;;;x
 c_magiona;Magiona;Magiona;Magiona;;Magiona;;;;;;;;;x
@@ -719,6 +727,8 @@ c_ticinum;Ticinum;Ticinum;Ticinum;;Ticinum;;;;;;;;;x
 c_ticinum_adj;Ticinumian;;ticinumer;;;;;;;;;;;x
 c_tolbiacum;Tolbiacum;Tolbiacum;Tolbiacum;;Tolbiacum;;;;;;;;;x
 c_tolbiacum_adj;Tolbiacumian;;tolbiacumer;;;;;;;;;;;x
+c_tribonum;Tribonum;Tribonum;Tribonum;;Tribonum;;;;;;;;;x
+c_tribonum_adj;Tribonumian;;tribonumer;;;;;;;;;;;x
 c_tridentium;Tridentium;Tridentium;Tridentium;;Tridentium;;;;;;;;;x
 c_tridentium_adj;Tridentiumian;;tridentiumer;;;;;;;;;;;x
 c_trimontium;Trimontium;Trimontium;Trimontium;;Trimontium;;;;;;;;;x

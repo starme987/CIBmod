@@ -1,0 +1,21 @@
+# c_tribonum
+
+# County Title
+title = c_tribonum
+
+# Settlements
+max_settlements = 3
+
+b_tribonum = castle
+#b_tribonum_2 = city
+#b_tribonum_3 = temple
+#b_tribonum_4 = castle
+#b_tribonum_5 = city
+#b_tribonum_6 = temple
+#b_tribonum_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History
