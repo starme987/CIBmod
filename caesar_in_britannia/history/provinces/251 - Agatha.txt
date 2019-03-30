@@ -1,0 +1,21 @@
+# c_agatha
+
+# County Title
+title = c_agatha
+
+# Settlements
+max_settlements = 3
+
+b_agatha = castle
+#b_agatha_2 = city
+#b_agatha_3 = temple
+#b_agatha_4 = castle
+#b_agatha_5 = city
+#b_agatha_6 = temple
+#b_agatha_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

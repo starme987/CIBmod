@@ -1,0 +1,21 @@
+# c_marnevas
+
+# County Title
+title = c_marnevas
+
+# Settlements
+max_settlements = 3
+
+b_marnevas = castle
+#b_marnevas_2 = city
+#b_marnevas_3 = temple
+#b_marnevas_4 = castle
+#b_marnevas_5 = city
+#b_marnevas_6 = temple
+#b_marnevas_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

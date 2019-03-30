@@ -1,0 +1,21 @@
+# c_hungunverro
+
+# County Title
+title = c_hungunverro
+
+# Settlements
+max_settlements = 3
+
+b_hungunverro = castle
+#b_hungunverro_2 = city
+#b_hungunverro_3 = temple
+#b_hungunverro_4 = castle
+#b_hungunverro_5 = city
+#b_hungunverro_6 = temple
+#b_hungunverro_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

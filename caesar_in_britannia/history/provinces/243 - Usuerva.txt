@@ -1,0 +1,21 @@
+# c_usuerva
+
+# County Title
+title = c_usuerva
+
+# Settlements
+max_settlements = 3
+
+b_usuerva = castle
+#b_usuerva_2 = city
+#b_usuerva_3 = temple
+#b_usuerva_4 = castle
+#b_usuerva_5 = city
+#b_usuerva_6 = temple
+#b_usuerva_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

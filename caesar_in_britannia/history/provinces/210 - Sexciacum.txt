@@ -1,0 +1,21 @@
+# c_sexciacum
+
+# County Title
+title = c_sexciacum
+
+# Settlements
+max_settlements = 3
+
+b_sexciacum = castle
+#b_sexciacum_2 = city
+#b_sexciacum_3 = temple
+#b_sexciacum_4 = castle
+#b_sexciacum_5 = city
+#b_sexciacum_6 = temple
+#b_sexciacum_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_capraria
+
+# County Title
+title = c_capraria
+
+# Settlements
+max_settlements = 3
+
+b_capraria = castle
+#b_capraria_2 = city
+#b_capraria_3 = temple
+#b_capraria_4 = castle
+#b_capraria_5 = city
+#b_capraria_6 = temple
+#b_capraria_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

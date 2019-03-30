@@ -1,0 +1,21 @@
+# c_tarba
+
+# County Title
+title = c_tarba
+
+# Settlements
+max_settlements = 3
+
+b_tarba = castle
+#b_tarba_2 = city
+#b_tarba_3 = temple
+#b_tarba_4 = castle
+#b_tarba_5 = city
+#b_tarba_6 = temple
+#b_tarba_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

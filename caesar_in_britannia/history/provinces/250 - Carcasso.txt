@@ -1,0 +1,21 @@
+# c_carcasso
+
+# County Title
+title = c_carcasso
+
+# Settlements
+max_settlements = 3
+
+b_carcasso = castle
+#b_carcasso_2 = city
+#b_carcasso_3 = temple
+#b_carcasso_4 = castle
+#b_carcasso_5 = city
+#b_carcasso_6 = temple
+#b_carcasso_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History
