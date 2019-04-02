@@ -1,0 +1,21 @@
+# c_coequosa
+
+# County Title
+title = c_coequosa
+
+# Settlements
+max_settlements = 3
+
+b_coequosa = castle
+#b_coequosa_2 = city
+#b_coequosa_3 = temple
+#b_coequosa_4 = castle
+#b_coequosa_5 = city
+#b_coequosa_6 = temple
+#b_coequosa_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

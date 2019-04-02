@@ -1,0 +1,21 @@
+# c_telonnum
+
+# County Title
+title = c_telonnum
+
+# Settlements
+max_settlements = 3
+
+b_telonnum = castle
+#b_telonnum_2 = city
+#b_telonnum_3 = temple
+#b_telonnum_4 = castle
+#b_telonnum_5 = city
+#b_telonnum_6 = temple
+#b_telonnum_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

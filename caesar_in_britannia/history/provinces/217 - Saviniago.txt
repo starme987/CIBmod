@@ -1,0 +1,21 @@
+# c_saviniago
+
+# County Title
+title = c_saviniago
+
+# Settlements
+max_settlements = 3
+
+b_saviniago = castle
+#b_saviniago_2 = city
+#b_saviniago_3 = temple
+#b_saviniago_4 = castle
+#b_saviniago_5 = city
+#b_saviniago_6 = temple
+#b_saviniago_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_mosconnum
+
+# County Title
+title = c_mosconnum
+
+# Settlements
+max_settlements = 3
+
+b_mosconnum = castle
+#b_mosconnum_2 = city
+#b_mosconnum_3 = temple
+#b_mosconnum_4 = castle
+#b_mosconnum_5 = city
+#b_mosconnum_6 = temple
+#b_mosconnum_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History
