@@ -1,0 +1,21 @@
+# c_corterate
+
+# County Title
+title = c_corterate
+
+# Settlements
+max_settlements = 3
+
+b_corterate = castle
+#b_corterate_2 = city
+#b_corterate_3 = temple
+#b_corterate_4 = castle
+#b_corterate_5 = city
+#b_corterate_6 = temple
+#b_corterate_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

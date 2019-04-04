@@ -1,0 +1,21 @@
+# c_boii
+
+# County Title
+title = c_boii
+
+# Settlements
+max_settlements = 3
+
+b_boii = castle
+#b_boii_2 = city
+#b_boii_3 = temple
+#b_boii_4 = castle
+#b_boii_5 = city
+#b_boii_6 = temple
+#b_boii_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History
