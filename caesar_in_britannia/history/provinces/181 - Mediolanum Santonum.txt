@@ -1,0 +1,21 @@
+# c_mediolanum_santonum
+
+# County Title
+title = c_mediolanum_santonum
+
+# Settlements
+max_settlements = 4
+
+b_mediolanum_santonum = castle
+#b_mediolanum_santonum_2 = city
+#b_mediolanum_santonum_3 = temple
+#b_mediolanum_santonum_4 = castle
+#b_mediolanum_santonum_5 = city
+#b_mediolanum_santonum_6 = temple
+#b_mediolanum_santonum_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

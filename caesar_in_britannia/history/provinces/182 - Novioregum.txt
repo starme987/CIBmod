@@ -1,0 +1,21 @@
+# c_novioregum
+
+# County Title
+title = c_novioregum
+
+# Settlements
+max_settlements = 3
+
+b_novioregum = castle
+#b_novioregum_2 = city
+#b_novioregum_3 = temple
+#b_novioregum_4 = castle
+#b_novioregum_5 = city
+#b_novioregum_6 = temple
+#b_novioregum_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History
