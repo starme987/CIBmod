@@ -1,0 +1,21 @@
+# c_cracatonno
+
+# County Title
+title = c_cracatonno
+
+# Settlements
+max_settlements = 3
+
+b_cracatonno = castle
+#b_cracatonno_2 = city
+#b_cracatonno_3 = temple
+#b_cracatonno_4 = castle
+#b_cracatonno_5 = city
+#b_cracatonno_6 = temple
+#b_cracatonno_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

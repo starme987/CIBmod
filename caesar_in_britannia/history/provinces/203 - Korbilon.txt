@@ -1,0 +1,21 @@
+# c_korbilon
+
+# County Title
+title = c_korbilon
+
+# Settlements
+max_settlements = 3
+
+b_korbilon = castle
+#b_korbilon_2 = city
+#b_korbilon_3 = temple
+#b_korbilon_4 = castle
+#b_korbilon_5 = city
+#b_korbilon_6 = temple
+#b_korbilon_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

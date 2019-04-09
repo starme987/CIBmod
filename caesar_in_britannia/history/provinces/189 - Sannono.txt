@@ -1,0 +1,21 @@
+# c_sannono
+
+# County Title
+title = c_sannono
+
+# Settlements
+max_settlements = 3
+
+b_sannono = castle
+#b_sannono_2 = city
+#b_sannono_3 = temple
+#b_sannono_4 = castle
+#b_sannono_5 = city
+#b_sannono_6 = temple
+#b_sannono_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_conbaristum
+
+# County Title
+title = c_conbaristum
+
+# Settlements
+max_settlements = 3
+
+b_conbaristum = castle
+#b_conbaristum_2 = city
+#b_conbaristum_3 = temple
+#b_conbaristum_4 = castle
+#b_conbaristum_5 = city
+#b_conbaristum_6 = temple
+#b_conbaristum_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

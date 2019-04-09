@@ -1,0 +1,21 @@
+# c_geinum
+
+# County Title
+title = c_geinum
+
+# Settlements
+max_settlements = 3
+
+b_geinum = castle
+#b_geinum_2 = city
+#b_geinum_3 = temple
+#b_geinum_4 = castle
+#b_geinum_5 = city
+#b_geinum_6 = temple
+#b_geinum_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

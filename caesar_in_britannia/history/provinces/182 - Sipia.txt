@@ -1,0 +1,21 @@
+# c_sipia
+
+# County Title
+title = c_sipia
+
+# Settlements
+max_settlements = 3
+
+b_sipia = castle
+#b_sipia_2 = city
+#b_sipia_3 = temple
+#b_sipia_4 = castle
+#b_sipia_5 = city
+#b_sipia_6 = temple
+#b_sipia_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

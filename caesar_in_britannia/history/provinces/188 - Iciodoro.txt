@@ -1,0 +1,21 @@
+# c_iciodoro
+
+# County Title
+title = c_iciodoro
+
+# Settlements
+max_settlements = 3
+
+b_iciodoro = castle
+#b_iciodoro_2 = city
+#b_iciodoro_3 = temple
+#b_iciodoro_4 = castle
+#b_iciodoro_5 = city
+#b_iciodoro_6 = temple
+#b_iciodoro_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

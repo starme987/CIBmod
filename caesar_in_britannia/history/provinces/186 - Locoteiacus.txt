@@ -1,0 +1,21 @@
+# c_locoteiacus
+
+# County Title
+title = c_locoteiacus
+
+# Settlements
+max_settlements = 3
+
+b_locoteiacus = castle
+#b_locoteiacus_2 = city
+#b_locoteiacus_3 = temple
+#b_locoteiacus_4 = castle
+#b_locoteiacus_5 = city
+#b_locoteiacus_6 = temple
+#b_locoteiacus_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

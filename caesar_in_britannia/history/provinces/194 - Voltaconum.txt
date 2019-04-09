@@ -1,0 +1,21 @@
+# c_voltaconum
+
+# County Title
+title = c_voltaconum
+
+# Settlements
+max_settlements = 3
+
+b_voltaconum = castle
+#b_voltaconum_2 = city
+#b_voltaconum_3 = temple
+#b_voltaconum_4 = castle
+#b_voltaconum_5 = city
+#b_voltaconum_6 = temple
+#b_voltaconum_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

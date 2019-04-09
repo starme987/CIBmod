@@ -1,0 +1,21 @@
+# c_voglada
+
+# County Title
+title = c_voglada
+
+# Settlements
+max_settlements = 3
+
+b_voglada = castle
+#b_voglada_2 = city
+#b_voglada_3 = temple
+#b_voglada_4 = castle
+#b_voglada_5 = city
+#b_voglada_6 = temple
+#b_voglada_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

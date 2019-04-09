@@ -1,0 +1,21 @@
+# c_ouagoriton
+
+# County Title
+title = c_ouagoriton
+
+# Settlements
+max_settlements = 3
+
+b_ouagoriton = castle
+#b_ouagoriton_2 = city
+#b_ouagoriton_3 = temple
+#b_ouagoriton_4 = castle
+#b_ouagoriton_5 = city
+#b_ouagoriton_6 = temple
+#b_ouagoriton_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

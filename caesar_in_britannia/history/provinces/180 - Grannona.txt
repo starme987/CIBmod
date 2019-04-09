@@ -1,0 +1,21 @@
+# c_grannona
+
+# County Title
+title = c_grannona
+
+# Settlements
+max_settlements = 3
+
+b_grannona = castle
+#b_grannona_2 = city
+#b_grannona_3 = temple
+#b_grannona_4 = castle
+#b_grannona_5 = city
+#b_grannona_6 = temple
+#b_grannona_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

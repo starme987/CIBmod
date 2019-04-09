@@ -1,0 +1,21 @@
+# c_limonum
+
+# County Title
+title = c_limonum
+
+# Settlements
+max_settlements = 4
+
+b_limonum = castle
+#b_limonum_2 = city
+#b_limonum_3 = temple
+#b_limonum_4 = castle
+#b_limonum_5 = city
+#b_limonum_6 = temple
+#b_limonum_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

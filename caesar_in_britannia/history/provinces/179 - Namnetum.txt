@@ -1,0 +1,21 @@
+# c_namnetum
+
+# County Title
+title = c_namnetum
+
+# Settlements
+max_settlements = 4
+
+b_namnetum = castle
+#b_namnetum_2 = city
+#b_namnetum_3 = temple
+#b_namnetum_4 = castle
+#b_namnetum_5 = city
+#b_namnetum_6 = temple
+#b_namnetum_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

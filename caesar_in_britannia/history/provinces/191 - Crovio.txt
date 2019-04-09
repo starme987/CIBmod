@@ -1,0 +1,21 @@
+# c_crovio
+
+# County Title
+title = c_crovio
+
+# Settlements
+max_settlements = 3
+
+b_crovio = castle
+#b_crovio_2 = city
+#b_crovio_3 = temple
+#b_crovio_4 = castle
+#b_crovio_5 = city
+#b_crovio_6 = temple
+#b_crovio_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

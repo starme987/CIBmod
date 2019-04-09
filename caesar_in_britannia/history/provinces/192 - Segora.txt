@@ -1,0 +1,21 @@
+# c_segora
+
+# County Title
+title = c_segora
+
+# Settlements
+max_settlements = 3
+
+b_segora = castle
+#b_segora_2 = city
+#b_segora_3 = temple
+#b_segora_4 = castle
+#b_segora_5 = city
+#b_segora_6 = temple
+#b_segora_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

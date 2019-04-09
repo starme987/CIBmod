@@ -1,0 +1,21 @@
+# c_duretie
+
+# County Title
+title = c_duretie
+
+# Settlements
+max_settlements = 3
+
+b_duretie = castle
+#b_duretie_2 = city
+#b_duretie_3 = temple
+#b_duretie_4 = castle
+#b_duretie_5 = city
+#b_duretie_6 = temple
+#b_duretie_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History
