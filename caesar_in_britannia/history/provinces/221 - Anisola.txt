@@ -1,0 +1,21 @@
+# c_anisola
+
+# County Title
+title = c_anisola
+
+# Settlements
+max_settlements = 3
+
+b_anisola = castle
+#b_anisola_2 = city
+#b_anisola_3 = temple
+#b_anisola_4 = castle
+#b_anisola_5 = city
+#b_anisola_6 = temple
+#b_anisola_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

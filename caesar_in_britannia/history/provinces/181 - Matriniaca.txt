@@ -1,0 +1,21 @@
+# c_matriniaca
+
+# County Title
+title = c_matriniaca
+
+# Settlements
+max_settlements = 3
+
+b_matriniaca = castle
+#b_matriniaca_2 = city
+#b_matriniaca_3 = temple
+#b_matriniaca_4 = castle
+#b_matriniaca_5 = city
+#b_matriniaca_6 = temple
+#b_matriniaca_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

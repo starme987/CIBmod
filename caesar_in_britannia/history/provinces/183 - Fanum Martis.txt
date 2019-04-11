@@ -1,0 +1,21 @@
+# c_fanum_martis
+
+# County Title
+title = c_fanum_martis
+
+# Settlements
+max_settlements = 3
+
+b_fanum_martis = castle
+#b_fanum_martis_2 = city
+#b_fanum_martis_3 = temple
+#b_fanum_martis_4 = castle
+#b_fanum_martis_5 = city
+#b_fanum_martis_6 = temple
+#b_fanum_martis_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

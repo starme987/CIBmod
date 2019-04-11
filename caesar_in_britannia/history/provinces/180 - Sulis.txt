@@ -1,0 +1,21 @@
+# c_sulis
+
+# County Title
+title = c_sulis
+
+# Settlements
+max_settlements = 3
+
+b_sulis = castle
+#b_sulis_2 = city
+#b_sulis_3 = temple
+#b_sulis_4 = castle
+#b_sulis_5 = city
+#b_sulis_6 = temple
+#b_sulis_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

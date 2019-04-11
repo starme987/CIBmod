@@ -1,0 +1,21 @@
+# c_crouciaconnum
+
+# County Title
+title = c_crouciaconnum
+
+# Settlements
+max_settlements = 4
+
+b_crouciaconnum = castle
+#b_crouciaconnum_2 = city
+#b_crouciaconnum_3 = temple
+#b_crouciaconnum_4 = castle
+#b_crouciaconnum_5 = city
+#b_crouciaconnum_6 = temple
+#b_crouciaconnum_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

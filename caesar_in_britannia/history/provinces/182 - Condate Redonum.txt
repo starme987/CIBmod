@@ -1,0 +1,21 @@
+# c_condate_redonum
+
+# County Title
+title = c_condate_redonum
+
+# Settlements
+max_settlements = 4
+
+b_condate_redonum = castle
+#b_condate_redonum_2 = city
+#b_condate_redonum_3 = temple
+#b_condate_redonum_4 = castle
+#b_condate_redonum_5 = city
+#b_condate_redonum_6 = temple
+#b_condate_redonum_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

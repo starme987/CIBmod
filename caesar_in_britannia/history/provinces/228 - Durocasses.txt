@@ -1,0 +1,21 @@
+# c_durocasses
+
+# County Title
+title = c_durocasses
+
+# Settlements
+max_settlements = 3
+
+b_durocasses = castle
+#b_durocasses_2 = city
+#b_durocasses_3 = temple
+#b_durocasses_4 = castle
+#b_durocasses_5 = city
+#b_durocasses_6 = temple
+#b_durocasses_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

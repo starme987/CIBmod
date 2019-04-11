@@ -1,0 +1,21 @@
+# c_darioritum
+
+# County Title
+title = c_darioritum
+
+# Settlements
+max_settlements = 4
+
+b_darioritum = castle
+#b_darioritum_2 = city
+#b_darioritum_3 = temple
+#b_darioritum_4 = castle
+#b_darioritum_5 = city
+#b_darioritum_6 = temple
+#b_darioritum_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

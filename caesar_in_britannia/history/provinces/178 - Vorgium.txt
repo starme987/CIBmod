@@ -1,0 +1,21 @@
+# c_vorgium
+
+# County Title
+title = c_vorgium
+
+# Settlements
+max_settlements = 3
+
+b_vorgium = castle
+#b_vorgium_2 = city
+#b_vorgium_3 = temple
+#b_vorgium_4 = castle
+#b_vorgium_5 = city
+#b_vorgium_6 = temple
+#b_vorgium_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

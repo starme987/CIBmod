@@ -1,0 +1,21 @@
+# c_vindunum
+
+# County Title
+title = c_vindunum
+
+# Settlements
+max_settlements = 4
+
+b_vindunum = castle
+#b_vindunum_2 = city
+#b_vindunum_3 = temple
+#b_vindunum_4 = castle
+#b_vindunum_5 = city
+#b_vindunum_6 = temple
+#b_vindunum_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

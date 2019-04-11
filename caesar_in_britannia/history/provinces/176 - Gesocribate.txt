@@ -1,0 +1,21 @@
+# c_gesocribate
+
+# County Title
+title = c_gesocribate
+
+# Settlements
+max_settlements = 4
+
+b_gesocribate = castle
+#b_gesocribate_2 = city
+#b_gesocribate_3 = temple
+#b_gesocribate_4 = castle
+#b_gesocribate_5 = city
+#b_gesocribate_6 = temple
+#b_gesocribate_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History
