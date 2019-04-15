@@ -1,0 +1,21 @@
+# c_tolbiacum
+
+# County Title
+title = c_tolbiacum
+
+# Settlements
+max_settlements = 3
+
+b_tolbiacum = castle
+#b_tolbiacum_2 = city
+#b_tolbiacum_3 = temple
+#b_tolbiacum_4 = castle
+#b_tolbiacum_5 = city
+#b_tolbiacum_6 = temple
+#b_tolbiacum_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

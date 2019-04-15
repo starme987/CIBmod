@@ -1,0 +1,21 @@
+# c_becciacum
+
+# County Title
+title = c_becciacum
+
+# Settlements
+max_settlements = 3
+
+b_becciacum = castle
+#b_becciacum_2 = city
+#b_becciacum_3 = temple
+#b_becciacum_4 = castle
+#b_becciacum_5 = city
+#b_becciacum_6 = temple
+#b_becciacum_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

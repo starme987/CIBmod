@@ -1,0 +1,21 @@
+# c_argentomagus
+
+# County Title
+title = c_argentomagus
+
+# Settlements
+max_settlements = 4
+
+b_argentomagus = castle
+#b_argentomagus_2 = city
+#b_argentomagus_3 = temple
+#b_argentomagus_4 = castle
+#b_argentomagus_5 = city
+#b_argentomagus_6 = temple
+#b_argentomagus_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_parrodunum
+
+# County Title
+title = c_parrodunum
+
+# Settlements
+max_settlements = 3
+
+b_parrodunum = castle
+#b_parrodunum_2 = city
+#b_parrodunum_3 = temple
+#b_parrodunum_4 = castle
+#b_parrodunum_5 = city
+#b_parrodunum_6 = temple
+#b_parrodunum_7 = castle
+
+# Misc
+culture = germanic
+religion = heathen
+
+#History

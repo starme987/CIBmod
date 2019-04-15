@@ -1,0 +1,21 @@
+# c_aguntum
+
+# County Title
+title = c_aguntum
+
+# Settlements
+max_settlements = 3
+
+b_aguntum = castle
+#b_aguntum_2 = city
+#b_aguntum_3 = temple
+#b_aguntum_4 = castle
+#b_aguntum_5 = city
+#b_aguntum_6 = temple
+#b_aguntum_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

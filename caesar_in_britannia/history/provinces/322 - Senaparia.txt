@@ -1,0 +1,21 @@
+# c_senaparia
+
+# County Title
+title = c_senaparia
+
+# Settlements
+max_settlements = 3
+
+b_senaparia = castle
+#b_senaparia_2 = city
+#b_senaparia_3 = temple
+#b_senaparia_4 = castle
+#b_senaparia_5 = city
+#b_senaparia_6 = temple
+#b_senaparia_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

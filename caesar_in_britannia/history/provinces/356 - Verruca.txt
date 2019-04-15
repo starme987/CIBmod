@@ -1,0 +1,21 @@
+# c_verruca
+
+# County Title
+title = c_verruca
+
+# Settlements
+max_settlements = 3
+
+b_verruca = castle
+#b_verruca_2 = city
+#b_verruca_3 = temple
+#b_verruca_4 = castle
+#b_verruca_5 = city
+#b_verruca_6 = temple
+#b_verruca_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

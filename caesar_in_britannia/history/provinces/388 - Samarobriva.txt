@@ -1,0 +1,21 @@
+# c_samarobriva
+
+# County Title
+title = c_samarobriva
+
+# Settlements
+max_settlements = 3
+
+b_samarobriva = castle
+#b_samarobriva_2 = city
+#b_samarobriva_3 = temple
+#b_samarobriva_4 = castle
+#b_samarobriva_5 = city
+#b_samarobriva_6 = temple
+#b_samarobriva_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

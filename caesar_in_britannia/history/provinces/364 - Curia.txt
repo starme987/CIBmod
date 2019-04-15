@@ -1,0 +1,21 @@
+# c_curia
+
+# County Title
+title = c_curia
+
+# Settlements
+max_settlements = 3
+
+b_curia = castle
+#b_curia_2 = city
+#b_curia_3 = temple
+#b_curia_4 = castle
+#b_curia_5 = city
+#b_curia_6 = temple
+#b_curia_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

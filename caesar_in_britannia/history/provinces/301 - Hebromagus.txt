@@ -1,0 +1,21 @@
+# c_hebromagus
+
+# County Title
+title = c_hebromagus
+
+# Settlements
+max_settlements = 3
+
+b_hebromagus = castle
+#b_hebromagus_2 = city
+#b_hebromagus_3 = temple
+#b_hebromagus_4 = castle
+#b_hebromagus_5 = city
+#b_hebromagus_6 = temple
+#b_hebromagus_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

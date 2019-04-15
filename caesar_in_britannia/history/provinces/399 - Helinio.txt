@@ -1,0 +1,21 @@
+# c_helinio
+
+# County Title
+title = c_helinio
+
+# Settlements
+max_settlements = 3
+
+b_helinio = castle
+#b_helinio_2 = city
+#b_helinio_3 = temple
+#b_helinio_4 = castle
+#b_helinio_5 = city
+#b_helinio_6 = temple
+#b_helinio_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

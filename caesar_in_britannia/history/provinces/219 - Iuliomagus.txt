@@ -1,0 +1,21 @@
+# c_iuliomagus
+
+# County Title
+title = c_iuliomagus
+
+# Settlements
+max_settlements = 3
+
+b_iuliomagus = castle
+#b_iuliomagus_2 = city
+#b_iuliomagus_3 = temple
+#b_iuliomagus_4 = castle
+#b_iuliomagus_5 = city
+#b_iuliomagus_6 = temple
+#b_iuliomagus_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

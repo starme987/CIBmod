@@ -77,8 +77,6 @@ c_ariminum;Ariminum;Ariminum;Ariminum;;Ariminum;;;;;;;;;x
 c_ariminum_adj;Ariminumian;;ariminumer;;;;;;;;;;;x
 c_arretium;Arretium;Arretium;Arretium;;Arretium;;;;;;;;;x
 c_arretium_adj;Arretiumian;;arretiumer;;;;;;;;;;;x
-c_artabri;Artabri;Artabri;Artabri;;Artabri;;;;;;;;;x
-c_artabri_adj;Artabrian;;artabrer;;;;;;;;;;;x
 c_arthona;Arthona;Arthona;Arthona;;Arthona;;;;;;;;;x
 c_arthona_adj;Arthonan;;arthoner;;;;;;;;;;;x
 c_astures;Astures;Astures;Astures;;Astures;;;;;;;;;x
@@ -231,6 +229,8 @@ c_caracoticum;Caracoticum;Caracoticum;Caracoticum;;Caracoticum;;;;;;;;;x
 c_caracoticum_adj;Caracoticumian;;caracoticumer;;;;;;;;;;;x
 c_caralis;Caralis;Caralis;Caralis;;Caralis;;;;;;;;;x
 c_caralis_adj;Caralisian;;caraliser;;;;;;;;;;;x
+c_caranicum;Caranicum;Caranicum;Caranicum;;Caranicum;;;;;;;;;x
+c_caranicum_adj;Caranicumian;;caranicumer;;;;;;;;;;;x
 c_carantomagus;Carantomagus;Carantomagus;Carantomagus;;Carantomagus;;;;;;;;;x
 c_carantomagus_adj;Carantomagusian;;carantomaguser;;;;;;;;;;;x
 c_carcasso;Carcasso;Carcasso;Carcasso;;Carcasso;;;;;;;;;x
@@ -577,6 +577,8 @@ c_louentinon;Louentinon;Louentinon;Louentinon;;Louentinon;;;;;;;;;x
 c_louentinon_adj;Louentinonian;;louentinoner;;;;;;;;;;;x
 c_lucania;Lucania;Lucania;Lucania;;Lucania;;;;;;;;;x
 c_lucania_adj;Lucanian;;lucaner;;;;;;;;;;;x
+c_lucas_augusti;Lucas Augusti;Lucas Augusti;Lucas Augusti;;Lucas Augusti;;;;;;;;;x
+c_lucas_augusti_adj;Lucas Augustian;;Lucas Auguster;;;;;;;;;;;x
 c_lugdunum;Lugdunum;Lugdunum;Lugdunum;;Lugdunum;;;;;;;;;x
 c_lugdunum_adj;Lugdunumian;;lugdunumer;;;;;;;;;;;x
 c_lugdunum_convenarum;Lugdunum Convenarum;Lugdunum Convenarum;Lugdunum Convenarum;;Lugdunum Convenarum;;;;;;;;;x
@@ -813,6 +815,8 @@ c_sena_gallica;Sena Gallica;Sena Gallica;Sena Gallica;;Sena Gallica;;;;;;;;;x
 c_sena_gallica_adj;Sena Gallican;;Sena Gallicer;;;;;;;;;;;x
 c_senaparia;Senaparia;Senaparia;Senaparia;;Senaparia;;;;;;;;;x
 c_senaparia_adj;Senaparian;;senaparer;;;;;;;;;;;x
+c_sermanicomago;Sermanicomago;Sermanicomago;Sermanicomago;;Sermanicomago;;;;;;;;;x
+c_sermanicomago_adj;Sermanicomagian;;sermanicomager;;;;;;;;;;;x
 c_sermiana;Sermiana;Sermiana;Sermiana;;Sermiana;;;;;;;;;x
 c_sermiana_adj;Sermianan;;sermianer;;;;;;;;;;;x
 c_sexciacum;Sexciacum;Sexciacum;Sexciacum;;Sexciacum;;;;;;;;;x

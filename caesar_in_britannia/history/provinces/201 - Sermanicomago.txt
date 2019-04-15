@@ -1,0 +1,21 @@
+# c_sermanicomago
+
+# County Title
+title = c_sermanicomago
+
+# Settlements
+max_settlements = 3
+
+b_sermanicomago = castle
+#b_sermanicomago_2 = city
+#b_sermanicomago_3 = temple
+#b_sermanicomago_4 = castle
+#b_sermanicomago_5 = city
+#b_sermanicomago_6 = temple
+#b_sermanicomago_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

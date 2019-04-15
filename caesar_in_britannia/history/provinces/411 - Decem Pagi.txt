@@ -1,0 +1,21 @@
+# c_decem_pagi
+
+# County Title
+title = c_decem_pagi
+
+# Settlements
+max_settlements = 3
+
+b_decem_pagi = castle
+#b_decem_pagi_2 = city
+#b_decem_pagi_3 = temple
+#b_decem_pagi_4 = castle
+#b_decem_pagi_5 = city
+#b_decem_pagi_6 = temple
+#b_decem_pagi_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

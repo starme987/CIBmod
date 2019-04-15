@@ -1,0 +1,21 @@
+# c_eporedia
+
+# County Title
+title = c_eporedia
+
+# Settlements
+max_settlements = 3
+
+b_eporedia = castle
+#b_eporedia_2 = city
+#b_eporedia_3 = temple
+#b_eporedia_4 = castle
+#b_eporedia_5 = city
+#b_eporedia_6 = temple
+#b_eporedia_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

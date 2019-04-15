@@ -1,0 +1,21 @@
+# c_miciacum
+
+# County Title
+title = c_miciacum
+
+# Settlements
+max_settlements = 3
+
+b_miciacum = castle
+#b_miciacum_2 = city
+#b_miciacum_3 = temple
+#b_miciacum_4 = castle
+#b_miciacum_5 = city
+#b_miciacum_6 = temple
+#b_miciacum_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

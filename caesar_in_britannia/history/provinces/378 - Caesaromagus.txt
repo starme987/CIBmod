@@ -1,0 +1,21 @@
+# c_caesaromagus
+
+# County Title
+title = c_caesaromagus
+
+# Settlements
+max_settlements = 4
+
+b_caesaromagus = castle
+#b_caesaromagus_2 = city
+#b_caesaromagus_3 = temple
+#b_caesaromagus_4 = castle
+#b_caesaromagus_5 = city
+#b_caesaromagus_6 = temple
+#b_caesaromagus_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

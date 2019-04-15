@@ -1,0 +1,21 @@
+# c_ganuen
+
+# County Title
+title = c_ganuen
+
+# Settlements
+max_settlements = 3
+
+b_ganuen = castle
+#b_ganuen_2 = city
+#b_ganuen_3 = temple
+#b_ganuen_4 = castle
+#b_ganuen_5 = city
+#b_ganuen_6 = temple
+#b_ganuen_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

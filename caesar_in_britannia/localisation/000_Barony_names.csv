@@ -531,10 +531,6 @@ b_arretium_6;Arretium;Arretium;Arretium;;Arretium;;;;;;;;;x
 b_arretium_6_adj;Arretiumian;;arretiumer;;;;;;;;;;;x
 b_arretium_7;Arretium;Arretium;Arretium;;Arretium;;;;;;;;;x
 b_arretium_7_adj;Arretiumian;;arretiumer;;;;;;;;;;;x
-b_artabri;Artabri;Artabri;Artabri;;Artabri;;;;;;;;;x
-b_artabri_adj;Artabrian;;artabrer;;;;;;;;;;;x
-b_artabri_2;Artabri;Artabri;Artabri;;Artabri;;;;;;;;;x
-b_artabri_2_adj;Artabrian;;artabrer;;;;;;;;;;;x
 b_arthona;Arthona;Arthona;Arthona;;Arthona;;;;;;;;;x
 b_arthona_adj;Arthonan;;arthoner;;;;;;;;;;;x
 b_arthona_2;Arthona;Arthona;Arthona;;Arthona;;;;;;;;;x
@@ -1515,6 +1511,20 @@ b_caralis_6;Caralis;Caralis;Caralis;;Caralis;;;;;;;;;x
 b_caralis_6_adj;Caralisian;;caraliser;;;;;;;;;;;x
 b_caralis_7;Caralis;Caralis;Caralis;;Caralis;;;;;;;;;x
 b_caralis_7_adj;Caralisian;;caraliser;;;;;;;;;;;x
+b_caranicum;Caranicum;Caranicum;Caranicum;;Caranicum;;;;;;;;;x
+b_caranicum_adj;Caranicumian;;caranicumer;;;;;;;;;;;x
+b_caranicum_2;Caranicum;Caranicum;Caranicum;;Caranicum;;;;;;;;;x
+b_caranicum_2_adj;Caranicumian;;caranicumer;;;;;;;;;;;x
+b_caranicum_3;Caranicum;Caranicum;Caranicum;;Caranicum;;;;;;;;;x
+b_caranicum_3_adj;Caranicumian;;caranicumer;;;;;;;;;;;x
+b_caranicum_4;Caranicum;Caranicum;Caranicum;;Caranicum;;;;;;;;;x
+b_caranicum_4_adj;Caranicumian;;caranicumer;;;;;;;;;;;x
+b_caranicum_5;Caranicum;Caranicum;Caranicum;;Caranicum;;;;;;;;;x
+b_caranicum_5_adj;Caranicumian;;caranicumer;;;;;;;;;;;x
+b_caranicum_6;Caranicum;Caranicum;Caranicum;;Caranicum;;;;;;;;;x
+b_caranicum_6_adj;Caranicumian;;caranicumer;;;;;;;;;;;x
+b_caranicum_7;Caranicum;Caranicum;Caranicum;;Caranicum;;;;;;;;;x
+b_caranicum_7_adj;Caranicumian;;caranicumer;;;;;;;;;;;x
 b_carantomagus;Carantomagus;Carantomagus;Carantomagus;;Carantomagus;;;;;;;;;x
 b_carantomagus_adj;Carantomagusian;;carantomaguser;;;;;;;;;;;x
 b_carantomagus_2;Carantomagus;Carantomagus;Carantomagus;;Carantomagus;;;;;;;;;x
@@ -3777,6 +3787,20 @@ b_lucania_5;Lucania;Lucania;Lucania;;Lucania;;;;;;;;;x
 b_lucania_5_adj;Lucanian;;lucaner;;;;;;;;;;;x
 b_lucania_6;Lucania;Lucania;Lucania;;Lucania;;;;;;;;;x
 b_lucania_6_adj;Lucanian;;lucaner;;;;;;;;;;;x
+b_lucas_augusti;Lucas Augusti;Lucas Augusti;Lucas Augusti;;Lucas Augusti;;;;;;;;;x
+b_lucas_augusti_adj;Lucas Augustian;;Lucas Auguster;;;;;;;;;;;x
+b_lucas_augusti_2;Lucas Augusti;Lucas Augusti;Lucas Augusti;;Lucas Augusti;;;;;;;;;x
+b_lucas_augusti_2_adj;Lucas Augustian;;Lucas Auguster;;;;;;;;;;;x
+b_lucas_augusti_3;Lucas Augusti;Lucas Augusti;Lucas Augusti;;Lucas Augusti;;;;;;;;;x
+b_lucas_augusti_3_adj;Lucas Augustian;;Lucas Auguster;;;;;;;;;;;x
+b_lucas_augusti_4;Lucas Augusti;Lucas Augusti;Lucas Augusti;;Lucas Augusti;;;;;;;;;x
+b_lucas_augusti_4_adj;Lucas Augustian;;Lucas Auguster;;;;;;;;;;;x
+b_lucas_augusti_5;Lucas Augusti;Lucas Augusti;Lucas Augusti;;Lucas Augusti;;;;;;;;;x
+b_lucas_augusti_5_adj;Lucas Augustian;;Lucas Auguster;;;;;;;;;;;x
+b_lucas_augusti_6;Lucas Augusti;Lucas Augusti;Lucas Augusti;;Lucas Augusti;;;;;;;;;x
+b_lucas_augusti_6_adj;Lucas Augustian;;Lucas Auguster;;;;;;;;;;;x
+b_lucas_augusti_7;Lucas Augusti;Lucas Augusti;Lucas Augusti;;Lucas Augusti;;;;;;;;;x
+b_lucas_augusti_7_adj;Lucas Augustian;;Lucas Auguster;;;;;;;;;;;x
 b_lugdunum;Lugdunum;Lugdunum;Lugdunum;;Lugdunum;;;;;;;;;x
 b_lugdunum_adj;Lugdunumian;;lugdunumer;;;;;;;;;;;x
 b_lugdunum_2;Lugdunum;Lugdunum;Lugdunum;;Lugdunum;;;;;;;;;x
@@ -4913,8 +4937,6 @@ b_placeholder_35;Placeholder;Placeholder;Placeholder;;Placeholder;;;;;;;;;x
 b_placeholder_35_adj;Placeholderian;;placeholderer;;;;;;;;;;;x
 b_placeholder_36;Placeholder;Placeholder;Placeholder;;Placeholder;;;;;;;;;x
 b_placeholder_36_adj;Placeholderian;;placeholderer;;;;;;;;;;;x
-b_placeholder_37;Placeholder;Placeholder;Placeholder;;Placeholder;;;;;;;;;x
-b_placeholder_37_adj;Placeholderian;;placeholderer;;;;;;;;;;;x
 b_placeholder_4;Placeholder;Placeholder;Placeholder;;Placeholder;;;;;;;;;x
 b_placeholder_4_adj;Placeholderian;;placeholderer;;;;;;;;;;;x
 b_placeholder_5;Placeholder;Placeholder;Placeholder;;Placeholder;;;;;;;;;x
@@ -5481,6 +5503,20 @@ b_senaparia_6;Senaparia;Senaparia;Senaparia;;Senaparia;;;;;;;;;x
 b_senaparia_6_adj;Senaparian;;senaparer;;;;;;;;;;;x
 b_senaparia_7;Senaparia;Senaparia;Senaparia;;Senaparia;;;;;;;;;x
 b_senaparia_7_adj;Senaparian;;senaparer;;;;;;;;;;;x
+b_sermanicomago;Sermanicomago;Sermanicomago;Sermanicomago;;Sermanicomago;;;;;;;;;x
+b_sermanicomago_adj;Sermanicomagian;;sermanicomager;;;;;;;;;;;x
+b_sermanicomago_2;Sermanicomago;Sermanicomago;Sermanicomago;;Sermanicomago;;;;;;;;;x
+b_sermanicomago_2_adj;Sermanicomagian;;sermanicomager;;;;;;;;;;;x
+b_sermanicomago_3;Sermanicomago;Sermanicomago;Sermanicomago;;Sermanicomago;;;;;;;;;x
+b_sermanicomago_3_adj;Sermanicomagian;;sermanicomager;;;;;;;;;;;x
+b_sermanicomago_4;Sermanicomago;Sermanicomago;Sermanicomago;;Sermanicomago;;;;;;;;;x
+b_sermanicomago_4_adj;Sermanicomagian;;sermanicomager;;;;;;;;;;;x
+b_sermanicomago_5;Sermanicomago;Sermanicomago;Sermanicomago;;Sermanicomago;;;;;;;;;x
+b_sermanicomago_5_adj;Sermanicomagian;;sermanicomager;;;;;;;;;;;x
+b_sermanicomago_6;Sermanicomago;Sermanicomago;Sermanicomago;;Sermanicomago;;;;;;;;;x
+b_sermanicomago_6_adj;Sermanicomagian;;sermanicomager;;;;;;;;;;;x
+b_sermanicomago_7;Sermanicomago;Sermanicomago;Sermanicomago;;Sermanicomago;;;;;;;;;x
+b_sermanicomago_7_adj;Sermanicomagian;;sermanicomager;;;;;;;;;;;x
 b_sermiana;Sermiana;Sermiana;Sermiana;;Sermiana;;;;;;;;;x
 b_sermiana_adj;Sermianan;;sermianer;;;;;;;;;;;x
 b_sermiana_2;Sermiana;Sermiana;Sermiana;;Sermiana;;;;;;;;;x

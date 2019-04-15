@@ -1,0 +1,21 @@
+# c_alerta
+
+# County Title
+title = c_alerta
+
+# Settlements
+max_settlements = 3
+
+b_alerta = castle
+#b_alerta_2 = city
+#b_alerta_3 = temple
+#b_alerta_4 = castle
+#b_alerta_5 = city
+#b_alerta_6 = temple
+#b_alerta_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

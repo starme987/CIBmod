@@ -1,0 +1,21 @@
+# c_lutetia
+
+# County Title
+title = c_lutetia
+
+# Settlements
+max_settlements = 3
+
+b_lutetia = castle
+#b_lutetia_2 = city
+#b_lutetia_3 = temple
+#b_lutetia_4 = castle
+#b_lutetia_5 = city
+#b_lutetia_6 = temple
+#b_lutetia_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

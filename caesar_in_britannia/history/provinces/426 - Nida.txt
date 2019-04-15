@@ -1,0 +1,21 @@
+# c_nida
+
+# County Title
+title = c_nida
+
+# Settlements
+max_settlements = 3
+
+b_nida = castle
+#b_nida_2 = city
+#b_nida_3 = temple
+#b_nida_4 = castle
+#b_nida_5 = city
+#b_nida_6 = temple
+#b_nida_7 = castle
+
+# Misc
+culture = germanic
+religion = heathen
+
+#History

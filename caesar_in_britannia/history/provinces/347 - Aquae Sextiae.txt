@@ -1,0 +1,21 @@
+# c_aquae_sextiae
+
+# County Title
+title = c_aquae_sextiae
+
+# Settlements
+max_settlements = 3
+
+b_aquae_sextiae = castle
+#b_aquae_sextiae_2 = city
+#b_aquae_sextiae_3 = temple
+#b_aquae_sextiae_4 = castle
+#b_aquae_sextiae_5 = city
+#b_aquae_sextiae_6 = temple
+#b_aquae_sextiae_7 = castle
+
+# Misc
+culture = greek
+religion = greek_hellenic
+
+#History

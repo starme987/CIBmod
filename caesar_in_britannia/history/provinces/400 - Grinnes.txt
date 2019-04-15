@@ -1,0 +1,21 @@
+# c_grinnes
+
+# County Title
+title = c_grinnes
+
+# Settlements
+max_settlements = 3
+
+b_grinnes = castle
+#b_grinnes_2 = city
+#b_grinnes_3 = temple
+#b_grinnes_4 = castle
+#b_grinnes_5 = city
+#b_grinnes_6 = temple
+#b_grinnes_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

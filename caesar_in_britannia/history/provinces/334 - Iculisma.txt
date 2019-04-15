@@ -1,0 +1,21 @@
+# c_iculisma
+
+# County Title
+title = c_iculisma
+
+# Settlements
+max_settlements = 3
+
+b_iculisma = castle
+#b_iculisma_2 = city
+#b_iculisma_3 = temple
+#b_iculisma_4 = castle
+#b_iculisma_5 = city
+#b_iculisma_6 = temple
+#b_iculisma_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

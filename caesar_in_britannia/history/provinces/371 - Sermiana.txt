@@ -1,0 +1,21 @@
+# c_sermiana
+
+# County Title
+title = c_sermiana
+
+# Settlements
+max_settlements = 3
+
+b_sermiana = castle
+#b_sermiana_2 = city
+#b_sermiana_3 = temple
+#b_sermiana_4 = castle
+#b_sermiana_5 = city
+#b_sermiana_6 = temple
+#b_sermiana_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_gelduba
+
+# County Title
+title = c_gelduba
+
+# Settlements
+max_settlements = 3
+
+b_gelduba = castle
+#b_gelduba_2 = city
+#b_gelduba_3 = temple
+#b_gelduba_4 = castle
+#b_gelduba_5 = city
+#b_gelduba_6 = temple
+#b_gelduba_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

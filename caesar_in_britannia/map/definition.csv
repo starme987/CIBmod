@@ -199,301 +199,303 @@ province;red;green;blue;x;x
 198;69;162;124;Geinum;x
 199;22;203;194;Voltaconum;x
 200;44;118;79;Mediolanum Santonum;x
-201;88;144;112;Novioregum;x
-202;68;144;104;Aunedonnacum;x
-203;51;108;87;Rauranum;x
-204;70;174;120;Becciacum;x
-205;94;115;74;Ruson;x
-206;65;115;73;Vetraria;x
-207;84;138;30;Vertavus;x
-208;45;149;62;Korbilon;x
-209;21;154;84;Caesarodunum;x
-210;57;129;109;Brixis;x
-211;69;228;170;Mantalomagum;x
-212;15;176;117;Mediconnum;x
-213;64;135;120;Alingavia;x
-214;92;156;139;Calatonno;x
-215;35;122;90;Novivicum;x
-216;64;135;90;Vernaus;x
-217;89;87;55;Vindunum;x
-218;145;205;55;Iuliomagus;x
-219;76;120;12;Ouagoriton;x
-220;140;169;96;Bricilonno;x
-221;112;122;97;Anisola;x
-222;119;156;64;Labrocinum;x
-223;208;203;128;Crouciaconnum;x
-224;156;151;72;Ingena;x
-225;208;185;128;Cosedia;x
-226;210;203;93;Noviomagus Lexoviorum;x
-227;123;133;75;Nemetodurum;x
-228;176;185;134;Durocasses;x
-229;88;93;68;Mediolanum Aulercorum;x
-230;132;129;77;Cenabum;x
-231;153;136;46;Avalocum;x
-232;172;170;64;Colomna;x
-233;176;174;135;Miciacum;x
-234;93;85;50;Segimovicus;x
-235;174;163;108;Exolidunum;x
-236;122;144;19;Solonacum;x
-237;37;103;101;Elimberrum;x
-238;92;124;109;Tolosa;x
-239;93;162;130;Consoranni;x
-240;63;126;83;Lugdunum Convenarum;x
-241;58;72;66;Hungunverro;x
-242;74;144;111;Badera;x
-243;71;95;78;Belsinum;x
-244;58;82;86;Aquae Terebellicae;x
-245;87;117;122;Beneharnum;x
-246;58;86;76;Tarba;x
-247;134;158;162;Sexciacum;x
-248;40;137;153;Atura;x
-249;52;108;105;Burdigala;x
-250;98;149;146;Vodallacum;x
-251;89;120;118;Stomatas;x
-252;79;111;99;Boii;x
-253;69;151;121;Nouiomagos;x
-254;83;174;141;Marciaco;x
-255;83;192;179;Corterate;x
-256;110;140;147;Aginnum;x
-257;116;158;149;Sarnali;x
-258;102;136;140;Sotium;x
-259;89;117;111;Lactora;x
-260;119;192;176;Saviniago;x
-261;87;153;139;Elusa;x
-262;108;203;192;Coequosa;x
-263;109;150;160;Mosconnum;x
-264;74;82;83;Segosa;x
-265;90;112;117;Telonnum;x
-266;55;147;133;Autricum;x
-267;111;167;159;Lutetia;x
-268;56;106;98;Agedincum;x
-269;92;199;156;Autessiodurum;x
-270;53;80;76;Argentomagus;x
-271;82;99;97;Leprosum;x
-272;55;156;62;Balatedine;x
-273;126;183;130;Avaricum;x
-274;76;147;81;Cervidunum;x
-275;9;185;159;Genava;x
-276;151;196;179;Iulia Equestris;x
-277;26;154;105;Matisco;x
-278;74;196;149;Vesontio;x
-279;95;150;129;Alisona;x
-280;141;196;188;Andematunnum;x
-281;216;165;28;Lugdunum;x
-282;196;131;66;Morginnum;x
-283;119;104;64;Darantasia;x
-284;139;110;81;Cularo;x
-285;171;138;52;Eporedia;x
-286;156;133;71;Pocrinium;x
-287;130;111;59;Cerebecialla;x
-288;219;215;106;Vappincum;x
-289;160;157;79;Augusta Taurinorum;x
-290;121;120;87;Scinomagus;x
-291;196;192;69;Vologotae;x
-292;138;136;78;Dea Vocontiorum;x
-293;102;72;85;Narbo Martius;x
-294;131;28;74;Usuerva;x
-295;131;44;76;Piscenae;x
-296;106;77;90;Ruscino;x
-297;144;66;120;Capraria;x
-298;99;73;91;Baeterrae;x
-299;174;77;112;Embonne;x
-300;133;60;93;Hebromagus;x
-301;86;68;76;Carcasso;x
-302;126;85;100;Agatha;x
-303;99;59;77;Varadeto;x
-304;149;113;129;Marnevas;x
-305;124;63;79;Fesciago;x
-306;149;102;123;Marcialio;x
-307;88;58;74;Lautrego;x
-308;104;87;113;Segodunum;x
-309;156;105;128;Catiriacum;x
-310;133;94;140;Tribonum;x
-311;118;68;144;Carantomagus;x
-312;172;151;176;Nemausus;x
-313;158;94;122;Luteva;x
-314;104;103;85;Augustonemetum;x
-315;185;182;130;Chrononum;x
-316;153;140;95;Vialoscum;x
-317;181;149;46;Arthona;x
-318;124;116;87;Thigernum;x
-319;176;170;65;Avitacum;x
-320;197;193;126;Mediocantus;x
-321;156;152;90;Senaparia;x
-322;147;141;42;Alerta;x
-323;126;123;68;Nogeomagus;x
-324;114;129;87;Intaranum;x
-325;110;147;42;Decetia;x
-326;95;93;65;Derventum;x
-327;171;168;115;Cantilia;x
-328;135;131;63;Augustoritum;x
-329;109;144;98;Divona;x
-330;169;167;121;Vesunna;x
-331;129;127;101;Issando;x
-332;167;199;88;Userca;x
-333;136;153;92;Iculisma;x
-334;129;151;58;Durotincum;x
-335;98;91;113;Apta Iulia;x
-336;68;28;99;Alaebecae;x
-337;116;92;134;Segustoro;x
-338;175;144;198;Catuaicia;x
-339;121;94;168;Cemenellum;x
-340;133;120;145;Album Ingaunum;x
-341;86;67;103;Albium Intimilium;x
-342;104;94;112;Vintium;x
-343;25;80;148;Massalia;x
-344;72;89;110;Antipolis;x
-345;135;166;204;Forum Iulii;x
-346;81;105;134;Aquae Sextiae;x
-347;145;115;33;Mediolanum;x
-348;102;80;20;Ticinum;x
-349;150;135;94;Comun;x
-350;224;190;97;Novaria;x
-351;132;115;68;Vercellae;x
-352;131;185;83;Tridentium;x
-353;66;174;95;Verona;x
-354;168;185;129;Feltria;x
-355;81;128;72;Verruca;x
-356;115;156;92;Anaunion;x
-357;139;150;128;Raeti;x
-358;71;180;73;Teurnia;x
-359;112;171;113;Aguntum;x
-360;79;116;80;Littamum;x
-361;160;209;111;Veldidena;x
-362;75;105;48;Aventicum;x
-363;128;163;46;Curia;x
-364;66;73;48;Cunus Aureas;x
-365;189;209;141;Magia;x
-366;69;81;41;Grepault;x
-367;100;116;64;Brenodunum;x
-368;146;178;73;Sedunum;x
-369;130;104;29;Cambodunum;x
-370;196;166;80;Sermiana;x
-371;216;204;97;Summus Vicus;x
-372;190;179;82;Segavio;x
-373;216;169;36;Matreum;x
-374;239;167;61;Parthanum;x
-375;199;177;111;Damasia;x
-376;177;131;63;Arbor Felix;x
-377;204;98;87;Caesaromagus;x
-378;185;113;105;Caracoticum;x
-379;124;82;77;Rotomagus;x
-380;86;40;35;Briga;x
-381;142;103;99;Augustomagus;x
-382;132;39;30;Bagacum;x
-383;104;70;54;Viromanduorum;x
-384;162;134;121;Verbinum;x
-385;99;45;27;Catusiacum;x
-386;126;81;76;Castellum Menaporium;x
-387;122;86;92;Samarobriva;x
-388;126;71;65;Gesoriacum;x
-389;79;28;37;Tarvenna;x
-390;176;100;92;Ganuen;x
-391;211;228;184;Nasagus;x
-392;72;81;58;Gelduba;x
-393;134;149;111;Mederiacum;x
-394;190;189;153;Atuatuca;x
-395;126;126;88;Vervigium;x
-396;212;212;200;Perniciacum;x
-397;101;121;69;Castra Vetera;x
-398;121;133;101;Helinio;x
-399;133;149;108;Grinnes;x
-400;79;102;44;Geminiacum;x
-401;54;113;76;Blariacum;x
-402;150;115;54;Augusta Suessionium;x
-403;201;179;140;Durocortium;x
-404;192;181;161;Durocatalaunum;x
-405;79;74;65;Segessera;x
-406;158;145;121;Caviniacum;x
-407;183;166;136;Orolanum;x
-408;113;106;93;Caturicis;x
-409;212;160;86;Rouphiniana;x
-410;147;105;45;Decem Pagi;x
-411;187;138;68;Pons Saravi;x
-412;146;97;27;Marcomagus;x
-413;167;163;47;Tolbiacum;x
-414;160;142;87;Tiberiacum;x
-415;219;177;49;Novaesium;x
-416;183;152;57;Burungum;x
-417;141;130;98;Marcodurum;x
-418;196;159;145;Vicus Alisinensium;x
-419;222;117;77;Aquae;x
-420;180;139;78;Noviomagus;x
-421;196;176;145;Lopodunum;x
-422;92;70;62;Borbetomagus;x
-423;173;129;112;Mogontiacum;x
-424;173;139;112;Aquae Mattiacorum;x
-425;193;131;81;Nida;x
-426;198;83;40;Bonna;x
-427;186;132;73;Bingium;x
-428;147;92;71;Augusta Treverorum;x
-429;170;134;96;Ausava;x
-430;147;89;28;Belsonacum;x
-431;128;57;30;Summelocenna;x
-432;163;86;57;Bragodurum;x
-433;160;92;52;Guntia;x
-434;193;96;59;Phoebiana;x
-435;209;142;103;Vindelicum;x
-436;170;125;108;Parrodunum;x
-437;233;208;140;Epamanduodurum;x
-438;163;152;49;Tullum;x
-439;229;180;46;Viridunum;x
-440;173;149;82;Divodurum;x
-441;193;151;36;Broccomagus;x
-442;199;187;78;Argentorate;x
-443;203;195;131;Argentovaria;x
-444;109;103;86;Augusta Raurica;x
-445;222;177;47;Salodurum;x
-446;183;149;48;Vindonissa;x
-447;186;164;103;Arae Flaviae;x
-448;173;139;43;Centrum Prata;x
-449;173;113;63;Emporion;x
-450;198;193;56;Indigetes;x
-451;153;151;106;Iacetani;x
-452;223;220;126;Ceretani;x
-453;126;124;49;Cessetani;x
-454;103;144;106;Illergetae;x
-455;144;137;68;Berones;x
-456;175;131;181;Baleares;x
-457;130;76;139;Ebusus;x
-458;137;165;193;Ilercavones;x
-459;90;143;195;Sedetani;x
-460;64;173;71;Vardulli;x
-461;99;69;53;Turmodigi;x
-462;173;94;52;Caristii;x
-463;54;99;144;Edetani;x
-464;76;130;184;Contestani;x
-465;57;150;136;Lobetani;x
-466;126;86;133;Germanii;x
-467;151;117;156;Carpetani;x
-468;181;168;46;Arevaci;x
-469;187;94;94;Calontienses;x
-470;221;116;116;Vettones;x
-471;32;118;121;Vaccaei;x
-472;35;127;58;Cantabri;x
-473;41;92;93;Baedunenses;x
-474;71;108;80;Astures;x
-475;67;153;89;Lemavi;x
-476;25;152;194;Cibarci;x
-477;116;166;204;Artabri;x
-478;110;141;207;Gallaeci;x
-479;41;124;187;Bracari;x
-480;147;90;90;Bletonesii;x
-481;93;76;159;Lanciences;x
-482;116;98;171;Paesuri;x
-483;164;163;112;Veteres;x
-484;122;113;147;Tapori;x
-485;133;133;176;Elbocori;x
-486;139;136;61;Oppidani;x
-487;187;183;66;Celtici;x
-488;133;75;47;Mirobrigenses;x
-489;153;152;94;Elbestoi;x
-490;148;91;63;Cunetes;x
-491;130;128;60;Turduli;x
-492;98;183;60;Baetica;x
-493;55;94;37;Turdetani;x
-494;132;166;117;West Oretani;x
-495;144;193;185;East Oretani;x
-496;52;170;151;Bastetani;x
-497;19;55;72;Ocean Britain;x
-498;41;161;217;Ocean Roman;x
+201;93;126;109;Sermanicomago;x
+202;88;144;112;Novioregum;x
+203;68;144;104;Aunedonnacum;x
+204;51;108;87;Rauranum;x
+205;70;174;120;Becciacum;x
+206;94;115;74;Ruson;x
+207;65;115;73;Vetraria;x
+208;84;138;30;Vertavus;x
+209;45;149;62;Korbilon;x
+210;21;154;84;Caesarodunum;x
+211;57;129;109;Brixis;x
+212;69;228;170;Mantalomagum;x
+213;15;176;117;Mediconnum;x
+214;64;135;120;Alingavia;x
+215;92;156;139;Calatonno;x
+216;35;122;90;Novivicum;x
+217;64;135;90;Vernaus;x
+218;89;87;55;Vindunum;x
+219;145;205;55;Iuliomagus;x
+220;76;120;12;Ouagoriton;x
+221;140;169;96;Bricilonno;x
+222;112;122;97;Anisola;x
+223;119;156;64;Labrocinum;x
+224;208;203;128;Crouciaconnum;x
+225;156;151;72;Ingena;x
+226;208;185;128;Cosedia;x
+227;210;203;93;Noviomagus Lexoviorum;x
+228;123;133;75;Nemetodurum;x
+229;176;185;134;Durocasses;x
+230;88;93;68;Mediolanum Aulercorum;x
+231;132;129;77;Cenabum;x
+232;153;136;46;Avalocum;x
+233;172;170;64;Colomna;x
+234;176;174;135;Miciacum;x
+235;93;85;50;Segimovicus;x
+236;174;163;108;Exolidunum;x
+237;122;144;19;Solonacum;x
+238;37;103;101;Elimberrum;x
+239;92;124;109;Tolosa;x
+240;93;162;130;Consoranni;x
+241;63;126;83;Lugdunum Convenarum;x
+242;58;72;66;Hungunverro;x
+243;74;144;111;Badera;x
+244;71;95;78;Belsinum;x
+245;58;82;86;Aquae Terebellicae;x
+246;87;117;122;Beneharnum;x
+247;58;86;76;Tarba;x
+248;134;158;162;Sexciacum;x
+249;40;137;153;Atura;x
+250;52;108;105;Burdigala;x
+251;98;149;146;Vodallacum;x
+252;89;120;118;Stomatas;x
+253;79;111;99;Boii;x
+254;69;151;121;Nouiomagos;x
+255;83;174;141;Marciaco;x
+256;83;192;179;Corterate;x
+257;110;140;147;Aginnum;x
+258;116;158;149;Sarnali;x
+259;102;136;140;Sotium;x
+260;89;117;111;Lactora;x
+261;119;192;176;Saviniago;x
+262;87;153;139;Elusa;x
+263;108;203;192;Coequosa;x
+264;109;150;160;Mosconnum;x
+265;74;82;83;Segosa;x
+266;90;112;117;Telonnum;x
+267;55;147;133;Autricum;x
+268;111;167;159;Lutetia;x
+269;56;106;98;Agedincum;x
+270;92;199;156;Autessiodurum;x
+271;53;80;76;Argentomagus;x
+272;82;99;97;Leprosum;x
+273;55;156;62;Balatedine;x
+274;126;183;130;Avaricum;x
+275;76;147;81;Cervidunum;x
+276;9;185;159;Genava;x
+277;151;196;179;Iulia Equestris;x
+278;26;154;105;Matisco;x
+279;74;196;149;Vesontio;x
+280;95;150;129;Alisona;x
+281;141;196;188;Andematunnum;x
+282;216;165;28;Lugdunum;x
+283;196;131;66;Morginnum;x
+284;119;104;64;Darantasia;x
+285;139;110;81;Cularo;x
+286;171;138;52;Eporedia;x
+287;156;133;71;Pocrinium;x
+288;130;111;59;Cerebecialla;x
+289;219;215;106;Vappincum;x
+290;160;157;79;Augusta Taurinorum;x
+291;121;120;87;Scinomagus;x
+292;196;192;69;Vologotae;x
+293;138;136;78;Dea Vocontiorum;x
+294;102;72;85;Narbo Martius;x
+295;131;28;74;Usuerva;x
+296;131;44;76;Piscenae;x
+297;106;77;90;Ruscino;x
+298;144;66;120;Capraria;x
+299;99;73;91;Baeterrae;x
+300;174;77;112;Embonne;x
+301;133;60;93;Hebromagus;x
+302;86;68;76;Carcasso;x
+303;126;85;100;Agatha;x
+304;99;59;77;Varadeto;x
+305;149;113;129;Marnevas;x
+306;124;63;79;Fesciago;x
+307;149;102;123;Marcialio;x
+308;88;58;74;Lautrego;x
+309;104;87;113;Segodunum;x
+310;156;105;128;Catiriacum;x
+311;133;94;140;Tribonum;x
+312;118;68;144;Carantomagus;x
+313;172;151;176;Nemausus;x
+314;158;94;122;Luteva;x
+315;104;103;85;Augustonemetum;x
+316;185;182;130;Chrononum;x
+317;153;140;95;Vialoscum;x
+318;181;149;46;Arthona;x
+319;124;116;87;Thigernum;x
+320;176;170;65;Avitacum;x
+321;197;193;126;Mediocantus;x
+322;156;152;90;Senaparia;x
+323;147;141;42;Alerta;x
+324;126;123;68;Nogeomagus;x
+325;114;129;87;Intaranum;x
+326;110;147;42;Decetia;x
+327;95;93;65;Derventum;x
+328;171;168;115;Cantilia;x
+329;135;131;63;Augustoritum;x
+330;109;144;98;Divona;x
+331;169;167;121;Vesunna;x
+332;129;127;101;Issando;x
+333;167;199;88;Userca;x
+334;136;153;92;Iculisma;x
+335;129;151;58;Durotincum;x
+336;98;91;113;Apta Iulia;x
+337;68;28;99;Alaebecae;x
+338;116;92;134;Segustoro;x
+339;175;144;198;Catuaicia;x
+340;121;94;168;Cemenellum;x
+341;133;120;145;Album Ingaunum;x
+342;86;67;103;Albium Intimilium;x
+343;104;94;112;Vintium;x
+344;25;80;148;Massalia;x
+345;72;89;110;Antipolis;x
+346;135;166;204;Forum Iulii;x
+347;81;105;134;Aquae Sextiae;x
+348;145;115;33;Mediolanum;x
+349;102;80;20;Ticinum;x
+350;150;135;94;Comun;x
+351;224;190;97;Novaria;x
+352;132;115;68;Vercellae;x
+353;131;185;83;Tridentium;x
+354;66;174;95;Verona;x
+355;168;185;129;Feltria;x
+356;81;128;72;Verruca;x
+357;115;156;92;Anaunion;x
+358;139;150;128;Raeti;x
+359;71;180;73;Teurnia;x
+360;112;171;113;Aguntum;x
+361;79;116;80;Littamum;x
+362;160;209;111;Veldidena;x
+363;75;105;48;Aventicum;x
+364;128;163;46;Curia;x
+365;66;73;48;Cunus Aureas;x
+366;189;209;141;Magia;x
+367;69;81;41;Grepault;x
+368;100;116;64;Brenodunum;x
+369;146;178;73;Sedunum;x
+370;130;104;29;Cambodunum;x
+371;196;166;80;Sermiana;x
+372;216;204;97;Summus Vicus;x
+373;190;179;82;Segavio;x
+374;216;169;36;Matreum;x
+375;239;167;61;Parthanum;x
+376;199;177;111;Damasia;x
+377;177;131;63;Arbor Felix;x
+378;204;98;87;Caesaromagus;x
+379;185;113;105;Caracoticum;x
+380;124;82;77;Rotomagus;x
+381;86;40;35;Briga;x
+382;142;103;99;Augustomagus;x
+383;132;39;30;Bagacum;x
+384;104;70;54;Viromanduorum;x
+385;162;134;121;Verbinum;x
+386;99;45;27;Catusiacum;x
+387;126;81;76;Castellum Menaporium;x
+388;122;86;92;Samarobriva;x
+389;126;71;65;Gesoriacum;x
+390;79;28;37;Tarvenna;x
+391;176;100;92;Ganuen;x
+392;211;228;184;Nasagus;x
+393;72;81;58;Gelduba;x
+394;134;149;111;Mederiacum;x
+395;190;189;153;Atuatuca;x
+396;126;126;88;Vervigium;x
+397;212;212;200;Perniciacum;x
+398;101;121;69;Castra Vetera;x
+399;121;133;101;Helinio;x
+400;133;149;108;Grinnes;x
+401;79;102;44;Geminiacum;x
+402;54;113;76;Blariacum;x
+403;150;115;54;Augusta Suessionium;x
+404;201;179;140;Durocortium;x
+405;192;181;161;Durocatalaunum;x
+406;79;74;65;Segessera;x
+407;158;145;121;Caviniacum;x
+408;183;166;136;Orolanum;x
+409;113;106;93;Caturicis;x
+410;212;160;86;Rouphiniana;x
+411;147;105;45;Decem Pagi;x
+412;187;138;68;Pons Saravi;x
+413;146;97;27;Marcomagus;x
+414;167;163;47;Tolbiacum;x
+415;160;142;87;Tiberiacum;x
+416;219;177;49;Novaesium;x
+417;183;152;57;Burungum;x
+418;141;130;98;Marcodurum;x
+419;196;159;145;Vicus Alisinensium;x
+420;222;117;77;Aquae;x
+421;180;139;78;Noviomagus;x
+422;196;176;145;Lopodunum;x
+423;92;70;62;Borbetomagus;x
+424;173;129;112;Mogontiacum;x
+425;173;139;112;Aquae Mattiacorum;x
+426;193;131;81;Nida;x
+427;198;83;40;Bonna;x
+428;186;132;73;Bingium;x
+429;147;92;71;Augusta Treverorum;x
+430;170;134;96;Ausava;x
+431;147;89;28;Belsonacum;x
+432;128;57;30;Summelocenna;x
+433;163;86;57;Bragodurum;x
+434;160;92;52;Guntia;x
+435;193;96;59;Phoebiana;x
+436;209;142;103;Vindelicum;x
+437;170;125;108;Parrodunum;x
+438;233;208;140;Epamanduodurum;x
+439;163;152;49;Tullum;x
+440;229;180;46;Viridunum;x
+441;173;149;82;Divodurum;x
+442;193;151;36;Broccomagus;x
+443;199;187;78;Argentorate;x
+444;203;195;131;Argentovaria;x
+445;109;103;86;Augusta Raurica;x
+446;222;177;47;Salodurum;x
+447;183;149;48;Vindonissa;x
+448;186;164;103;Arae Flaviae;x
+449;173;139;43;Centrum Prata;x
+450;173;113;63;Emporion;x
+451;198;193;56;Indigetes;x
+452;153;151;106;Iacetani;x
+453;223;220;126;Ceretani;x
+454;126;124;49;Cessetani;x
+455;103;144;106;Illergetae;x
+456;144;137;68;Berones;x
+457;175;131;181;Baleares;x
+458;130;76;139;Ebusus;x
+459;137;165;193;Ilercavones;x
+460;90;143;195;Sedetani;x
+461;64;173;71;Vardulli;x
+462;99;69;53;Turmodigi;x
+463;173;94;52;Caristii;x
+464;54;99;144;Edetani;x
+465;76;130;184;Contestani;x
+466;57;150;136;Lobetani;x
+467;126;86;133;Germanii;x
+468;151;117;156;Carpetani;x
+469;181;168;46;Arevaci;x
+470;187;94;94;Calontienses;x
+471;221;116;116;Vettones;x
+472;32;118;121;Vaccaei;x
+473;35;127;58;Cantabri;x
+474;41;92;93;Baedunenses;x
+475;71;108;80;Astures;x
+476;67;153;89;Lemavi;x
+477;25;152;194;Cibarci;x
+478;116;166;204;Lucas Augusti;x
+479;49;94;129;Caranicum;x
+480;110;141;207;Gallaeci;x
+481;41;124;187;Bracari;x
+482;147;90;90;Bletonesii;x
+483;93;76;159;Lanciences;x
+484;116;98;171;Paesuri;x
+485;164;163;112;Veteres;x
+486;122;113;147;Tapori;x
+487;133;133;176;Elbocori;x
+488;139;136;61;Oppidani;x
+489;187;183;66;Celtici;x
+490;133;75;47;Mirobrigenses;x
+491;153;152;94;Elbestoi;x
+492;148;91;63;Cunetes;x
+493;130;128;60;Turduli;x
+494;98;183;60;Baetica;x
+495;55;94;37;Turdetani;x
+496;132;166;117;West Oretani;x
+497;144;193;185;East Oretani;x
+498;52;170;151;Bastetani;x
+499;19;55;72;Ocean Britain;x
+500;41;161;217;Ocean Roman;x

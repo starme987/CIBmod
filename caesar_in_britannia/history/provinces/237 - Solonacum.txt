@@ -1,0 +1,21 @@
+# c_solonacum
+
+# County Title
+title = c_solonacum
+
+# Settlements
+max_settlements = 3
+
+b_solonacum = castle
+#b_solonacum_2 = city
+#b_solonacum_3 = temple
+#b_solonacum_4 = castle
+#b_solonacum_5 = city
+#b_solonacum_6 = temple
+#b_solonacum_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

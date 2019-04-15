@@ -1,0 +1,21 @@
+# c_durocatalaunum
+
+# County Title
+title = c_durocatalaunum
+
+# Settlements
+max_settlements = 3
+
+b_durocatalaunum = castle
+#b_durocatalaunum_2 = city
+#b_durocatalaunum_3 = temple
+#b_durocatalaunum_4 = castle
+#b_durocatalaunum_5 = city
+#b_durocatalaunum_6 = temple
+#b_durocatalaunum_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

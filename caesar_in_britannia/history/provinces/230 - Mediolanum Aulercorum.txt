@@ -1,0 +1,21 @@
+# c_mediolanum_aulercorum
+
+# County Title
+title = c_mediolanum_aulercorum
+
+# Settlements
+max_settlements = 3
+
+b_mediolanum_aulercorum = castle
+#b_mediolanum_aulercorum_2 = city
+#b_mediolanum_aulercorum_3 = temple
+#b_mediolanum_aulercorum_4 = castle
+#b_mediolanum_aulercorum_5 = city
+#b_mediolanum_aulercorum_6 = temple
+#b_mediolanum_aulercorum_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

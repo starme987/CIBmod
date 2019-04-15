@@ -1,0 +1,21 @@
+# c_darantasia
+
+# County Title
+title = c_darantasia
+
+# Settlements
+max_settlements = 3
+
+b_darantasia = castle
+#b_darantasia_2 = city
+#b_darantasia_3 = temple
+#b_darantasia_4 = castle
+#b_darantasia_5 = city
+#b_darantasia_6 = temple
+#b_darantasia_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

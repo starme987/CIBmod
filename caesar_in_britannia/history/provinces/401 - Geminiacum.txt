@@ -1,0 +1,21 @@
+# c_geminiacum
+
+# County Title
+title = c_geminiacum
+
+# Settlements
+max_settlements = 3
+
+b_geminiacum = castle
+#b_geminiacum_2 = city
+#b_geminiacum_3 = temple
+#b_geminiacum_4 = castle
+#b_geminiacum_5 = city
+#b_geminiacum_6 = temple
+#b_geminiacum_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

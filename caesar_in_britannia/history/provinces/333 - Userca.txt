@@ -1,0 +1,21 @@
+# c_userca
+
+# County Title
+title = c_userca
+
+# Settlements
+max_settlements = 3
+
+b_userca = castle
+#b_userca_2 = city
+#b_userca_3 = temple
+#b_userca_4 = castle
+#b_userca_5 = city
+#b_userca_6 = temple
+#b_userca_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

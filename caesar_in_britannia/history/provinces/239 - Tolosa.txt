@@ -1,0 +1,21 @@
+# c_tolosa
+
+# County Title
+title = c_tolosa
+
+# Settlements
+max_settlements = 3
+
+b_tolosa = castle
+#b_tolosa_2 = city
+#b_tolosa_3 = temple
+#b_tolosa_4 = castle
+#b_tolosa_5 = city
+#b_tolosa_6 = temple
+#b_tolosa_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

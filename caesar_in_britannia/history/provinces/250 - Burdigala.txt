@@ -1,0 +1,21 @@
+# c_burdigala
+
+# County Title
+title = c_burdigala
+
+# Settlements
+max_settlements = 4
+
+b_burdigala = castle
+#b_burdigala_2 = city
+#b_burdigala_3 = temple
+#b_burdigala_4 = castle
+#b_burdigala_5 = city
+#b_burdigala_6 = temple
+#b_burdigala_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_briga
+
+# County Title
+title = c_briga
+
+# Settlements
+max_settlements = 3
+
+b_briga = castle
+#b_briga_2 = city
+#b_briga_3 = temple
+#b_briga_4 = castle
+#b_briga_5 = city
+#b_briga_6 = temple
+#b_briga_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

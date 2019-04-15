@@ -1,0 +1,21 @@
+# c_aquae_mattiacorum
+
+# County Title
+title = c_aquae_mattiacorum
+
+# Settlements
+max_settlements = 3
+
+b_aquae_mattiacorum = castle
+#b_aquae_mattiacorum_2 = city
+#b_aquae_mattiacorum_3 = temple
+#b_aquae_mattiacorum_4 = castle
+#b_aquae_mattiacorum_5 = city
+#b_aquae_mattiacorum_6 = temple
+#b_aquae_mattiacorum_7 = castle
+
+# Misc
+culture = germanic
+religion = heathen
+
+#History

@@ -1,0 +1,21 @@
+# c_castellum_menaporium
+
+# County Title
+title = c_castellum_menaporium
+
+# Settlements
+max_settlements = 4
+
+b_castellum_menaporium = castle
+#b_castellum_menaporium_2 = city
+#b_castellum_menaporium_3 = temple
+#b_castellum_menaporium_4 = castle
+#b_castellum_menaporium_5 = city
+#b_castellum_menaporium_6 = temple
+#b_castellum_menaporium_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

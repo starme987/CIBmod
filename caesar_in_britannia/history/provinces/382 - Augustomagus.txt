@@ -1,0 +1,21 @@
+# c_augustomagus
+
+# County Title
+title = c_augustomagus
+
+# Settlements
+max_settlements = 3
+
+b_augustomagus = castle
+#b_augustomagus_2 = city
+#b_augustomagus_3 = temple
+#b_augustomagus_4 = castle
+#b_augustomagus_5 = city
+#b_augustomagus_6 = temple
+#b_augustomagus_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

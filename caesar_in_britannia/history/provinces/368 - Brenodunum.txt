@@ -1,0 +1,21 @@
+# c_brenodunum
+
+# County Title
+title = c_brenodunum
+
+# Settlements
+max_settlements = 3
+
+b_brenodunum = castle
+#b_brenodunum_2 = city
+#b_brenodunum_3 = temple
+#b_brenodunum_4 = castle
+#b_brenodunum_5 = city
+#b_brenodunum_6 = temple
+#b_brenodunum_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

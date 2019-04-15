@@ -1,0 +1,21 @@
+# c_avitacum
+
+# County Title
+title = c_avitacum
+
+# Settlements
+max_settlements = 3
+
+b_avitacum = castle
+#b_avitacum_2 = city
+#b_avitacum_3 = temple
+#b_avitacum_4 = castle
+#b_avitacum_5 = city
+#b_avitacum_6 = temple
+#b_avitacum_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_embonne
+
+# County Title
+title = c_embonne
+
+# Settlements
+max_settlements = 3
+
+b_embonne = castle
+#b_embonne_2 = city
+#b_embonne_3 = temple
+#b_embonne_4 = castle
+#b_embonne_5 = city
+#b_embonne_6 = temple
+#b_embonne_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

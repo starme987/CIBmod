@@ -1,0 +1,21 @@
+# c_ceretani
+
+# County Title
+title = c_ceretani
+
+# Settlements
+max_settlements = 3
+
+b_ceretani = castle
+#b_ceretani_2 = city
+#b_ceretani_3 = temple
+#b_ceretani_4 = castle
+#b_ceretani_5 = city
+#b_ceretani_6 = temple
+#b_ceretani_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

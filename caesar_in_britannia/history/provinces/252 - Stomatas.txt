@@ -1,0 +1,21 @@
+# c_stomatas
+
+# County Title
+title = c_stomatas
+
+# Settlements
+max_settlements = 3
+
+b_stomatas = castle
+#b_stomatas_2 = city
+#b_stomatas_3 = temple
+#b_stomatas_4 = castle
+#b_stomatas_5 = city
+#b_stomatas_6 = temple
+#b_stomatas_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

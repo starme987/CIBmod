@@ -1,0 +1,21 @@
+# c_fesciago
+
+# County Title
+title = c_fesciago
+
+# Settlements
+max_settlements = 3
+
+b_fesciago = castle
+#b_fesciago_2 = city
+#b_fesciago_3 = temple
+#b_fesciago_4 = castle
+#b_fesciago_5 = city
+#b_fesciago_6 = temple
+#b_fesciago_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

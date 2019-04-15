@@ -1,0 +1,21 @@
+# c_borbetomagus
+
+# County Title
+title = c_borbetomagus
+
+# Settlements
+max_settlements = 3
+
+b_borbetomagus = castle
+#b_borbetomagus_2 = city
+#b_borbetomagus_3 = temple
+#b_borbetomagus_4 = castle
+#b_borbetomagus_5 = city
+#b_borbetomagus_6 = temple
+#b_borbetomagus_7 = castle
+
+# Misc
+culture = germanic
+religion = heathen
+
+#History

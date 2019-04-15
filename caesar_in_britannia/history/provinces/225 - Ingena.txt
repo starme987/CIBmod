@@ -1,0 +1,21 @@
+# c_ingena
+
+# County Title
+title = c_ingena
+
+# Settlements
+max_settlements = 3
+
+b_ingena = castle
+#b_ingena_2 = city
+#b_ingena_3 = temple
+#b_ingena_4 = castle
+#b_ingena_5 = city
+#b_ingena_6 = temple
+#b_ingena_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

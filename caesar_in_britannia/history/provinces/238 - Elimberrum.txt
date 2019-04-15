@@ -1,0 +1,21 @@
+# c_elimberrum
+
+# County Title
+title = c_elimberrum
+
+# Settlements
+max_settlements = 4
+
+b_elimberrum = castle
+#b_elimberrum_2 = city
+#b_elimberrum_3 = temple
+#b_elimberrum_4 = castle
+#b_elimberrum_5 = city
+#b_elimberrum_6 = temple
+#b_elimberrum_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

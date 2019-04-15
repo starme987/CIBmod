@@ -1,0 +1,21 @@
+# c_agedincum
+
+# County Title
+title = c_agedincum
+
+# Settlements
+max_settlements = 3
+
+b_agedincum = castle
+#b_agedincum_2 = city
+#b_agedincum_3 = temple
+#b_agedincum_4 = castle
+#b_agedincum_5 = city
+#b_agedincum_6 = temple
+#b_agedincum_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

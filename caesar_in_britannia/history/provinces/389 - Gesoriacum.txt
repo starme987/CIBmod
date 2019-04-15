@@ -1,0 +1,21 @@
+# c_gesoriacum
+
+# County Title
+title = c_gesoriacum
+
+# Settlements
+max_settlements = 3
+
+b_gesoriacum = castle
+#b_gesoriacum_2 = city
+#b_gesoriacum_3 = temple
+#b_gesoriacum_4 = castle
+#b_gesoriacum_5 = city
+#b_gesoriacum_6 = temple
+#b_gesoriacum_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

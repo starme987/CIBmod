@@ -1,0 +1,21 @@
+# c_rauranum
+
+# County Title
+title = c_rauranum
+
+# Settlements
+max_settlements = 3
+
+b_rauranum = castle
+#b_rauranum_2 = city
+#b_rauranum_3 = temple
+#b_rauranum_4 = castle
+#b_rauranum_5 = city
+#b_rauranum_6 = temple
+#b_rauranum_7 = castle
+
+# Misc
+culture = gallic
+religion = gaulish_druidic
+
+#History

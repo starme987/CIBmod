@@ -1,0 +1,17 @@
+# c_tapori
+
+# County Title
+title = c_tapori
+
+# Settlements
+max_settlements = 3
+
+b_placeholder_24 = castle
+#b_tapori = city
+#b_tapori_2 = temple
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

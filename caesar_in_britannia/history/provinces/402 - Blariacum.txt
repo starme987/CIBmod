@@ -1,0 +1,21 @@
+# c_blariacum
+
+# County Title
+title = c_blariacum
+
+# Settlements
+max_settlements = 3
+
+b_blariacum = castle
+#b_blariacum_2 = city
+#b_blariacum_3 = temple
+#b_blariacum_4 = castle
+#b_blariacum_5 = city
+#b_blariacum_6 = temple
+#b_blariacum_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History

@@ -1,0 +1,17 @@
+# c_bletonesii
+
+# County Title
+title = c_bletonesii
+
+# Settlements
+max_settlements = 3
+
+b_placeholder_20 = castle
+#b_bletonesii = city
+#b_bletonesii_2 = temple
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

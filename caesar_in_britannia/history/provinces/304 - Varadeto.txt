@@ -1,0 +1,21 @@
+# c_varadeto
+
+# County Title
+title = c_varadeto
+
+# Settlements
+max_settlements = 4
+
+b_varadeto = castle
+#b_varadeto_2 = city
+#b_varadeto_3 = temple
+#b_varadeto_4 = castle
+#b_varadeto_5 = city
+#b_varadeto_6 = temple
+#b_varadeto_7 = castle
+
+# Misc
+culture = celtic
+religion = celtic_druidic
+
+#History
