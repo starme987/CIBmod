@@ -1,0 +1,17 @@
+# c_west_oretani
+
+# County Title
+title = c_west_oretani
+
+# Settlements
+max_settlements = 3
+
+b_placeholder_31 = castle
+#b_west_oretani = city
+#b_west_oretani_2 = temple
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

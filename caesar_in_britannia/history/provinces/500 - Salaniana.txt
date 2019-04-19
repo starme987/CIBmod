@@ -1,0 +1,21 @@
+# c_salaniana
+
+# County Title
+title = c_salaniana
+
+# Settlements
+max_settlements = 3
+
+b_salaniana = castle
+#b_salaniana_2 = city
+#b_salaniana_3 = temple
+#b_salaniana_4 = castle
+#b_salaniana_5 = city
+#b_salaniana_6 = temple
+#b_salaniana_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

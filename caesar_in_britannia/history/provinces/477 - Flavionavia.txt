@@ -1,0 +1,21 @@
+# c_flavionavia
+
+# County Title
+title = c_flavionavia
+
+# Settlements
+max_settlements = 3
+
+b_flavionavia = castle
+#b_flavionavia_2 = city
+#b_flavionavia_3 = temple
+#b_flavionavia_4 = castle
+#b_flavionavia_5 = city
+#b_flavionavia_6 = temple
+#b_flavionavia_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

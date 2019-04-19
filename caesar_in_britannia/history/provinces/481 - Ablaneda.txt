@@ -1,0 +1,21 @@
+# c_ablaneda
+
+# County Title
+title = c_ablaneda
+
+# Settlements
+max_settlements = 3
+
+b_ablaneda = castle
+#b_ablaneda_2 = city
+#b_ablaneda_3 = temple
+#b_ablaneda_4 = castle
+#b_ablaneda_5 = city
+#b_ablaneda_6 = temple
+#b_ablaneda_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

@@ -1,0 +1,17 @@
+# c_gallaeci
+
+# County Title
+title = c_gallaeci
+
+# Settlements
+max_settlements = 3
+
+b_placeholder_16 = castle
+#b_gallaeci = city
+#b_gallaeci_2 = temple
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

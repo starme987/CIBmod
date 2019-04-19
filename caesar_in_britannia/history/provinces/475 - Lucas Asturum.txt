@@ -1,0 +1,21 @@
+# c_lucas_asturum
+
+# County Title
+title = c_lucas_asturum
+
+# Settlements
+max_settlements = 4
+
+b_lucas_asturum = castle
+#b_lucas_asturum_2 = city
+#b_lucas_asturum_3 = temple
+#b_lucas_asturum_4 = castle
+#b_lucas_asturum_5 = city
+#b_lucas_asturum_6 = temple
+#b_lucas_asturum_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

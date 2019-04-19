@@ -1,0 +1,21 @@
+# c_limia
+
+# County Title
+title = c_limia
+
+# Settlements
+max_settlements = 3
+
+b_limia = castle
+#b_limia_2 = city
+#b_limia_3 = temple
+#b_limia_4 = castle
+#b_limia_5 = city
+#b_limia_6 = temple
+#b_limia_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

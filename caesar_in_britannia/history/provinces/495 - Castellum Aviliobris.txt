@@ -1,0 +1,21 @@
+# c_castellum_aviliobris
+
+# County Title
+title = c_castellum_aviliobris
+
+# Settlements
+max_settlements = 3
+
+b_castellum_aviliobris = castle
+#b_castellum_aviliobris_2 = city
+#b_castellum_aviliobris_3 = temple
+#b_castellum_aviliobris_4 = castle
+#b_castellum_aviliobris_5 = city
+#b_castellum_aviliobris_6 = temple
+#b_castellum_aviliobris_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

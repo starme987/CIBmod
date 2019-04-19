@@ -469,33 +469,56 @@ province;red;green;blue;x;x
 468;151;117;156;Carpetani;x
 469;181;168;46;Arevaci;x
 470;187;94;94;Calontienses;x
-471;221;116;116;Vettones;x
+471;1;1;1;PLACEHOLDER471;x
 472;32;118;121;Vaccaei;x
 473;35;127;58;Cantabri;x
 474;41;92;93;Baedunenses;x
-475;71;108;80;Astures;x
-476;67;153;89;Lemavi;x
-477;25;152;194;Cibarci;x
-478;116;166;204;Lucas Augusti;x
-479;49;94;129;Caranicum;x
-480;110;141;207;Gallaeci;x
-481;41;124;187;Bracari;x
-482;147;90;90;Bletonesii;x
-483;93;76;159;Lanciences;x
-484;116;98;171;Paesuri;x
-485;164;163;112;Veteres;x
-486;122;113;147;Tapori;x
-487;133;133;176;Elbocori;x
-488;139;136;61;Oppidani;x
-489;187;183;66;Celtici;x
-490;133;75;47;Mirobrigenses;x
-491;153;152;94;Elbestoi;x
-492;148;91;63;Cunetes;x
-493;130;128;60;Turduli;x
-494;98;183;60;Baetica;x
-495;55;94;37;Turdetani;x
-496;132;166;117;West Oretani;x
-497;144;193;185;East Oretani;x
-498;52;170;151;Bastetani;x
-499;19;55;72;Ocean Britain;x
-500;41;161;217;Ocean Roman;x
+475;71;108;80;Lucas Asturum;x
+476;35;120;56;Gigia;x
+477;52;139;39;Flavionavia;x
+478;85;170;72;Memoriana;x
+479;101;142;95;Pailontion;x
+480;111;154;122;Serandi;x
+481;67;109;61;Ablaneda;x
+482;67;153;89;Lemavi;x
+483;25;152;194;Aira de Croa;x
+484;27;87;107;Britaniensis;x
+485;55;102;102;Pumarega;x
+486;88;138;154;Carcovas;x
+487;54;113;132;Villaronte;x
+488;67;133;134;Grovas;x
+489;64;157;159;Fornelo;x
+490;54;93;105;Torre;x
+491;59;70;74;Meiringos;x
+492;116;166;204;Lucas Augusti;x
+493;49;94;129;Caranicum;x
+494;92;140;178;Flavium Brigantium;x
+495;96;108;116;Castellum Aviliobris;x
+496;74;104;127;Assegonia;x
+497;110;141;207;Gallaeci;x
+498;41;124;187;Bracara Augusta;x
+499;103;166;187;Salacia;x
+500;45;119;143;Salaniana;x
+501;100;123;140;Limia;x
+502;66;91;110;Avobriga;x
+503;61;100;113;Oculis;x
+504;45;70;90;Aquae Originae;x
+505;147;90;90;Bletonesii;x
+506;93;76;159;Lanciences;x
+507;116;98;171;Paesuri;x
+508;164;163;112;Veteres;x
+509;122;113;147;Tapori;x
+510;133;133;176;Elbocori;x
+511;139;136;61;Oppidani;x
+512;187;183;66;Celtici;x
+513;133;75;47;Mirobrigenses;x
+514;153;152;94;Elbestoi;x
+515;148;91;63;Cunetes;x
+516;130;128;60;Turduli;x
+517;98;183;60;Baetica;x
+518;55;94;37;Turdetani;x
+519;132;166;117;West Oretani;x
+520;144;193;185;East Oretani;x
+521;52;170;151;Bastetani;x
+522;19;55;72;Ocean Britain;x
+523;41;161;217;Ocean Roman;x

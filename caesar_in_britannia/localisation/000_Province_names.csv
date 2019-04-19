@@ -468,33 +468,55 @@ PROV467;Germanii;Germanii;Germanii;;;;;;;;;x
 PROV468;Carpetani;Carpetani;Carpetani;;;;;;;;;x
 PROV469;Arevaci;Arevaci;Arevaci;;;;;;;;;x
 PROV470;Calontienses;Calontienses;Calontienses;;;;;;;;;x
-PROV471;Vettones;Vettones;Vettones;;;;;;;;;x
 PROV472;Vaccaei;Vaccaei;Vaccaei;;;;;;;;;x
 PROV473;Cantabri;Cantabri;Cantabri;;;;;;;;;x
 PROV474;Baedunenses;Baedunenses;Baedunenses;;;;;;;;;x
-PROV475;Astures;Astures;Astures;;;;;;;;;x
-PROV476;Lemavi;Lemavi;Lemavi;;;;;;;;;x
-PROV477;Cibarci;Cibarci;Cibarci;;;;;;;;;x
-PROV478;Lucas Augusti;Lucas Augusti;Lucas Augusti;;;;;;;;;x
-PROV479;Caranicum;Caranicum;Caranicum;;;;;;;;;x
-PROV480;Gallaeci;Gallaeci;Gallaeci;;;;;;;;;x
-PROV481;Bracari;Bracari;Bracari;;;;;;;;;x
-PROV482;Bletonesii;Bletonesii;Bletonesii;;;;;;;;;x
-PROV483;Lanciences;Lanciences;Lanciences;;;;;;;;;x
-PROV484;Paesuri;Paesuri;Paesuri;;;;;;;;;x
-PROV485;Veteres;Veteres;Veteres;;;;;;;;;x
-PROV486;Tapori;Tapori;Tapori;;;;;;;;;x
-PROV487;Elbocori;Elbocori;Elbocori;;;;;;;;;x
-PROV488;Oppidani;Oppidani;Oppidani;;;;;;;;;x
-PROV489;Celtici;Celtici;Celtici;;;;;;;;;x
-PROV490;Mirobrigenses;Mirobrigenses;Mirobrigenses;;;;;;;;;x
-PROV491;Elbestoi;Elbestoi;Elbestoi;;;;;;;;;x
-PROV492;Cunetes;Cunetes;Cunetes;;;;;;;;;x
-PROV493;Turduli;Turduli;Turduli;;;;;;;;;x
-PROV494;Baetica;Baetica;Baetica;;;;;;;;;x
-PROV495;Turdetani;Turdetani;Turdetani;;;;;;;;;x
-PROV496;West Oretani;West Oretani;West Oretani;;;;;;;;;x
-PROV497;East Oretani;East Oretani;East Oretani;;;;;;;;;x
-PROV498;Bastetani;Bastetani;Bastetani;;;;;;;;;x
-PROV499;Ocean Britain;Ocean Britain;Ocean Britain;;;;;;;;;x
-PROV500;Ocean Roman;Ocean Roman;Ocean Roman;;;;;;;;;x
+PROV475;Lucas Asturum;Lucas Asturum;Lucas Asturum;;;;;;;;;x
+PROV476;Gigia;Gigia;Gigia;;;;;;;;;x
+PROV477;Flavionavia;Flavionavia;Flavionavia;;;;;;;;;x
+PROV478;Memoriana;Memoriana;Memoriana;;;;;;;;;x
+PROV479;Pailontion;Pailontion;Pailontion;;;;;;;;;x
+PROV480;Serandi;Serandi;Serandi;;;;;;;;;x
+PROV481;Ablaneda;Ablaneda;Ablaneda;;;;;;;;;x
+PROV482;Lemavi;Lemavi;Lemavi;;;;;;;;;x
+PROV483;Aira de Croa;Aira de Croa;Aira de Croa;;;;;;;;;x
+PROV484;Britaniensis;Britaniensis;Britaniensis;;;;;;;;;x
+PROV485;Pumarega;Pumarega;Pumarega;;;;;;;;;x
+PROV486;Carcovas;Carcovas;Carcovas;;;;;;;;;x
+PROV487;Villaronte;Villaronte;Villaronte;;;;;;;;;x
+PROV488;Grovas;Grovas;Grovas;;;;;;;;;x
+PROV489;Fornelo;Fornelo;Fornelo;;;;;;;;;x
+PROV490;Torre;Torre;Torre;;;;;;;;;x
+PROV491;Meiringos;Meiringos;Meiringos;;;;;;;;;x
+PROV492;Lucas Augusti;Lucas Augusti;Lucas Augusti;;;;;;;;;x
+PROV493;Caranicum;Caranicum;Caranicum;;;;;;;;;x
+PROV494;Flavium Brigantium;Flavium Brigantium;Flavium Brigantium;;;;;;;;;x
+PROV495;Castellum Aviliobris;Castellum Aviliobris;Castellum Aviliobris;;;;;;;;;x
+PROV496;Assegonia;Assegonia;Assegonia;;;;;;;;;x
+PROV497;Gallaeci;Gallaeci;Gallaeci;;;;;;;;;x
+PROV498;Bracara Augusta;Bracara Augusta;Bracara Augusta;;;;;;;;;x
+PROV499;Salacia;Salacia;Salacia;;;;;;;;;x
+PROV500;Salaniana;Salaniana;Salaniana;;;;;;;;;x
+PROV501;Limia;Limia;Limia;;;;;;;;;x
+PROV502;Avobriga;Avobriga;Avobriga;;;;;;;;;x
+PROV503;Oculis;Oculis;Oculis;;;;;;;;;x
+PROV504;Aquae Originae;Aquae Originae;Aquae Originae;;;;;;;;;x
+PROV505;Bletonesii;Bletonesii;Bletonesii;;;;;;;;;x
+PROV506;Lanciences;Lanciences;Lanciences;;;;;;;;;x
+PROV507;Paesuri;Paesuri;Paesuri;;;;;;;;;x
+PROV508;Veteres;Veteres;Veteres;;;;;;;;;x
+PROV509;Tapori;Tapori;Tapori;;;;;;;;;x
+PROV510;Elbocori;Elbocori;Elbocori;;;;;;;;;x
+PROV511;Oppidani;Oppidani;Oppidani;;;;;;;;;x
+PROV512;Celtici;Celtici;Celtici;;;;;;;;;x
+PROV513;Mirobrigenses;Mirobrigenses;Mirobrigenses;;;;;;;;;x
+PROV514;Elbestoi;Elbestoi;Elbestoi;;;;;;;;;x
+PROV515;Cunetes;Cunetes;Cunetes;;;;;;;;;x
+PROV516;Turduli;Turduli;Turduli;;;;;;;;;x
+PROV517;Baetica;Baetica;Baetica;;;;;;;;;x
+PROV518;Turdetani;Turdetani;Turdetani;;;;;;;;;x
+PROV519;West Oretani;West Oretani;West Oretani;;;;;;;;;x
+PROV520;East Oretani;East Oretani;East Oretani;;;;;;;;;x
+PROV521;Bastetani;Bastetani;Bastetani;;;;;;;;;x
+PROV522;Ocean Britain;Ocean Britain;Ocean Britain;;;;;;;;;x
+PROV523;Ocean Roman;Ocean Roman;Ocean Roman;;;;;;;;;x
