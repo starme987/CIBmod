@@ -1,11 +1,11 @@
 adjacencies = {
-	40 = 64 # Bruttium - Tauromenium
-	83 = 70 # Phikaria - Olbia
-	16 = 81 # Volaterrae - Alalie
-	345 = 338 # Edetani- Balares
-	338 = 339 # Baleares - Ebusus
-	277 = 85 # Gesoriacum - Durovernum
-	92 = 90 # Noviomagis - Vectis
+	40 = 63 # Bruttium - Tauromenium
+	82 = 69 # Phikaria - Olbia
+	16 = 80 # Volaterrae - Alalie
+	464 = 457 # Edetani- Balares
+	457 = 458 # Baleares - Ebusus
+	389 = 84 # Gesoriacum - Durovernum
+	91 = 89 # Noviomagis - Vectis
 }
 
 culture_group_spread = {
