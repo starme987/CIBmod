@@ -1,0 +1,21 @@
+# c_andelos
+
+# County Title
+title = c_andelos
+
+# Settlements
+max_settlements = 3
+
+b_andelos = castle
+#b_andelos_2 = city
+#b_andelos_3 = temple
+#b_andelos_4 = castle
+#b_andelos_5 = city
+#b_andelos_6 = temple
+#b_andelos_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

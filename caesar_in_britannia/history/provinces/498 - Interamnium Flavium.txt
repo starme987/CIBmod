@@ -1,0 +1,21 @@
+# c_interamnium_flavium
+
+# County Title
+title = c_interamnium_flavium
+
+# Settlements
+max_settlements = 3
+
+b_interamnium_flavium = castle
+#b_interamnium_flavium_2 = city
+#b_interamnium_flavium_3 = temple
+#b_interamnium_flavium_4 = castle
+#b_interamnium_flavium_5 = city
+#b_interamnium_flavium_6 = temple
+#b_interamnium_flavium_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

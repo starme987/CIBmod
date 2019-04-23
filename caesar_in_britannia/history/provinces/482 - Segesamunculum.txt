@@ -1,0 +1,21 @@
+# c_segesamunculum
+
+# County Title
+title = c_segesamunculum
+
+# Settlements
+max_settlements = 3
+
+b_segesamunculum = castle
+#b_segesamunculum_2 = city
+#b_segesamunculum_3 = temple
+#b_segesamunculum_4 = castle
+#b_segesamunculum_5 = city
+#b_segesamunculum_6 = temple
+#b_segesamunculum_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

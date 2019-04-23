@@ -1,0 +1,21 @@
+# c_victoriacum
+
+# County Title
+title = c_victoriacum
+
+# Settlements
+max_settlements = 3
+
+b_victoriacum = castle
+#b_victoriacum_2 = city
+#b_victoriacum_3 = temple
+#b_victoriacum_4 = castle
+#b_victoriacum_5 = city
+#b_victoriacum_6 = temple
+#b_victoriacum_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_barbariana
+
+# County Title
+title = c_barbariana
+
+# Settlements
+max_settlements = 3
+
+b_barbariana = castle
+#b_barbariana_2 = city
+#b_barbariana_3 = temple
+#b_barbariana_4 = castle
+#b_barbariana_5 = city
+#b_barbariana_6 = temple
+#b_barbariana_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

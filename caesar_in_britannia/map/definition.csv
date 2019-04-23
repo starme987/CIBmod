@@ -471,54 +471,72 @@ province;red;green;blue;x;x
 470;187;94;94;Calontienses;x
 471;1;1;1;PLACEHOLDER471;x
 472;32;118;121;Vaccaei;x
-473;35;127;58;Cantabri;x
-474;41;92;93;Baedunenses;x
-475;71;108;80;Lucas Asturum;x
-476;35;120;56;Gigia;x
-477;52;139;39;Flavionavia;x
-478;85;170;72;Memoriana;x
-479;101;142;95;Pailontion;x
-480;111;154;122;Serandi;x
-481;67;109;61;Ablaneda;x
-482;67;153;89;Lemavi;x
-483;25;152;194;Aira de Croa;x
-484;27;87;107;Britaniensis;x
-485;55;102;102;Pumarega;x
-486;88;138;154;Carcovas;x
-487;54;113;132;Villaronte;x
-488;67;133;134;Grovas;x
-489;64;157;159;Fornelo;x
-490;54;93;105;Torre;x
-491;59;70;74;Meiringos;x
-492;116;166;204;Lucas Augusti;x
-493;49;94;129;Caranicum;x
-494;92;140;178;Flavium Brigantium;x
-495;96;108;116;Castellum Aviliobris;x
-496;74;104;127;Assegonia;x
-497;110;141;207;Gallaeci;x
-498;41;124;187;Bracara Augusta;x
-499;103;166;187;Salacia;x
-500;45;119;143;Salaniana;x
-501;100;123;140;Limia;x
-502;66;91;110;Avobriga;x
-503;61;100;113;Oculis;x
-504;45;70;90;Aquae Originae;x
-505;147;90;90;Bletonesii;x
-506;93;76;159;Lanciences;x
-507;116;98;171;Paesuri;x
-508;164;163;112;Veteres;x
-509;122;113;147;Tapori;x
-510;133;133;176;Elbocori;x
-511;139;136;61;Oppidani;x
-512;187;183;66;Celtici;x
-513;133;75;47;Mirobrigenses;x
-514;153;152;94;Elbestoi;x
-515;148;91;63;Cunetes;x
-516;130;128;60;Turduli;x
-517;98;183;60;Baetica;x
-518;55;94;37;Turdetani;x
-519;132;166;117;West Oretani;x
-520;144;193;185;East Oretani;x
-521;52;170;151;Bastetani;x
-522;19;55;72;Ocean Britain;x
-523;41;161;217;Ocean Roman;x
+473;35;127;58;Tullonium;x
+474;48;172;79;Vareia;x
+475;86;127;97;Barbariana;x
+476;57;77;62;Victoriacum;x
+477;51;91;61;Antequia;x
+478;64;156;87;Vindeleia;x
+479;109;159;122;Aracaeli;x
+480;76;132;90;Andelos;x
+481;41;92;93;Nova Augusta;x
+482;58;120;112;Segesamunculum;x
+483;80;147;148;Deobrigula;x
+484;78;131;132;Virovesca;x
+485;71;108;80;Lucas Asturum;x
+486;35;120;56;Gigia;x
+487;52;139;39;Flavionavia;x
+488;85;170;72;Memoriana;x
+489;101;142;95;Pailontion;x
+490;111;154;122;Serandi;x
+491;67;109;61;Ablaneda;x
+492;67;153;89;Dactionum;x
+493;75;102;82;Pons Neviae;x
+494;64;131;81;Uttaris;x
+495;43;104;58;Bergidum Flavium;x
+496;42;88;54;Timalinum;x
+497;67;109;61;Aquae Quintinae;x
+498;71;120;84;Interamnium Flavium;x
+499;83;194;66;Gemestarium;x
+500;72;124;64;Forum Gigurrorum;x
+501;25;152;194;Aira de Croa;x
+502;27;87;107;Britaniensis;x
+503;55;102;102;Pumarega;x
+504;88;138;154;Carcovas;x
+505;54;113;132;Villaronte;x
+506;67;133;134;Grovas;x
+507;64;157;159;Fornelo;x
+508;54;93;105;Torre;x
+509;59;70;74;Meiringos;x
+510;116;166;204;Lucas Augusti;x
+511;49;94;129;Caranicum;x
+512;92;140;178;Flavium Brigantium;x
+513;96;108;116;Castellum Aviliobris;x
+514;74;104;127;Assegonia;x
+515;110;141;207;Gallaeci;x
+516;41;124;187;Bracara Augusta;x
+517;103;166;187;Salacia;x
+518;45;119;143;Salaniana;x
+519;100;123;140;Limia;x
+520;66;91;110;Avobriga;x
+521;61;100;113;Oculis;x
+522;45;70;90;Aquae Originae;x
+523;147;90;90;Bletonesii;x
+524;93;76;159;Lanciences;x
+525;116;98;171;Paesuri;x
+526;164;163;112;Veteres;x
+527;122;113;147;Tapori;x
+528;133;133;176;Elbocori;x
+529;139;136;61;Oppidani;x
+530;187;183;66;Celtici;x
+531;133;75;47;Mirobrigenses;x
+532;153;152;94;Elbestoi;x
+533;148;91;63;Cunetes;x
+534;130;128;60;Turduli;x
+535;98;183;60;Baetica;x
+536;55;94;37;Turdetani;x
+537;132;166;117;West Oretani;x
+538;144;193;185;East Oretani;x
+539;52;170;151;Bastetani;x
+540;19;55;72;Ocean Britain;x
+541;41;161;217;Ocean Roman;x

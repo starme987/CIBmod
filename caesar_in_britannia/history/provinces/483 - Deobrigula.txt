@@ -1,0 +1,21 @@
+# c_deobrigula
+
+# County Title
+title = c_deobrigula
+
+# Settlements
+max_settlements = 3
+
+b_deobrigula = castle
+#b_deobrigula_2 = city
+#b_deobrigula_3 = temple
+#b_deobrigula_4 = castle
+#b_deobrigula_5 = city
+#b_deobrigula_6 = temple
+#b_deobrigula_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_tullonium
+
+# County Title
+title = c_tullonium
+
+# Settlements
+max_settlements = 4
+
+b_tullonium = castle
+#b_tullonium_2 = city
+#b_tullonium_3 = temple
+#b_tullonium_4 = castle
+#b_tullonium_5 = city
+#b_tullonium_6 = temple
+#b_tullonium_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

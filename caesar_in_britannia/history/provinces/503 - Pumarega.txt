@@ -1,0 +1,21 @@
+# c_pumarega
+
+# County Title
+title = c_pumarega
+
+# Settlements
+max_settlements = 3
+
+b_pumarega = castle
+#b_pumarega_2 = city
+#b_pumarega_3 = temple
+#b_pumarega_4 = castle
+#b_pumarega_5 = city
+#b_pumarega_6 = temple
+#b_pumarega_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

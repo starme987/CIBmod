@@ -1,0 +1,21 @@
+# c_antequia
+
+# County Title
+title = c_antequia
+
+# Settlements
+max_settlements = 3
+
+b_antequia = castle
+#b_antequia_2 = city
+#b_antequia_3 = temple
+#b_antequia_4 = castle
+#b_antequia_5 = city
+#b_antequia_6 = temple
+#b_antequia_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

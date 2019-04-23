@@ -1,0 +1,21 @@
+# c_pons_neviae
+
+# County Title
+title = c_pons_neviae
+
+# Settlements
+max_settlements = 3
+
+b_pons_neviae = castle
+#b_pons_neviae_2 = city
+#b_pons_neviae_3 = temple
+#b_pons_neviae_4 = castle
+#b_pons_neviae_5 = city
+#b_pons_neviae_6 = temple
+#b_pons_neviae_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

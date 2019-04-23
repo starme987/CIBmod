@@ -1,0 +1,21 @@
+# c_uttaris
+
+# County Title
+title = c_uttaris
+
+# Settlements
+max_settlements = 3
+
+b_uttaris = castle
+#b_uttaris_2 = city
+#b_uttaris_3 = temple
+#b_uttaris_4 = castle
+#b_uttaris_5 = city
+#b_uttaris_6 = temple
+#b_uttaris_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

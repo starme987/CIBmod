@@ -1,0 +1,21 @@
+# c_gemestarium
+
+# County Title
+title = c_gemestarium
+
+# Settlements
+max_settlements = 3
+
+b_gemestarium = castle
+#b_gemestarium_2 = city
+#b_gemestarium_3 = temple
+#b_gemestarium_4 = castle
+#b_gemestarium_5 = city
+#b_gemestarium_6 = temple
+#b_gemestarium_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

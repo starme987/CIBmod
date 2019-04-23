@@ -1,0 +1,21 @@
+# c_virovesca
+
+# County Title
+title = c_virovesca
+
+# Settlements
+max_settlements = 3
+
+b_virovesca = castle
+#b_virovesca_2 = city
+#b_virovesca_3 = temple
+#b_virovesca_4 = castle
+#b_virovesca_5 = city
+#b_virovesca_6 = temple
+#b_virovesca_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

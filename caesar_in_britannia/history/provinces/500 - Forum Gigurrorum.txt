@@ -1,0 +1,21 @@
+# c_forum_gigurrorum
+
+# County Title
+title = c_forum_gigurrorum
+
+# Settlements
+max_settlements = 3
+
+b_forum_gigurrorum = castle
+#b_forum_gigurrorum_2 = city
+#b_forum_gigurrorum_3 = temple
+#b_forum_gigurrorum_4 = castle
+#b_forum_gigurrorum_5 = city
+#b_forum_gigurrorum_6 = temple
+#b_forum_gigurrorum_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

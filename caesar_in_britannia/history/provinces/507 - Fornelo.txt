@@ -1,0 +1,21 @@
+# c_fornelo
+
+# County Title
+title = c_fornelo
+
+# Settlements
+max_settlements = 3
+
+b_fornelo = castle
+#b_fornelo_2 = city
+#b_fornelo_3 = temple
+#b_fornelo_4 = castle
+#b_fornelo_5 = city
+#b_fornelo_6 = temple
+#b_fornelo_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

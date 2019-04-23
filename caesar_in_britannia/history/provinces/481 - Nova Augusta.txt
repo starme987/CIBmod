@@ -1,0 +1,21 @@
+# c_nova_augusta
+
+# County Title
+title = c_nova_augusta
+
+# Settlements
+max_settlements = 4
+
+b_nova_augusta = castle
+#b_nova_augusta_2 = city
+#b_nova_augusta_3 = temple
+#b_nova_augusta_4 = castle
+#b_nova_augusta_5 = city
+#b_nova_augusta_6 = temple
+#b_nova_augusta_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

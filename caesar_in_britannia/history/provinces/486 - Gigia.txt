@@ -1,0 +1,21 @@
+# c_gigia
+
+# County Title
+title = c_gigia
+
+# Settlements
+max_settlements = 3
+
+b_gigia = castle
+#b_gigia_2 = city
+#b_gigia_3 = temple
+#b_gigia_4 = castle
+#b_gigia_5 = city
+#b_gigia_6 = temple
+#b_gigia_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

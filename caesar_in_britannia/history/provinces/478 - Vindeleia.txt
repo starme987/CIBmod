@@ -1,0 +1,21 @@
+# c_vindeleia
+
+# County Title
+title = c_vindeleia
+
+# Settlements
+max_settlements = 3
+
+b_vindeleia = castle
+#b_vindeleia_2 = city
+#b_vindeleia_3 = temple
+#b_vindeleia_4 = castle
+#b_vindeleia_5 = city
+#b_vindeleia_6 = temple
+#b_vindeleia_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

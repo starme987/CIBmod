@@ -1,0 +1,21 @@
+# c_aquae_originae
+
+# County Title
+title = c_aquae_originae
+
+# Settlements
+max_settlements = 3
+
+b_aquae_originae = castle
+#b_aquae_originae_2 = city
+#b_aquae_originae_3 = temple
+#b_aquae_originae_4 = castle
+#b_aquae_originae_5 = city
+#b_aquae_originae_6 = temple
+#b_aquae_originae_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

@@ -469,54 +469,72 @@ PROV468;Carpetani;Carpetani;Carpetani;;;;;;;;;x
 PROV469;Arevaci;Arevaci;Arevaci;;;;;;;;;x
 PROV470;Calontienses;Calontienses;Calontienses;;;;;;;;;x
 PROV472;Vaccaei;Vaccaei;Vaccaei;;;;;;;;;x
-PROV473;Cantabri;Cantabri;Cantabri;;;;;;;;;x
-PROV474;Baedunenses;Baedunenses;Baedunenses;;;;;;;;;x
-PROV475;Lucas Asturum;Lucas Asturum;Lucas Asturum;;;;;;;;;x
-PROV476;Gigia;Gigia;Gigia;;;;;;;;;x
-PROV477;Flavionavia;Flavionavia;Flavionavia;;;;;;;;;x
-PROV478;Memoriana;Memoriana;Memoriana;;;;;;;;;x
-PROV479;Pailontion;Pailontion;Pailontion;;;;;;;;;x
-PROV480;Serandi;Serandi;Serandi;;;;;;;;;x
-PROV481;Ablaneda;Ablaneda;Ablaneda;;;;;;;;;x
-PROV482;Lemavi;Lemavi;Lemavi;;;;;;;;;x
-PROV483;Aira de Croa;Aira de Croa;Aira de Croa;;;;;;;;;x
-PROV484;Britaniensis;Britaniensis;Britaniensis;;;;;;;;;x
-PROV485;Pumarega;Pumarega;Pumarega;;;;;;;;;x
-PROV486;Carcovas;Carcovas;Carcovas;;;;;;;;;x
-PROV487;Villaronte;Villaronte;Villaronte;;;;;;;;;x
-PROV488;Grovas;Grovas;Grovas;;;;;;;;;x
-PROV489;Fornelo;Fornelo;Fornelo;;;;;;;;;x
-PROV490;Torre;Torre;Torre;;;;;;;;;x
-PROV491;Meiringos;Meiringos;Meiringos;;;;;;;;;x
-PROV492;Lucas Augusti;Lucas Augusti;Lucas Augusti;;;;;;;;;x
-PROV493;Caranicum;Caranicum;Caranicum;;;;;;;;;x
-PROV494;Flavium Brigantium;Flavium Brigantium;Flavium Brigantium;;;;;;;;;x
-PROV495;Castellum Aviliobris;Castellum Aviliobris;Castellum Aviliobris;;;;;;;;;x
-PROV496;Assegonia;Assegonia;Assegonia;;;;;;;;;x
-PROV497;Gallaeci;Gallaeci;Gallaeci;;;;;;;;;x
-PROV498;Bracara Augusta;Bracara Augusta;Bracara Augusta;;;;;;;;;x
-PROV499;Salacia;Salacia;Salacia;;;;;;;;;x
-PROV500;Salaniana;Salaniana;Salaniana;;;;;;;;;x
-PROV501;Limia;Limia;Limia;;;;;;;;;x
-PROV502;Avobriga;Avobriga;Avobriga;;;;;;;;;x
-PROV503;Oculis;Oculis;Oculis;;;;;;;;;x
-PROV504;Aquae Originae;Aquae Originae;Aquae Originae;;;;;;;;;x
-PROV505;Bletonesii;Bletonesii;Bletonesii;;;;;;;;;x
-PROV506;Lanciences;Lanciences;Lanciences;;;;;;;;;x
-PROV507;Paesuri;Paesuri;Paesuri;;;;;;;;;x
-PROV508;Veteres;Veteres;Veteres;;;;;;;;;x
-PROV509;Tapori;Tapori;Tapori;;;;;;;;;x
-PROV510;Elbocori;Elbocori;Elbocori;;;;;;;;;x
-PROV511;Oppidani;Oppidani;Oppidani;;;;;;;;;x
-PROV512;Celtici;Celtici;Celtici;;;;;;;;;x
-PROV513;Mirobrigenses;Mirobrigenses;Mirobrigenses;;;;;;;;;x
-PROV514;Elbestoi;Elbestoi;Elbestoi;;;;;;;;;x
-PROV515;Cunetes;Cunetes;Cunetes;;;;;;;;;x
-PROV516;Turduli;Turduli;Turduli;;;;;;;;;x
-PROV517;Baetica;Baetica;Baetica;;;;;;;;;x
-PROV518;Turdetani;Turdetani;Turdetani;;;;;;;;;x
-PROV519;West Oretani;West Oretani;West Oretani;;;;;;;;;x
-PROV520;East Oretani;East Oretani;East Oretani;;;;;;;;;x
-PROV521;Bastetani;Bastetani;Bastetani;;;;;;;;;x
-PROV522;Ocean Britain;Ocean Britain;Ocean Britain;;;;;;;;;x
-PROV523;Ocean Roman;Ocean Roman;Ocean Roman;;;;;;;;;x
+PROV473;Tullonium;Tullonium;Tullonium;;;;;;;;;x
+PROV474;Vareia;Vareia;Vareia;;;;;;;;;x
+PROV475;Barbariana;Barbariana;Barbariana;;;;;;;;;x
+PROV476;Victoriacum;Victoriacum;Victoriacum;;;;;;;;;x
+PROV477;Antequia;Antequia;Antequia;;;;;;;;;x
+PROV478;Vindeleia;Vindeleia;Vindeleia;;;;;;;;;x
+PROV479;Aracaeli;Aracaeli;Aracaeli;;;;;;;;;x
+PROV480;Andelos;Andelos;Andelos;;;;;;;;;x
+PROV481;Nova Augusta;Nova Augusta;Nova Augusta;;;;;;;;;x
+PROV482;Segesamunculum;Segesamunculum;Segesamunculum;;;;;;;;;x
+PROV483;Deobrigula;Deobrigula;Deobrigula;;;;;;;;;x
+PROV484;Virovesca;Virovesca;Virovesca;;;;;;;;;x
+PROV485;Lucas Asturum;Lucas Asturum;Lucas Asturum;;;;;;;;;x
+PROV486;Gigia;Gigia;Gigia;;;;;;;;;x
+PROV487;Flavionavia;Flavionavia;Flavionavia;;;;;;;;;x
+PROV488;Memoriana;Memoriana;Memoriana;;;;;;;;;x
+PROV489;Pailontion;Pailontion;Pailontion;;;;;;;;;x
+PROV490;Serandi;Serandi;Serandi;;;;;;;;;x
+PROV491;Ablaneda;Ablaneda;Ablaneda;;;;;;;;;x
+PROV492;Dactionum;Dactionum;Dactionum;;;;;;;;;x
+PROV493;Pons Neviae;Pons Neviae;Pons Neviae;;;;;;;;;x
+PROV494;Uttaris;Uttaris;Uttaris;;;;;;;;;x
+PROV495;Bergidum Flavium;Bergidum Flavium;Bergidum Flavium;;;;;;;;;x
+PROV496;Timalinum;Timalinum;Timalinum;;;;;;;;;x
+PROV497;Aquae Quintinae;Aquae Quintinae;Aquae Quintinae;;;;;;;;;x
+PROV498;Interamnium Flavium;Interamnium Flavium;Interamnium Flavium;;;;;;;;;x
+PROV499;Gemestarium;Gemestarium;Gemestarium;;;;;;;;;x
+PROV500;Forum Gigurrorum;Forum Gigurrorum;Forum Gigurrorum;;;;;;;;;x
+PROV501;Aira de Croa;Aira de Croa;Aira de Croa;;;;;;;;;x
+PROV502;Britaniensis;Britaniensis;Britaniensis;;;;;;;;;x
+PROV503;Pumarega;Pumarega;Pumarega;;;;;;;;;x
+PROV504;Carcovas;Carcovas;Carcovas;;;;;;;;;x
+PROV505;Villaronte;Villaronte;Villaronte;;;;;;;;;x
+PROV506;Grovas;Grovas;Grovas;;;;;;;;;x
+PROV507;Fornelo;Fornelo;Fornelo;;;;;;;;;x
+PROV508;Torre;Torre;Torre;;;;;;;;;x
+PROV509;Meiringos;Meiringos;Meiringos;;;;;;;;;x
+PROV510;Lucas Augusti;Lucas Augusti;Lucas Augusti;;;;;;;;;x
+PROV511;Caranicum;Caranicum;Caranicum;;;;;;;;;x
+PROV512;Flavium Brigantium;Flavium Brigantium;Flavium Brigantium;;;;;;;;;x
+PROV513;Castellum Aviliobris;Castellum Aviliobris;Castellum Aviliobris;;;;;;;;;x
+PROV514;Assegonia;Assegonia;Assegonia;;;;;;;;;x
+PROV515;Gallaeci;Gallaeci;Gallaeci;;;;;;;;;x
+PROV516;Bracara Augusta;Bracara Augusta;Bracara Augusta;;;;;;;;;x
+PROV517;Salacia;Salacia;Salacia;;;;;;;;;x
+PROV518;Salaniana;Salaniana;Salaniana;;;;;;;;;x
+PROV519;Limia;Limia;Limia;;;;;;;;;x
+PROV520;Avobriga;Avobriga;Avobriga;;;;;;;;;x
+PROV521;Oculis;Oculis;Oculis;;;;;;;;;x
+PROV522;Aquae Originae;Aquae Originae;Aquae Originae;;;;;;;;;x
+PROV523;Bletonesii;Bletonesii;Bletonesii;;;;;;;;;x
+PROV524;Lanciences;Lanciences;Lanciences;;;;;;;;;x
+PROV525;Paesuri;Paesuri;Paesuri;;;;;;;;;x
+PROV526;Veteres;Veteres;Veteres;;;;;;;;;x
+PROV527;Tapori;Tapori;Tapori;;;;;;;;;x
+PROV528;Elbocori;Elbocori;Elbocori;;;;;;;;;x
+PROV529;Oppidani;Oppidani;Oppidani;;;;;;;;;x
+PROV530;Celtici;Celtici;Celtici;;;;;;;;;x
+PROV531;Mirobrigenses;Mirobrigenses;Mirobrigenses;;;;;;;;;x
+PROV532;Elbestoi;Elbestoi;Elbestoi;;;;;;;;;x
+PROV533;Cunetes;Cunetes;Cunetes;;;;;;;;;x
+PROV534;Turduli;Turduli;Turduli;;;;;;;;;x
+PROV535;Baetica;Baetica;Baetica;;;;;;;;;x
+PROV536;Turdetani;Turdetani;Turdetani;;;;;;;;;x
+PROV537;West Oretani;West Oretani;West Oretani;;;;;;;;;x
+PROV538;East Oretani;East Oretani;East Oretani;;;;;;;;;x
+PROV539;Bastetani;Bastetani;Bastetani;;;;;;;;;x
+PROV540;Ocean Britain;Ocean Britain;Ocean Britain;;;;;;;;;x
+PROV541;Ocean Roman;Ocean Roman;Ocean Roman;;;;;;;;;x

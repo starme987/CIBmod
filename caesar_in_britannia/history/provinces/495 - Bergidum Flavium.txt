@@ -1,0 +1,21 @@
+# c_bergidum_flavium
+
+# County Title
+title = c_bergidum_flavium
+
+# Settlements
+max_settlements = 3
+
+b_bergidum_flavium = castle
+#b_bergidum_flavium_2 = city
+#b_bergidum_flavium_3 = temple
+#b_bergidum_flavium_4 = castle
+#b_bergidum_flavium_5 = city
+#b_bergidum_flavium_6 = temple
+#b_bergidum_flavium_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History
