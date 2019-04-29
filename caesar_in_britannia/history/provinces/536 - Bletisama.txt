@@ -1,0 +1,21 @@
+# c_bletisama
+
+# County Title
+title = c_bletisama
+
+# Settlements
+max_settlements = 4
+
+b_bletisama = castle
+#b_bletisama_2 = city
+#b_bletisama_3 = temple
+#b_bletisama_4 = castle
+#b_bletisama_5 = city
+#b_bletisama_6 = temple
+#b_bletisama_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

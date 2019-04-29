@@ -1,0 +1,21 @@
+# c_capera
+
+# County Title
+title = c_capera
+
+# Settlements
+max_settlements = 3
+
+b_capera = castle
+#b_capera_2 = city
+#b_capera_3 = temple
+#b_capera_4 = castle
+#b_capera_5 = city
+#b_capera_6 = temple
+#b_capera_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

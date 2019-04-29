@@ -1,0 +1,21 @@
+# c_lamecum
+
+# County Title
+title = c_lamecum
+
+# Settlements
+max_settlements = 3
+
+b_lamecum = castle
+#b_lamecum_2 = city
+#b_lamecum_3 = temple
+#b_lamecum_4 = castle
+#b_lamecum_5 = city
+#b_lamecum_6 = temple
+#b_lamecum_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

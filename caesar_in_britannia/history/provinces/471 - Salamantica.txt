@@ -1,0 +1,21 @@
+# c_salamantica
+
+# County Title
+title = c_salamantica
+
+# Settlements
+max_settlements = 4
+
+b_salamantica = castle
+#b_salamantica_2 = city
+#b_salamantica_3 = temple
+#b_salamantica_4 = castle
+#b_salamantica_5 = city
+#b_salamantica_6 = temple
+#b_salamantica_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

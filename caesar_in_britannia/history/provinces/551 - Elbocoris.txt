@@ -1,0 +1,21 @@
+# c_elbocoris
+
+# County Title
+title = c_elbocoris
+
+# Settlements
+max_settlements = 4
+
+b_elbocoris = castle
+#b_elbocoris_2 = city
+#b_elbocoris_3 = temple
+#b_elbocoris_4 = castle
+#b_elbocoris_5 = city
+#b_elbocoris_6 = temple
+#b_elbocoris_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

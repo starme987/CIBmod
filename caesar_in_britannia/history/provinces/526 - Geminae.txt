@@ -1,0 +1,21 @@
+# c_geminae
+
+# County Title
+title = c_geminae
+
+# Settlements
+max_settlements = 3
+
+b_geminae = castle
+#b_geminae_2 = city
+#b_geminae_3 = temple
+#b_geminae_4 = castle
+#b_geminae_5 = city
+#b_geminae_6 = temple
+#b_geminae_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

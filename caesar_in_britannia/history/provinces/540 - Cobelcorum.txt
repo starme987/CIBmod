@@ -1,0 +1,21 @@
+# c_cobelcorum
+
+# County Title
+title = c_cobelcorum
+
+# Settlements
+max_settlements = 3
+
+b_cobelcorum = castle
+#b_cobelcorum_2 = city
+#b_cobelcorum_3 = temple
+#b_cobelcorum_4 = castle
+#b_cobelcorum_5 = city
+#b_cobelcorum_6 = temple
+#b_cobelcorum_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

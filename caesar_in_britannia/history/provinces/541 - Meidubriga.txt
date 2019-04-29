@@ -1,0 +1,21 @@
+# c_meidubriga
+
+# County Title
+title = c_meidubriga
+
+# Settlements
+max_settlements = 4
+
+b_meidubriga = castle
+#b_meidubriga_2 = city
+#b_meidubriga_3 = temple
+#b_meidubriga_4 = castle
+#b_meidubriga_5 = city
+#b_meidubriga_6 = temple
+#b_meidubriga_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

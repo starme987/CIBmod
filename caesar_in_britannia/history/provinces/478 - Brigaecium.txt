@@ -1,0 +1,21 @@
+# c_brigaecium
+
+# County Title
+title = c_brigaecium
+
+# Settlements
+max_settlements = 3
+
+b_brigaecium = castle
+#b_brigaecium_2 = city
+#b_brigaecium_3 = temple
+#b_brigaecium_4 = castle
+#b_brigaecium_5 = city
+#b_brigaecium_6 = temple
+#b_brigaecium_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

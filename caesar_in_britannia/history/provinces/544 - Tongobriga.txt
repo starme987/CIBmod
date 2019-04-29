@@ -1,0 +1,21 @@
+# c_tongobriga
+
+# County Title
+title = c_tongobriga
+
+# Settlements
+max_settlements = 4
+
+b_tongobriga = castle
+#b_tongobriga_2 = city
+#b_tongobriga_3 = temple
+#b_tongobriga_4 = castle
+#b_tongobriga_5 = city
+#b_tongobriga_6 = temple
+#b_tongobriga_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

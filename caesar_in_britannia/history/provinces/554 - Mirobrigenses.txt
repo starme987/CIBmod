@@ -1,0 +1,17 @@
+# c_mirobrigenses
+
+# County Title
+title = c_mirobrigenses
+
+# Settlements
+max_settlements = 3
+
+b_placeholder_13 = castle
+#b_mirobrigenses = city
+#b_mirobrigenses_2 = temple
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

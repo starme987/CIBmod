@@ -1,0 +1,21 @@
+# c_vissaium
+
+# County Title
+title = c_vissaium
+
+# Settlements
+max_settlements = 4
+
+b_vissaium = castle
+#b_vissaium_2 = city
+#b_vissaium_3 = temple
+#b_vissaium_4 = castle
+#b_vissaium_5 = city
+#b_vissaium_6 = temple
+#b_vissaium_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

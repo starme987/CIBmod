@@ -1,0 +1,21 @@
+# c_amallobriga
+
+# County Title
+title = c_amallobriga
+
+# Settlements
+max_settlements = 3
+
+b_amallobriga = castle
+#b_amallobriga_2 = city
+#b_amallobriga_3 = temple
+#b_amallobriga_4 = castle
+#b_amallobriga_5 = city
+#b_amallobriga_6 = temple
+#b_amallobriga_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

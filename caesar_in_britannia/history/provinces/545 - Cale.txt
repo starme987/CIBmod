@@ -1,0 +1,21 @@
+# c_cale
+
+# County Title
+title = c_cale
+
+# Settlements
+max_settlements = 3
+
+b_cale = castle
+#b_cale_2 = city
+#b_cale_3 = temple
+#b_cale_4 = castle
+#b_cale_5 = city
+#b_cale_6 = temple
+#b_cale_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

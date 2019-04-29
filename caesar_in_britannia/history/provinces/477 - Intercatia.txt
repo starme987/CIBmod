@@ -1,0 +1,21 @@
+# c_intercatia
+
+# County Title
+title = c_intercatia
+
+# Settlements
+max_settlements = 4
+
+b_intercatia = castle
+#b_intercatia_2 = city
+#b_intercatia_3 = temple
+#b_intercatia_4 = castle
+#b_intercatia_5 = city
+#b_intercatia_6 = temple
+#b_intercatia_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

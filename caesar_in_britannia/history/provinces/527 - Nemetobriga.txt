@@ -1,0 +1,21 @@
+# c_nemetobriga
+
+# County Title
+title = c_nemetobriga
+
+# Settlements
+max_settlements = 3
+
+b_nemetobriga = castle
+#b_nemetobriga_2 = city
+#b_nemetobriga_3 = temple
+#b_nemetobriga_4 = castle
+#b_nemetobriga_5 = city
+#b_nemetobriga_6 = temple
+#b_nemetobriga_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

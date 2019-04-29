@@ -1,0 +1,21 @@
+# c_talabriga
+
+# County Title
+title = c_talabriga
+
+# Settlements
+max_settlements = 3
+
+b_talabriga = castle
+#b_talabriga_2 = city
+#b_talabriga_3 = temple
+#b_talabriga_4 = castle
+#b_talabriga_5 = city
+#b_talabriga_6 = temple
+#b_talabriga_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

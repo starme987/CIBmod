@@ -1,0 +1,21 @@
+# c_civitas_baniensium
+
+# County Title
+title = c_civitas_baniensium
+
+# Settlements
+max_settlements = 3
+
+b_civitas_baniensium = castle
+#b_civitas_baniensium_2 = city
+#b_civitas_baniensium_3 = temple
+#b_civitas_baniensium_4 = castle
+#b_civitas_baniensium_5 = city
+#b_civitas_baniensium_6 = temple
+#b_civitas_baniensium_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

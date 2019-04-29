@@ -1,0 +1,21 @@
+# c_eldana
+
+# County Title
+title = c_eldana
+
+# Settlements
+max_settlements = 3
+
+b_eldana = castle
+#b_eldana_2 = city
+#b_eldana_3 = temple
+#b_eldana_4 = castle
+#b_eldana_5 = city
+#b_eldana_6 = temple
+#b_eldana_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

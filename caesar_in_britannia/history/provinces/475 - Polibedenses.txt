@@ -1,0 +1,21 @@
+# c_polibedenses
+
+# County Title
+title = c_polibedenses
+
+# Settlements
+max_settlements = 3
+
+b_polibedenses = castle
+#b_polibedenses_2 = city
+#b_polibedenses_3 = temple
+#b_polibedenses_4 = castle
+#b_polibedenses_5 = city
+#b_polibedenses_6 = temple
+#b_polibedenses_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

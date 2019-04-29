@@ -1,0 +1,21 @@
+# c_arboukale
+
+# County Title
+title = c_arboukale
+
+# Settlements
+max_settlements = 3
+
+b_arboukale = castle
+#b_arboukale_2 = city
+#b_arboukale_3 = temple
+#b_arboukale_4 = castle
+#b_arboukale_5 = city
+#b_arboukale_6 = temple
+#b_arboukale_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

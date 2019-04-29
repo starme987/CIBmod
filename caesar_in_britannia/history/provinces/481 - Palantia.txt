@@ -1,0 +1,21 @@
+# c_palantia
+
+# County Title
+title = c_palantia
+
+# Settlements
+max_settlements = 3
+
+b_palantia = castle
+#b_palantia_2 = city
+#b_palantia_3 = temple
+#b_palantia_4 = castle
+#b_palantia_5 = city
+#b_palantia_6 = temple
+#b_palantia_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

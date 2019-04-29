@@ -1,0 +1,21 @@
+# c_caliabriga
+
+# County Title
+title = c_caliabriga
+
+# Settlements
+max_settlements = 3
+
+b_caliabriga = castle
+#b_caliabriga_2 = city
+#b_caliabriga_3 = temple
+#b_caliabriga_4 = castle
+#b_caliabriga_5 = city
+#b_caliabriga_6 = temple
+#b_caliabriga_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

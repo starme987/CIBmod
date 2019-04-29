@@ -1,0 +1,21 @@
+# c_langobriga
+
+# County Title
+title = c_langobriga
+
+# Settlements
+max_settlements = 4
+
+b_langobriga = castle
+#b_langobriga_2 = city
+#b_langobriga_3 = temple
+#b_langobriga_4 = castle
+#b_langobriga_5 = city
+#b_langobriga_6 = temple
+#b_langobriga_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

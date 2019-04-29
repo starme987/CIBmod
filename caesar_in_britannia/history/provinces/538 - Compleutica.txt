@@ -1,0 +1,21 @@
+# c_compleutica
+
+# County Title
+title = c_compleutica
+
+# Settlements
+max_settlements = 3
+
+b_compleutica = castle
+#b_compleutica_2 = city
+#b_compleutica_3 = temple
+#b_compleutica_4 = castle
+#b_compleutica_5 = city
+#b_compleutica_6 = temple
+#b_compleutica_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_ocelum_duri
+
+# County Title
+title = c_ocelum_duri
+
+# Settlements
+max_settlements = 3
+
+b_ocelum_duri = castle
+#b_ocelum_duri_2 = city
+#b_ocelum_duri_3 = temple
+#b_ocelum_duri_4 = castle
+#b_ocelum_duri_5 = city
+#b_ocelum_duri_6 = temple
+#b_ocelum_duri_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

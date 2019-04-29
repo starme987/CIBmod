@@ -1,0 +1,21 @@
+# c_civitas_zoelarum
+
+# County Title
+title = c_civitas_zoelarum
+
+# Settlements
+max_settlements = 3
+
+b_civitas_zoelarum = castle
+#b_civitas_zoelarum_2 = city
+#b_civitas_zoelarum_3 = temple
+#b_civitas_zoelarum_4 = castle
+#b_civitas_zoelarum_5 = city
+#b_civitas_zoelarum_6 = temple
+#b_civitas_zoelarum_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History
