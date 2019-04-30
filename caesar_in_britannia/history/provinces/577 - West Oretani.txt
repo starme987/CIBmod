@@ -1,14 +1,14 @@
-# c_mirobrigenses
+# c_west_oretani
 
 # County Title
-title = c_mirobrigenses
+title = c_west_oretani
 
 # Settlements
 max_settlements = 3
 
 b_placeholder_13 = castle
-#b_mirobrigenses = city
-#b_mirobrigenses_2 = temple
+#b_west_oretani = city
+#b_west_oretani_2 = temple
 
 # Misc
 culture = iberian

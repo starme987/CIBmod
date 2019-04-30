@@ -1,14 +1,14 @@
-# c_elbestoi
+# c_east_oretani
 
 # County Title
-title = c_elbestoi
+title = c_east_oretani
 
 # Settlements
 max_settlements = 3
 
 b_placeholder_14 = castle
-#b_elbestoi = city
-#b_elbestoi_2 = temple
+#b_east_oretani = city
+#b_east_oretani_2 = temple
 
 # Misc
 culture = iberian

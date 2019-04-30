@@ -550,16 +550,33 @@ province;red;green;blue;x;x
 549;122;113;147;Vissaium;x
 550;55;38;104;Castellum Araocelem;x
 551;133;133;176;Elbocoris;x
-552;139;136;61;Oppidani;x
-553;187;183;66;Celtici;x
-554;133;75;47;Mirobrigenses;x
-555;153;152;94;Elbestoi;x
-556;148;91;63;Cunetes;x
-557;130;128;60;Turduli;x
-558;98;183;60;Baetica;x
-559;55;94;37;Turdetani;x
-560;132;166;117;West Oretani;x
-561;144;193;185;East Oretani;x
-562;52;170;151;Bastetani;x
-563;19;55;72;Ocean Britain;x
-564;41;161;217;Ocean Roman;x
+552;60;60;105;Aeminium;x
+553;139;136;61;Scallabis;x
+554;172;155;46;Collippo;x
+555;101;100;38;Conimbriga;x
+556;187;183;66;Igaeditania;x
+557;157;140;31;Vicus Veniensis;x
+558;208;187;52;Caurium;x
+559;154;151;70;Rusticiana;x
+560;176;165;92;Lama;x
+561;133;75;47;Mirobriga_2;x
+562;203;136;103;Olisipo;x
+563;162;80;40;Salacia Imperatoria;x
+564;153;152;94;Ammaia;x
+565;211;208;48;Ebora;x
+566;148;91;63;Ossonoba;x
+567;187;98;54;Balsa;x
+568;165;91;54;Baesuris;x
+569;104;88;80;Metallum Vipascense;x
+570;132;93;74;Pax Iulia;x
+571;107;86;76;Iulia Myrtilis;x
+572;130;128;60;Turduli;x
+573;98;183;60;Baetica;x
+574;55;94;37;Turdetani;x
+575;99;107;77;Turdetani1;x
+576;127;154;50;Turdetani2;x
+577;132;166;117;West Oretani;x
+578;144;193;185;East Oretani;x
+579;52;170;151;Bastetani;x
+580;19;55;72;Ocean Britain;x
+581;41;161;217;Ocean Roman;x

@@ -1,0 +1,21 @@
+# c_scallabis
+
+# County Title
+title = c_scallabis
+
+# Settlements
+max_settlements = 4
+
+b_scallabis = castle
+#b_scallabis_2 = city
+#b_scallabis_3 = temple
+#b_scallabis_4 = castle
+#b_scallabis_5 = city
+#b_scallabis_6 = temple
+#b_scallabis_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

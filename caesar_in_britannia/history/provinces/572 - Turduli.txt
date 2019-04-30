@@ -1,14 +1,14 @@
-# c_oppidani
+# c_turduli
 
 # County Title
-title = c_oppidani
+title = c_turduli
 
 # Settlements
 max_settlements = 3
 
 b_placeholder_11 = castle
-#b_oppidani = city
-#b_oppidani_2 = temple
+#b_turduli = city
+#b_turduli_2 = temple
 
 # Misc
 culture = iberian

@@ -1,0 +1,21 @@
+# c_lama
+
+# County Title
+title = c_lama
+
+# Settlements
+max_settlements = 3
+
+b_lama = castle
+#b_lama_2 = city
+#b_lama_3 = temple
+#b_lama_4 = castle
+#b_lama_5 = city
+#b_lama_6 = temple
+#b_lama_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

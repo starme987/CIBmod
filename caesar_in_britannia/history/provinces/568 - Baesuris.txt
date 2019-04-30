@@ -1,0 +1,21 @@
+# c_baesuris
+
+# County Title
+title = c_baesuris
+
+# Settlements
+max_settlements = 3
+
+b_baesuris = castle
+#b_baesuris_2 = city
+#b_baesuris_3 = temple
+#b_baesuris_4 = castle
+#b_baesuris_5 = city
+#b_baesuris_6 = temple
+#b_baesuris_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

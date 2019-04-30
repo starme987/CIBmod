@@ -1,0 +1,21 @@
+# c_aeminium
+
+# County Title
+title = c_aeminium
+
+# Settlements
+max_settlements = 3
+
+b_aeminium = castle
+#b_aeminium_2 = city
+#b_aeminium_3 = temple
+#b_aeminium_4 = castle
+#b_aeminium_5 = city
+#b_aeminium_6 = temple
+#b_aeminium_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_pax_iulia
+
+# County Title
+title = c_pax_iulia
+
+# Settlements
+max_settlements = 3
+
+b_pax_iulia = castle
+#b_pax_iulia_2 = city
+#b_pax_iulia_3 = temple
+#b_pax_iulia_4 = castle
+#b_pax_iulia_5 = city
+#b_pax_iulia_6 = temple
+#b_pax_iulia_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

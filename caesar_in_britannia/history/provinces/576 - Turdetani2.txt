@@ -1,0 +1,21 @@
+# c_turdetani2
+
+# County Title
+title = c_turdetani2
+
+# Settlements
+max_settlements = 3
+
+b_turdetani2 = castle
+#b_turdetani2_2 = city
+#b_turdetani2_3 = temple
+#b_turdetani2_4 = castle
+#b_turdetani2_5 = city
+#b_turdetani2_6 = temple
+#b_turdetani2_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

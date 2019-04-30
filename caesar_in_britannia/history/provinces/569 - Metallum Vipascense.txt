@@ -1,0 +1,21 @@
+# c_metallum_vipascense
+
+# County Title
+title = c_metallum_vipascense
+
+# Settlements
+max_settlements = 3
+
+b_metallum_vipascense = castle
+#b_metallum_vipascense_2 = city
+#b_metallum_vipascense_3 = temple
+#b_metallum_vipascense_4 = castle
+#b_metallum_vipascense_5 = city
+#b_metallum_vipascense_6 = temple
+#b_metallum_vipascense_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_vicus_veniensis
+
+# County Title
+title = c_vicus_veniensis
+
+# Settlements
+max_settlements = 3
+
+b_vicus_veniensis = castle
+#b_vicus_veniensis_2 = city
+#b_vicus_veniensis_3 = temple
+#b_vicus_veniensis_4 = castle
+#b_vicus_veniensis_5 = city
+#b_vicus_veniensis_6 = temple
+#b_vicus_veniensis_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

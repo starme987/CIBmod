@@ -1,0 +1,21 @@
+# c_igaeditania
+
+# County Title
+title = c_igaeditania
+
+# Settlements
+max_settlements = 4
+
+b_igaeditania = castle
+#b_igaeditania_2 = city
+#b_igaeditania_3 = temple
+#b_igaeditania_4 = castle
+#b_igaeditania_5 = city
+#b_igaeditania_6 = temple
+#b_igaeditania_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_ossonoba
+
+# County Title
+title = c_ossonoba
+
+# Settlements
+max_settlements = 4
+
+b_ossonoba = castle
+#b_ossonoba_2 = city
+#b_ossonoba_3 = temple
+#b_ossonoba_4 = castle
+#b_ossonoba_5 = city
+#b_ossonoba_6 = temple
+#b_ossonoba_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

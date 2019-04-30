@@ -1,0 +1,21 @@
+# c_olisipo
+
+# County Title
+title = c_olisipo
+
+# Settlements
+max_settlements = 3
+
+b_olisipo = castle
+#b_olisipo_2 = city
+#b_olisipo_3 = temple
+#b_olisipo_4 = castle
+#b_olisipo_5 = city
+#b_olisipo_6 = temple
+#b_olisipo_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

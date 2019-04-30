@@ -1,0 +1,21 @@
+# c_ammaia
+
+# County Title
+title = c_ammaia
+
+# Settlements
+max_settlements = 4
+
+b_ammaia = castle
+#b_ammaia_2 = city
+#b_ammaia_3 = temple
+#b_ammaia_4 = castle
+#b_ammaia_5 = city
+#b_ammaia_6 = temple
+#b_ammaia_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

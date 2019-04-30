@@ -1,0 +1,21 @@
+# c_conimbriga
+
+# County Title
+title = c_conimbriga
+
+# Settlements
+max_settlements = 3
+
+b_conimbriga = castle
+#b_conimbriga_2 = city
+#b_conimbriga_3 = temple
+#b_conimbriga_4 = castle
+#b_conimbriga_5 = city
+#b_conimbriga_6 = temple
+#b_conimbriga_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

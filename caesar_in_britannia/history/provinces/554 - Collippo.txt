@@ -1,0 +1,21 @@
+# c_collippo
+
+# County Title
+title = c_collippo
+
+# Settlements
+max_settlements = 3
+
+b_collippo = castle
+#b_collippo_2 = city
+#b_collippo_3 = temple
+#b_collippo_4 = castle
+#b_collippo_5 = city
+#b_collippo_6 = temple
+#b_collippo_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

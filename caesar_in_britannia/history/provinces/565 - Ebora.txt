@@ -1,0 +1,21 @@
+# c_ebora
+
+# County Title
+title = c_ebora
+
+# Settlements
+max_settlements = 3
+
+b_ebora = castle
+#b_ebora_2 = city
+#b_ebora_3 = temple
+#b_ebora_4 = castle
+#b_ebora_5 = city
+#b_ebora_6 = temple
+#b_ebora_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

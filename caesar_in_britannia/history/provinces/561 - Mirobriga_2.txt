@@ -1,0 +1,21 @@
+# c_mirobriga_2
+
+# County Title
+title = c_mirobriga_2
+
+# Settlements
+max_settlements = 4
+
+b_mirobriga_8 = castle
+#b_mirobriga_9 = city
+#b_mirobriga_10 = temple
+#b_mirobriga_11 = castle
+#b_mirobriga_12 = city
+#b_mirobriga_13 = temple
+#b_mirobriga_14 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History
