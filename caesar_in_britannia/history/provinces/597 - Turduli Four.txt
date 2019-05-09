@@ -1,0 +1,21 @@
+# c_turduli_four
+
+# County Title
+title = c_turduli_four
+
+# Settlements
+max_settlements = 3
+
+b_turduli_four = castle
+#b_turduli_four_2 = city
+#b_turduli_four_3 = temple
+#b_turduli_four_4 = castle
+#b_turduli_four_5 = city
+#b_turduli_four_6 = temple
+#b_turduli_four_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

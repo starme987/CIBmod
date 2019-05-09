@@ -1,0 +1,21 @@
+# c_baetica_five
+
+# County Title
+title = c_baetica_five
+
+# Settlements
+max_settlements = 3
+
+b_baetica_five = castle
+#b_baetica_five_2 = city
+#b_baetica_five_3 = temple
+#b_baetica_five_4 = castle
+#b_baetica_five_5 = city
+#b_baetica_five_6 = temple
+#b_baetica_five_7 = castle
+
+# Misc
+culture = roman
+religion = roman_hellenic
+
+#History

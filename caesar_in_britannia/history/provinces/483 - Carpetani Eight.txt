@@ -1,0 +1,21 @@
+# c_carpetani_eight
+
+# County Title
+title = c_carpetani_eight
+
+# Settlements
+max_settlements = 3
+
+b_carpetani_eight = castle
+#b_carpetani_eight_2 = city
+#b_carpetani_eight_3 = temple
+#b_carpetani_eight_4 = castle
+#b_carpetani_eight_5 = city
+#b_carpetani_eight_6 = temple
+#b_carpetani_eight_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

@@ -1,0 +1,21 @@
+# c_calontienses_two
+
+# County Title
+title = c_calontienses_two
+
+# Settlements
+max_settlements = 3
+
+b_calontienses_two = castle
+#b_calontienses_two_2 = city
+#b_calontienses_two_3 = temple
+#b_calontienses_two_4 = castle
+#b_calontienses_two_5 = city
+#b_calontienses_two_6 = temple
+#b_calontienses_two_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

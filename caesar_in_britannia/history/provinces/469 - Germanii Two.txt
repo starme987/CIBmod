@@ -1,0 +1,21 @@
+# c_germanii_two
+
+# County Title
+title = c_germanii_two
+
+# Settlements
+max_settlements = 3
+
+b_germanii_two = castle
+#b_germanii_two_2 = city
+#b_germanii_two_3 = temple
+#b_germanii_two_4 = castle
+#b_germanii_two_5 = city
+#b_germanii_two_6 = temple
+#b_germanii_two_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

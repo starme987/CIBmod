@@ -1,0 +1,17 @@
+# c_arevaci
+
+# County Title
+title = c_arevaci
+
+# Settlements
+max_settlements = 3
+
+b_placeholder_7 = castle
+#b_arevaci = city
+#b_arevaci_2 = temple
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

@@ -151,6 +151,16 @@ c_baeterrae;Baeterrae;Baeterrae;Baeterrae;;Baeterrae;;;;;;;;;x
 c_baeterrae_adj;Baeterraean;;baeterrer;;;;;;;;;;;x
 c_baetica;Baetica;Baetica;Baetica;;Baetica;;;;;;;;;x
 c_baetica_adj;Baetican;;baeticer;;;;;;;;;;;x
+c_baetica_five;Baetica Five;Baetica Five;Baetica Five;;Baetica Five;;;;;;;;;x
+c_baetica_five_adj;Baetica Fivean;;Baetica Fiver;;;;;;;;;;;x
+c_baetica_four;Baetica Four;Baetica Four;Baetica Four;;Baetica Four;;;;;;;;;x
+c_baetica_four_adj;Baetica Fourian;;Baetica Fourer;;;;;;;;;;;x
+c_baetica_one;Baetica One;Baetica One;Baetica One;;Baetica One;;;;;;;;;x
+c_baetica_one_adj;Baetica Onean;;Baetica Oner;;;;;;;;;;;x
+c_baetica_three;Baetica Three;Baetica Three;Baetica Three;;Baetica Three;;;;;;;;;x
+c_baetica_three_adj;Baetica Threean;;Baetica Threr;;;;;;;;;;;x
+c_baetica_two;Baetica Two;Baetica Two;Baetica Two;;Baetica Two;;;;;;;;;x
+c_baetica_two_adj;Baetica Twian;;Baetica Twer;;;;;;;;;;;x
 c_bagacum;Bagacum;Bagacum;Bagacum;;Bagacum;;;;;;;;;x
 c_bagacum_adj;Bagacumian;;bagacumer;;;;;;;;;;;x
 c_balatedine;Balatedine;Balatedine;Balatedine;;Balatedine;;;;;;;;;x
@@ -249,6 +259,16 @@ c_calleva;Calleva;Calleva;Calleva;;Calleva;;;;;;;;;x
 c_calleva_adj;Callevan;;callever;;;;;;;;;;;x
 c_calontienses;Calontienses;Calontienses;Calontienses;;Calontienses;;;;;;;;;x
 c_calontienses_adj;Calontiensesian;;calontienseser;;;;;;;;;;;x
+c_calontienses_five;Calontienses Five;Calontienses Five;Calontienses Five;;Calontienses Five;;;;;;;;;x
+c_calontienses_five_adj;Calontienses Fivean;;Calontienses Fiver;;;;;;;;;;;x
+c_calontienses_four;Calontienses Four;Calontienses Four;Calontienses Four;;Calontienses Four;;;;;;;;;x
+c_calontienses_four_adj;Calontienses Fourian;;Calontienses Fourer;;;;;;;;;;;x
+c_calontienses_one;Calontienses One;Calontienses One;Calontienses One;;Calontienses One;;;;;;;;;x
+c_calontienses_one_adj;Calontienses Onean;;Calontienses Oner;;;;;;;;;;;x
+c_calontienses_three;Calontienses Three;Calontienses Three;Calontienses Three;;Calontienses Three;;;;;;;;;x
+c_calontienses_three_adj;Calontienses Threean;;Calontienses Threr;;;;;;;;;;;x
+c_calontienses_two;Calontienses Two;Calontienses Two;Calontienses Two;;Calontienses Two;;;;;;;;;x
+c_calontienses_two_adj;Calontienses Twian;;Calontienses Twer;;;;;;;;;;;x
 c_cambodunum;Cambodunum;Cambodunum;Cambodunum;;Cambodunum;;;;;;;;;x
 c_cambodunum_adj;Cambodunumian;;cambodunumer;;;;;;;;;;;x
 c_cambogianna;Cambogianna;Cambogianna;Cambogianna;;Cambogianna;;;;;;;;;x
@@ -281,6 +301,24 @@ c_caristii;Caristii;Caristii;Caristii;;Caristii;;;;;;;;;x
 c_caristii_adj;Caristian;;carister;;;;;;;;;;;x
 c_carpetani;Carpetani;Carpetani;Carpetani;;Carpetani;;;;;;;;;x
 c_carpetani_adj;Carpetanian;;carpetaner;;;;;;;;;;;x
+c_carpetani_eight;Carpetani Eight;Carpetani Eight;Carpetani Eight;;Carpetani Eight;;;;;;;;;x
+c_carpetani_eight_adj;Carpetani Eightian;;Carpetani Eighter;;;;;;;;;;;x
+c_carpetani_five;Carpetani Five;Carpetani Five;Carpetani Five;;Carpetani Five;;;;;;;;;x
+c_carpetani_five_adj;Carpetani Fivean;;Carpetani Fiver;;;;;;;;;;;x
+c_carpetani_four;Carpetani Four;Carpetani Four;Carpetani Four;;Carpetani Four;;;;;;;;;x
+c_carpetani_four_adj;Carpetani Fourian;;Carpetani Fourer;;;;;;;;;;;x
+c_carpetani_nine;Carpetani Nine;Carpetani Nine;Carpetani Nine;;Carpetani Nine;;;;;;;;;x
+c_carpetani_nine_adj;Carpetani Ninean;;Carpetani Niner;;;;;;;;;;;x
+c_carpetani_one;Carpetani One;Carpetani One;Carpetani One;;Carpetani One;;;;;;;;;x
+c_carpetani_one_adj;Carpetani Onean;;Carpetani Oner;;;;;;;;;;;x
+c_carpetani_seven;Carpetani Seven;Carpetani Seven;Carpetani Seven;;Carpetani Seven;;;;;;;;;x
+c_carpetani_seven_adj;Carpetani Sevenian;;Carpetani Sevener;;;;;;;;;;;x
+c_carpetani_six;Carpetani Six;Carpetani Six;Carpetani Six;;Carpetani Six;;;;;;;;;x
+c_carpetani_six_adj;Carpetani Sixian;;Carpetani Sixer;;;;;;;;;;;x
+c_carpetani_three;Carpetani Three;Carpetani Three;Carpetani Three;;Carpetani Three;;;;;;;;;x
+c_carpetani_three_adj;Carpetani Threean;;Carpetani Threr;;;;;;;;;;;x
+c_carpetani_two;Carpetani Two;Carpetani Two;Carpetani Two;;Carpetani Two;;;;;;;;;x
+c_carpetani_two_adj;Carpetani Twian;;Carpetani Twer;;;;;;;;;;;x
 c_carstairs;Carstairs;Carstairs;Carstairs;;Carstairs;;;;;;;;;x
 c_carstairs_adj;Carstairsian;;carstairser;;;;;;;;;;;x
 c_castellum_araocelem;Castellum Araocelem;Castellum Araocelem;Castellum Araocelem;;Castellum Araocelem;;;;;;;;;x
@@ -441,6 +479,10 @@ c_durovernum;Durovernum;Durovernum;Durovernum;;Durovernum;;;;;;;;;x
 c_durovernum_adj;Durovernumian;;durovernumer;;;;;;;;;;;x
 c_east_oretani;East Oretani;East Oretani;East Oretani;;East Oretani;;;;;;;;;x
 c_east_oretani_adj;East Oretanian;;East Oretaner;;;;;;;;;;;x
+c_east_oretani_one;East Oretani One;East Oretani One;East Oretani One;;East Oretani One;;;;;;;;;x
+c_east_oretani_one_adj;East Oretani Onean;;East Oretani Oner;;;;;;;;;;;x
+c_east_oretani_two;East Oretani Two;East Oretani Two;East Oretani Two;;East Oretani Two;;;;;;;;;x
+c_east_oretani_two_adj;East Oretani Twian;;East Oretani Twer;;;;;;;;;;;x
 c_ebora;Ebora;Ebora;Ebora;;Ebora;;;;;;;;;x
 c_ebora_adj;Eboran;;eborer;;;;;;;;;;;x
 c_eburacum;Eburacum;Eburacum;Eburacum;;Eburacum;;;;;;;;;x
@@ -517,6 +559,20 @@ c_genua;Genua;Genua;Genua;;Genua;;;;;;;;;x
 c_genua_adj;Genuan;;gener;;;;;;;;;;;x
 c_germanii;Germanii;Germanii;Germanii;;Germanii;;;;;;;;;x
 c_germanii_adj;Germanian;;germaner;;;;;;;;;;;x
+c_germanii_five;Germanii Five;Germanii Five;Germanii Five;;Germanii Five;;;;;;;;;x
+c_germanii_five_adj;Germanii Fivean;;Germanii Fiver;;;;;;;;;;;x
+c_germanii_four;Germanii Four;Germanii Four;Germanii Four;;Germanii Four;;;;;;;;;x
+c_germanii_four_adj;Germanii Fourian;;Germanii Fourer;;;;;;;;;;;x
+c_germanii_one;Germanii One;Germanii One;Germanii One;;Germanii One;;;;;;;;;x
+c_germanii_one_adj;Germanii Onean;;Germanii Oner;;;;;;;;;;;x
+c_germanii_seven;Germanii Seven;Germanii Seven;Germanii Seven;;Germanii Seven;;;;;;;;;x
+c_germanii_seven_adj;Germanii Sevenian;;Germanii Sevener;;;;;;;;;;;x
+c_germanii_six;Germanii Six;Germanii Six;Germanii Six;;Germanii Six;;;;;;;;;x
+c_germanii_six_adj;Germanii Sixian;;Germanii Sixer;;;;;;;;;;;x
+c_germanii_three;Germanii Three;Germanii Three;Germanii Three;;Germanii Three;;;;;;;;;x
+c_germanii_three_adj;Germanii Threean;;Germanii Threr;;;;;;;;;;;x
+c_germanii_two;Germanii Two;Germanii Two;Germanii Two;;Germanii Two;;;;;;;;;x
+c_germanii_two_adj;Germanii Twian;;Germanii Twer;;;;;;;;;;;x
 c_gesocribate;Gesocribate;Gesocribate;Gesocribate;;Gesocribate;;;;;;;;;x
 c_gesocribate_adj;Gesocribatean;;gesocribater;;;;;;;;;;;x
 c_gesoriacum;Gesoriacum;Gesoriacum;Gesoriacum;;Gesoriacum;;;;;;;;;x
@@ -1035,12 +1091,30 @@ c_tullum;Tullum;Tullum;Tullum;;Tullum;;;;;;;;;x
 c_tullum_adj;Tullumian;;tullumer;;;;;;;;;;;x
 c_turdetani;Turdetani;Turdetani;Turdetani;;Turdetani;;;;;;;;;x
 c_turdetani_adj;Turdetanian;;turdetaner;;;;;;;;;;;x
-c_turdetani1;Turdetani1;Turdetani1;Turdetani1;;Turdetani1;;;;;;;;;x
-c_turdetani1_adj;Turdetani1ian;;turdetani1er;;;;;;;;;;;x
-c_turdetani2;Turdetani2;Turdetani2;Turdetani2;;Turdetani2;;;;;;;;;x
-c_turdetani2_adj;Turdetani2ian;;turdetani2er;;;;;;;;;;;x
+c_turdetani_five;Turdetani Five;Turdetani Five;Turdetani Five;;Turdetani Five;;;;;;;;;x
+c_turdetani_five_adj;Turdetani Fivean;;Turdetani Fiver;;;;;;;;;;;x
+c_turdetani_four;Turdetani Four;Turdetani Four;Turdetani Four;;Turdetani Four;;;;;;;;;x
+c_turdetani_four_adj;Turdetani Fourian;;Turdetani Fourer;;;;;;;;;;;x
+c_turdetani_one;Turdetani One;Turdetani One;Turdetani One;;Turdetani One;;;;;;;;;x
+c_turdetani_one_adj;Turdetani Onean;;Turdetani Oner;;;;;;;;;;;x
+c_turdetani_seven;Turdetani Seven;Turdetani Seven;Turdetani Seven;;Turdetani Seven;;;;;;;;;x
+c_turdetani_seven_adj;Turdetani Sevenian;;Turdetani Sevener;;;;;;;;;;;x
+c_turdetani_six;Turdetani Six;Turdetani Six;Turdetani Six;;Turdetani Six;;;;;;;;;x
+c_turdetani_six_adj;Turdetani Sixian;;Turdetani Sixer;;;;;;;;;;;x
+c_turdetani_three;Turdetani Three;Turdetani Three;Turdetani Three;;Turdetani Three;;;;;;;;;x
+c_turdetani_three_adj;Turdetani Threean;;Turdetani Threr;;;;;;;;;;;x
+c_turdetani_two;Turdetani Two;Turdetani Two;Turdetani Two;;Turdetani Two;;;;;;;;;x
+c_turdetani_two_adj;Turdetani Twian;;Turdetani Twer;;;;;;;;;;;x
 c_turduli;Turduli;Turduli;Turduli;;Turduli;;;;;;;;;x
 c_turduli_adj;Turdulian;;turduler;;;;;;;;;;;x
+c_turduli_four;Turduli Four;Turduli Four;Turduli Four;;Turduli Four;;;;;;;;;x
+c_turduli_four_adj;Turduli Fourian;;Turduli Fourer;;;;;;;;;;;x
+c_turduli_one;Turduli One;Turduli One;Turduli One;;Turduli One;;;;;;;;;x
+c_turduli_one_adj;Turduli Onean;;Turduli Oner;;;;;;;;;;;x
+c_turduli_three;Turduli Three;Turduli Three;Turduli Three;;Turduli Three;;;;;;;;;x
+c_turduli_three_adj;Turduli Threean;;Turduli Threr;;;;;;;;;;;x
+c_turduli_two;Turduli Two;Turduli Two;Turduli Two;;Turduli Two;;;;;;;;;x
+c_turduli_two_adj;Turduli Twian;;Turduli Twer;;;;;;;;;;;x
 c_turmodigi;Turmodigi;Turmodigi;Turmodigi;;Turmodigi;;;;;;;;;x
 c_turmodigi_adj;Turmodigian;;turmodiger;;;;;;;;;;;x
 c_turris_libyssonis;Turris Libyssonis;Turris Libyssonis;Turris Libyssonis;;Turris Libyssonis;;;;;;;;;x
@@ -1157,3 +1231,11 @@ c_vorgium;Vorgium;Vorgium;Vorgium;;Vorgium;;;;;;;;;x
 c_vorgium_adj;Vorgiumian;;vorgiumer;;;;;;;;;;;x
 c_west_oretani;West Oretani;West Oretani;West Oretani;;West Oretani;;;;;;;;;x
 c_west_oretani_adj;West Oretanian;;West Oretaner;;;;;;;;;;;x
+c_west_oretani_four;West Oretani Four;West Oretani Four;West Oretani Four;;West Oretani Four;;;;;;;;;x
+c_west_oretani_four_adj;West Oretani Fourian;;West Oretani Fourer;;;;;;;;;;;x
+c_west_oretani_one;West Oretani One;West Oretani One;West Oretani One;;West Oretani One;;;;;;;;;x
+c_west_oretani_one_adj;West Oretani Onean;;West Oretani Oner;;;;;;;;;;;x
+c_west_oretani_three;West Oretani Three;West Oretani Three;West Oretani Three;;West Oretani Three;;;;;;;;;x
+c_west_oretani_three_adj;West Oretani Threean;;West Oretani Threr;;;;;;;;;;;x
+c_west_oretani_two;West Oretani Two;West Oretani Two;West Oretani Two;;West Oretani Two;;;;;;;;;x
+c_west_oretani_two_adj;West Oretani Twian;;West Oretani Twer;;;;;;;;;;;x

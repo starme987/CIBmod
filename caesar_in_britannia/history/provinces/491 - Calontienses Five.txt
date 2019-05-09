@@ -1,0 +1,21 @@
+# c_calontienses_five
+
+# County Title
+title = c_calontienses_five
+
+# Settlements
+max_settlements = 3
+
+b_calontienses_five = castle
+#b_calontienses_five_2 = city
+#b_calontienses_five_3 = temple
+#b_calontienses_five_4 = castle
+#b_calontienses_five_5 = city
+#b_calontienses_five_6 = temple
+#b_calontienses_five_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History
