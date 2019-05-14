@@ -1,0 +1,21 @@
+# c_bastetani_seven
+
+# County Title
+title = c_bastetani_seven
+
+# Settlements
+max_settlements = 3
+
+b_bastetani_seven = castle
+#b_bastetani_seven_2 = city
+#b_bastetani_seven_3 = temple
+#b_bastetani_seven_4 = castle
+#b_bastetani_seven_5 = city
+#b_bastetani_seven_6 = temple
+#b_bastetani_seven_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

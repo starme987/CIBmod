@@ -464,160 +464,194 @@ province;red;green;blue;x;x
 463;173;94;52;Caristii;x
 464;54;99;144;Edetani;x
 465;76;130;184;Contestani;x
-466;57;150;136;Lobetani;x
-467;126;86;133;Germanii;x
-468;118;63;88;Germanii One;x
-469;146;64;101;Germanii Two;x
-470;81;68;98;Germanii Three;x
-471;101;74;105;Germanii Four;x
-472;74;62;76;Germanii Five;x
-473;121;108;137;Germanii Six;x
-474;86;43;142;Germanii Seven;x
-475;151;117;156;Carpetani;x
-476;156;97;145;Carpetani One;x
-477;129;57;140;Carpetani Two;x
-478;124;108;126;Carpetani Three;x
-479;167;125;144;Carpetani Four;x
-480;145;79;145;Carpetani Five;x
-481;96;65;101;Carpetani Six;x
-482;175;91;129;Carpetani Seven;x
-483;114;75;120;Carpetani Eight;x
-484;115;74;92;Carpetani Nine;x
-485;181;168;46;Arevaci;x
-486;187;94;94;Calontienses;x
-487;231;136;136;Calontienses One;x
-488;134;87;56;Calontienses Two;x
-489;178;63;63;Calontienses Three;x
-490;162;112;106;Calontienses Four;x
-491;82;70;70;Calontienses Five;x
-492;172;100;100;Salamantica;x
-493;102;67;63;Mirobriga;x
-494;132;114;112;Arboukale;x
-495;170;72;61;Capera;x
-496;90;68;68;Polibedenses;x
-497;132;56;56;Ocelum Duri;x
-498;53;151;118;Intercatia;x
-499;93;168;159;Brigaecium;x
-500;47;79;74;Amallobriga;x
-501;32;118;121;Septimanca;x
-502;43;134;123;Palantia;x
-503;88;127;114;Lancia;x
-504;35;127;58;Tullonium;x
-505;48;172;79;Vareia;x
-506;86;127;97;Barbariana;x
-507;57;77;62;Victoriacum;x
-508;51;91;61;Antequia;x
-509;64;156;87;Vindeleia;x
-510;109;159;122;Aracaeli;x
-511;76;132;90;Andelos;x
-512;41;92;93;Nova Augusta;x
-513;58;120;112;Segesamunculum;x
-514;80;147;148;Deobrigula;x
-515;78;131;132;Virovesca;x
-516;71;108;80;Lucas Asturum;x
-517;35;120;56;Gigia;x
-518;52;139;39;Flavionavia;x
-519;85;170;72;Memoriana;x
-520;101;142;95;Pailontion;x
-521;111;154;122;Serandi;x
-522;67;109;61;Aquae Quintinae;x
-523;67;153;89;Dactionum;x
-524;75;102;82;Pons Neviae;x
-525;64;131;81;Uttaris;x
-526;43;104;58;Bergidum Flavium;x
-527;42;88;54;Timalinum;x
-528;71;120;84;Interamnium Flavium;x
-529;83;194;66;Gemestarium;x
-530;72;124;64;Forum Gigurrorum;x
-531;75;154;62;Aurium;x
-532;25;152;194;Aira de Croa;x
-533;27;87;107;Britaniensis;x
-534;55;102;102;Pumarega;x
-535;88;138;154;Carcovas;x
-536;54;113;132;Villaronte;x
-537;67;133;134;Grovas;x
-538;64;157;159;Fornelo;x
-539;54;93;105;Torre;x
-540;59;70;74;Meiringos;x
-541;116;166;204;Lucas Augusti;x
-542;49;94;129;Caranicum;x
-543;92;140;178;Flavium Brigantium;x
-544;96;108;116;Castellum Aviliobris;x
-545;74;104;127;Assegonia;x
-546;110;141;207;Forum Limicorum;x
-547;46;70;123;Geminae;x
-548;76;95;137;Nemetobriga;x
-549;87;104;142;Aquae Flaviae;x
-550;41;124;187;Bracara Augusta;x
-551;103;166;187;Salacia;x
-552;45;119;143;Salaniana;x
-553;100;123;140;Limia;x
-554;66;91;110;Avobriga;x
-555;61;100;113;Oculis;x
-556;45;70;90;Aquae Originae;x
-557;147;90;90;Bletisama;x
-558;173;92;92;Civitas Zoelarum;x
-559;109;83;83;Compleutica;x
-560;170;124;124;Eldana;x
-561;110;71;71;Cobelcorum;x
-562;93;76;159;Meidubriga;x
-563;83;53;123;Civitas Baniensium;x
-564;66;59;94;Caliabriga;x
-565;116;98;171;Tongobriga;x
-566;64;48;112;Cale;x
-567;84;77;107;Lamecum;x
-568;164;163;112;Langobriga;x
-569;134;132;30;Talabriga;x
-570;122;113;147;Vissaium;x
-571;55;38;104;Castellum Araocelem;x
-572;133;133;176;Elbocoris;x
-573;60;60;105;Aeminium;x
-574;139;136;61;Scallabis;x
-575;172;155;46;Collippo;x
-576;101;100;38;Conimbriga;x
-577;187;183;66;Igaeditania;x
-578;157;140;31;Vicus Veniensis;x
-579;208;187;52;Caurium;x
-580;154;151;70;Rusticiana;x
-581;176;165;92;Lama;x
-582;133;75;47;Mirobriga_2;x
-583;203;136;103;Olisipo;x
-584;162;80;40;Salacia Imperatoria;x
-585;153;152;94;Ammaia;x
-586;211;208;48;Ebora;x
-587;148;91;63;Ossonoba;x
-588;187;98;54;Balsa;x
-589;165;91;54;Baesuris;x
-590;104;88;80;Metallum Vipascense;x
-591;132;93;74;Pax Iulia;x
-592;107;86;76;Iulia Myrtilis;x
-593;130;128;60;Turduli;x
-594;178;174;50;Turduli One;x
-595;88;87;62;Turduli Two;x
-596;172;164;115;Turduli Three;x
-597;150;134;36;Turduli Four;x
-598;98;183;60;Baetica;x
-599;113;168;40;Baetica One;x
-600;79;102;59;Baetica Two;x
-601;110;127;97;Baetica Three;x
-602;100;121;71;Baetica Four;x
-603;107;156;85;Baetica Five;x
-604;55;94;37;Turdetani;x
-605;99;107;77;Turdetani One;x
-606;127;154;50;Turdetani Two;x
-607;113;129;68;Turdetani Three;x
-608;101;124;90;Turdetani Four;x
-609;80;99;71;Turdetani Five;x
-610;114;140;40;Turdetani Six;x
-611;75;126;51;Turdetani Seven;x
-612;132;166;117;West Oretani;x
-613;121;140;106;West Oretani One;x
-614;89;128;72;West Oretani Two;x
-615;94;143;54;West Oretani Three;x
-616;86;129;51;West Oretani Four;x
-617;144;193;185;East Oretani;x
-618;35;94;55;East Oretani One;x
-619;96;168;157;East Oretani Two;x
-620;52;170;151;Bastetani;x
-621;19;55;72;Ocean Britain;x
-622;41;161;217;Ocean Roman;x
+466;46;97;148;Contestani One;x
+467;80;147;173;Contestani Two;x
+468;85;111;137;Contestani Three;x
+469;133;151;157;Contestani Four;x
+470;52;80;91;Contestani Five;x
+471;90;95;99;Contestani Six;x
+472;57;150;136;Lobetani;x
+473;52;190;172;Lobetani One;x
+474;58;82;78;Lobetani Two;x
+475;50;109;100;Lobetani Three;x
+476;139;162;159;Lobetani Four;x
+477;82;126;119;Lobetani Five;x
+478;60;183;181;Lobetani Six;x
+479;126;86;133;Germanii;x
+480;118;63;88;Germanii One;x
+481;146;64;101;Germanii Two;x
+482;81;68;98;Germanii Three;x
+483;101;74;105;Germanii Four;x
+484;74;62;76;Germanii Five;x
+485;121;108;137;Germanii Six;x
+486;86;43;142;Germanii Seven;x
+487;151;117;156;Carpetani;x
+488;156;97;145;Carpetani One;x
+489;129;57;140;Carpetani Two;x
+490;124;108;126;Carpetani Three;x
+491;167;125;144;Carpetani Four;x
+492;145;79;145;Carpetani Five;x
+493;96;65;101;Carpetani Six;x
+494;175;91;129;Carpetani Seven;x
+495;114;75;120;Carpetani Eight;x
+496;115;74;92;Carpetani Nine;x
+497;181;168;46;Arevaci;x
+498;109;105;73;Arevaci One;x
+499;157;154;118;Arevaci Two;x
+500;187;94;94;Calontienses;x
+501;231;136;136;Calontienses One;x
+502;134;87;56;Calontienses Two;x
+503;178;63;63;Calontienses Three;x
+504;162;112;106;Calontienses Four;x
+505;82;70;70;Calontienses Five;x
+506;172;100;100;Salamantica;x
+507;102;67;63;Mirobriga;x
+508;132;114;112;Arboukale;x
+509;170;72;61;Capera;x
+510;90;68;68;Polibedenses;x
+511;132;56;56;Ocelum Duri;x
+512;53;151;118;Intercatia;x
+513;93;168;159;Brigaecium;x
+514;47;79;74;Amallobriga;x
+515;32;118;121;Septimanca;x
+516;43;134;123;Palantia;x
+517;88;127;114;Lancia;x
+518;35;127;58;Tullonium;x
+519;48;172;79;Vareia;x
+520;86;127;97;Barbariana;x
+521;57;77;62;Victoriacum;x
+522;51;91;61;Antequia;x
+523;64;156;87;Vindeleia;x
+524;109;159;122;Aracaeli;x
+525;76;132;90;Andelos;x
+526;41;92;93;Nova Augusta;x
+527;58;120;112;Segesamunculum;x
+528;80;147;148;Deobrigula;x
+529;78;131;132;Virovesca;x
+530;71;108;80;Lucas Asturum;x
+531;35;120;56;Gigia;x
+532;52;139;39;Flavionavia;x
+533;85;170;72;Memoriana;x
+534;101;142;95;Pailontion;x
+535;111;154;122;Serandi;x
+536;67;109;61;Aquae Quintinae;x
+537;67;153;89;Dactionum;x
+538;75;102;82;Pons Neviae;x
+539;64;131;81;Uttaris;x
+540;43;104;58;Bergidum Flavium;x
+541;42;88;54;Timalinum;x
+542;71;120;84;Interamnium Flavium;x
+543;83;194;66;Gemestarium;x
+544;72;124;64;Forum Gigurrorum;x
+545;75;154;62;Aurium;x
+546;25;152;194;Aira de Croa;x
+547;27;87;107;Britaniensis;x
+548;55;102;102;Pumarega;x
+549;88;138;154;Carcovas;x
+550;54;113;132;Villaronte;x
+551;67;133;134;Grovas;x
+552;64;157;159;Fornelo;x
+553;54;93;105;Torre;x
+554;59;70;74;Meiringos;x
+555;116;166;204;Lucas Augusti;x
+556;49;94;129;Caranicum;x
+557;92;140;178;Flavium Brigantium;x
+558;96;108;116;Castellum Aviliobris;x
+559;74;104;127;Assegonia;x
+560;110;141;207;Forum Limicorum;x
+561;46;70;123;Geminae;x
+562;76;95;137;Nemetobriga;x
+563;87;104;142;Aquae Flaviae;x
+564;41;124;187;Bracara Augusta;x
+565;103;166;187;Salacia;x
+566;45;119;143;Salaniana;x
+567;100;123;140;Limia;x
+568;66;91;110;Avobriga;x
+569;61;100;113;Oculis;x
+570;45;70;90;Aquae Originae;x
+571;147;90;90;Bletisama;x
+572;173;92;92;Civitas Zoelarum;x
+573;109;83;83;Compleutica;x
+574;170;124;124;Eldana;x
+575;110;71;71;Cobelcorum;x
+576;93;76;159;Meidubriga;x
+577;83;53;123;Civitas Baniensium;x
+578;66;59;94;Caliabriga;x
+579;116;98;171;Tongobriga;x
+580;64;48;112;Cale;x
+581;84;77;107;Lamecum;x
+582;164;163;112;Langobriga;x
+583;134;132;30;Talabriga;x
+584;122;113;147;Vissaium;x
+585;55;38;104;Castellum Araocelem;x
+586;133;133;176;Elbocoris;x
+587;60;60;105;Aeminium;x
+588;139;136;61;Scallabis;x
+589;172;155;46;Collippo;x
+590;101;100;38;Conimbriga;x
+591;187;183;66;Igaeditania;x
+592;157;140;31;Vicus Veniensis;x
+593;208;187;52;Caurium;x
+594;154;151;70;Rusticiana;x
+595;176;165;92;Lama;x
+596;133;75;47;Mirobriga_2;x
+597;203;136;103;Olisipo;x
+598;162;80;40;Salacia Imperatoria;x
+599;153;152;94;Ammaia;x
+600;211;208;48;Ebora;x
+601;148;91;63;Ossonoba;x
+602;187;98;54;Balsa;x
+603;165;91;54;Baesuris;x
+604;104;88;80;Metallum Vipascense;x
+605;132;93;74;Pax Iulia;x
+606;107;86;76;Iulia Myrtilis;x
+607;130;128;60;Turduli;x
+608;178;174;50;Turduli One;x
+609;88;87;62;Turduli Two;x
+610;172;164;115;Turduli Three;x
+611;150;134;36;Turduli Four;x
+612;98;183;60;Baetica;x
+613;113;168;40;Baetica One;x
+614;79;102;59;Baetica Two;x
+615;110;127;97;Baetica Three;x
+616;100;121;71;Baetica Four;x
+617;107;156;85;Baetica Five;x
+618;55;94;37;Turdetani;x
+619;99;107;77;Turdetani One;x
+620;127;154;50;Turdetani Two;x
+621;113;129;68;Turdetani Three;x
+622;101;124;90;Turdetani Four;x
+623;80;99;71;Turdetani Five;x
+624;114;140;40;Turdetani Six;x
+625;75;126;51;Turdetani Seven;x
+626;132;166;117;West Oretani;x
+627;121;140;106;West Oretani One;x
+628;89;128;72;West Oretani Two;x
+629;94;143;54;West Oretani Three;x
+630;86;129;51;West Oretani Four;x
+631;144;193;185;East Oretani;x
+632;35;94;55;East Oretani One;x
+633;96;168;157;East Oretani Two;x
+634;67;110;60;East Oretani Three;x
+635;84;167;112;East Oretani Four;x
+636;100;126;124;East Oretani Five;x
+637;50;157;68;East Oretani Six;x
+638;91;132;105;East Oretani Seven;x
+639;61;93;91;East Oretani Eight;x
+640;40;150;144;East Oretani Nine;x
+641;82;113;108;East Oretani Ten;x
+642;84;179;164;East Oretani Eleven;x
+643;52;170;151;Bastetani;x
+644;41;102;61;Bastetani One;x
+645;90;156;112;Bastetani Two;x
+646;35;91;82;Bastetani Three;x
+647;105;172;145;Bastetani Four;x
+648;44;186;91;Bastetani Five;x
+649;64;126;85;Bastetani Six;x
+650;31;123;86;Bastetani Seven;x
+651;63;126;116;Bastetani Eight;x
+652;1;1;1;PLACEHOLDER652;x
+653;44;137;100;Bastetani Ten;x
+654;51;96;89;Bastetani Eleven;x
+655;19;55;72;Ocean Britain;x
+656;41;161;217;Ocean Roman;x

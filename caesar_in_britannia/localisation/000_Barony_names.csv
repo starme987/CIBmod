@@ -601,6 +601,44 @@ b_arevaci;Arevaci;Arevaci;Arevaci;;Arevaci;;;;;;;;;x
 b_arevaci_adj;Arevacian;;arevacer;;;;;;;;;;;x
 b_arevaci_2;Arevaci;Arevaci;Arevaci;;Arevaci;;;;;;;;;x
 b_arevaci_2_adj;Arevacian;;arevacer;;;;;;;;;;;x
+b_arevaci_3;Arevaci;Arevaci;Arevaci;;Arevaci;;;;;;;;;x
+b_arevaci_3_adj;Arevacian;;arevacer;;;;;;;;;;;x
+b_arevaci_4;Arevaci;Arevaci;Arevaci;;Arevaci;;;;;;;;;x
+b_arevaci_4_adj;Arevacian;;arevacer;;;;;;;;;;;x
+b_arevaci_5;Arevaci;Arevaci;Arevaci;;Arevaci;;;;;;;;;x
+b_arevaci_5_adj;Arevacian;;arevacer;;;;;;;;;;;x
+b_arevaci_6;Arevaci;Arevaci;Arevaci;;Arevaci;;;;;;;;;x
+b_arevaci_6_adj;Arevacian;;arevacer;;;;;;;;;;;x
+b_arevaci_7;Arevaci;Arevaci;Arevaci;;Arevaci;;;;;;;;;x
+b_arevaci_7_adj;Arevacian;;arevacer;;;;;;;;;;;x
+b_arevaci_one;Arevaci One;Arevaci One;Arevaci One;;Arevaci One;;;;;;;;;x
+b_arevaci_one_adj;Arevaci Onean;;Arevaci Oner;;;;;;;;;;;x
+b_arevaci_one_2;Arevaci One;Arevaci One;Arevaci One;;Arevaci One;;;;;;;;;x
+b_arevaci_one_2_adj;Arevaci Onean;;Arevaci Oner;;;;;;;;;;;x
+b_arevaci_one_3;Arevaci One;Arevaci One;Arevaci One;;Arevaci One;;;;;;;;;x
+b_arevaci_one_3_adj;Arevaci Onean;;Arevaci Oner;;;;;;;;;;;x
+b_arevaci_one_4;Arevaci One;Arevaci One;Arevaci One;;Arevaci One;;;;;;;;;x
+b_arevaci_one_4_adj;Arevaci Onean;;Arevaci Oner;;;;;;;;;;;x
+b_arevaci_one_5;Arevaci One;Arevaci One;Arevaci One;;Arevaci One;;;;;;;;;x
+b_arevaci_one_5_adj;Arevaci Onean;;Arevaci Oner;;;;;;;;;;;x
+b_arevaci_one_6;Arevaci One;Arevaci One;Arevaci One;;Arevaci One;;;;;;;;;x
+b_arevaci_one_6_adj;Arevaci Onean;;Arevaci Oner;;;;;;;;;;;x
+b_arevaci_one_7;Arevaci One;Arevaci One;Arevaci One;;Arevaci One;;;;;;;;;x
+b_arevaci_one_7_adj;Arevaci Onean;;Arevaci Oner;;;;;;;;;;;x
+b_arevaci_two;Arevaci Two;Arevaci Two;Arevaci Two;;Arevaci Two;;;;;;;;;x
+b_arevaci_two_adj;Arevaci Twian;;Arevaci Twer;;;;;;;;;;;x
+b_arevaci_two_2;Arevaci Two;Arevaci Two;Arevaci Two;;Arevaci Two;;;;;;;;;x
+b_arevaci_two_2_adj;Arevaci Twian;;Arevaci Twer;;;;;;;;;;;x
+b_arevaci_two_3;Arevaci Two;Arevaci Two;Arevaci Two;;Arevaci Two;;;;;;;;;x
+b_arevaci_two_3_adj;Arevaci Twian;;Arevaci Twer;;;;;;;;;;;x
+b_arevaci_two_4;Arevaci Two;Arevaci Two;Arevaci Two;;Arevaci Two;;;;;;;;;x
+b_arevaci_two_4_adj;Arevaci Twian;;Arevaci Twer;;;;;;;;;;;x
+b_arevaci_two_5;Arevaci Two;Arevaci Two;Arevaci Two;;Arevaci Two;;;;;;;;;x
+b_arevaci_two_5_adj;Arevaci Twian;;Arevaci Twer;;;;;;;;;;;x
+b_arevaci_two_6;Arevaci Two;Arevaci Two;Arevaci Two;;Arevaci Two;;;;;;;;;x
+b_arevaci_two_6_adj;Arevaci Twian;;Arevaci Twer;;;;;;;;;;;x
+b_arevaci_two_7;Arevaci Two;Arevaci Two;Arevaci Two;;Arevaci Two;;;;;;;;;x
+b_arevaci_two_7_adj;Arevaci Twian;;Arevaci Twer;;;;;;;;;;;x
 b_argentomagus;Argentomagus;Argentomagus;Argentomagus;;Argentomagus;;;;;;;;;x
 b_argentomagus_adj;Argentomagusian;;argentomaguser;;;;;;;;;;;x
 b_argentomagus_2;Argentomagus;Argentomagus;Argentomagus;;Argentomagus;;;;;;;;;x
@@ -1231,6 +1269,156 @@ b_bastetani;Bastetani;Bastetani;Bastetani;;Bastetani;;;;;;;;;x
 b_bastetani_adj;Bastetanian;;bastetaner;;;;;;;;;;;x
 b_bastetani_2;Bastetani;Bastetani;Bastetani;;Bastetani;;;;;;;;;x
 b_bastetani_2_adj;Bastetanian;;bastetaner;;;;;;;;;;;x
+b_bastetani_3;Bastetani;Bastetani;Bastetani;;Bastetani;;;;;;;;;x
+b_bastetani_3_adj;Bastetanian;;bastetaner;;;;;;;;;;;x
+b_bastetani_4;Bastetani;Bastetani;Bastetani;;Bastetani;;;;;;;;;x
+b_bastetani_4_adj;Bastetanian;;bastetaner;;;;;;;;;;;x
+b_bastetani_5;Bastetani;Bastetani;Bastetani;;Bastetani;;;;;;;;;x
+b_bastetani_5_adj;Bastetanian;;bastetaner;;;;;;;;;;;x
+b_bastetani_6;Bastetani;Bastetani;Bastetani;;Bastetani;;;;;;;;;x
+b_bastetani_6_adj;Bastetanian;;bastetaner;;;;;;;;;;;x
+b_bastetani_7;Bastetani;Bastetani;Bastetani;;Bastetani;;;;;;;;;x
+b_bastetani_7_adj;Bastetanian;;bastetaner;;;;;;;;;;;x
+b_bastetani_eight;Bastetani Eight;Bastetani Eight;Bastetani Eight;;Bastetani Eight;;;;;;;;;x
+b_bastetani_eight_adj;Bastetani Eightian;;Bastetani Eighter;;;;;;;;;;;x
+b_bastetani_eight_2;Bastetani Eight;Bastetani Eight;Bastetani Eight;;Bastetani Eight;;;;;;;;;x
+b_bastetani_eight_2_adj;Bastetani Eightian;;Bastetani Eighter;;;;;;;;;;;x
+b_bastetani_eight_3;Bastetani Eight;Bastetani Eight;Bastetani Eight;;Bastetani Eight;;;;;;;;;x
+b_bastetani_eight_3_adj;Bastetani Eightian;;Bastetani Eighter;;;;;;;;;;;x
+b_bastetani_eight_4;Bastetani Eight;Bastetani Eight;Bastetani Eight;;Bastetani Eight;;;;;;;;;x
+b_bastetani_eight_4_adj;Bastetani Eightian;;Bastetani Eighter;;;;;;;;;;;x
+b_bastetani_eight_5;Bastetani Eight;Bastetani Eight;Bastetani Eight;;Bastetani Eight;;;;;;;;;x
+b_bastetani_eight_5_adj;Bastetani Eightian;;Bastetani Eighter;;;;;;;;;;;x
+b_bastetani_eight_6;Bastetani Eight;Bastetani Eight;Bastetani Eight;;Bastetani Eight;;;;;;;;;x
+b_bastetani_eight_6_adj;Bastetani Eightian;;Bastetani Eighter;;;;;;;;;;;x
+b_bastetani_eight_7;Bastetani Eight;Bastetani Eight;Bastetani Eight;;Bastetani Eight;;;;;;;;;x
+b_bastetani_eight_7_adj;Bastetani Eightian;;Bastetani Eighter;;;;;;;;;;;x
+b_bastetani_eleven;Bastetani Eleven;Bastetani Eleven;Bastetani Eleven;;Bastetani Eleven;;;;;;;;;x
+b_bastetani_eleven_adj;Bastetani Elevenian;;Bastetani Elevener;;;;;;;;;;;x
+b_bastetani_eleven_2;Bastetani Eleven;Bastetani Eleven;Bastetani Eleven;;Bastetani Eleven;;;;;;;;;x
+b_bastetani_eleven_2_adj;Bastetani Elevenian;;Bastetani Elevener;;;;;;;;;;;x
+b_bastetani_eleven_3;Bastetani Eleven;Bastetani Eleven;Bastetani Eleven;;Bastetani Eleven;;;;;;;;;x
+b_bastetani_eleven_3_adj;Bastetani Elevenian;;Bastetani Elevener;;;;;;;;;;;x
+b_bastetani_eleven_4;Bastetani Eleven;Bastetani Eleven;Bastetani Eleven;;Bastetani Eleven;;;;;;;;;x
+b_bastetani_eleven_4_adj;Bastetani Elevenian;;Bastetani Elevener;;;;;;;;;;;x
+b_bastetani_eleven_5;Bastetani Eleven;Bastetani Eleven;Bastetani Eleven;;Bastetani Eleven;;;;;;;;;x
+b_bastetani_eleven_5_adj;Bastetani Elevenian;;Bastetani Elevener;;;;;;;;;;;x
+b_bastetani_eleven_6;Bastetani Eleven;Bastetani Eleven;Bastetani Eleven;;Bastetani Eleven;;;;;;;;;x
+b_bastetani_eleven_6_adj;Bastetani Elevenian;;Bastetani Elevener;;;;;;;;;;;x
+b_bastetani_eleven_7;Bastetani Eleven;Bastetani Eleven;Bastetani Eleven;;Bastetani Eleven;;;;;;;;;x
+b_bastetani_eleven_7_adj;Bastetani Elevenian;;Bastetani Elevener;;;;;;;;;;;x
+b_bastetani_five;Bastetani Five;Bastetani Five;Bastetani Five;;Bastetani Five;;;;;;;;;x
+b_bastetani_five_adj;Bastetani Fivean;;Bastetani Fiver;;;;;;;;;;;x
+b_bastetani_five_2;Bastetani Five;Bastetani Five;Bastetani Five;;Bastetani Five;;;;;;;;;x
+b_bastetani_five_2_adj;Bastetani Fivean;;Bastetani Fiver;;;;;;;;;;;x
+b_bastetani_five_3;Bastetani Five;Bastetani Five;Bastetani Five;;Bastetani Five;;;;;;;;;x
+b_bastetani_five_3_adj;Bastetani Fivean;;Bastetani Fiver;;;;;;;;;;;x
+b_bastetani_five_4;Bastetani Five;Bastetani Five;Bastetani Five;;Bastetani Five;;;;;;;;;x
+b_bastetani_five_4_adj;Bastetani Fivean;;Bastetani Fiver;;;;;;;;;;;x
+b_bastetani_five_5;Bastetani Five;Bastetani Five;Bastetani Five;;Bastetani Five;;;;;;;;;x
+b_bastetani_five_5_adj;Bastetani Fivean;;Bastetani Fiver;;;;;;;;;;;x
+b_bastetani_five_6;Bastetani Five;Bastetani Five;Bastetani Five;;Bastetani Five;;;;;;;;;x
+b_bastetani_five_6_adj;Bastetani Fivean;;Bastetani Fiver;;;;;;;;;;;x
+b_bastetani_five_7;Bastetani Five;Bastetani Five;Bastetani Five;;Bastetani Five;;;;;;;;;x
+b_bastetani_five_7_adj;Bastetani Fivean;;Bastetani Fiver;;;;;;;;;;;x
+b_bastetani_four;Bastetani Four;Bastetani Four;Bastetani Four;;Bastetani Four;;;;;;;;;x
+b_bastetani_four_adj;Bastetani Fourian;;Bastetani Fourer;;;;;;;;;;;x
+b_bastetani_four_2;Bastetani Four;Bastetani Four;Bastetani Four;;Bastetani Four;;;;;;;;;x
+b_bastetani_four_2_adj;Bastetani Fourian;;Bastetani Fourer;;;;;;;;;;;x
+b_bastetani_four_3;Bastetani Four;Bastetani Four;Bastetani Four;;Bastetani Four;;;;;;;;;x
+b_bastetani_four_3_adj;Bastetani Fourian;;Bastetani Fourer;;;;;;;;;;;x
+b_bastetani_four_4;Bastetani Four;Bastetani Four;Bastetani Four;;Bastetani Four;;;;;;;;;x
+b_bastetani_four_4_adj;Bastetani Fourian;;Bastetani Fourer;;;;;;;;;;;x
+b_bastetani_four_5;Bastetani Four;Bastetani Four;Bastetani Four;;Bastetani Four;;;;;;;;;x
+b_bastetani_four_5_adj;Bastetani Fourian;;Bastetani Fourer;;;;;;;;;;;x
+b_bastetani_four_6;Bastetani Four;Bastetani Four;Bastetani Four;;Bastetani Four;;;;;;;;;x
+b_bastetani_four_6_adj;Bastetani Fourian;;Bastetani Fourer;;;;;;;;;;;x
+b_bastetani_four_7;Bastetani Four;Bastetani Four;Bastetani Four;;Bastetani Four;;;;;;;;;x
+b_bastetani_four_7_adj;Bastetani Fourian;;Bastetani Fourer;;;;;;;;;;;x
+b_bastetani_one;Bastetani One;Bastetani One;Bastetani One;;Bastetani One;;;;;;;;;x
+b_bastetani_one_adj;Bastetani Onean;;Bastetani Oner;;;;;;;;;;;x
+b_bastetani_one_2;Bastetani One;Bastetani One;Bastetani One;;Bastetani One;;;;;;;;;x
+b_bastetani_one_2_adj;Bastetani Onean;;Bastetani Oner;;;;;;;;;;;x
+b_bastetani_one_3;Bastetani One;Bastetani One;Bastetani One;;Bastetani One;;;;;;;;;x
+b_bastetani_one_3_adj;Bastetani Onean;;Bastetani Oner;;;;;;;;;;;x
+b_bastetani_one_4;Bastetani One;Bastetani One;Bastetani One;;Bastetani One;;;;;;;;;x
+b_bastetani_one_4_adj;Bastetani Onean;;Bastetani Oner;;;;;;;;;;;x
+b_bastetani_one_5;Bastetani One;Bastetani One;Bastetani One;;Bastetani One;;;;;;;;;x
+b_bastetani_one_5_adj;Bastetani Onean;;Bastetani Oner;;;;;;;;;;;x
+b_bastetani_one_6;Bastetani One;Bastetani One;Bastetani One;;Bastetani One;;;;;;;;;x
+b_bastetani_one_6_adj;Bastetani Onean;;Bastetani Oner;;;;;;;;;;;x
+b_bastetani_one_7;Bastetani One;Bastetani One;Bastetani One;;Bastetani One;;;;;;;;;x
+b_bastetani_one_7_adj;Bastetani Onean;;Bastetani Oner;;;;;;;;;;;x
+b_bastetani_seven;Bastetani Seven;Bastetani Seven;Bastetani Seven;;Bastetani Seven;;;;;;;;;x
+b_bastetani_seven_adj;Bastetani Sevenian;;Bastetani Sevener;;;;;;;;;;;x
+b_bastetani_seven_2;Bastetani Seven;Bastetani Seven;Bastetani Seven;;Bastetani Seven;;;;;;;;;x
+b_bastetani_seven_2_adj;Bastetani Sevenian;;Bastetani Sevener;;;;;;;;;;;x
+b_bastetani_seven_3;Bastetani Seven;Bastetani Seven;Bastetani Seven;;Bastetani Seven;;;;;;;;;x
+b_bastetani_seven_3_adj;Bastetani Sevenian;;Bastetani Sevener;;;;;;;;;;;x
+b_bastetani_seven_4;Bastetani Seven;Bastetani Seven;Bastetani Seven;;Bastetani Seven;;;;;;;;;x
+b_bastetani_seven_4_adj;Bastetani Sevenian;;Bastetani Sevener;;;;;;;;;;;x
+b_bastetani_seven_5;Bastetani Seven;Bastetani Seven;Bastetani Seven;;Bastetani Seven;;;;;;;;;x
+b_bastetani_seven_5_adj;Bastetani Sevenian;;Bastetani Sevener;;;;;;;;;;;x
+b_bastetani_seven_6;Bastetani Seven;Bastetani Seven;Bastetani Seven;;Bastetani Seven;;;;;;;;;x
+b_bastetani_seven_6_adj;Bastetani Sevenian;;Bastetani Sevener;;;;;;;;;;;x
+b_bastetani_seven_7;Bastetani Seven;Bastetani Seven;Bastetani Seven;;Bastetani Seven;;;;;;;;;x
+b_bastetani_seven_7_adj;Bastetani Sevenian;;Bastetani Sevener;;;;;;;;;;;x
+b_bastetani_six;Bastetani Six;Bastetani Six;Bastetani Six;;Bastetani Six;;;;;;;;;x
+b_bastetani_six_adj;Bastetani Sixian;;Bastetani Sixer;;;;;;;;;;;x
+b_bastetani_six_2;Bastetani Six;Bastetani Six;Bastetani Six;;Bastetani Six;;;;;;;;;x
+b_bastetani_six_2_adj;Bastetani Sixian;;Bastetani Sixer;;;;;;;;;;;x
+b_bastetani_six_3;Bastetani Six;Bastetani Six;Bastetani Six;;Bastetani Six;;;;;;;;;x
+b_bastetani_six_3_adj;Bastetani Sixian;;Bastetani Sixer;;;;;;;;;;;x
+b_bastetani_six_4;Bastetani Six;Bastetani Six;Bastetani Six;;Bastetani Six;;;;;;;;;x
+b_bastetani_six_4_adj;Bastetani Sixian;;Bastetani Sixer;;;;;;;;;;;x
+b_bastetani_six_5;Bastetani Six;Bastetani Six;Bastetani Six;;Bastetani Six;;;;;;;;;x
+b_bastetani_six_5_adj;Bastetani Sixian;;Bastetani Sixer;;;;;;;;;;;x
+b_bastetani_six_6;Bastetani Six;Bastetani Six;Bastetani Six;;Bastetani Six;;;;;;;;;x
+b_bastetani_six_6_adj;Bastetani Sixian;;Bastetani Sixer;;;;;;;;;;;x
+b_bastetani_six_7;Bastetani Six;Bastetani Six;Bastetani Six;;Bastetani Six;;;;;;;;;x
+b_bastetani_six_7_adj;Bastetani Sixian;;Bastetani Sixer;;;;;;;;;;;x
+b_bastetani_ten;Bastetani Ten;Bastetani Ten;Bastetani Ten;;Bastetani Ten;;;;;;;;;x
+b_bastetani_ten_adj;Bastetani Tenian;;Bastetani Tener;;;;;;;;;;;x
+b_bastetani_ten_2;Bastetani Ten;Bastetani Ten;Bastetani Ten;;Bastetani Ten;;;;;;;;;x
+b_bastetani_ten_2_adj;Bastetani Tenian;;Bastetani Tener;;;;;;;;;;;x
+b_bastetani_ten_3;Bastetani Ten;Bastetani Ten;Bastetani Ten;;Bastetani Ten;;;;;;;;;x
+b_bastetani_ten_3_adj;Bastetani Tenian;;Bastetani Tener;;;;;;;;;;;x
+b_bastetani_ten_4;Bastetani Ten;Bastetani Ten;Bastetani Ten;;Bastetani Ten;;;;;;;;;x
+b_bastetani_ten_4_adj;Bastetani Tenian;;Bastetani Tener;;;;;;;;;;;x
+b_bastetani_ten_5;Bastetani Ten;Bastetani Ten;Bastetani Ten;;Bastetani Ten;;;;;;;;;x
+b_bastetani_ten_5_adj;Bastetani Tenian;;Bastetani Tener;;;;;;;;;;;x
+b_bastetani_ten_6;Bastetani Ten;Bastetani Ten;Bastetani Ten;;Bastetani Ten;;;;;;;;;x
+b_bastetani_ten_6_adj;Bastetani Tenian;;Bastetani Tener;;;;;;;;;;;x
+b_bastetani_ten_7;Bastetani Ten;Bastetani Ten;Bastetani Ten;;Bastetani Ten;;;;;;;;;x
+b_bastetani_ten_7_adj;Bastetani Tenian;;Bastetani Tener;;;;;;;;;;;x
+b_bastetani_three;Bastetani Three;Bastetani Three;Bastetani Three;;Bastetani Three;;;;;;;;;x
+b_bastetani_three_adj;Bastetani Threean;;Bastetani Threr;;;;;;;;;;;x
+b_bastetani_three_2;Bastetani Three;Bastetani Three;Bastetani Three;;Bastetani Three;;;;;;;;;x
+b_bastetani_three_2_adj;Bastetani Threean;;Bastetani Threr;;;;;;;;;;;x
+b_bastetani_three_3;Bastetani Three;Bastetani Three;Bastetani Three;;Bastetani Three;;;;;;;;;x
+b_bastetani_three_3_adj;Bastetani Threean;;Bastetani Threr;;;;;;;;;;;x
+b_bastetani_three_4;Bastetani Three;Bastetani Three;Bastetani Three;;Bastetani Three;;;;;;;;;x
+b_bastetani_three_4_adj;Bastetani Threean;;Bastetani Threr;;;;;;;;;;;x
+b_bastetani_three_5;Bastetani Three;Bastetani Three;Bastetani Three;;Bastetani Three;;;;;;;;;x
+b_bastetani_three_5_adj;Bastetani Threean;;Bastetani Threr;;;;;;;;;;;x
+b_bastetani_three_6;Bastetani Three;Bastetani Three;Bastetani Three;;Bastetani Three;;;;;;;;;x
+b_bastetani_three_6_adj;Bastetani Threean;;Bastetani Threr;;;;;;;;;;;x
+b_bastetani_three_7;Bastetani Three;Bastetani Three;Bastetani Three;;Bastetani Three;;;;;;;;;x
+b_bastetani_three_7_adj;Bastetani Threean;;Bastetani Threr;;;;;;;;;;;x
+b_bastetani_two;Bastetani Two;Bastetani Two;Bastetani Two;;Bastetani Two;;;;;;;;;x
+b_bastetani_two_adj;Bastetani Twian;;Bastetani Twer;;;;;;;;;;;x
+b_bastetani_two_2;Bastetani Two;Bastetani Two;Bastetani Two;;Bastetani Two;;;;;;;;;x
+b_bastetani_two_2_adj;Bastetani Twian;;Bastetani Twer;;;;;;;;;;;x
+b_bastetani_two_3;Bastetani Two;Bastetani Two;Bastetani Two;;Bastetani Two;;;;;;;;;x
+b_bastetani_two_3_adj;Bastetani Twian;;Bastetani Twer;;;;;;;;;;;x
+b_bastetani_two_4;Bastetani Two;Bastetani Two;Bastetani Two;;Bastetani Two;;;;;;;;;x
+b_bastetani_two_4_adj;Bastetani Twian;;Bastetani Twer;;;;;;;;;;;x
+b_bastetani_two_5;Bastetani Two;Bastetani Two;Bastetani Two;;Bastetani Two;;;;;;;;;x
+b_bastetani_two_5_adj;Bastetani Twian;;Bastetani Twer;;;;;;;;;;;x
+b_bastetani_two_6;Bastetani Two;Bastetani Two;Bastetani Two;;Bastetani Two;;;;;;;;;x
+b_bastetani_two_6_adj;Bastetani Twian;;Bastetani Twer;;;;;;;;;;;x
+b_bastetani_two_7;Bastetani Two;Bastetani Two;Bastetani Two;;Bastetani Two;;;;;;;;;x
+b_bastetani_two_7_adj;Bastetani Twian;;Bastetani Twer;;;;;;;;;;;x
 b_becciacum;Becciacum;Becciacum;Becciacum;;Becciacum;;;;;;;;;x
 b_becciacum_adj;Becciacumian;;becciacumer;;;;;;;;;;;x
 b_becciacum_2;Becciacum;Becciacum;Becciacum;;Becciacum;;;;;;;;;x
@@ -2811,6 +2999,100 @@ b_contestani;Contestani;Contestani;Contestani;;Contestani;;;;;;;;;x
 b_contestani_adj;Contestanian;;contestaner;;;;;;;;;;;x
 b_contestani_2;Contestani;Contestani;Contestani;;Contestani;;;;;;;;;x
 b_contestani_2_adj;Contestanian;;contestaner;;;;;;;;;;;x
+b_contestani_3;Contestani;Contestani;Contestani;;Contestani;;;;;;;;;x
+b_contestani_3_adj;Contestanian;;contestaner;;;;;;;;;;;x
+b_contestani_4;Contestani;Contestani;Contestani;;Contestani;;;;;;;;;x
+b_contestani_4_adj;Contestanian;;contestaner;;;;;;;;;;;x
+b_contestani_5;Contestani;Contestani;Contestani;;Contestani;;;;;;;;;x
+b_contestani_5_adj;Contestanian;;contestaner;;;;;;;;;;;x
+b_contestani_6;Contestani;Contestani;Contestani;;Contestani;;;;;;;;;x
+b_contestani_6_adj;Contestanian;;contestaner;;;;;;;;;;;x
+b_contestani_7;Contestani;Contestani;Contestani;;Contestani;;;;;;;;;x
+b_contestani_7_adj;Contestanian;;contestaner;;;;;;;;;;;x
+b_contestani_five;Contestani Five;Contestani Five;Contestani Five;;Contestani Five;;;;;;;;;x
+b_contestani_five_adj;Contestani Fivean;;Contestani Fiver;;;;;;;;;;;x
+b_contestani_five_2;Contestani Five;Contestani Five;Contestani Five;;Contestani Five;;;;;;;;;x
+b_contestani_five_2_adj;Contestani Fivean;;Contestani Fiver;;;;;;;;;;;x
+b_contestani_five_3;Contestani Five;Contestani Five;Contestani Five;;Contestani Five;;;;;;;;;x
+b_contestani_five_3_adj;Contestani Fivean;;Contestani Fiver;;;;;;;;;;;x
+b_contestani_five_4;Contestani Five;Contestani Five;Contestani Five;;Contestani Five;;;;;;;;;x
+b_contestani_five_4_adj;Contestani Fivean;;Contestani Fiver;;;;;;;;;;;x
+b_contestani_five_5;Contestani Five;Contestani Five;Contestani Five;;Contestani Five;;;;;;;;;x
+b_contestani_five_5_adj;Contestani Fivean;;Contestani Fiver;;;;;;;;;;;x
+b_contestani_five_6;Contestani Five;Contestani Five;Contestani Five;;Contestani Five;;;;;;;;;x
+b_contestani_five_6_adj;Contestani Fivean;;Contestani Fiver;;;;;;;;;;;x
+b_contestani_five_7;Contestani Five;Contestani Five;Contestani Five;;Contestani Five;;;;;;;;;x
+b_contestani_five_7_adj;Contestani Fivean;;Contestani Fiver;;;;;;;;;;;x
+b_contestani_four;Contestani Four;Contestani Four;Contestani Four;;Contestani Four;;;;;;;;;x
+b_contestani_four_adj;Contestani Fourian;;Contestani Fourer;;;;;;;;;;;x
+b_contestani_four_2;Contestani Four;Contestani Four;Contestani Four;;Contestani Four;;;;;;;;;x
+b_contestani_four_2_adj;Contestani Fourian;;Contestani Fourer;;;;;;;;;;;x
+b_contestani_four_3;Contestani Four;Contestani Four;Contestani Four;;Contestani Four;;;;;;;;;x
+b_contestani_four_3_adj;Contestani Fourian;;Contestani Fourer;;;;;;;;;;;x
+b_contestani_four_4;Contestani Four;Contestani Four;Contestani Four;;Contestani Four;;;;;;;;;x
+b_contestani_four_4_adj;Contestani Fourian;;Contestani Fourer;;;;;;;;;;;x
+b_contestani_four_5;Contestani Four;Contestani Four;Contestani Four;;Contestani Four;;;;;;;;;x
+b_contestani_four_5_adj;Contestani Fourian;;Contestani Fourer;;;;;;;;;;;x
+b_contestani_four_6;Contestani Four;Contestani Four;Contestani Four;;Contestani Four;;;;;;;;;x
+b_contestani_four_6_adj;Contestani Fourian;;Contestani Fourer;;;;;;;;;;;x
+b_contestani_four_7;Contestani Four;Contestani Four;Contestani Four;;Contestani Four;;;;;;;;;x
+b_contestani_four_7_adj;Contestani Fourian;;Contestani Fourer;;;;;;;;;;;x
+b_contestani_one;Contestani One;Contestani One;Contestani One;;Contestani One;;;;;;;;;x
+b_contestani_one_adj;Contestani Onean;;Contestani Oner;;;;;;;;;;;x
+b_contestani_one_2;Contestani One;Contestani One;Contestani One;;Contestani One;;;;;;;;;x
+b_contestani_one_2_adj;Contestani Onean;;Contestani Oner;;;;;;;;;;;x
+b_contestani_one_3;Contestani One;Contestani One;Contestani One;;Contestani One;;;;;;;;;x
+b_contestani_one_3_adj;Contestani Onean;;Contestani Oner;;;;;;;;;;;x
+b_contestani_one_4;Contestani One;Contestani One;Contestani One;;Contestani One;;;;;;;;;x
+b_contestani_one_4_adj;Contestani Onean;;Contestani Oner;;;;;;;;;;;x
+b_contestani_one_5;Contestani One;Contestani One;Contestani One;;Contestani One;;;;;;;;;x
+b_contestani_one_5_adj;Contestani Onean;;Contestani Oner;;;;;;;;;;;x
+b_contestani_one_6;Contestani One;Contestani One;Contestani One;;Contestani One;;;;;;;;;x
+b_contestani_one_6_adj;Contestani Onean;;Contestani Oner;;;;;;;;;;;x
+b_contestani_one_7;Contestani One;Contestani One;Contestani One;;Contestani One;;;;;;;;;x
+b_contestani_one_7_adj;Contestani Onean;;Contestani Oner;;;;;;;;;;;x
+b_contestani_six;Contestani Six;Contestani Six;Contestani Six;;Contestani Six;;;;;;;;;x
+b_contestani_six_adj;Contestani Sixian;;Contestani Sixer;;;;;;;;;;;x
+b_contestani_six_2;Contestani Six;Contestani Six;Contestani Six;;Contestani Six;;;;;;;;;x
+b_contestani_six_2_adj;Contestani Sixian;;Contestani Sixer;;;;;;;;;;;x
+b_contestani_six_3;Contestani Six;Contestani Six;Contestani Six;;Contestani Six;;;;;;;;;x
+b_contestani_six_3_adj;Contestani Sixian;;Contestani Sixer;;;;;;;;;;;x
+b_contestani_six_4;Contestani Six;Contestani Six;Contestani Six;;Contestani Six;;;;;;;;;x
+b_contestani_six_4_adj;Contestani Sixian;;Contestani Sixer;;;;;;;;;;;x
+b_contestani_six_5;Contestani Six;Contestani Six;Contestani Six;;Contestani Six;;;;;;;;;x
+b_contestani_six_5_adj;Contestani Sixian;;Contestani Sixer;;;;;;;;;;;x
+b_contestani_six_6;Contestani Six;Contestani Six;Contestani Six;;Contestani Six;;;;;;;;;x
+b_contestani_six_6_adj;Contestani Sixian;;Contestani Sixer;;;;;;;;;;;x
+b_contestani_six_7;Contestani Six;Contestani Six;Contestani Six;;Contestani Six;;;;;;;;;x
+b_contestani_six_7_adj;Contestani Sixian;;Contestani Sixer;;;;;;;;;;;x
+b_contestani_three;Contestani Three;Contestani Three;Contestani Three;;Contestani Three;;;;;;;;;x
+b_contestani_three_adj;Contestani Threean;;Contestani Threr;;;;;;;;;;;x
+b_contestani_three_2;Contestani Three;Contestani Three;Contestani Three;;Contestani Three;;;;;;;;;x
+b_contestani_three_2_adj;Contestani Threean;;Contestani Threr;;;;;;;;;;;x
+b_contestani_three_3;Contestani Three;Contestani Three;Contestani Three;;Contestani Three;;;;;;;;;x
+b_contestani_three_3_adj;Contestani Threean;;Contestani Threr;;;;;;;;;;;x
+b_contestani_three_4;Contestani Three;Contestani Three;Contestani Three;;Contestani Three;;;;;;;;;x
+b_contestani_three_4_adj;Contestani Threean;;Contestani Threr;;;;;;;;;;;x
+b_contestani_three_5;Contestani Three;Contestani Three;Contestani Three;;Contestani Three;;;;;;;;;x
+b_contestani_three_5_adj;Contestani Threean;;Contestani Threr;;;;;;;;;;;x
+b_contestani_three_6;Contestani Three;Contestani Three;Contestani Three;;Contestani Three;;;;;;;;;x
+b_contestani_three_6_adj;Contestani Threean;;Contestani Threr;;;;;;;;;;;x
+b_contestani_three_7;Contestani Three;Contestani Three;Contestani Three;;Contestani Three;;;;;;;;;x
+b_contestani_three_7_adj;Contestani Threean;;Contestani Threr;;;;;;;;;;;x
+b_contestani_two;Contestani Two;Contestani Two;Contestani Two;;Contestani Two;;;;;;;;;x
+b_contestani_two_adj;Contestani Twian;;Contestani Twer;;;;;;;;;;;x
+b_contestani_two_2;Contestani Two;Contestani Two;Contestani Two;;Contestani Two;;;;;;;;;x
+b_contestani_two_2_adj;Contestani Twian;;Contestani Twer;;;;;;;;;;;x
+b_contestani_two_3;Contestani Two;Contestani Two;Contestani Two;;Contestani Two;;;;;;;;;x
+b_contestani_two_3_adj;Contestani Twian;;Contestani Twer;;;;;;;;;;;x
+b_contestani_two_4;Contestani Two;Contestani Two;Contestani Two;;Contestani Two;;;;;;;;;x
+b_contestani_two_4_adj;Contestani Twian;;Contestani Twer;;;;;;;;;;;x
+b_contestani_two_5;Contestani Two;Contestani Two;Contestani Two;;Contestani Two;;;;;;;;;x
+b_contestani_two_5_adj;Contestani Twian;;Contestani Twer;;;;;;;;;;;x
+b_contestani_two_6;Contestani Two;Contestani Two;Contestani Two;;Contestani Two;;;;;;;;;x
+b_contestani_two_6_adj;Contestani Twian;;Contestani Twer;;;;;;;;;;;x
+b_contestani_two_7;Contestani Two;Contestani Two;Contestani Two;;Contestani Two;;;;;;;;;x
+b_contestani_two_7_adj;Contestani Twian;;Contestani Twer;;;;;;;;;;;x
 b_corterate;Corterate;Corterate;Corterate;;Corterate;;;;;;;;;x
 b_corterate_adj;Corteratean;;corterater;;;;;;;;;;;x
 b_corterate_2;Corterate;Corterate;Corterate;;Corterate;;;;;;;;;x
@@ -3315,6 +3597,76 @@ b_east_oretani_6;East Oretani;East Oretani;East Oretani;;East Oretani;;;;;;;;;x
 b_east_oretani_6_adj;East Oretanian;;East Oretaner;;;;;;;;;;;x
 b_east_oretani_7;East Oretani;East Oretani;East Oretani;;East Oretani;;;;;;;;;x
 b_east_oretani_7_adj;East Oretanian;;East Oretaner;;;;;;;;;;;x
+b_east_oretani_eight;East Oretani Eight;East Oretani Eight;East Oretani Eight;;East Oretani Eight;;;;;;;;;x
+b_east_oretani_eight_adj;East Oretani Eightian;;East Oretani Eighter;;;;;;;;;;;x
+b_east_oretani_eight_2;East Oretani Eight;East Oretani Eight;East Oretani Eight;;East Oretani Eight;;;;;;;;;x
+b_east_oretani_eight_2_adj;East Oretani Eightian;;East Oretani Eighter;;;;;;;;;;;x
+b_east_oretani_eight_3;East Oretani Eight;East Oretani Eight;East Oretani Eight;;East Oretani Eight;;;;;;;;;x
+b_east_oretani_eight_3_adj;East Oretani Eightian;;East Oretani Eighter;;;;;;;;;;;x
+b_east_oretani_eight_4;East Oretani Eight;East Oretani Eight;East Oretani Eight;;East Oretani Eight;;;;;;;;;x
+b_east_oretani_eight_4_adj;East Oretani Eightian;;East Oretani Eighter;;;;;;;;;;;x
+b_east_oretani_eight_5;East Oretani Eight;East Oretani Eight;East Oretani Eight;;East Oretani Eight;;;;;;;;;x
+b_east_oretani_eight_5_adj;East Oretani Eightian;;East Oretani Eighter;;;;;;;;;;;x
+b_east_oretani_eight_6;East Oretani Eight;East Oretani Eight;East Oretani Eight;;East Oretani Eight;;;;;;;;;x
+b_east_oretani_eight_6_adj;East Oretani Eightian;;East Oretani Eighter;;;;;;;;;;;x
+b_east_oretani_eight_7;East Oretani Eight;East Oretani Eight;East Oretani Eight;;East Oretani Eight;;;;;;;;;x
+b_east_oretani_eight_7_adj;East Oretani Eightian;;East Oretani Eighter;;;;;;;;;;;x
+b_east_oretani_eleven;East Oretani Eleven;East Oretani Eleven;East Oretani Eleven;;East Oretani Eleven;;;;;;;;;x
+b_east_oretani_eleven_adj;East Oretani Elevenian;;East Oretani Elevener;;;;;;;;;;;x
+b_east_oretani_eleven_2;East Oretani Eleven;East Oretani Eleven;East Oretani Eleven;;East Oretani Eleven;;;;;;;;;x
+b_east_oretani_eleven_2_adj;East Oretani Elevenian;;East Oretani Elevener;;;;;;;;;;;x
+b_east_oretani_eleven_3;East Oretani Eleven;East Oretani Eleven;East Oretani Eleven;;East Oretani Eleven;;;;;;;;;x
+b_east_oretani_eleven_3_adj;East Oretani Elevenian;;East Oretani Elevener;;;;;;;;;;;x
+b_east_oretani_eleven_4;East Oretani Eleven;East Oretani Eleven;East Oretani Eleven;;East Oretani Eleven;;;;;;;;;x
+b_east_oretani_eleven_4_adj;East Oretani Elevenian;;East Oretani Elevener;;;;;;;;;;;x
+b_east_oretani_eleven_5;East Oretani Eleven;East Oretani Eleven;East Oretani Eleven;;East Oretani Eleven;;;;;;;;;x
+b_east_oretani_eleven_5_adj;East Oretani Elevenian;;East Oretani Elevener;;;;;;;;;;;x
+b_east_oretani_eleven_6;East Oretani Eleven;East Oretani Eleven;East Oretani Eleven;;East Oretani Eleven;;;;;;;;;x
+b_east_oretani_eleven_6_adj;East Oretani Elevenian;;East Oretani Elevener;;;;;;;;;;;x
+b_east_oretani_eleven_7;East Oretani Eleven;East Oretani Eleven;East Oretani Eleven;;East Oretani Eleven;;;;;;;;;x
+b_east_oretani_eleven_7_adj;East Oretani Elevenian;;East Oretani Elevener;;;;;;;;;;;x
+b_east_oretani_five;East Oretani Five;East Oretani Five;East Oretani Five;;East Oretani Five;;;;;;;;;x
+b_east_oretani_five_adj;East Oretani Fivean;;East Oretani Fiver;;;;;;;;;;;x
+b_east_oretani_five_2;East Oretani Five;East Oretani Five;East Oretani Five;;East Oretani Five;;;;;;;;;x
+b_east_oretani_five_2_adj;East Oretani Fivean;;East Oretani Fiver;;;;;;;;;;;x
+b_east_oretani_five_3;East Oretani Five;East Oretani Five;East Oretani Five;;East Oretani Five;;;;;;;;;x
+b_east_oretani_five_3_adj;East Oretani Fivean;;East Oretani Fiver;;;;;;;;;;;x
+b_east_oretani_five_4;East Oretani Five;East Oretani Five;East Oretani Five;;East Oretani Five;;;;;;;;;x
+b_east_oretani_five_4_adj;East Oretani Fivean;;East Oretani Fiver;;;;;;;;;;;x
+b_east_oretani_five_5;East Oretani Five;East Oretani Five;East Oretani Five;;East Oretani Five;;;;;;;;;x
+b_east_oretani_five_5_adj;East Oretani Fivean;;East Oretani Fiver;;;;;;;;;;;x
+b_east_oretani_five_6;East Oretani Five;East Oretani Five;East Oretani Five;;East Oretani Five;;;;;;;;;x
+b_east_oretani_five_6_adj;East Oretani Fivean;;East Oretani Fiver;;;;;;;;;;;x
+b_east_oretani_five_7;East Oretani Five;East Oretani Five;East Oretani Five;;East Oretani Five;;;;;;;;;x
+b_east_oretani_five_7_adj;East Oretani Fivean;;East Oretani Fiver;;;;;;;;;;;x
+b_east_oretani_four;East Oretani Four;East Oretani Four;East Oretani Four;;East Oretani Four;;;;;;;;;x
+b_east_oretani_four_adj;East Oretani Fourian;;East Oretani Fourer;;;;;;;;;;;x
+b_east_oretani_four_2;East Oretani Four;East Oretani Four;East Oretani Four;;East Oretani Four;;;;;;;;;x
+b_east_oretani_four_2_adj;East Oretani Fourian;;East Oretani Fourer;;;;;;;;;;;x
+b_east_oretani_four_3;East Oretani Four;East Oretani Four;East Oretani Four;;East Oretani Four;;;;;;;;;x
+b_east_oretani_four_3_adj;East Oretani Fourian;;East Oretani Fourer;;;;;;;;;;;x
+b_east_oretani_four_4;East Oretani Four;East Oretani Four;East Oretani Four;;East Oretani Four;;;;;;;;;x
+b_east_oretani_four_4_adj;East Oretani Fourian;;East Oretani Fourer;;;;;;;;;;;x
+b_east_oretani_four_5;East Oretani Four;East Oretani Four;East Oretani Four;;East Oretani Four;;;;;;;;;x
+b_east_oretani_four_5_adj;East Oretani Fourian;;East Oretani Fourer;;;;;;;;;;;x
+b_east_oretani_four_6;East Oretani Four;East Oretani Four;East Oretani Four;;East Oretani Four;;;;;;;;;x
+b_east_oretani_four_6_adj;East Oretani Fourian;;East Oretani Fourer;;;;;;;;;;;x
+b_east_oretani_four_7;East Oretani Four;East Oretani Four;East Oretani Four;;East Oretani Four;;;;;;;;;x
+b_east_oretani_four_7_adj;East Oretani Fourian;;East Oretani Fourer;;;;;;;;;;;x
+b_east_oretani_nine;East Oretani Nine;East Oretani Nine;East Oretani Nine;;East Oretani Nine;;;;;;;;;x
+b_east_oretani_nine_adj;East Oretani Ninean;;East Oretani Niner;;;;;;;;;;;x
+b_east_oretani_nine_2;East Oretani Nine;East Oretani Nine;East Oretani Nine;;East Oretani Nine;;;;;;;;;x
+b_east_oretani_nine_2_adj;East Oretani Ninean;;East Oretani Niner;;;;;;;;;;;x
+b_east_oretani_nine_3;East Oretani Nine;East Oretani Nine;East Oretani Nine;;East Oretani Nine;;;;;;;;;x
+b_east_oretani_nine_3_adj;East Oretani Ninean;;East Oretani Niner;;;;;;;;;;;x
+b_east_oretani_nine_4;East Oretani Nine;East Oretani Nine;East Oretani Nine;;East Oretani Nine;;;;;;;;;x
+b_east_oretani_nine_4_adj;East Oretani Ninean;;East Oretani Niner;;;;;;;;;;;x
+b_east_oretani_nine_5;East Oretani Nine;East Oretani Nine;East Oretani Nine;;East Oretani Nine;;;;;;;;;x
+b_east_oretani_nine_5_adj;East Oretani Ninean;;East Oretani Niner;;;;;;;;;;;x
+b_east_oretani_nine_6;East Oretani Nine;East Oretani Nine;East Oretani Nine;;East Oretani Nine;;;;;;;;;x
+b_east_oretani_nine_6_adj;East Oretani Ninean;;East Oretani Niner;;;;;;;;;;;x
+b_east_oretani_nine_7;East Oretani Nine;East Oretani Nine;East Oretani Nine;;East Oretani Nine;;;;;;;;;x
+b_east_oretani_nine_7_adj;East Oretani Ninean;;East Oretani Niner;;;;;;;;;;;x
 b_east_oretani_one;East Oretani One;East Oretani One;East Oretani One;;East Oretani One;;;;;;;;;x
 b_east_oretani_one_adj;East Oretani Onean;;East Oretani Oner;;;;;;;;;;;x
 b_east_oretani_one_2;East Oretani One;East Oretani One;East Oretani One;;East Oretani One;;;;;;;;;x
@@ -3329,6 +3681,62 @@ b_east_oretani_one_6;East Oretani One;East Oretani One;East Oretani One;;East Or
 b_east_oretani_one_6_adj;East Oretani Onean;;East Oretani Oner;;;;;;;;;;;x
 b_east_oretani_one_7;East Oretani One;East Oretani One;East Oretani One;;East Oretani One;;;;;;;;;x
 b_east_oretani_one_7_adj;East Oretani Onean;;East Oretani Oner;;;;;;;;;;;x
+b_east_oretani_seven;East Oretani Seven;East Oretani Seven;East Oretani Seven;;East Oretani Seven;;;;;;;;;x
+b_east_oretani_seven_adj;East Oretani Sevenian;;East Oretani Sevener;;;;;;;;;;;x
+b_east_oretani_seven_2;East Oretani Seven;East Oretani Seven;East Oretani Seven;;East Oretani Seven;;;;;;;;;x
+b_east_oretani_seven_2_adj;East Oretani Sevenian;;East Oretani Sevener;;;;;;;;;;;x
+b_east_oretani_seven_3;East Oretani Seven;East Oretani Seven;East Oretani Seven;;East Oretani Seven;;;;;;;;;x
+b_east_oretani_seven_3_adj;East Oretani Sevenian;;East Oretani Sevener;;;;;;;;;;;x
+b_east_oretani_seven_4;East Oretani Seven;East Oretani Seven;East Oretani Seven;;East Oretani Seven;;;;;;;;;x
+b_east_oretani_seven_4_adj;East Oretani Sevenian;;East Oretani Sevener;;;;;;;;;;;x
+b_east_oretani_seven_5;East Oretani Seven;East Oretani Seven;East Oretani Seven;;East Oretani Seven;;;;;;;;;x
+b_east_oretani_seven_5_adj;East Oretani Sevenian;;East Oretani Sevener;;;;;;;;;;;x
+b_east_oretani_seven_6;East Oretani Seven;East Oretani Seven;East Oretani Seven;;East Oretani Seven;;;;;;;;;x
+b_east_oretani_seven_6_adj;East Oretani Sevenian;;East Oretani Sevener;;;;;;;;;;;x
+b_east_oretani_seven_7;East Oretani Seven;East Oretani Seven;East Oretani Seven;;East Oretani Seven;;;;;;;;;x
+b_east_oretani_seven_7_adj;East Oretani Sevenian;;East Oretani Sevener;;;;;;;;;;;x
+b_east_oretani_six;East Oretani Six;East Oretani Six;East Oretani Six;;East Oretani Six;;;;;;;;;x
+b_east_oretani_six_adj;East Oretani Sixian;;East Oretani Sixer;;;;;;;;;;;x
+b_east_oretani_six_2;East Oretani Six;East Oretani Six;East Oretani Six;;East Oretani Six;;;;;;;;;x
+b_east_oretani_six_2_adj;East Oretani Sixian;;East Oretani Sixer;;;;;;;;;;;x
+b_east_oretani_six_3;East Oretani Six;East Oretani Six;East Oretani Six;;East Oretani Six;;;;;;;;;x
+b_east_oretani_six_3_adj;East Oretani Sixian;;East Oretani Sixer;;;;;;;;;;;x
+b_east_oretani_six_4;East Oretani Six;East Oretani Six;East Oretani Six;;East Oretani Six;;;;;;;;;x
+b_east_oretani_six_4_adj;East Oretani Sixian;;East Oretani Sixer;;;;;;;;;;;x
+b_east_oretani_six_5;East Oretani Six;East Oretani Six;East Oretani Six;;East Oretani Six;;;;;;;;;x
+b_east_oretani_six_5_adj;East Oretani Sixian;;East Oretani Sixer;;;;;;;;;;;x
+b_east_oretani_six_6;East Oretani Six;East Oretani Six;East Oretani Six;;East Oretani Six;;;;;;;;;x
+b_east_oretani_six_6_adj;East Oretani Sixian;;East Oretani Sixer;;;;;;;;;;;x
+b_east_oretani_six_7;East Oretani Six;East Oretani Six;East Oretani Six;;East Oretani Six;;;;;;;;;x
+b_east_oretani_six_7_adj;East Oretani Sixian;;East Oretani Sixer;;;;;;;;;;;x
+b_east_oretani_ten;East Oretani Ten;East Oretani Ten;East Oretani Ten;;East Oretani Ten;;;;;;;;;x
+b_east_oretani_ten_adj;East Oretani Tenian;;East Oretani Tener;;;;;;;;;;;x
+b_east_oretani_ten_2;East Oretani Ten;East Oretani Ten;East Oretani Ten;;East Oretani Ten;;;;;;;;;x
+b_east_oretani_ten_2_adj;East Oretani Tenian;;East Oretani Tener;;;;;;;;;;;x
+b_east_oretani_ten_3;East Oretani Ten;East Oretani Ten;East Oretani Ten;;East Oretani Ten;;;;;;;;;x
+b_east_oretani_ten_3_adj;East Oretani Tenian;;East Oretani Tener;;;;;;;;;;;x
+b_east_oretani_ten_4;East Oretani Ten;East Oretani Ten;East Oretani Ten;;East Oretani Ten;;;;;;;;;x
+b_east_oretani_ten_4_adj;East Oretani Tenian;;East Oretani Tener;;;;;;;;;;;x
+b_east_oretani_ten_5;East Oretani Ten;East Oretani Ten;East Oretani Ten;;East Oretani Ten;;;;;;;;;x
+b_east_oretani_ten_5_adj;East Oretani Tenian;;East Oretani Tener;;;;;;;;;;;x
+b_east_oretani_ten_6;East Oretani Ten;East Oretani Ten;East Oretani Ten;;East Oretani Ten;;;;;;;;;x
+b_east_oretani_ten_6_adj;East Oretani Tenian;;East Oretani Tener;;;;;;;;;;;x
+b_east_oretani_ten_7;East Oretani Ten;East Oretani Ten;East Oretani Ten;;East Oretani Ten;;;;;;;;;x
+b_east_oretani_ten_7_adj;East Oretani Tenian;;East Oretani Tener;;;;;;;;;;;x
+b_east_oretani_three;East Oretani Three;East Oretani Three;East Oretani Three;;East Oretani Three;;;;;;;;;x
+b_east_oretani_three_adj;East Oretani Threean;;East Oretani Threr;;;;;;;;;;;x
+b_east_oretani_three_2;East Oretani Three;East Oretani Three;East Oretani Three;;East Oretani Three;;;;;;;;;x
+b_east_oretani_three_2_adj;East Oretani Threean;;East Oretani Threr;;;;;;;;;;;x
+b_east_oretani_three_3;East Oretani Three;East Oretani Three;East Oretani Three;;East Oretani Three;;;;;;;;;x
+b_east_oretani_three_3_adj;East Oretani Threean;;East Oretani Threr;;;;;;;;;;;x
+b_east_oretani_three_4;East Oretani Three;East Oretani Three;East Oretani Three;;East Oretani Three;;;;;;;;;x
+b_east_oretani_three_4_adj;East Oretani Threean;;East Oretani Threr;;;;;;;;;;;x
+b_east_oretani_three_5;East Oretani Three;East Oretani Three;East Oretani Three;;East Oretani Three;;;;;;;;;x
+b_east_oretani_three_5_adj;East Oretani Threean;;East Oretani Threr;;;;;;;;;;;x
+b_east_oretani_three_6;East Oretani Three;East Oretani Three;East Oretani Three;;East Oretani Three;;;;;;;;;x
+b_east_oretani_three_6_adj;East Oretani Threean;;East Oretani Threr;;;;;;;;;;;x
+b_east_oretani_three_7;East Oretani Three;East Oretani Three;East Oretani Three;;East Oretani Three;;;;;;;;;x
+b_east_oretani_three_7_adj;East Oretani Threean;;East Oretani Threr;;;;;;;;;;;x
 b_east_oretani_two;East Oretani Two;East Oretani Two;East Oretani Two;;East Oretani Two;;;;;;;;;x
 b_east_oretani_two_adj;East Oretani Twian;;East Oretani Twer;;;;;;;;;;;x
 b_east_oretani_two_2;East Oretani Two;East Oretani Two;East Oretani Two;;East Oretani Two;;;;;;;;;x
@@ -4879,6 +5287,100 @@ b_lobetani;Lobetani;Lobetani;Lobetani;;Lobetani;;;;;;;;;x
 b_lobetani_adj;Lobetanian;;lobetaner;;;;;;;;;;;x
 b_lobetani_2;Lobetani;Lobetani;Lobetani;;Lobetani;;;;;;;;;x
 b_lobetani_2_adj;Lobetanian;;lobetaner;;;;;;;;;;;x
+b_lobetani_3;Lobetani;Lobetani;Lobetani;;Lobetani;;;;;;;;;x
+b_lobetani_3_adj;Lobetanian;;lobetaner;;;;;;;;;;;x
+b_lobetani_4;Lobetani;Lobetani;Lobetani;;Lobetani;;;;;;;;;x
+b_lobetani_4_adj;Lobetanian;;lobetaner;;;;;;;;;;;x
+b_lobetani_5;Lobetani;Lobetani;Lobetani;;Lobetani;;;;;;;;;x
+b_lobetani_5_adj;Lobetanian;;lobetaner;;;;;;;;;;;x
+b_lobetani_6;Lobetani;Lobetani;Lobetani;;Lobetani;;;;;;;;;x
+b_lobetani_6_adj;Lobetanian;;lobetaner;;;;;;;;;;;x
+b_lobetani_7;Lobetani;Lobetani;Lobetani;;Lobetani;;;;;;;;;x
+b_lobetani_7_adj;Lobetanian;;lobetaner;;;;;;;;;;;x
+b_lobetani_five;Lobetani Five;Lobetani Five;Lobetani Five;;Lobetani Five;;;;;;;;;x
+b_lobetani_five_adj;Lobetani Fivean;;Lobetani Fiver;;;;;;;;;;;x
+b_lobetani_five_2;Lobetani Five;Lobetani Five;Lobetani Five;;Lobetani Five;;;;;;;;;x
+b_lobetani_five_2_adj;Lobetani Fivean;;Lobetani Fiver;;;;;;;;;;;x
+b_lobetani_five_3;Lobetani Five;Lobetani Five;Lobetani Five;;Lobetani Five;;;;;;;;;x
+b_lobetani_five_3_adj;Lobetani Fivean;;Lobetani Fiver;;;;;;;;;;;x
+b_lobetani_five_4;Lobetani Five;Lobetani Five;Lobetani Five;;Lobetani Five;;;;;;;;;x
+b_lobetani_five_4_adj;Lobetani Fivean;;Lobetani Fiver;;;;;;;;;;;x
+b_lobetani_five_5;Lobetani Five;Lobetani Five;Lobetani Five;;Lobetani Five;;;;;;;;;x
+b_lobetani_five_5_adj;Lobetani Fivean;;Lobetani Fiver;;;;;;;;;;;x
+b_lobetani_five_6;Lobetani Five;Lobetani Five;Lobetani Five;;Lobetani Five;;;;;;;;;x
+b_lobetani_five_6_adj;Lobetani Fivean;;Lobetani Fiver;;;;;;;;;;;x
+b_lobetani_five_7;Lobetani Five;Lobetani Five;Lobetani Five;;Lobetani Five;;;;;;;;;x
+b_lobetani_five_7_adj;Lobetani Fivean;;Lobetani Fiver;;;;;;;;;;;x
+b_lobetani_four;Lobetani Four;Lobetani Four;Lobetani Four;;Lobetani Four;;;;;;;;;x
+b_lobetani_four_adj;Lobetani Fourian;;Lobetani Fourer;;;;;;;;;;;x
+b_lobetani_four_2;Lobetani Four;Lobetani Four;Lobetani Four;;Lobetani Four;;;;;;;;;x
+b_lobetani_four_2_adj;Lobetani Fourian;;Lobetani Fourer;;;;;;;;;;;x
+b_lobetani_four_3;Lobetani Four;Lobetani Four;Lobetani Four;;Lobetani Four;;;;;;;;;x
+b_lobetani_four_3_adj;Lobetani Fourian;;Lobetani Fourer;;;;;;;;;;;x
+b_lobetani_four_4;Lobetani Four;Lobetani Four;Lobetani Four;;Lobetani Four;;;;;;;;;x
+b_lobetani_four_4_adj;Lobetani Fourian;;Lobetani Fourer;;;;;;;;;;;x
+b_lobetani_four_5;Lobetani Four;Lobetani Four;Lobetani Four;;Lobetani Four;;;;;;;;;x
+b_lobetani_four_5_adj;Lobetani Fourian;;Lobetani Fourer;;;;;;;;;;;x
+b_lobetani_four_6;Lobetani Four;Lobetani Four;Lobetani Four;;Lobetani Four;;;;;;;;;x
+b_lobetani_four_6_adj;Lobetani Fourian;;Lobetani Fourer;;;;;;;;;;;x
+b_lobetani_four_7;Lobetani Four;Lobetani Four;Lobetani Four;;Lobetani Four;;;;;;;;;x
+b_lobetani_four_7_adj;Lobetani Fourian;;Lobetani Fourer;;;;;;;;;;;x
+b_lobetani_one;Lobetani One;Lobetani One;Lobetani One;;Lobetani One;;;;;;;;;x
+b_lobetani_one_adj;Lobetani Onean;;Lobetani Oner;;;;;;;;;;;x
+b_lobetani_one_2;Lobetani One;Lobetani One;Lobetani One;;Lobetani One;;;;;;;;;x
+b_lobetani_one_2_adj;Lobetani Onean;;Lobetani Oner;;;;;;;;;;;x
+b_lobetani_one_3;Lobetani One;Lobetani One;Lobetani One;;Lobetani One;;;;;;;;;x
+b_lobetani_one_3_adj;Lobetani Onean;;Lobetani Oner;;;;;;;;;;;x
+b_lobetani_one_4;Lobetani One;Lobetani One;Lobetani One;;Lobetani One;;;;;;;;;x
+b_lobetani_one_4_adj;Lobetani Onean;;Lobetani Oner;;;;;;;;;;;x
+b_lobetani_one_5;Lobetani One;Lobetani One;Lobetani One;;Lobetani One;;;;;;;;;x
+b_lobetani_one_5_adj;Lobetani Onean;;Lobetani Oner;;;;;;;;;;;x
+b_lobetani_one_6;Lobetani One;Lobetani One;Lobetani One;;Lobetani One;;;;;;;;;x
+b_lobetani_one_6_adj;Lobetani Onean;;Lobetani Oner;;;;;;;;;;;x
+b_lobetani_one_7;Lobetani One;Lobetani One;Lobetani One;;Lobetani One;;;;;;;;;x
+b_lobetani_one_7_adj;Lobetani Onean;;Lobetani Oner;;;;;;;;;;;x
+b_lobetani_six;Lobetani Six;Lobetani Six;Lobetani Six;;Lobetani Six;;;;;;;;;x
+b_lobetani_six_adj;Lobetani Sixian;;Lobetani Sixer;;;;;;;;;;;x
+b_lobetani_six_2;Lobetani Six;Lobetani Six;Lobetani Six;;Lobetani Six;;;;;;;;;x
+b_lobetani_six_2_adj;Lobetani Sixian;;Lobetani Sixer;;;;;;;;;;;x
+b_lobetani_six_3;Lobetani Six;Lobetani Six;Lobetani Six;;Lobetani Six;;;;;;;;;x
+b_lobetani_six_3_adj;Lobetani Sixian;;Lobetani Sixer;;;;;;;;;;;x
+b_lobetani_six_4;Lobetani Six;Lobetani Six;Lobetani Six;;Lobetani Six;;;;;;;;;x
+b_lobetani_six_4_adj;Lobetani Sixian;;Lobetani Sixer;;;;;;;;;;;x
+b_lobetani_six_5;Lobetani Six;Lobetani Six;Lobetani Six;;Lobetani Six;;;;;;;;;x
+b_lobetani_six_5_adj;Lobetani Sixian;;Lobetani Sixer;;;;;;;;;;;x
+b_lobetani_six_6;Lobetani Six;Lobetani Six;Lobetani Six;;Lobetani Six;;;;;;;;;x
+b_lobetani_six_6_adj;Lobetani Sixian;;Lobetani Sixer;;;;;;;;;;;x
+b_lobetani_six_7;Lobetani Six;Lobetani Six;Lobetani Six;;Lobetani Six;;;;;;;;;x
+b_lobetani_six_7_adj;Lobetani Sixian;;Lobetani Sixer;;;;;;;;;;;x
+b_lobetani_three;Lobetani Three;Lobetani Three;Lobetani Three;;Lobetani Three;;;;;;;;;x
+b_lobetani_three_adj;Lobetani Threean;;Lobetani Threr;;;;;;;;;;;x
+b_lobetani_three_2;Lobetani Three;Lobetani Three;Lobetani Three;;Lobetani Three;;;;;;;;;x
+b_lobetani_three_2_adj;Lobetani Threean;;Lobetani Threr;;;;;;;;;;;x
+b_lobetani_three_3;Lobetani Three;Lobetani Three;Lobetani Three;;Lobetani Three;;;;;;;;;x
+b_lobetani_three_3_adj;Lobetani Threean;;Lobetani Threr;;;;;;;;;;;x
+b_lobetani_three_4;Lobetani Three;Lobetani Three;Lobetani Three;;Lobetani Three;;;;;;;;;x
+b_lobetani_three_4_adj;Lobetani Threean;;Lobetani Threr;;;;;;;;;;;x
+b_lobetani_three_5;Lobetani Three;Lobetani Three;Lobetani Three;;Lobetani Three;;;;;;;;;x
+b_lobetani_three_5_adj;Lobetani Threean;;Lobetani Threr;;;;;;;;;;;x
+b_lobetani_three_6;Lobetani Three;Lobetani Three;Lobetani Three;;Lobetani Three;;;;;;;;;x
+b_lobetani_three_6_adj;Lobetani Threean;;Lobetani Threr;;;;;;;;;;;x
+b_lobetani_three_7;Lobetani Three;Lobetani Three;Lobetani Three;;Lobetani Three;;;;;;;;;x
+b_lobetani_three_7_adj;Lobetani Threean;;Lobetani Threr;;;;;;;;;;;x
+b_lobetani_two;Lobetani Two;Lobetani Two;Lobetani Two;;Lobetani Two;;;;;;;;;x
+b_lobetani_two_adj;Lobetani Twian;;Lobetani Twer;;;;;;;;;;;x
+b_lobetani_two_2;Lobetani Two;Lobetani Two;Lobetani Two;;Lobetani Two;;;;;;;;;x
+b_lobetani_two_2_adj;Lobetani Twian;;Lobetani Twer;;;;;;;;;;;x
+b_lobetani_two_3;Lobetani Two;Lobetani Two;Lobetani Two;;Lobetani Two;;;;;;;;;x
+b_lobetani_two_3_adj;Lobetani Twian;;Lobetani Twer;;;;;;;;;;;x
+b_lobetani_two_4;Lobetani Two;Lobetani Two;Lobetani Two;;Lobetani Two;;;;;;;;;x
+b_lobetani_two_4_adj;Lobetani Twian;;Lobetani Twer;;;;;;;;;;;x
+b_lobetani_two_5;Lobetani Two;Lobetani Two;Lobetani Two;;Lobetani Two;;;;;;;;;x
+b_lobetani_two_5_adj;Lobetani Twian;;Lobetani Twer;;;;;;;;;;;x
+b_lobetani_two_6;Lobetani Two;Lobetani Two;Lobetani Two;;Lobetani Two;;;;;;;;;x
+b_lobetani_two_6_adj;Lobetani Twian;;Lobetani Twer;;;;;;;;;;;x
+b_lobetani_two_7;Lobetani Two;Lobetani Two;Lobetani Two;;Lobetani Two;;;;;;;;;x
+b_lobetani_two_7_adj;Lobetani Twian;;Lobetani Twer;;;;;;;;;;;x
 b_locoteiacus;Locoteiacus;Locoteiacus;Locoteiacus;;Locoteiacus;;;;;;;;;x
 b_locoteiacus_adj;Locoteiacusian;;locoteiacuser;;;;;;;;;;;x
 b_locoteiacus_2;Locoteiacus;Locoteiacus;Locoteiacus;;Locoteiacus;;;;;;;;;x
@@ -6303,14 +6805,6 @@ b_placeholder_3;Placeholder;Placeholder;Placeholder;;Placeholder;;;;;;;;;x
 b_placeholder_3_adj;Placeholderian;;placeholderer;;;;;;;;;;;x
 b_placeholder_4;Placeholder;Placeholder;Placeholder;;Placeholder;;;;;;;;;x
 b_placeholder_4_adj;Placeholderian;;placeholderer;;;;;;;;;;;x
-b_placeholder_5;Placeholder;Placeholder;Placeholder;;Placeholder;;;;;;;;;x
-b_placeholder_5_adj;Placeholderian;;placeholderer;;;;;;;;;;;x
-b_placeholder_6;Placeholder;Placeholder;Placeholder;;Placeholder;;;;;;;;;x
-b_placeholder_6_adj;Placeholderian;;placeholderer;;;;;;;;;;;x
-b_placeholder_7;Placeholder;Placeholder;Placeholder;;Placeholder;;;;;;;;;x
-b_placeholder_7_adj;Placeholderian;;placeholderer;;;;;;;;;;;x
-b_placeholder_8;Placeholder;Placeholder;Placeholder;;Placeholder;;;;;;;;;x
-b_placeholder_8_adj;Placeholderian;;placeholderer;;;;;;;;;;;x
 b_pocrinium;Pocrinium;Pocrinium;Pocrinium;;Pocrinium;;;;;;;;;x
 b_pocrinium_adj;Pocriniumian;;pocriniumer;;;;;;;;;;;x
 b_pocrinium_2;Pocrinium;Pocrinium;Pocrinium;;Pocrinium;;;;;;;;;x

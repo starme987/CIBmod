@@ -1,0 +1,21 @@
+# c_east_oretani_eight
+
+# County Title
+title = c_east_oretani_eight
+
+# Settlements
+max_settlements = 3
+
+b_east_oretani_eight = castle
+#b_east_oretani_eight_2 = city
+#b_east_oretani_eight_3 = temple
+#b_east_oretani_eight_4 = castle
+#b_east_oretani_eight_5 = city
+#b_east_oretani_eight_6 = temple
+#b_east_oretani_eight_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

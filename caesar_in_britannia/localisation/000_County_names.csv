@@ -87,6 +87,10 @@ c_ardotalia;Ardotalia;Ardotalia;Ardotalia;;Ardotalia;;;;;;;;;x
 c_ardotalia_adj;Ardotalian;;ardotaler;;;;;;;;;;;x
 c_arevaci;Arevaci;Arevaci;Arevaci;;Arevaci;;;;;;;;;x
 c_arevaci_adj;Arevacian;;arevacer;;;;;;;;;;;x
+c_arevaci_one;Arevaci One;Arevaci One;Arevaci One;;Arevaci One;;;;;;;;;x
+c_arevaci_one_adj;Arevaci Onean;;Arevaci Oner;;;;;;;;;;;x
+c_arevaci_two;Arevaci Two;Arevaci Two;Arevaci Two;;Arevaci Two;;;;;;;;;x
+c_arevaci_two_adj;Arevaci Twian;;Arevaci Twer;;;;;;;;;;;x
 c_argentomagus;Argentomagus;Argentomagus;Argentomagus;;Argentomagus;;;;;;;;;x
 c_argentomagus_adj;Argentomagusian;;argentomaguser;;;;;;;;;;;x
 c_argentorate;Argentorate;Argentorate;Argentorate;;Argentorate;;;;;;;;;x
@@ -179,6 +183,26 @@ c_baris;Baris;Baris;Baris;;Baris;;;;;;;;;x
 c_baris_adj;Barisian;;bariser;;;;;;;;;;;x
 c_bastetani;Bastetani;Bastetani;Bastetani;;Bastetani;;;;;;;;;x
 c_bastetani_adj;Bastetanian;;bastetaner;;;;;;;;;;;x
+c_bastetani_eight;Bastetani Eight;Bastetani Eight;Bastetani Eight;;Bastetani Eight;;;;;;;;;x
+c_bastetani_eight_adj;Bastetani Eightian;;Bastetani Eighter;;;;;;;;;;;x
+c_bastetani_eleven;Bastetani Eleven;Bastetani Eleven;Bastetani Eleven;;Bastetani Eleven;;;;;;;;;x
+c_bastetani_eleven_adj;Bastetani Elevenian;;Bastetani Elevener;;;;;;;;;;;x
+c_bastetani_five;Bastetani Five;Bastetani Five;Bastetani Five;;Bastetani Five;;;;;;;;;x
+c_bastetani_five_adj;Bastetani Fivean;;Bastetani Fiver;;;;;;;;;;;x
+c_bastetani_four;Bastetani Four;Bastetani Four;Bastetani Four;;Bastetani Four;;;;;;;;;x
+c_bastetani_four_adj;Bastetani Fourian;;Bastetani Fourer;;;;;;;;;;;x
+c_bastetani_one;Bastetani One;Bastetani One;Bastetani One;;Bastetani One;;;;;;;;;x
+c_bastetani_one_adj;Bastetani Onean;;Bastetani Oner;;;;;;;;;;;x
+c_bastetani_seven;Bastetani Seven;Bastetani Seven;Bastetani Seven;;Bastetani Seven;;;;;;;;;x
+c_bastetani_seven_adj;Bastetani Sevenian;;Bastetani Sevener;;;;;;;;;;;x
+c_bastetani_six;Bastetani Six;Bastetani Six;Bastetani Six;;Bastetani Six;;;;;;;;;x
+c_bastetani_six_adj;Bastetani Sixian;;Bastetani Sixer;;;;;;;;;;;x
+c_bastetani_ten;Bastetani Ten;Bastetani Ten;Bastetani Ten;;Bastetani Ten;;;;;;;;;x
+c_bastetani_ten_adj;Bastetani Tenian;;Bastetani Tener;;;;;;;;;;;x
+c_bastetani_three;Bastetani Three;Bastetani Three;Bastetani Three;;Bastetani Three;;;;;;;;;x
+c_bastetani_three_adj;Bastetani Threean;;Bastetani Threr;;;;;;;;;;;x
+c_bastetani_two;Bastetani Two;Bastetani Two;Bastetani Two;;Bastetani Two;;;;;;;;;x
+c_bastetani_two_adj;Bastetani Twian;;Bastetani Twer;;;;;;;;;;;x
 c_becciacum;Becciacum;Becciacum;Becciacum;;Becciacum;;;;;;;;;x
 c_becciacum_adj;Becciacumian;;becciacumer;;;;;;;;;;;x
 c_belsinum;Belsinum;Belsinum;Belsinum;;Belsinum;;;;;;;;;x
@@ -407,6 +431,18 @@ c_consoranni;Consoranni;Consoranni;Consoranni;;Consoranni;;;;;;;;;x
 c_consoranni_adj;Consorannian;;consoranner;;;;;;;;;;;x
 c_contestani;Contestani;Contestani;Contestani;;Contestani;;;;;;;;;x
 c_contestani_adj;Contestanian;;contestaner;;;;;;;;;;;x
+c_contestani_five;Contestani Five;Contestani Five;Contestani Five;;Contestani Five;;;;;;;;;x
+c_contestani_five_adj;Contestani Fivean;;Contestani Fiver;;;;;;;;;;;x
+c_contestani_four;Contestani Four;Contestani Four;Contestani Four;;Contestani Four;;;;;;;;;x
+c_contestani_four_adj;Contestani Fourian;;Contestani Fourer;;;;;;;;;;;x
+c_contestani_one;Contestani One;Contestani One;Contestani One;;Contestani One;;;;;;;;;x
+c_contestani_one_adj;Contestani Onean;;Contestani Oner;;;;;;;;;;;x
+c_contestani_six;Contestani Six;Contestani Six;Contestani Six;;Contestani Six;;;;;;;;;x
+c_contestani_six_adj;Contestani Sixian;;Contestani Sixer;;;;;;;;;;;x
+c_contestani_three;Contestani Three;Contestani Three;Contestani Three;;Contestani Three;;;;;;;;;x
+c_contestani_three_adj;Contestani Threean;;Contestani Threr;;;;;;;;;;;x
+c_contestani_two;Contestani Two;Contestani Two;Contestani Two;;Contestani Two;;;;;;;;;x
+c_contestani_two_adj;Contestani Twian;;Contestani Twer;;;;;;;;;;;x
 c_corterate;Corterate;Corterate;Corterate;;Corterate;;;;;;;;;x
 c_corterate_adj;Corteratean;;corterater;;;;;;;;;;;x
 c_cosedia;Cosedia;Cosedia;Cosedia;;Cosedia;;;;;;;;;x
@@ -479,8 +515,26 @@ c_durovernum;Durovernum;Durovernum;Durovernum;;Durovernum;;;;;;;;;x
 c_durovernum_adj;Durovernumian;;durovernumer;;;;;;;;;;;x
 c_east_oretani;East Oretani;East Oretani;East Oretani;;East Oretani;;;;;;;;;x
 c_east_oretani_adj;East Oretanian;;East Oretaner;;;;;;;;;;;x
+c_east_oretani_eight;East Oretani Eight;East Oretani Eight;East Oretani Eight;;East Oretani Eight;;;;;;;;;x
+c_east_oretani_eight_adj;East Oretani Eightian;;East Oretani Eighter;;;;;;;;;;;x
+c_east_oretani_eleven;East Oretani Eleven;East Oretani Eleven;East Oretani Eleven;;East Oretani Eleven;;;;;;;;;x
+c_east_oretani_eleven_adj;East Oretani Elevenian;;East Oretani Elevener;;;;;;;;;;;x
+c_east_oretani_five;East Oretani Five;East Oretani Five;East Oretani Five;;East Oretani Five;;;;;;;;;x
+c_east_oretani_five_adj;East Oretani Fivean;;East Oretani Fiver;;;;;;;;;;;x
+c_east_oretani_four;East Oretani Four;East Oretani Four;East Oretani Four;;East Oretani Four;;;;;;;;;x
+c_east_oretani_four_adj;East Oretani Fourian;;East Oretani Fourer;;;;;;;;;;;x
+c_east_oretani_nine;East Oretani Nine;East Oretani Nine;East Oretani Nine;;East Oretani Nine;;;;;;;;;x
+c_east_oretani_nine_adj;East Oretani Ninean;;East Oretani Niner;;;;;;;;;;;x
 c_east_oretani_one;East Oretani One;East Oretani One;East Oretani One;;East Oretani One;;;;;;;;;x
 c_east_oretani_one_adj;East Oretani Onean;;East Oretani Oner;;;;;;;;;;;x
+c_east_oretani_seven;East Oretani Seven;East Oretani Seven;East Oretani Seven;;East Oretani Seven;;;;;;;;;x
+c_east_oretani_seven_adj;East Oretani Sevenian;;East Oretani Sevener;;;;;;;;;;;x
+c_east_oretani_six;East Oretani Six;East Oretani Six;East Oretani Six;;East Oretani Six;;;;;;;;;x
+c_east_oretani_six_adj;East Oretani Sixian;;East Oretani Sixer;;;;;;;;;;;x
+c_east_oretani_ten;East Oretani Ten;East Oretani Ten;East Oretani Ten;;East Oretani Ten;;;;;;;;;x
+c_east_oretani_ten_adj;East Oretani Tenian;;East Oretani Tener;;;;;;;;;;;x
+c_east_oretani_three;East Oretani Three;East Oretani Three;East Oretani Three;;East Oretani Three;;;;;;;;;x
+c_east_oretani_three_adj;East Oretani Threean;;East Oretani Threr;;;;;;;;;;;x
 c_east_oretani_two;East Oretani Two;East Oretani Two;East Oretani Two;;East Oretani Two;;;;;;;;;x
 c_east_oretani_two_adj;East Oretani Twian;;East Oretani Twer;;;;;;;;;;;x
 c_ebora;Ebora;Ebora;Ebora;;Ebora;;;;;;;;;x
@@ -707,6 +761,18 @@ c_littamum;Littamum;Littamum;Littamum;;Littamum;;;;;;;;;x
 c_littamum_adj;Littamumian;;littamumer;;;;;;;;;;;x
 c_lobetani;Lobetani;Lobetani;Lobetani;;Lobetani;;;;;;;;;x
 c_lobetani_adj;Lobetanian;;lobetaner;;;;;;;;;;;x
+c_lobetani_five;Lobetani Five;Lobetani Five;Lobetani Five;;Lobetani Five;;;;;;;;;x
+c_lobetani_five_adj;Lobetani Fivean;;Lobetani Fiver;;;;;;;;;;;x
+c_lobetani_four;Lobetani Four;Lobetani Four;Lobetani Four;;Lobetani Four;;;;;;;;;x
+c_lobetani_four_adj;Lobetani Fourian;;Lobetani Fourer;;;;;;;;;;;x
+c_lobetani_one;Lobetani One;Lobetani One;Lobetani One;;Lobetani One;;;;;;;;;x
+c_lobetani_one_adj;Lobetani Onean;;Lobetani Oner;;;;;;;;;;;x
+c_lobetani_six;Lobetani Six;Lobetani Six;Lobetani Six;;Lobetani Six;;;;;;;;;x
+c_lobetani_six_adj;Lobetani Sixian;;Lobetani Sixer;;;;;;;;;;;x
+c_lobetani_three;Lobetani Three;Lobetani Three;Lobetani Three;;Lobetani Three;;;;;;;;;x
+c_lobetani_three_adj;Lobetani Threean;;Lobetani Threr;;;;;;;;;;;x
+c_lobetani_two;Lobetani Two;Lobetani Two;Lobetani Two;;Lobetani Two;;;;;;;;;x
+c_lobetani_two_adj;Lobetani Twian;;Lobetani Twer;;;;;;;;;;;x
 c_locoteiacus;Locoteiacus;Locoteiacus;Locoteiacus;;Locoteiacus;;;;;;;;;x
 c_locoteiacus_adj;Locoteiacusian;;locoteiacuser;;;;;;;;;;;x
 c_locus_maponi;Locus Maponi;Locus Maponi;Locus Maponi;;Locus Maponi;;;;;;;;;x

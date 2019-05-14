@@ -1,0 +1,21 @@
+# c_lobetani_three
+
+# County Title
+title = c_lobetani_three
+
+# Settlements
+max_settlements = 3
+
+b_lobetani_three = castle
+#b_lobetani_three_2 = city
+#b_lobetani_three_3 = temple
+#b_lobetani_three_4 = castle
+#b_lobetani_three_5 = city
+#b_lobetani_three_6 = temple
+#b_lobetani_three_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

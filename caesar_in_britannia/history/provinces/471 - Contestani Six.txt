@@ -1,0 +1,21 @@
+# c_contestani_six
+
+# County Title
+title = c_contestani_six
+
+# Settlements
+max_settlements = 3
+
+b_contestani_six = castle
+#b_contestani_six_2 = city
+#b_contestani_six_3 = temple
+#b_contestani_six_4 = castle
+#b_contestani_six_5 = city
+#b_contestani_six_6 = temple
+#b_contestani_six_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History
