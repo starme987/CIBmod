@@ -1,0 +1,21 @@
+# c_caristii_five
+
+# County Title
+title = c_caristii_five
+
+# Settlements
+max_settlements = 3
+
+b_caristii_five = castle
+#b_caristii_five_2 = city
+#b_caristii_five_3 = temple
+#b_caristii_five_4 = castle
+#b_caristii_five_5 = city
+#b_caristii_five_6 = temple
+#b_caristii_five_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

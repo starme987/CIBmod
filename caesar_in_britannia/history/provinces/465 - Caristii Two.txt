@@ -1,0 +1,21 @@
+# c_caristii_two
+
+# County Title
+title = c_caristii_two
+
+# Settlements
+max_settlements = 3
+
+b_caristii_two = castle
+#b_caristii_two_2 = city
+#b_caristii_two_3 = temple
+#b_caristii_two_4 = castle
+#b_caristii_two_5 = city
+#b_caristii_two_6 = temple
+#b_caristii_two_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

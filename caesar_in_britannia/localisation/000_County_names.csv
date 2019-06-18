@@ -87,8 +87,16 @@ c_ardotalia;Ardotalia;Ardotalia;Ardotalia;;Ardotalia;;;;;;;;;x
 c_ardotalia_adj;Ardotalian;;ardotaler;;;;;;;;;;;x
 c_arevaci;Arevaci;Arevaci;Arevaci;;Arevaci;;;;;;;;;x
 c_arevaci_adj;Arevacian;;arevacer;;;;;;;;;;;x
+c_arevaci_five;Arevaci Five;Arevaci Five;Arevaci Five;;Arevaci Five;;;;;;;;;x
+c_arevaci_five_adj;Arevaci Fivean;;Arevaci Fiver;;;;;;;;;;;x
+c_arevaci_four;Arevaci Four;Arevaci Four;Arevaci Four;;Arevaci Four;;;;;;;;;x
+c_arevaci_four_adj;Arevaci Fourian;;Arevaci Fourer;;;;;;;;;;;x
 c_arevaci_one;Arevaci One;Arevaci One;Arevaci One;;Arevaci One;;;;;;;;;x
 c_arevaci_one_adj;Arevaci Onean;;Arevaci Oner;;;;;;;;;;;x
+c_arevaci_six;Arevaci Six;Arevaci Six;Arevaci Six;;Arevaci Six;;;;;;;;;x
+c_arevaci_six_adj;Arevaci Sixian;;Arevaci Sixer;;;;;;;;;;;x
+c_arevaci_three;Arevaci Three;Arevaci Three;Arevaci Three;;Arevaci Three;;;;;;;;;x
+c_arevaci_three_adj;Arevaci Threean;;Arevaci Threr;;;;;;;;;;;x
 c_arevaci_two;Arevaci Two;Arevaci Two;Arevaci Two;;Arevaci Two;;;;;;;;;x
 c_arevaci_two_adj;Arevaci Twian;;Arevaci Twer;;;;;;;;;;;x
 c_argentomagus;Argentomagus;Argentomagus;Argentomagus;;Argentomagus;;;;;;;;;x
@@ -191,6 +199,8 @@ c_bastetani_five;Bastetani Five;Bastetani Five;Bastetani Five;;Bastetani Five;;;
 c_bastetani_five_adj;Bastetani Fivean;;Bastetani Fiver;;;;;;;;;;;x
 c_bastetani_four;Bastetani Four;Bastetani Four;Bastetani Four;;Bastetani Four;;;;;;;;;x
 c_bastetani_four_adj;Bastetani Fourian;;Bastetani Fourer;;;;;;;;;;;x
+c_bastetani_nine;Bastetani Nine;Bastetani Nine;Bastetani Nine;;Bastetani Nine;;;;;;;;;x
+c_bastetani_nine_adj;Bastetani Ninean;;Bastetani Niner;;;;;;;;;;;x
 c_bastetani_one;Bastetani One;Bastetani One;Bastetani One;;Bastetani One;;;;;;;;;x
 c_bastetani_one_adj;Bastetani Onean;;Bastetani Oner;;;;;;;;;;;x
 c_bastetani_seven;Bastetani Seven;Bastetani Seven;Bastetani Seven;;Bastetani Seven;;;;;;;;;x
@@ -323,6 +333,22 @@ c_carcovas;Carcovas;Carcovas;Carcovas;;Carcovas;;;;;;;;;x
 c_carcovas_adj;Carcovasian;;carcovaser;;;;;;;;;;;x
 c_caristii;Caristii;Caristii;Caristii;;Caristii;;;;;;;;;x
 c_caristii_adj;Caristian;;carister;;;;;;;;;;;x
+c_caristii_eight;Caristii Eight;Caristii Eight;Caristii Eight;;Caristii Eight;;;;;;;;;x
+c_caristii_eight_adj;Caristii Eightian;;Caristii Eighter;;;;;;;;;;;x
+c_caristii_five;Caristii Five;Caristii Five;Caristii Five;;Caristii Five;;;;;;;;;x
+c_caristii_five_adj;Caristii Fivean;;Caristii Fiver;;;;;;;;;;;x
+c_caristii_four;Caristii Four;Caristii Four;Caristii Four;;Caristii Four;;;;;;;;;x
+c_caristii_four_adj;Caristii Fourian;;Caristii Fourer;;;;;;;;;;;x
+c_caristii_one;Caristii One;Caristii One;Caristii One;;Caristii One;;;;;;;;;x
+c_caristii_one_adj;Caristii Onean;;Caristii Oner;;;;;;;;;;;x
+c_caristii_seven;Caristii Seven;Caristii Seven;Caristii Seven;;Caristii Seven;;;;;;;;;x
+c_caristii_seven_adj;Caristii Sevenian;;Caristii Sevener;;;;;;;;;;;x
+c_caristii_six;Caristii Six;Caristii Six;Caristii Six;;Caristii Six;;;;;;;;;x
+c_caristii_six_adj;Caristii Sixian;;Caristii Sixer;;;;;;;;;;;x
+c_caristii_three;Caristii Three;Caristii Three;Caristii Three;;Caristii Three;;;;;;;;;x
+c_caristii_three_adj;Caristii Threean;;Caristii Threr;;;;;;;;;;;x
+c_caristii_two;Caristii Two;Caristii Two;Caristii Two;;Caristii Two;;;;;;;;;x
+c_caristii_two_adj;Caristii Twian;;Caristii Twer;;;;;;;;;;;x
 c_carpetani;Carpetani;Carpetani;Carpetani;;Carpetani;;;;;;;;;x
 c_carpetani_adj;Carpetanian;;carpetaner;;;;;;;;;;;x
 c_carpetani_eight;Carpetani Eight;Carpetani Eight;Carpetani Eight;;Carpetani Eight;;;;;;;;;x
@@ -545,6 +571,16 @@ c_ebusus;Ebusus;Ebusus;Ebusus;;Ebusus;;;;;;;;;x
 c_ebusus_adj;Ebususian;;ebususer;;;;;;;;;;;x
 c_edetani;Edetani;Edetani;Edetani;;Edetani;;;;;;;;;x
 c_edetani_adj;Edetanian;;edetaner;;;;;;;;;;;x
+c_edetani_five;Edetani Five;Edetani Five;Edetani Five;;Edetani Five;;;;;;;;;x
+c_edetani_five_adj;Edetani Fivean;;Edetani Fiver;;;;;;;;;;;x
+c_edetani_four;Edetani Four;Edetani Four;Edetani Four;;Edetani Four;;;;;;;;;x
+c_edetani_four_adj;Edetani Fourian;;Edetani Fourer;;;;;;;;;;;x
+c_edetani_one;Edetani One;Edetani One;Edetani One;;Edetani One;;;;;;;;;x
+c_edetani_one_adj;Edetani Onean;;Edetani Oner;;;;;;;;;;;x
+c_edetani_three;Edetani Three;Edetani Three;Edetani Three;;Edetani Three;;;;;;;;;x
+c_edetani_three_adj;Edetani Threean;;Edetani Threr;;;;;;;;;;;x
+c_edetani_two;Edetani Two;Edetani Two;Edetani Two;;Edetani Two;;;;;;;;;x
+c_edetani_two_adj;Edetani Twian;;Edetani Twer;;;;;;;;;;;x
 c_elbocoris;Elbocoris;Elbocoris;Elbocoris;;Elbocoris;;;;;;;;;x
 c_elbocoris_adj;Elbocorisian;;elbocoriser;;;;;;;;;;;x
 c_eldana;Eldana;Eldana;Eldana;;Eldana;;;;;;;;;x
