@@ -1,0 +1,21 @@
+# c_oretani_three
+
+# County Title
+title = c_oretani_three
+
+# Settlements
+max_settlements = 3
+
+b_oretani_22 = castle
+#b_oretani_23 = city
+#b_oretani_24 = temple
+#b_oretani_25 = castle
+#b_oretani_26 = city
+#b_oretani_27 = temple
+#b_oretani_28 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

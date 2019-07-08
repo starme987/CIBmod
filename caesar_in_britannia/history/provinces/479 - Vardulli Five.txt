@@ -1,0 +1,21 @@
+# c_vardulli_five
+
+# County Title
+title = c_vardulli_five
+
+# Settlements
+max_settlements = 3
+
+b_vardulli_five = castle
+#b_vardulli_five_2 = city
+#b_vardulli_five_3 = temple
+#b_vardulli_five_4 = castle
+#b_vardulli_five_5 = city
+#b_vardulli_five_6 = temple
+#b_vardulli_five_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

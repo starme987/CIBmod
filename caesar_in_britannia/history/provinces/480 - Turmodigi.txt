@@ -1,0 +1,21 @@
+# c_turmodigi
+
+# County Title
+title = c_turmodigi
+
+# Settlements
+max_settlements = 4
+
+b_turmodigi = castle
+#b_turmodigi_2 = city
+#b_turmodigi_3 = temple
+#b_turmodigi_4 = castle
+#b_turmodigi_5 = city
+#b_turmodigi_6 = temple
+#b_turmodigi_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

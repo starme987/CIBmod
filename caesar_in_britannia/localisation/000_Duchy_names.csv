@@ -103,8 +103,6 @@ d_dumnonii;Dumnonii;Dumnonii;Dumnonii;;Dumnonii;;;;;;;;;x
 d_dumnonii_adj;Dumnonian;;dumnoner;;;;;;;;;;;x
 d_durotriges;Durotriges;Durotriges;Durotriges;;Durotriges;;;;;;;;;x
 d_durotriges_adj;Durotrigesian;;durotrigeser;;;;;;;;;;;x
-d_east_oretani;East Oretani;East Oretani;East Oretani;;East Oretani;;;;;;;;;x
-d_east_oretani_adj;East Oretanian;;East Oretaner;;;;;;;;;;;x
 d_eburones;Eburones;Eburones;Eburones;;Eburones;;;;;;;;;x
 d_eburones_adj;Eburonesian;;eburoneser;;;;;;;;;;;x
 d_ebusus;Ebusus;Ebusus;Ebusus;;Ebusus;;;;;;;;;x
@@ -177,10 +175,14 @@ d_nervii;Nervii;Nervii;Nervii;;Nervii;;;;;;;;;x
 d_nervii_adj;Nervian;;nerver;;;;;;;;;;;x
 d_novantae;Novantae;Novantae;Novantae;;Novantae;;;;;;;;;x
 d_novantae_adj;Novantaean;;novanter;;;;;;;;;;;x
+d_olcades;Olcades;Olcades;Olcades;;Olcades;;;;;;;;;x
+d_olcades_adj;Olcadesian;;olcadeser;;;;;;;;;;;x
 d_oppidani;Oppidani;Oppidani;Oppidani;;Oppidani;;;;;;;;;x
 d_oppidani_adj;Oppidanian;;oppidaner;;;;;;;;;;;x
 d_ordovices;Ordovices;Ordovices;Ordovices;;Ordovices;;;;;;;;;x
 d_ordovices_adj;Ordovicesian;;ordoviceser;;;;;;;;;;;x
+d_oretani;Oretani;Oretani;Oretani;;Oretani;;;;;;;;;x
+d_oretani_adj;Oretanian;;oretaner;;;;;;;;;;;x
 d_osismii;Osismii;Osismii;Osismii;;Osismii;;;;;;;;;x
 d_osismii_adj;Osismian;;osismer;;;;;;;;;;;x
 d_paesuri;Paesuri;Paesuri;Paesuri;;Paesuri;;;;;;;;;x
@@ -273,5 +275,3 @@ d_volcae;Volcae;Volcae;Volcae;;Volcae;;;;;;;;;x
 d_volcae_adj;Volcaean;;volcer;;;;;;;;;;;x
 d_votadini;Votadini;Votadini;Votadini;;Votadini;;;;;;;;;x
 d_votadini_adj;Votadinian;;votadiner;;;;;;;;;;;x
-d_west_oretani;West Oretani;West Oretani;West Oretani;;West Oretani;;;;;;;;;x
-d_west_oretani_adj;West Oretanian;;West Oretaner;;;;;;;;;;;x

@@ -1,0 +1,21 @@
+# c_sedetani_five
+
+# County Title
+title = c_sedetani_five
+
+# Settlements
+max_settlements = 3
+
+b_sedetani_five = castle
+#b_sedetani_five_2 = city
+#b_sedetani_five_3 = temple
+#b_sedetani_five_4 = castle
+#b_sedetani_five_5 = city
+#b_sedetani_five_6 = temple
+#b_sedetani_five_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

@@ -1,0 +1,63 @@
+#IBERIA
+technology = {
+	titles = {
+		d_arevaci
+		d_artabri
+		d_astures
+		d_baedunenses
+		d_baetica
+		d_baleares
+		d_bastetani
+		d_berones
+		d_bletonesii
+		d_bracari
+		d_calontienses
+		d_cantabri
+		d_caristii
+		d_carpetani
+		d_celtici
+		d_ceretani
+		d_cessetani
+		d_cibarci
+		d_contestani
+		d_cunetes
+		d_ebusus
+		d_edetani
+		d_elbestoi
+		d_elbocori
+		d_emporion
+		d_gallaeci
+		d_germanii
+		d_iacetani
+		d_ilercavones
+		d_illergetae
+		d_indigetes
+		d_lanciences
+		d_lemavi
+		d_lobetani
+		d_mirobrigenses
+		d_olcades
+		d_oppidani
+		d_oretani
+		d_paesuri
+		d_sedetani
+		d_tapori
+		d_turdetani
+		d_turduli
+		d_turmodigi
+		d_vaccaei
+		d_vardulli
+		d_veteres
+		d_vettones
+	}
+	500 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+	2018 = {
+		military = 8.0
+		economy = 8.0
+		culture = 8.0
+	}
+}

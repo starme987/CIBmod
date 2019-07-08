@@ -1,0 +1,21 @@
+# c_ebusus_one
+
+# County Title
+title = c_ebusus_one
+
+# Settlements
+max_settlements = 3
+
+b_ebusus_one = castle
+#b_ebusus_one_2 = city
+#b_ebusus_one_3 = temple
+#b_ebusus_one_4 = castle
+#b_ebusus_one_5 = city
+#b_ebusus_one_6 = temple
+#b_ebusus_one_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

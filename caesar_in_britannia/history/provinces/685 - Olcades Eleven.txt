@@ -1,0 +1,21 @@
+# c_olcades_eleven
+
+# County Title
+title = c_olcades_eleven
+
+# Settlements
+max_settlements = 3
+
+b_olcades_71 = castle
+#b_olcades_72 = city
+#b_olcades_73 = temple
+#b_olcades_74 = castle
+#b_olcades_75 = city
+#b_olcades_76 = temple
+#b_olcades_77 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History

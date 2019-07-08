@@ -1,0 +1,21 @@
+# c_ilercavones_five
+
+# County Title
+title = c_ilercavones_five
+
+# Settlements
+max_settlements = 3
+
+b_ilercavones_five = castle
+#b_ilercavones_five_2 = city
+#b_ilercavones_five_3 = temple
+#b_ilercavones_five_4 = castle
+#b_ilercavones_five_5 = city
+#b_ilercavones_five_6 = temple
+#b_ilercavones_five_7 = castle
+
+# Misc
+culture = iberian
+religion = celtic_druidic
+
+#History
